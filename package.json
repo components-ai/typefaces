@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "typefaces",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn build:fonts && yarn build:fonts-list",
+    "build:fonts": "node scripts/build",
+    "build:fonts-list": "node scripts/build-fonts-all",
+    "changeset": "changeset",
+    "release": "yarn build && changeset publish",
+    "version:packages": "yarn changeset version && git add . && git commit -m \"Version Packages\""
+  },
+  "workspaces": ["packages/*"],
+  "dependencies": {
+    "@changesets/cli": "^2.16.0",
+    "@compai/util": "^0.0.24",
+    "mkdirp": "^1.0.4",
+    "opentype.js": "^1.3.3"
+  }
+}

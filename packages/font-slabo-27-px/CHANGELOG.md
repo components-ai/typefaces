@@ -1,0 +1,6 @@
+# @compai/font-slabo-27-px
+
+## 0.0.1
+### Patch Changes
+
+- Hello, world!
