@@ -9,10 +9,12 @@ packages for [three.js](https://threejs.org/) and
 ## Development
 
 Below documents how to install dependencies and run the build scripts. If
-you're looking to use the packages that are already built
+you're looking to use the packages that are already built,
 [check out the docs](https://components.ai/docs/typefaces).
 
 ### Installation
+
+Install dependencies for package generation.
 
 ```sh
 yarn
@@ -48,7 +50,7 @@ yarn release
 
 The following projects were used to aggregate, transform, and curate font data:
 
-- [Typewolf](https://www.typewolf.com/google-fonts)
-- [facetype.js](https://gero3.github.io/facetype.js/)
-- [opentype.js](https://github.com/opentypejs/opentype.js)
-- [google-fonts-complete](https://github.com/jonathantneal/google-fonts-complete)
+- [**Typewolf**](https://www.typewolf.com/google-fonts)
+- [**facetype.js**](https://gero3.github.io/facetype.js/)
+- [**opentype.js**](https://github.com/opentypejs/opentype.js)
+- [**google-fonts-complete**](https://github.com/jonathantneal/google-fonts-complete)
