@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.3
+
+### Patch Changes
+
+- 19cefd8: Add kebab name to data
+
 ## 0.0.2
 
 ### Patch Changes
