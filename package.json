@@ -8,12 +8,10 @@
     "build:fonts": "node scripts/build",
     "build:fonts-list": "node scripts/build-fonts-all",
     "changeset": "changeset",
-    "release": "yarn build && changeset publish",
+    "release": "changeset publish",
     "version:packages": "yarn changeset version && git add . && git commit -m \"Version Packages\""
   },
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": ["packages/*"],
   "dependencies": {
     "@changesets/cli": "^2.16.0",
     "@compai/fonts": "^0.0.6",
