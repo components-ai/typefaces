@@ -3,11 +3,10 @@ const mkdirp = require("mkdirp");
 const opentype = require("opentype.js");
 const { fetch, kebab } = require("@compai/util");
 const { convertGoogleFontToTypeface } = require("@compai/fonts");
-const googleFonts = require("../packages/fonts/src/data/google-fonts.json");
+const googleFonts = require("@compai/fonts/src/data/google-fonts.json");
 
 const convertGoogleFont = async (name) => {
   const fontData = googleFonts[name];
-  console.log(await convertGoogleFontToTypeface(name))
   const variants = Object.keys(fontData.variants);
   const libraryName = `font-${kebab(name)}`;
   await mkdirp(`packages/${libraryName}/data/typefaces`);
