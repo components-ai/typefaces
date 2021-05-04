@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.4
+
+### Patch Changes
+
+- d755b39: Add more urls
+
 ## 0.0.3
 
 ### Patch Changes
