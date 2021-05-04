@@ -1,6 +1,13 @@
 # @compai/fonts-all
 
+## 0.0.2
+
+### Patch Changes
+
+- ad2e0ac: Add api endpoint to font list
+
 ## 0.0.1
+
 ### Patch Changes
 
 - Hello, world!
