@@ -5,13 +5,83 @@ packages for [three.js](https://threejs.org/),
 [react-three-fiber](https://github.com/pmndrs/react-three-fiber),
 and other tools.
 
-[Read the docs &rarr;](https://components.ai/docs/typefaces)
+[**Read the docs &rarr;**](https://components.ai/docs/typefaces)
+
+## Example usage
+
+Below is an example for using [recursive](https://components.ai/docs/typefaces/recursive)
+with react-three-fiber.
+
+### Install a package
+
+```sh
+yarn add @compai/font-recursive
+```
+
+### Use three's FontLoader
+
+```js
+import { useRef, useState, useEffect, Fragment } from "react";
+import { Canvas, useFrame, useThree } from "@react-three/fiber";
+import * as THREE from "three";
+import typefaceData from "@compai/font-recursive/data/typefaces/normal-400.json";
+
+const font = new THREE.FontLoader().parse(typefaceData);
+```
+
+### Create a component
+
+```js
+export const RecursiveText = ({
+  size =  1,
+  height = 0.2,
+  color = "tomato",
+  text,
+  wireframe = false,
+  wireframeLineWidth = 0,
+  ...props
+}) => {
+  const mesh = useRef();
+
+  return (
+    <mesh {...props} ref={mesh}}>
+      <textGeometry args={[text, { font, size, height }]} />
+      <meshStandardMaterial color={color} wireframe={wireframe} wireframeLinewidth={wireframeLinewidth} />
+    </mesh>
+  );
+}
+```
+
+### Use the component
+
+```js
+const Demo = () => {
+  return (
+    <Canvas>
+      <ambientLight color="#fff" intensity={0.5}/>
+      <spotLight position={[10,10,10]} intensity={0.5} color="#d05edb"
+      <ABeeZeeText
+        text="ABeeZee"
+        color="#ff6490"
+        size={1}
+        height={0.2}
+        roughness={1}
+        wireframe={false}
+        wireframeLinewidth={0}
+        position={[0,0,0]}
+      />
+    </Canvas>
+  );
+}
+```
+
+[**Read the full docs &rarr;**](https://components.ai/docs/typefaces)
 
 ## Development
 
 Below documents how to install dependencies and run the build scripts. If
 you're looking to use the packages that are already built,
-[check out the docs](https://components.ai/docs/typefaces).
+[check out the typeface documentation](https://components.ai/docs/typefaces).
 
 ### Installation
 
