@@ -1,8 +1,9 @@
 # [Components AI](https://components.ai) - Typefaces
 
 Collection of [Google Fonts](https://fonts.google.com) typeface
-packages for [three.js](https://threejs.org/) and
-[react-three-fiber](https://github.com/pmndrs/react-three-fiber).
+packages for [three.js](https://threejs.org/),
+[react-three-fiber](https://github.com/pmndrs/react-three-fiber),
+and other tools.
 
 [Read the docs &rarr;](https://components.ai/docs/typefaces)
 
