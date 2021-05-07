@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_Ww.woff",
+    "500": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9A.woff",
+    "600": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9A.woff",
+    "700": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9A.woff",
+    "800": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9A.woff"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdNw.woff",
+    "500": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJc.woff",
+    "600": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJc.woff",
+    "700": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJc.woff",
+    "800": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJc.woff"
+  }
+}

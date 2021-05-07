@@ -1,0 +1,11 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZBaPdkkVVQ&skey=dda01d649f45768a&v=v7#NotoSerifJP",
+    "300": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZHKMdkkVVQ&skey=ee1a211971ba08f8&v=v7#NotoSerifJP",
+    "400": "https://fonts.gstatic.com/l/font?kit=xn7mYHs72GKoTvER4Gn3b5eMbNmuZA&skey=311bf6d07cd0b6c8&v=v7#NotoSerifJP",
+    "500": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZCqNdkkVVQ&skey=bc6d1c6c29518480&v=v7#NotoSerifJP",
+    "600": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZAaKdkkVVQ&skey=f7e765f07dd09617&v=v7#NotoSerifJP",
+    "700": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZGKLdkkVVQ&skey=e27cc7cc5ec54d95&v=v7#NotoSerifJP",
+    "900": "https://fonts.gstatic.com/l/font?kit=xn77YHs72GKoTvER4Gn3b5eMZFqJdkkVVQ&skey=46530a78edc37278&v=v7#NotoSerifJP"
+  }
+}

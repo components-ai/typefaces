@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t040FWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "200": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0Y0BWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "300": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0vUBWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "400": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t040BWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "500": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t00UBWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "600": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0PUdWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "700": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0BEdWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "800": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0Y0dWN3Yq&skey=2161cc604861ac4f&v=v11#Exo",
+    "900": "https://fonts.gstatic.com/l/font?kit=4UafrEtFpBISdmSt-MY2ehbO95t0SkdWN3Yq&skey=2161cc604861ac4f&v=v11#Exo"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2OwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "200": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3OwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "300": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "400": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "500": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3OwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "600": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "700": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "800": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwOwpmPA&skey=863005d54d49b6b0&v=v11#Exo",
+    "900": "https://fonts.gstatic.com/l/font?kit=4UaZrEtFpBI4f1ZSIK9d4LjJ4vowOwpmPA&skey=863005d54d49b6b0&v=v11#Exo"
+  }
+}

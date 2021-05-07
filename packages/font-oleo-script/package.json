@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-oleo-script",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-oleo-script",
+  "homepage": "https://components.ai/docs/typefaces/oleo-script",
+  "license": "MIT"
 }

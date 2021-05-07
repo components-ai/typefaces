@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=DtVnJx26TKEr37c9aBBx_kwFzgo&skey=6a25b82a7382a3a3&v=v8#Sarabun",
+    "200": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxUl0c5yjU&skey=33870260cb7e9c4d&v=v8#Sarabun",
+    "300": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxNl4c5yjU&skey=cb935370eb9575f1&v=v8#Sarabun",
+    "400": "https://fonts.gstatic.com/l/font?kit=DtVhJx26TKEr37c9aBB5k3wO&skey=2bed9c9623cf2439&v=v8#Sarabun",
+    "500": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxbl8c5yjU&skey=e9c588381663f620&v=v8#Sarabun",
+    "600": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxQlgc5yjU&skey=dd2d8872825d795d&v=v8#Sarabun",
+    "700": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxJlkc5yjU&skey=be50e5d11e22404a&v=v8#Sarabun",
+    "800": "https://fonts.gstatic.com/l/font?kit=DtVkJx26TKEr37c9aBBxOloc5yjU&skey=bedb29dc4192c629&v=v8#Sarabun"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=DtVhJx26TKEr37c9YHZ5k3wO&skey=d2f05137c54b6b95&v=v8#Sarabun",
+    "200": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YNpoilUs7A&skey=24cbd9d57a5d95fc&v=v8#Sarabun",
+    "300": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YL5rilUs7A&skey=270e00f08661ddde&v=v8#Sarabun",
+    "400": "https://fonts.gstatic.com/l/font?kit=DtVjJx26TKEr37c9aBtJmA&skey=85fa36ce35adc1df&v=v8#Sarabun",
+    "500": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YOZqilUs7A&skey=1a0056240306a83&v=v8#Sarabun",
+    "600": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YMptilUs7A&skey=e4e77553fdfd3530&v=v8#Sarabun",
+    "700": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YK5silUs7A&skey=6f771d164ab60b3&v=v8#Sarabun",
+    "800": "https://fonts.gstatic.com/l/font?kit=DtVmJx26TKEr37c9YLJvilUs7A&skey=e54c8caf0e52ef43&v=v8#Sarabun"
+  }
+}

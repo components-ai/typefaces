@@ -1,0 +1,12 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oHfRt&skey=f7f986661e20fff0&v=v4#IbarraRealNova",
+    "600": "https://fonts.gstatic.com/l/font?kit=sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gzNB_P8Bg&skey=81882d0666f53ac9&v=v4#IbarraRealNova",
+    "700": "https://fonts.gstatic.com/l/font?kit=sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gqNF_P8Bg&skey=dad2a1f89c8f6324&v=v4#IbarraRealNova"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHVYFg&skey=939207d3bb541ebe&v=v4#IbarraRealNova",
+    "600": "https://fonts.gstatic.com/l/font?kit=sZlYdQiA-DBIDCcaWtQzL4BZHoiDmKR8BN1PNA&skey=202e32670f2844e9&v=v4#IbarraRealNova",
+    "700": "https://fonts.gstatic.com/l/font?kit=sZlYdQiA-DBIDCcaWtQzL4BZHoiDmMB9BN1PNA&skey=535c76f49e84ea2e&v=v4#IbarraRealNova"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_H9AI.woff2",
+    "400": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppiYLo.woff2",
+    "500": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_H9AI.woff2",
+    "600": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_H9AI.woff2",
+    "700": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_H9AI.woff2"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1R5_F.woff2",
+    "400": "https://fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2",
+    "500": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2",
+    "600": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2",
+    "700": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2"
+  }
+}

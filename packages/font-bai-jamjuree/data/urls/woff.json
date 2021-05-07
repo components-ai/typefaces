@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo40yo.woff",
+    "300": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pikao40yo.woff",
+    "400": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIrapSCOBt_aeQQ7ftydoa8W_LHs7k.woff",
+    "500": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo40yo.woff",
+    "600": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o40yo.woff",
+    "700": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo40yo.woff"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0kePempoy.woff",
+    "300": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa09eDempoy.woff",
+    "400": "https://fonts.gstatic.com/s/baijamjuree/v4/LDI1apSCOBt_aeQQ7ftydoa8UMLN.woff",
+    "500": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0reHempoy.woff",
+    "600": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0gebempoy.woff",
+    "700": "https://fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa05efempoy.woff"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-ledger",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-ledger",
+  "homepage": "https://components.ai/docs/typefaces/ledger",
+  "license": "MIT"
 }

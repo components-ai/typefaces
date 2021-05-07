@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12YwtUn0k&skey=30669c460dd81720&v=v10#NoticiaText",
+    "700": "https://fonts.gstatic.com/l/font?kit=VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDI&skey=91633cfc4b65e760&v=v10#NoticiaText"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP12aDtf&skey=ebbf84981792db5&v=v10#NoticiaText",
+    "700": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvX&skey=bea077d1ab0bfaf0&v=v10#NoticiaText"
+  }
+}

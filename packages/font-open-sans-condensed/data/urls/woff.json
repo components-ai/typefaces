@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/opensanscondensed/v15/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8S72T.woff"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuvMQQ.woff",
+    "700": "https://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMQQ.woff"
+  }
+}

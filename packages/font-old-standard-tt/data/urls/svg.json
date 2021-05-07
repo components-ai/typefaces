@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHQ&skey=308f26f9fad19839&v=v13#OldStandardTT"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=MwQubh3o1vLImiwAVvYawgcf2eVepFq_&skey=f1cef4e9ada09fef&v=v13#OldStandardTT",
+    "700": "https://fonts.gstatic.com/l/font?kit=MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZY&skey=1bf619948ec3c1a3&v=v13#OldStandardTT"
+  }
+}

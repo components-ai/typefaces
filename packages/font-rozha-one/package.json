@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-rozha-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-rozha-one",
+  "homepage": "https://components.ai/docs/typefaces/rozha-one",
+  "license": "MIT"
 }

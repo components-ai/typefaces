@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=va9D4kzIxd1KFrBteUp9gKHuQw&skey=6c239fb87b87b201&v=v12#Chivo",
+    "400": "https://fonts.gstatic.com/l/font?kit=va9G4kzIxd1KFrBtce9fkg&skey=e12ecfa8f00983c9&v=v12#Chivo",
+    "700": "https://fonts.gstatic.com/l/font?kit=va9D4kzIxd1KFrBteVp6gKHuQw&skey=25362707696bcc64&v=v12#Chivo",
+    "900": "https://fonts.gstatic.com/l/font?kit=va9D4kzIxd1KFrBteWJ4gKHuQw&skey=b35cb96dc682c776&v=v12#Chivo"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=va9F4kzIxd1KFrjDY_Z2sKo&skey=37766c5054acdb20&v=v12#Chivo",
+    "400": "https://fonts.gstatic.com/l/font?kit=va9I4kzIxd1KFrBmQeQ&skey=c7ef26a9bd28e2ff&v=v12#Chivo",
+    "700": "https://fonts.gstatic.com/l/font?kit=va9F4kzIxd1KFrjTZPZ2sKo&skey=868d630bb558df4c&v=v12#Chivo",
+    "900": "https://fonts.gstatic.com/l/font?kit=va9F4kzIxd1KFrjrZvZ2sKo&skey=17a168c729e0babd&v=v12#Chivo"
+  }
+}

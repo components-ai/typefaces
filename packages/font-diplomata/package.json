@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-diplomata",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-diplomata",
+  "homepage": "https://components.ai/docs/typefaces/diplomata",
+  "license": "MIT"
 }

@@ -5,13 +5,27 @@ const { fetch, kebab } = require("@compai/util");
 const { convertGoogleFontToTypeface } = require("@compai/fonts");
 const googleFonts = require("@compai/fonts/src/data/google-fonts.json");
 
+const addUrl = (obj, { variant, weight, url }) => {
+  const newObj = { ...obj };
+  newObj[variant] = newObj[variant] || {};
+  newObj[variant][weight] = url;
+
+  return newObj;
+};
+
 const convertGoogleFont = async (name) => {
   const fontData = googleFonts[name];
   const variants = Object.keys(fontData.variants);
   const libraryName = `font-${kebab(name)}`;
   await mkdirp(`packages/${libraryName}/data/typefaces`);
+  await mkdirp(`packages/${libraryName}/data/urls`);
 
   fontData.typefaces = {};
+  let eotUrls = {};
+  let ttfUrls = {};
+  let svgUrls = {};
+  let woffUrls = {};
+  let woff2Urls = {};
   for await (variant of variants) {
     const weightsForVariant = Object.keys(fontData.variants[variant]);
     fontData.typefaces[variant] = fontData.typefaces[variant] || {};
@@ -20,6 +34,21 @@ const convertGoogleFont = async (name) => {
       const variantData = fontData.variants[variant][weight];
       const name = variantData.local[0];
       const url = variantData.url.ttf;
+
+      eotUrls = addUrl(eotUrls, { variant, weight, url: variantData.url.eot });
+      ttfUrls = addUrl(ttfUrls, { variant, weight, url: variantData.url.ttf });
+      svgUrls = addUrl(svgUrls, { variant, weight, url: variantData.url.svg });
+      woffUrls = addUrl(woffUrls, {
+        variant,
+        weight,
+        url: variantData.url.woff,
+      });
+      woff2Urls = addUrl(woff2Urls, {
+        variant,
+        weight,
+        url: variantData.url.woff2,
+      });
+
       const fullFontName = [name, variant, weight].join(" ");
 
       const res = await fetch(url);
@@ -36,6 +65,35 @@ const convertGoogleFont = async (name) => {
       );
     }
   }
+
+  fs.writeFileSync(
+    `packages/${libraryName}/data/urls/eot.json`,
+    JSON.stringify(eotUrls, null, 2)
+  );
+  fs.writeFileSync(
+    `packages/${libraryName}/data/urls/ttf.json`,
+    JSON.stringify(ttfUrls, null, 2)
+  );
+  fs.writeFileSync(
+    `packages/${libraryName}/data/urls/svg.json`,
+    JSON.stringify(svgUrls, null, 2)
+  );
+  fs.writeFileSync(
+    `packages/${libraryName}/data/urls/woff.json`,
+    JSON.stringify(woffUrls, null, 2)
+  );
+  fs.writeFileSync(
+    `packages/${libraryName}/data/urls/woff2.json`,
+    JSON.stringify(woff2Urls, null, 2)
+  );
+
+  fs.writeFileSync(
+    `packages/${libraryName}/readme.md`,
+    `# \`@compai/${libraryName}\`
+
+[**Read the docs &rarr;**](https://components.ai/docs/typefaces/${kebab(name)})
+`
+  )
 
   try {
     require(`../packages/${libraryName}/package.json`);

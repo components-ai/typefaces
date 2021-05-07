@@ -1,0 +1,11 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVA.woff",
+    "300": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVA.woff",
+    "400": "https://fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOg.woff",
+    "600": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVA.woff",
+    "700": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVA.woff",
+    "800": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVA.woff",
+    "900": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVA.woff"
+  }
+}

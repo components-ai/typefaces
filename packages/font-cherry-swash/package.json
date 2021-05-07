@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-cherry-swash",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-cherry-swash",
+  "homepage": "https://components.ai/docs/typefaces/cherry-swash",
+  "license": "MIT"
 }

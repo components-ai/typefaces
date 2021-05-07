@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=tDbN2oWUg0MKqSIg75To&skey=2dd72678c3f42e85&v=v14#Arvo",
+    "700": "https://fonts.gstatic.com/l/font?kit=tDbO2oWUg0MKqSIoVLH68dr4&skey=a6e16a2b31a2dc20&v=v14#Arvo"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=tDbD2oWUg0MKqScQ6g&skey=40c49b2c9e3d24ba&v=v14#Arvo",
+    "700": "https://fonts.gstatic.com/l/font?kit=tDbM2oWUg0MKoZw1-LPK9A&skey=32d0e4970a9f038b&v=v14#Arvo"
+  }
+}

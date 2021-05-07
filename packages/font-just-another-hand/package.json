@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-just-another-hand",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-just-another-hand",
+  "homepage": "https://components.ai/docs/typefaces/just-another-hand",
+  "license": "MIT"
 }

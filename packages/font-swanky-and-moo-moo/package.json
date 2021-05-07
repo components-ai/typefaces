@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-swanky-and-moo-moo",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-swanky-and-moo-moo",
+  "homepage": "https://components.ai/docs/typefaces/swanky-and-moo-moo",
+  "license": "MIT"
 }

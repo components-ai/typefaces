@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/unna/v15/AYCKpXzofN0NOpo7l0nG.woff2",
+    "700": "https://fonts.gstatic.com/s/unna/v15/AYCJpXzofN0NOpozLGzTR3Jv.woff2"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/unna/v15/AYCEpXzofN0NOp8LlQ.woff2",
+    "700": "https://fonts.gstatic.com/s/unna/v15/AYCLpXzofN0NMiQugG7jRQ.woff2"
+  }
+}

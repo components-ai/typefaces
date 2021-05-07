@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-kameron",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-kameron",
+  "homepage": "https://components.ai/docs/typefaces/kameron",
+  "license": "MIT"
 }

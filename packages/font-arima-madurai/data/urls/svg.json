@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=t5t4IRoeKYORG0WNMgnC3seB1V3_o7uE&skey=57396a7df9c3908f&v=v6#ArimaMadurai",
+    "200": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeA&skey=95efad7c6d050c6e&v=v6#ArimaMadurai",
+    "300": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeA&skey=818df1b22b4fd8f8&v=v6#ArimaMadurai",
+    "400": "https://fonts.gstatic.com/l/font?kit=t5tmIRoeKYORG0WNMgnC3seB3TDPqA&skey=ff016238820f95ab&v=v6#ArimaMadurai",
+    "500": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1c3supKmeA&skey=7856d3737673f45d&v=v6#ArimaMadurai",
+    "700": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeA&skey=eebd7aa0e29c4843&v=v6#ArimaMadurai",
+    "800": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeA&skey=cea65f0bbc3a4136&v=v6#ArimaMadurai",
+    "900": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeA&skey=7037dcde24f8c607&v=v6#ArimaMadurai"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-yellowtail",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-yellowtail",
+  "homepage": "https://components.ai/docs/typefaces/yellowtail",
+  "license": "MIT"
 }

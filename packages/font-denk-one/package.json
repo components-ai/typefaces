@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-denk-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-denk-one",
+  "homepage": "https://components.ai/docs/typefaces/denk-one",
+  "license": "MIT"
 }

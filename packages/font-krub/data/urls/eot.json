@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAW.eot",
+    "300": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAW.eot",
+    "400": "https://fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFT.eot",
+    "500": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAW.eot",
+    "600": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAW.eot",
+    "700": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAW.eot"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQg.eot",
+    "300": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQg.eot",
+    "400": "https://fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCQ.eot",
+    "500": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQg.eot",
+    "600": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQg.eot",
+    "700": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQg.eot"
+  }
+}

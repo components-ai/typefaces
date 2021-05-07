@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kI.eot",
+    "700": "https://fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBc.eot"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt7.eot",
+    "700": "https://fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MR.eot"
+  }
+}

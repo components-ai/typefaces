@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=J7afnpd8CGxBHpUrhL8Y7A&skey=6f7852bf6f540377&v=v16#Amiri",
+    "700": "https://fonts.gstatic.com/l/font?kit=J7aanpd8CGxBHpUrjAo9_pJqGA&skey=ccca51069e17c5a2&v=v16#Amiri"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHpUgtLQ&skey=159039cc026b7e65&v=v16#Amiri",
+    "700": "https://fonts.gstatic.com/l/font?kit=J7acnpd8CGxBHp2VkaYxzpk&skey=5c9e4d49faf75fc2&v=v16#Amiri"
+  }
+}

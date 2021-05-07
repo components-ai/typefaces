@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-encode-sans-semi-expanded",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-encode-sans-semi-expanded",
+  "homepage": "https://components.ai/docs/typefaces/encode-sans-semi-expanded",
+  "license": "MIT"
 }

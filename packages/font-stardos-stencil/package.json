@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-stardos-stencil",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-stardos-stencil",
+  "homepage": "https://components.ai/docs/typefaces/stardos-stencil",
+  "license": "MIT"
 }

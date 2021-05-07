@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-andika",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-andika",
+  "homepage": "https://components.ai/docs/typefaces/andika",
+  "license": "MIT"
 }

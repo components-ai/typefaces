@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-m-plus-rounded-1-c",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-m-plus-rounded-1-c",
+  "homepage": "https://components.ai/docs/typefaces/m-plus-rounded-1-c",
+  "license": "MIT"
 }

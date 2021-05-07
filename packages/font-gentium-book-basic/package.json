@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-gentium-book-basic",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-gentium-book-basic",
+  "homepage": "https://components.ai/docs/typefaces/gentium-book-basic",
+  "license": "MIT"
 }

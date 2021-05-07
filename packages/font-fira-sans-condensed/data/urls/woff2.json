@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNTVxs.woff2",
+    "200": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEcD5f.woff2",
+    "300": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEcD5f.woff2",
+    "400": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdr-NR.woff2",
+    "500": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVXMBEcD5f.woff2",
+    "600": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEcD5f.woff2",
+    "700": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEcD5f.woff2",
+    "800": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEcD5f.woff2",
+    "900": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVLMREcD5f.woff2"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdr-NR.woff2",
+    "200": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWTnMuMR0cg.woff2",
+    "300": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMR0cg.woff2",
+    "400": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOhEADFm8hSaQTFG18FErVhsC9x-tarUfbtrQ.woff2",
+    "500": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMR0cg.woff2",
+    "600": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMR0cg.woff2",
+    "700": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMR0cg.woff2",
+    "800": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMR0cg.woff2",
+    "900": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMR0cg.woff2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZftVyBN4U.eot",
+    "400": "https://fonts.gstatic.com/s/ubuntu/v15/4iCu6KVjbNBYlgoKej76l00.eot",
+    "500": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejYHtFyBN4U.eot",
+    "700": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZPslyBN4U.eot"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjvmyJ.eot",
+    "400": "https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcQ7y.eot",
+    "500": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvmyJ.eot",
+    "700": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvmyJ.eot"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlIgNCl9eI.ttf",
+    "300": "https://fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUksg9Cl9eI.ttf",
+    "400": "https://fonts.gstatic.com/s/kodchasan/v4/1cX3aUPOAJv9sG4I-DJWjUGJocA.ttf",
+    "500": "https://fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUl0gtCl9eI.ttf",
+    "600": "https://fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlYhdCl9eI.ttf",
+    "700": "https://fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUk8hNCl9eI.ttf"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeR1CQiOCs.ttf",
+    "300": "https://fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeI1OQiOCs.ttf",
+    "400": "https://fonts.gstatic.com/s/kodchasan/v4/1cXxaUPOAJv9sG4I-DJWhnGA.ttf",
+    "500": "https://fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJee1KQiOCs.ttf",
+    "600": "https://fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeV1WQiOCs.ttf",
+    "700": "https://fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeM1SQiOCs.ttf"
+  }
+}

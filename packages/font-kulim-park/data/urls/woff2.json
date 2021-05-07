@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUKa9gZp0r.woff2",
+    "300": "https://fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUTaxgZp0r.woff2",
+    "400": "https://fonts.gstatic.com/s/kulimpark/v2/fdN59secq3hflz1Uu3IwhFwc5o51.woff2",
+    "600": "https://fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUOapgZp0r.woff2",
+    "700": "https://fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUXatgZp0r.woff2"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjJYN8alQZA.woff2",
+    "300": "https://fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjPIO8alQZA.woff2",
+    "400": "https://fonts.gstatic.com/s/kulimpark/v2/fdN79secq3hflz1Uu3IwhFks5A.woff2",
+    "600": "https://fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjIYI8alQZA.woff2",
+    "700": "https://fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjOIJ8alQZA.woff2"
+  }
+}

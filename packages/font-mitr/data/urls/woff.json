@@ -1,0 +1,10 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedA.woff",
+    "300": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedA.woff",
+    "400": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4Nw.woff",
+    "500": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedA.woff",
+    "600": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedA.woff",
+    "700": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedA.woff"
+  }
+}

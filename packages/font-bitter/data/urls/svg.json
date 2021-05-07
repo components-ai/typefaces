@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "200": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "300": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "400": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "500": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "600": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "700": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "800": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+    "900": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "200": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "300": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "400": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "500": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "600": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "700": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "800": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+    "900": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter"
+  }
+}

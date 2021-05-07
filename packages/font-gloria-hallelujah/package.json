@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-gloria-hallelujah",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-gloria-hallelujah",
+  "homepage": "https://components.ai/docs/typefaces/gloria-hallelujah",
+  "license": "MIT"
 }

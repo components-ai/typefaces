@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-suez-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-suez-one",
+  "homepage": "https://components.ai/docs/typefaces/suez-one",
+  "license": "MIT"
 }

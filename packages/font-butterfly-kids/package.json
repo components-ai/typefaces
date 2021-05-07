@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-butterfly-kids",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-butterfly-kids",
+  "homepage": "https://components.ai/docs/typefaces/butterfly-kids",
+  "license": "MIT"
 }

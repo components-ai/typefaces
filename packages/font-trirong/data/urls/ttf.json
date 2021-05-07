@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/trirong/v6/7r3CqXNgp8wxdOdOn44Qub5owuk.ttf",
+    "200": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QFa9x68n_.ttf",
+    "300": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qcaxx68n_.ttf",
+    "400": "https://fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOn44Y1I5h.ttf",
+    "500": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QKa1x68n_.ttf",
+    "600": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QBapx68n_.ttf",
+    "700": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QYatx68n_.ttf",
+    "800": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qfahx68n_.ttf",
+    "900": "https://fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QWalx68n_.ttf"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOl-gY1I5h.ttf",
+    "200": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl0QJzadB4g.ttf",
+    "300": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlyAKzadB4g.ttf",
+    "400": "https://fonts.gstatic.com/s/trirong/v6/7r3GqXNgp8wxdOdOn4Uo3Q.ttf",
+    "500": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl3gLzadB4g.ttf",
+    "600": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl1QMzadB4g.ttf",
+    "700": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlzANzadB4g.ttf",
+    "800": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlywOzadB4g.ttf",
+    "900": "https://fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlwgPzadB4g.ttf"
+  }
+}

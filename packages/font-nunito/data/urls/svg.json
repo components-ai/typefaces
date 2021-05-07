@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5MZ9vEUTg&skey=68b7a606f25301c9&v=v14#Nunito",
+    "300": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4oZNvEUTg&skey=d788ea5e8f746537&v=v14#Nunito",
+    "400": "https://fonts.gstatic.com/l/font?kit=XRXX3I6Li01BKofIMNaNRsk&skey=75768d03a8bfc23a&v=v14#Nunito",
+    "600": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5cYtvEUTg&skey=b7a2cf2364e291f2&v=v14#Nunito",
+    "700": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN44Y9vEUTg&skey=a6fac914b3b6528d&v=v14#Nunito",
+    "800": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4kYNvEUTg&skey=32afafedc6e00101&v=v14#Nunito",
+    "900": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4AYdvEUTg&skey=4d145ea69c011471&v=v14#Nunito"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA-seUb-vP&skey=8ad0032e0b847aa6&v=v14#Nunito",
+    "300": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAnsSUb-vP&skey=327ea4351017b269&v=v14#Nunito",
+    "400": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Li01BKofIO-aG&skey=27bb6aa8eea8a5e7&v=v14#Nunito",
+    "600": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA6sKUb-vP&skey=52e177ab83d749aa&v=v14#Nunito",
+    "700": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAjsOUb-vP&skey=388548fee26cf4d3&v=v14#Nunito",
+    "800": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAksCUb-vP&skey=c2b8d7855f17a8f6&v=v14#Nunito",
+    "900": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAtsGUb-vP&skey=9c07924cc4353e8f&v=v14#Nunito"
+  }
+}

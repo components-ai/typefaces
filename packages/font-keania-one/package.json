@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-keania-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-keania-one",
+  "homepage": "https://components.ai/docs/typefaces/keania-one",
+  "license": "MIT"
 }

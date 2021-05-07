@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-girassol",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-girassol",
+  "homepage": "https://components.ai/docs/typefaces/girassol",
+  "license": "MIT"
 }

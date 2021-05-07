@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpjgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbLLEEIAgg.eot",
+    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJnAVspo50.eot",
+    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIDAlspo50.eot",
+    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqmIEo.eot",
+    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1spo50.eot",
+    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJ3BFspo50.eot",
+    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVspo50.eot",
+    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIPBlspo50.eot",
+    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIrB1spo50.eot"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qmIEo.eot",
+    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_CWsh.eot",
+    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_CWsh.eot",
+    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqu.eot",
+    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsh.eot",
+    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CWsh.eot",
+    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsh.eot",
+    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_CWsh.eot",
+    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_CWsh.eot"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-caesar-dressing",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-caesar-dressing",
+  "homepage": "https://components.ai/docs/typefaces/caesar-dressing",
+  "license": "MIT"
 }

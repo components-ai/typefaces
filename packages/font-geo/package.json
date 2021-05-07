@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-geo",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-geo",
+  "homepage": "https://components.ai/docs/typefaces/geo",
+  "license": "MIT"
 }

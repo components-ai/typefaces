@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=taiMGmRtCJ62-O0HhNEa-Z6q6ZwRag&skey=845e0c91d68ef2fd&v=v13#AlegreyaSC",
+    "500": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKaeFg&skey=f70f00235db45ffc&v=v13#AlegreyaSC",
+    "700": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKaeFg&skey=457a1804d9918cfb&v=v13#AlegreyaSC",
+    "800": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKaeFg&skey=94bb0467eff0e386&v=v13#AlegreyaSC",
+    "900": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4RE2eKaeFg&skey=ba71b66ad36ffd97&v=v13#AlegreyaSC"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=taiOGmRtCJ62-O0HhNEa-Z6h2Zc&skey=c9182af3dcd1bd2c&v=v13#AlegreyaSC",
+    "500": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZZc-oU4SK0&skey=6fb530d5a4aef674&v=v13#AlegreyaSC",
+    "700": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYU_IU4SK0&skey=6aff66d9fa0eca05&v=v13#AlegreyaSC",
+    "800": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYI_4U4SK0&skey=7995df6a714ce496&v=v13#AlegreyaSC",
+    "900": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYs_oU4SK0&skey=7724af2489421d01&v=v13#AlegreyaSC"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-palanquin-dark",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-palanquin-dark",
+  "homepage": "https://components.ai/docs/typefaces/palanquin-dark",
+  "license": "MIT"
 }

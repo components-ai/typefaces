@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AU&skey=58e8e1af6f89a69&v=v4#ChakraPetch",
+    "400": "https://fonts.gstatic.com/l/font?kit=cIfkMapbsEk7TDLdtEz1BwkWmppsYL0&skey=e4b164695803396d&v=v4#ChakraPetch",
+    "500": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AU&skey=f15a798f05afe993&v=v4#ChakraPetch",
+    "600": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AU&skey=17e78261f75ee768&v=v4#ChakraPetch",
+    "700": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AU&skey=ed7d8aa2d579469c&v=v4#ChakraPetch"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_C&skey=9d10652a6181d79a&v=v4#ChakraPetch",
+    "400": "https://fonts.gstatic.com/l/font?kit=cIf6MapbsEk7TDLdtEz1BwkWkapn&skey=ef39c019be42da50&v=v4#ChakraPetch",
+    "500": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkebIl1SZ_C&skey=be6efcee170eb5e1&v=v4#ChakraPetch",
+    "600": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeQI51SZ_C&skey=8e2758adebdc38ec&v=v4#ChakraPetch",
+    "700": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeJI91SZ_C&skey=2e848b15716a3726&v=v4#ChakraPetch"
+  }
+}

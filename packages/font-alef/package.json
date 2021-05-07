@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-alef",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-alef",
+  "homepage": "https://components.ai/docs/typefaces/alef",
+  "license": "MIT"
 }

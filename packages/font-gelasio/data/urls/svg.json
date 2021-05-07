@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=cIf_MaFfvUQxTTqS9CuRbUEE&skey=d3b52a3e6d50481a&v=v3#Gelasio",
+    "500": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZkGIWkapn&skey=d1f8e37f5d6a0b07&v=v3#Gelasio",
+    "600": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZvGUWkapn&skey=4c2d31612dda77d0&v=v3#Gelasio",
+    "700": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZ2GQWkapn&skey=c341248781167b5c&v=v3#Gelasio"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=cIf9MaFfvUQxTTqS9CChZg&skey=e23167b6c8d0cbc7&v=v3#Gelasio",
+    "500": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_N2CdGgmmg&skey=4657667d4468f6ff&v=v3#Gelasio",
+    "600": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_PGFdGgmmg&skey=ad6d0562fa55c583&v=v3#Gelasio",
+    "700": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_JWEdGgmmg&skey=5734bfb0dfaa4f0&v=v3#Gelasio"
+  }
+}

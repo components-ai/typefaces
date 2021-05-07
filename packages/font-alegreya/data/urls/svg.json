@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=4UaHrEBBsBhlBjvfkSLk96Tp4A&skey=144fc0c6d8ae8e92&v=v15#Alegreya",
+    "500": "https://fonts.gstatic.com/l/font?kit=4UaErEBBsBhlBjvfkSLk_1nK8pJUKQ&skey=3064962df60c5d50&v=v15#Alegreya",
+    "700": "https://fonts.gstatic.com/l/font?kit=4UaErEBBsBhlBjvfkSLk_xHM8pJUKQ&skey=946bf86ea46b6b75&v=v15#Alegreya",
+    "800": "https://fonts.gstatic.com/l/font?kit=4UaErEBBsBhlBjvfkSLk_w3P8pJUKQ&skey=b8c16b97c6614872&v=v15#Alegreya",
+    "900": "https://fonts.gstatic.com/l/font?kit=4UaErEBBsBhlBjvfkSLk_ynO8pJUKQ&skey=4c81cd3fdf01aa1a&v=v15#Alegreya"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=4UaBrEBBsBhlBjvfkSLvx68&skey=a67f3093e1ad2d69&v=v15#Alegreya",
+    "500": "https://fonts.gstatic.com/l/font?kit=4UaGrEBBsBhlBjvfkSoS5L3Awpk&skey=35c275bcbb1440e1&v=v15#Alegreya",
+    "700": "https://fonts.gstatic.com/l/font?kit=4UaGrEBBsBhlBjvfkSpa4r3Awpk&skey=39b4f4f1343d121e&v=v15#Alegreya",
+    "800": "https://fonts.gstatic.com/l/font?kit=4UaGrEBBsBhlBjvfkSpG4b3Awpk&skey=7632a94a62a8149&v=v15#Alegreya",
+    "900": "https://fonts.gstatic.com/l/font?kit=4UaGrEBBsBhlBjvfkSpi4L3Awpk&skey=dc141b5d89ee0d73&v=v15#Alegreya"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-almendra-sc",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-almendra-sc",
+  "homepage": "https://components.ai/docs/typefaces/almendra-sc",
+  "license": "MIT"
 }

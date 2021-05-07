@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-mukta-malar",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-mukta-malar",
+  "homepage": "https://components.ai/docs/typefaces/mukta-malar",
+  "license": "MIT"
 }

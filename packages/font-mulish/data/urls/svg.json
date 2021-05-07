@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeOfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "300": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "400": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "500": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "600": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "700": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "800": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish",
+    "900": "https://fonts.gstatic.com/l/font?kit=1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSgOSfF5Q9&skey=12f3c822011b7b1c&v=v1#Mulish"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNR8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "300": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "400": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "500": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "600": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "700": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "800": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish",
+    "900": "https://fonts.gstatic.com/l/font?kit=1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpW8amvHA&skey=9f5b077cc22e75c7&v=v1#Mulish"
+  }
+}

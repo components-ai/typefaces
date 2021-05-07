@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/b612mono/v5/kmK5Zq85QVWbN1eW6lJV1T7fguU.ttf",
+    "700": "https://fonts.gstatic.com/s/b612mono/v5/kmKkZq85QVWbN1eW6lJV1TZkp_VMl7M.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/b612mono/v5/kmK_Zq85QVWbN1eW6lJV0A7Y.ttf",
+    "700": "https://fonts.gstatic.com/s/b612mono/v5/kmK6Zq85QVWbN1eW6lJdayvIpcVL.ttf"
+  }
+}

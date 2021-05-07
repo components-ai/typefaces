@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-maitree",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-maitree",
+  "homepage": "https://components.ai/docs/typefaces/maitree",
+  "license": "MIT"
 }

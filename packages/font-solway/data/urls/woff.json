@@ -1,0 +1,9 @@
+{
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccX.woff",
+    "400": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo6.woff",
+    "500": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccX.woff",
+    "700": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccX.woff",
+    "800": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccX.woff"
+  }
+}

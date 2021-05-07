@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-julius-sans-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-julius-sans-one",
+  "homepage": "https://components.ai/docs/typefaces/julius-sans-one",
+  "license": "MIT"
 }

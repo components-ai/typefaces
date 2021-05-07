@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bx.woff",
+    "400": "https://fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSK.woff",
+    "500": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bx.woff",
+    "600": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bx.woff",
+    "700": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bx.woff"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXQ.woff",
+    "400": "https://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-w.woff",
+    "500": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXQ.woff",
+    "600": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXQ.woff",
+    "700": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXQ.woff"
+  }
+}

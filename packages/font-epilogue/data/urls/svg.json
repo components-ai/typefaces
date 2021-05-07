@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "200": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "300": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "400": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "500": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "600": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "700": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "800": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue",
+    "900": "https://fonts.gstatic.com/l/font?kit=O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_YogI&skey=f646ccfadbd372a6&v=v2#Epilogue"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "200": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "300": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "400": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "500": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "600": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "700": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "800": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue",
+    "900": "https://fonts.gstatic.com/l/font?kit=O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSBZ_T&skey=ceff18ab35a57b14&v=v2#Epilogue"
+  }
+}

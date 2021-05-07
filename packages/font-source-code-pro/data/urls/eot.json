@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMbtdcm5mk.eot",
+    "300": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONN_ttcm5mk.eot",
+    "400": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvalMY.eot",
+    "500": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMnt9cm5mk.eot",
+    "600": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMLsNcm5mk.eot",
+    "700": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsdcm5mk.eot",
+    "900": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNXs9cm5mk.eot"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt8srDvecu.eot",
+    "300": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7PqtlsnDvecu.eot",
+    "400": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vS.eot",
+    "500": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7PqtzsjDvecu.eot",
+    "600": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt4s_Dvecu.eot",
+    "700": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Dvecu.eot",
+    "900": "https://fonts.gstatic.com/s/sourcecodepro/v13/HI_XiYsKILxRpg3hIP6sJ7fM7PqtvszDvecu.eot"
+  }
+}

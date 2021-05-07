@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=ahcdv8Cj3ylylTXzTOwTM_l4pU4&skey=4bd059291b34f284&v=v6#Taviraj",
+    "200": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwTn-hhjGy6&skey=997a6715a9d2426f&v=v6#Taviraj",
+    "300": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwT--thjGy6&skey=91a1f596364be67e&v=v6#Taviraj",
+    "400": "https://fonts.gstatic.com/l/font?kit=ahcbv8Cj3ylylTXzTOwbXslz&skey=ec8ede096d4e393c&v=v6#Taviraj",
+    "500": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwTo-phjGy6&skey=2a505bcab83cbdea&v=v6#Taviraj",
+    "600": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwTj-1hjGy6&skey=6689fd01332b11ed&v=v6#Taviraj",
+    "700": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwT6-xhjGy6&skey=7af9b0bedf5340be&v=v6#Taviraj",
+    "800": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwT9-9hjGy6&skey=c12a62ee6ac08fd4&v=v6#Taviraj",
+    "900": "https://fonts.gstatic.com/l/font?kit=ahcev8Cj3ylylTXzTOwT0-5hjGy6&skey=41cc2f53b338c92d&v=v6#Taviraj"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=ahcbv8Cj3ylylTXzRIobXslz&skey=3de110766c658f76&v=v6#Taviraj",
+    "200": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRCYKR-BRhw&skey=c60df9a0b4c6c0d6&v=v6#Taviraj",
+    "300": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzREIJR-BRhw&skey=61be46dfbed94b48&v=v6#Taviraj",
+    "400": "https://fonts.gstatic.com/l/font?kit=ahcZv8Cj3ylylTXzTOcrVQ&skey=e380adc86ebdb4d0&v=v6#Taviraj",
+    "500": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRBoIR-BRhw&skey=31cb9dfd231716fa&v=v6#Taviraj",
+    "600": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRDYPR-BRhw&skey=b5d0593c6c460423&v=v6#Taviraj",
+    "700": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRFIOR-BRhw&skey=95180f6e84ebe189&v=v6#Taviraj",
+    "800": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRE4NR-BRhw&skey=8e0d3b53064d50fe&v=v6#Taviraj",
+    "900": "https://fonts.gstatic.com/l/font?kit=ahccv8Cj3ylylTXzRGoMR-BRhw&skey=8929152a5e146544&v=v6#Taviraj"
+  }
+}

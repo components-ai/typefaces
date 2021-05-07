@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeOfF5Q8.woff",
+    "300": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OfF5Q8.woff",
+    "400": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfF5Q8.woff",
+    "500": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfF5Q8.woff",
+    "600": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SfF5Q8.woff",
+    "700": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSfF5Q8.woff",
+    "800": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfF5Q8.woff",
+    "900": "https://fonts.gstatic.com/s/mulish/v1/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSgOSfF5Q8.woff"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNR8amvHQ.woff",
+    "300": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8amvHQ.woff",
+    "400": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8amvHQ.woff",
+    "500": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8amvHQ.woff",
+    "600": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8amvHQ.woff",
+    "700": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8amvHQ.woff",
+    "800": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8amvHQ.woff",
+    "900": "https://fonts.gstatic.com/s/mulish/v1/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpW8amvHQ.woff"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM41.woff",
+    "400": "https://fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCts.woff",
+    "700": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM41.woff"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrg.woff",
+    "400": "https://fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4Lg.woff",
+    "700": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrg.woff"
+  }
+}

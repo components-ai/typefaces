@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/alegreya/v15/4UaHrEBBsBhlBjvfkSLk96rp5w.woff2",
+    "500": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_1nK8pxULg.woff2",
+    "700": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_xHM8pxULg.woff2",
+    "800": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_w3P8pxULg.woff2",
+    "900": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_ynO8pxULg.woff2"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/alegreya/v15/4UaBrEBBsBhlBjvfkSLhx6g.woff2",
+    "500": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSoS5L3Owp4.woff2",
+    "700": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpa4r3Owp4.woff2",
+    "800": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpG4b3Owp4.woff2",
+    "900": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpi4L3Owp4.woff2"
+  }
+}

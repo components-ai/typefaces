@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiXim-orfC&skey=2f7a8de642f40452&v=v5#Niramit",
+    "300": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiOiq-orfC&skey=2a9dc8a02823bad2&v=v5#Niramit",
+    "400": "https://fonts.gstatic.com/l/font?kit=I_usMpWdvgLdNxVLXbZqnwis&skey=a40a6e2be736c7a5&v=v5#Niramit",
+    "500": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiYiu-orfC&skey=42f15dc119d78f19&v=v5#Niramit",
+    "600": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiTiy-orfC&skey=460b220ac65ae845&v=v5#Niramit",
+    "700": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiKi2-orfC&skey=fad14a6f04f4cd59&v=v5#Niramit"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVXx7hiGOqQ&skey=f4a1a425c2d84b63&v=v5#Niramit",
+    "300": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVRh4hiGOqQ&skey=bac7fc8d27a6ef54&v=v5#Niramit",
+    "400": "https://fonts.gstatic.com/l/font?kit=I_uuMpWdvgLdNxVLXb1alA&skey=540bbbea370cfb82&v=v5#Niramit",
+    "500": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVUB5hiGOqQ&skey=94c5df9fe8438525&v=v5#Niramit",
+    "600": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVWx-hiGOqQ&skey=baa58151530c1238&v=v5#Niramit",
+    "700": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVQh_hiGOqQ&skey=611a4cf856daa99a&v=v5#Niramit"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhZqw7gz3AA.eot",
+    "200": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhRqx7gz3AA.eot",
+    "300": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhcSx7gz3AA.eot",
+    "400": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhZqx7gz3AA.eot",
+    "500": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhaix7gz3AA.eot",
+    "600": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhUS27gz3AA.eot",
+    "700": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhX227gz3AA.eot",
+    "800": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhRq27gz3AA.eot",
+    "900": "https://fonts.gstatic.com/s/piazzolla/v2/N0b72SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ88Rbvi0_TzOzKcQhTO27gz3AA.eot"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7LYx0L73gQ.eot",
+    "200": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7JYxkL73gQ.eot",
+    "300": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7KGxkL73gQ.eot",
+    "400": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7LYxkL73gQ.eot",
+    "500": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7LqxkL73gQ.eot",
+    "600": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7IGwUL73gQ.eot",
+    "700": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7I_wUL73gQ.eot",
+    "800": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7JYwUL73gQ.eot",
+    "900": "https://fonts.gstatic.com/s/piazzolla/v2/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7JxwUL73gQ.eot"
+  }
+}

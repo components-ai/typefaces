@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-share-tech",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-share-tech",
+  "homepage": "https://components.ai/docs/typefaces/share-tech",
+  "license": "MIT"
 }

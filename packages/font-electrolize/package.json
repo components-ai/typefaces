@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-electrolize",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-electrolize",
+  "homepage": "https://components.ai/docs/typefaces/electrolize",
+  "license": "MIT"
 }

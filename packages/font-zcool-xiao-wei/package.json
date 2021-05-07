@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-zcool-xiao-wei",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-zcool-xiao-wei",
+  "homepage": "https://components.ai/docs/typefaces/zcool-xiao-wei",
+  "license": "MIT"
 }

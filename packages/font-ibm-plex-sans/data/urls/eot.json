@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZFUdY.eot",
+    "200": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX7KVElMYYaJe8bpLHnCwDKhdTm2IdcePfq.eot",
+    "300": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRcePfq.eot",
+    "400": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX-KVElMYYaJe8bpLHnCwDKhdTuGaZN.eot",
+    "500": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVcePfq.eot",
+    "600": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJcePfq.eot",
+    "700": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINcePfq.eot"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX-KVElMYYaJe8bpLHnCwDKjbLuGaZN.eot",
+    "200": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX9KVElMYYaJe8bpLHnCwDKjR7_AI9scA.eot",
+    "300": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX9KVElMYYaJe8bpLHnCwDKjXr8AI9scA.eot",
+    "400": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYXgKVElMYYaJe8bpLHnCwDKhd_eEQ.eot",
+    "500": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX9KVElMYYaJe8bpLHnCwDKjSL9AI9scA.eot",
+    "600": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9scA.eot",
+    "700": "https://fonts.gstatic.com/s/ibmplexsans/v8/zYX9KVElMYYaJe8bpLHnCwDKjWr7AI9scA.eot"
+  }
+}

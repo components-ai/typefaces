@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-mountains-of-christmas",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-mountains-of-christmas",
+  "homepage": "https://components.ai/docs/typefaces/mountains-of-christmas",
+  "license": "MIT"
 }

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=pxiAyp8kv8JHgFVrJJLmE0tMMPU&skey=14913f5d70e4915e&v=v13#Poppins",
+    "200": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmv1pVGdeJ&skey=e6f64e60fb8d9268&v=v13#Poppins",
+    "300": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm21lVGdeJ&skey=b60188e8ecc47dee&v=v13#Poppins",
+    "400": "https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrJJLufntH&skey=f21d6e783fa43c88&v=v13#Poppins",
+    "500": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmg1hVGdeJ&skey=b0aa19767d34da85&v=v13#Poppins",
+    "600": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmr19VGdeJ&skey=7fbc556774b13ef0&v=v13#Poppins",
+    "700": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmy15VGdeJ&skey=29c3bd833a54ba8c&v=v13#Poppins",
+    "800": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm111VGdeJ&skey=6ea139488603f28c&v=v13#Poppins",
+    "900": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm81xVGdeJ&skey=846b48b4eada095a&v=v13#Poppins"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrLPTufntH&skey=57be0781cfb72ecd&v=v13#Poppins",
+    "200": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLFj_Z1JlEg&skey=1bdc08fe61c3cc9e&v=v13#Poppins",
+    "300": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDz8Z1JlEg&skey=4aabc5055a39e031&v=v13#Poppins",
+    "400": "https://fonts.gstatic.com/l/font?kit=pxiEyp8kv8JHgFVrJJnedQ&skey=87759fb096548f6d&v=v13#Poppins",
+    "500": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLGT9Z1JlEg&skey=d4526a9b64c21b87&v=v13#Poppins",
+    "600": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLEj6Z1JlEg&skey=ce7ef9d62ca89319&v=v13#Poppins",
+    "700": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLCz7Z1JlEg&skey=cea76fe63715a67a&v=v13#Poppins",
+    "800": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDD4Z1JlEg&skey=f01e006f58df81ac&v=v13#Poppins",
+    "900": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLBT5Z1JlEg&skey=6c361c40a830b323&v=v13#Poppins"
+  }
+}

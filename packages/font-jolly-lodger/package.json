@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-jolly-lodger",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-jolly-lodger",
+  "homepage": "https://components.ai/docs/typefaces/jolly-lodger",
+  "license": "MIT"
 }

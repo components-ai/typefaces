@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-erica-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-erica-one",
+  "homepage": "https://components.ai/docs/typefaces/erica-one",
+  "license": "MIT"
 }

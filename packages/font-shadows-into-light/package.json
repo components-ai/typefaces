@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-shadows-into-light",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-shadows-into-light",
+  "homepage": "https://components.ai/docs/typefaces/shadows-into-light",
+  "license": "MIT"
 }

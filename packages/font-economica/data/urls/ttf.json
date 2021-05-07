@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/economica/v8/Qw3ZZQZaHCLgIWa29ZBbM_INKlw.ttf",
+    "700": "https://fonts.gstatic.com/s/economica/v8/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH0.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/economica/v8/Qw3fZQZaHCLgIWa29ZBbOMIE.ttf",
+    "700": "https://fonts.gstatic.com/s/economica/v8/Qw3aZQZaHCLgIWa29ZBTjecUA3x9.ttf"
+  }
+}

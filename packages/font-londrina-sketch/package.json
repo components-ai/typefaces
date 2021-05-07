@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-londrina-sketch",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-londrina-sketch",
+  "homepage": "https://components.ai/docs/typefaces/londrina-sketch",
+  "license": "MIT"
 }

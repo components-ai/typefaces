@@ -1,0 +1,17 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyc.woff2",
+    "300": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyc.woff2",
+    "400": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xW.woff2",
+    "600": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyc.woff2",
+    "700": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyc.woff2"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzYw.woff2",
+    "300": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzYw.woff2",
+    "400": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPecZTIAOhVxoMyOr9n_E7fdMPmDQ.woff2",
+    "600": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzYw.woff2",
+    "700": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzYw.woff2",
+    "900": "https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzYw.woff2"
+  }
+}

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-tenali-ramakrishna",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-tenali-ramakrishna",
+  "homepage": "https://components.ai/docs/typefaces/tenali-ramakrishna",
+  "license": "MIT"
 }

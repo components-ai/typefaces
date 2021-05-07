@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-faustina",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-faustina",
+  "homepage": "https://components.ai/docs/typefaces/faustina",
+  "license": "MIT"
 }

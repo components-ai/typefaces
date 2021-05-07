@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-germania-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-germania-one",
+  "homepage": "https://components.ai/docs/typefaces/germania-one",
+  "license": "MIT"
 }

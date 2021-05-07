@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-balsamiq-sans",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-balsamiq-sans",
+  "homepage": "https://components.ai/docs/typefaces/balsamiq-sans",
+  "license": "MIT"
 }

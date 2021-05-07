@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-dm-mono",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-dm-mono",
+  "homepage": "https://components.ai/docs/typefaces/dm-mono",
+  "license": "MIT"
 }

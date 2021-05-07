@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-just-me-again-down-here",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-just-me-again-down-here",
+  "homepage": "https://components.ai/docs/typefaces/just-me-again-down-here",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-stalinist-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-stalinist-one",
+  "homepage": "https://components.ai/docs/typefaces/stalinist-one",
+  "license": "MIT"
 }

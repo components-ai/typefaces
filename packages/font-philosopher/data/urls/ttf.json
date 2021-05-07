@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/philosopher/v14/vEFX2_5QCwIS4_Dhez5jcWBrf0880g.ttf",
+    "700": "https://fonts.gstatic.com/s/philosopher/v14/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xw.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/philosopher/v14/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf",
+    "700": "https://fonts.gstatic.com/s/philosopher/v14/vEFI2_5QCwIS4_Dhez5jcWjValgb8tI.ttf"
+  }
+}

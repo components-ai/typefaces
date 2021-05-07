@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-trykker",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-trykker",
+  "homepage": "https://components.ai/docs/typefaces/trykker",
+  "license": "MIT"
 }

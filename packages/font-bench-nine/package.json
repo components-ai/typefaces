@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-bench-nine",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-bench-nine",
+  "homepage": "https://components.ai/docs/typefaces/bench-nine",
+  "license": "MIT"
 }

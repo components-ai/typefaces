@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-noto-sans-hk",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-noto-sans-hk",
+  "homepage": "https://components.ai/docs/typefaces/noto-sans-hk",
+  "license": "MIT"
 }

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "200": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "300": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "400": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "500": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "600": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "700": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "800": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost",
+    "900": "https://fonts.gstatic.com/l/font?kit=92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIQkmQ&skey=6edd74ad61b65ed6&v=v4#Jost"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7myjJDVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "200": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mwjJTVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "300": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mz9JTVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "400": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7myjJTVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "500": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7myRJTVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "600": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mx9IjVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "700": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mxEIjVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "800": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mwjIjVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost",
+    "900": "https://fonts.gstatic.com/l/font?kit=92zPtBhPNqw79Ij1E865zBUv7mwKIjVPNI8&skey=4145fd5d1d5ac665&v=v4#Jost"
+  }
+}

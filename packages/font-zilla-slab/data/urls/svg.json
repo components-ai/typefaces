@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CVHaZV3Bw&skey=2edace82e38b93fe&v=v6#ZillaSlab",
+    "400": "https://fonts.gstatic.com/l/font?kit=dFa4ZfeM_74wlPZtksIFaj8K8VSL&skey=9ce6a510b53c4ae1&v=v6#ZillaSlab",
+    "500": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CDHeZV3Bw&skey=c3d6da9ec551b3ac&v=v6#ZillaSlab",
+    "600": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CIHCZV3Bw&skey=3a4040de6e68062&v=v6#ZillaSlab",
+    "700": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CRHGZV3Bw&skey=31b1451cc7b95f1d&v=v6#ZillaSlab"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYpEY6H2pXA&skey=ca4b45fc2d8284fd&v=v6#ZillaSlab",
+    "400": "https://fonts.gstatic.com/l/font?kit=dFa6ZfeM_74wlPZtksIFajQ6-g&skey=f5798da7f6ea645a&v=v6#ZillaSlab",
+    "500": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYskZ6H2pXA&skey=fa8b38d9fb8245bc&v=v6#ZillaSlab",
+    "600": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYuUe6H2pXA&skey=b142959be4274cbf&v=v6#ZillaSlab",
+    "700": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYoEf6H2pXA&skey=fa01195928aed3f7&v=v6#ZillaSlab"
+  }
+}

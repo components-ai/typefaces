@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNdVx4.ttf",
+    "200": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEfj5a.ttf",
+    "300": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEfj5a.ttf",
+    "400": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdoeNU.ttf",
+    "500": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVXMBEfj5a.ttf",
+    "600": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEfj5a.ttf",
+    "700": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEfj5a.ttf",
+    "800": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEfj5a.ttf",
+    "900": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVLMREfj5a.ttf"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdoeNU.ttf",
+    "200": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWTnMuMp0dw.ttf",
+    "300": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMp0dw.ttf",
+    "400": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOhEADFm8hSaQTFG18FErVhsC9x-tarUfjtqA.ttf",
+    "500": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMp0dw.ttf",
+    "600": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMp0dw.ttf",
+    "700": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMp0dw.ttf",
+    "800": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMp0dw.ttf",
+    "900": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMp0dw.ttf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmQObA.eot",
+    "500": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmQObA.eot",
+    "600": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmQObA.eot",
+    "700": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmQObA.eot",
+    "800": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmQObA.eot",
+    "900": "https://fonts.gstatic.com/s/vollkorn/v12/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmQObA.eot"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEGmY.eot",
+    "500": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeEGmY.eot",
+    "600": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeEGmY.eot",
+    "700": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeEGmY.eot",
+    "800": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeEGmY.eot",
+    "900": "https://fonts.gstatic.com/s/vollkorn/v12/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeEGmY.eot"
+  }
+}

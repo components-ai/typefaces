@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHA.woff"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Q.woff",
+    "700": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxg.woff"
+  }
+}

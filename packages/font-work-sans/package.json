@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-work-sans",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-work-sans",
+  "homepage": "https://components.ai/docs/typefaces/work-sans",
+  "license": "MIT"
 }

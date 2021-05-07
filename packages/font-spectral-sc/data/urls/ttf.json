@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4q9XQ.ttf",
+    "300": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28jVB4q9XQ.ttf",
+    "400": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg0233Fw.ttf",
+    "500": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4q9XQ.ttf",
+    "600": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4q9XQ.ttf",
+    "700": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4q9XQ.ttf",
+    "800": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28TRB4q9XQ.ttf"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTeN4M.ttf",
+    "300": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0OwXTeN4M.ttf",
+    "400": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWr42Q.ttf",
+    "500": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTeN4M.ttf",
+    "600": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs16x3TeN4M.ttf",
+    "700": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0exnTeN4M.ttf",
+    "800": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTeN4M.ttf"
+  }
+}
