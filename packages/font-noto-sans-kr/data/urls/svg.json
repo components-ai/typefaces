@@ -1,0 +1,10 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=Pby6FmXiEBPT4ITbgNA5CgmOsk7vyJA&skey=eb75d7ba4f67b378&v=v12#NotoSansKR",
+    "300": "https://fonts.gstatic.com/l/font?kit=Pby7FmXiEBPT4ITbgNA5CgmOelz477IW&skey=2586edd7e9cee1c7&v=v12#NotoSansKR",
+    "400": "https://fonts.gstatic.com/l/font?kit=PbykFmXiEBPT4ITbgNA5CgmG0X7q&skey=87e7ee645936e2c7&v=v12#NotoSansKR",
+    "500": "https://fonts.gstatic.com/l/font?kit=Pby7FmXiEBPT4ITbgNA5CgmOIl3477IW&skey=56b531041976bb81&v=v12#NotoSansKR",
+    "700": "https://fonts.gstatic.com/l/font?kit=Pby7FmXiEBPT4ITbgNA5CgmOalv477IW&skey=d9e98c7b09391318&v=v12#NotoSansKR",
+    "900": "https://fonts.gstatic.com/l/font?kit=Pby7FmXiEBPT4ITbgNA5CgmOUln477IW&skey=b0a3d0362d44baf8&v=v12#NotoSansKR"
+  }
+}

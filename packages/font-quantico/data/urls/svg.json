@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=rax4HiSdp9cPL3KIF7xuFD96mQ&skey=c8b95262ea7b7597&v=v10#Quantico",
+    "700": "https://fonts.gstatic.com/l/font?kit=rax7HiSdp9cPL3KIF7xuHIRfi0348w&skey=4d031681c2cdbc1f&v=v10#Quantico"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=rax-HiSdp9cPL3KIF7xrJDo&skey=6cf8b3714b68a523&v=v10#Quantico",
+    "700": "https://fonts.gstatic.com/l/font?kit=rax5HiSdp9cPL3KIF7TQAShdu0g&skey=c57d82e0b3475197&v=v10#Quantico"
+  }
+}

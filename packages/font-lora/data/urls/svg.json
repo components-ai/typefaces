@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqF2mw&skey=92aaeeb853a906d8&v=v16#Lora",
+    "500": "https://fonts.gstatic.com/l/font?kit=0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqF2mw&skey=92aaeeb853a906d8&v=v16#Lora",
+    "600": "https://fonts.gstatic.com/l/font?kit=0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoqF2mw&skey=92aaeeb853a906d8&v=v16#Lora",
+    "700": "https://fonts.gstatic.com/l/font?kit=0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqF2mw&skey=92aaeeb853a906d8&v=v16#Lora"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=0QI6MX1D_JOuGQbT0gvTJPa787weuxJPkqo&skey=1d294b6d956fb8e&v=v16#Lora",
+    "500": "https://fonts.gstatic.com/l/font?kit=0QI6MX1D_JOuGQbT0gvTJPa787wsuxJPkqo&skey=1d294b6d956fb8e&v=v16#Lora",
+    "600": "https://fonts.gstatic.com/l/font?kit=0QI6MX1D_JOuGQbT0gvTJPa787zAvBJPkqo&skey=1d294b6d956fb8e&v=v16#Lora",
+    "700": "https://fonts.gstatic.com/l/font?kit=0QI6MX1D_JOuGQbT0gvTJPa787z5vBJPkqo&skey=1d294b6d956fb8e&v=v16#Lora"
+  }
+}

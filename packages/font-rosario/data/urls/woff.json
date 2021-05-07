@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTesPOQ.woff",
+    "400": "https://fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTesPOQ.woff",
+    "500": "https://fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTesPOQ.woff",
+    "600": "https://fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TesPOQ.woff",
+    "700": "https://fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TesPOQ.woff"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc6feE.woff",
+    "400": "https://fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc6feE.woff",
+    "500": "https://fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc6feE.woff",
+    "600": "https://fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc6feE.woff",
+    "700": "https://fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc6feE.woff"
+  }
+}

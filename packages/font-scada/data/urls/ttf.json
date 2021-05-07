@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/scada/v9/RLp_K5Pv5qumeVJq_TgAbw.ttf",
+    "700": "https://fonts.gstatic.com/s/scada/v9/RLp6K5Pv5qumeVJq9Y0lf1rOZQ.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/scada/v9/RLpxK5Pv5qumeVJhzTE.ttf",
+    "700": "https://fonts.gstatic.com/s/scada/v9/RLp8K5Pv5qumeVrU6CEpT1M.ttf"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8f7XmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "300": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8obXmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "400": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8_7XmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "500": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8zbXmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "600": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8IbLmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "700": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8GLLmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "800": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8f7LmQEiV&skey=7ce582f541f3de8d&v=v17#Literata",
+    "900": "https://fonts.gstatic.com/l/font?kit=or3NQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKoRYzNiCp1OUedn8VrLmQEiV&skey=7ce582f541f3de8d&v=v17#Literata"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbJG_J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "300": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbE-_J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "400": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbBG_J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "500": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbCO_J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "600": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbM-4J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "700": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbPa4J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "800": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbJG4J__WSw&skey=e5398b3698d0752&v=v17#Literata",
+    "900": "https://fonts.gstatic.com/l/font?kit=or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbLi4J__WSw&skey=e5398b3698d0752&v=v17#Literata"
+  }
+}

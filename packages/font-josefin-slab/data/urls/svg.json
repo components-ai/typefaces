@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=lW-lwjwOK3Ps5GSJlNNkMalnrzbOPs3APA&skey=c0dba48e8b1ffed2&v=v11#JosefinSlab",
+    "300": "https://fonts.gstatic.com/l/font?kit=lW-kwjwOK3Ps5GSJlNNkMalnrzYGLNrnHgk&skey=e478fe952f135176&v=v11#JosefinSlab",
+    "400": "https://fonts.gstatic.com/l/font?kit=lW-nwjwOK3Ps5GSJlNNkMalnrz6tDsg&skey=a35ae65c04c96c3f&v=v11#JosefinSlab",
+    "600": "https://fonts.gstatic.com/l/font?kit=lW-kwjwOK3Ps5GSJlNNkMalnrzZyKtrnHgk&skey=dd96638cd4ec72b8&v=v11#JosefinSlab",
+    "700": "https://fonts.gstatic.com/l/font?kit=lW-kwjwOK3Ps5GSJlNNkMalnrzYWK9rnHgk&skey=6dcc8336c5e5f361&v=v11#JosefinSlab"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=lW-nwjwOK3Ps5GSJlNNkMalvyT6tDsg&skey=448977901b9fea74&v=v11#JosefinSlab",
+    "300": "https://fonts.gstatic.com/l/font?kit=lW-mwjwOK3Ps5GSJlNNkMalvASy6Keri&skey=d649455df9e86d45&v=v11#JosefinSlab",
+    "400": "https://fonts.gstatic.com/l/font?kit=lW-5wjwOK3Ps5GSJlNNkMalnqg6o&skey=691565cf3ae1dcfe&v=v11#JosefinSlab",
+    "600": "https://fonts.gstatic.com/l/font?kit=lW-mwjwOK3Ps5GSJlNNkMalvdSq6Keri&skey=5878910710dc2472&v=v11#JosefinSlab",
+    "700": "https://fonts.gstatic.com/l/font?kit=lW-mwjwOK3Ps5GSJlNNkMalvESu6Keri&skey=ffbc5283fb6828f7&v=v11#JosefinSlab"
+  }
+}

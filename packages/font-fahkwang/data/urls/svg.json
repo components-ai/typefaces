@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgHFQLCdZkA&skey=bb6c88e2a514635c&v=v4#Fahkwang",
+    "300": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgBVTLCdZkA&skey=d9d538c4e3666b80&v=v4#Fahkwang",
+    "400": "https://fonts.gstatic.com/l/font?kit=Noa36Uj3zpmBOgbNpOqNiLBxPg&skey=6a749ab2c8c880b6&v=v4#Fahkwang",
+    "500": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgE1SLCdZkA&skey=10c0711e960bd908&v=v4#Fahkwang",
+    "600": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgGFVLCdZkA&skey=684687fae95d69ba&v=v4#Fahkwang",
+    "700": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgAVULCdZkA&skey=4afda973f1e16cee&v=v4#Fahkwang"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJHmalYHCw&skey=c8b864c1241d40e7&v=v4#Fahkwang",
+    "300": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOIjmqlYHCw&skey=2873fbcebde984b5&v=v4#Fahkwang",
+    "400": "https://fonts.gstatic.com/l/font?kit=Noax6Uj3zpmBOgbNpOqGuLs&skey=1e37bf18bf219bbf&v=v4#Fahkwang",
+    "500": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJ7m6lYHCw&skey=3a8c635cc567d1e5&v=v4#Fahkwang",
+    "600": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJXnKlYHCw&skey=9db8ac6c4c2d6a90&v=v4#Fahkwang",
+    "700": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOIznalYHCw&skey=30bcfd801704b4ef&v=v4#Fahkwang"
+  }
+}

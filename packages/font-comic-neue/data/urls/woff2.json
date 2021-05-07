@@ -1,0 +1,12 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCND.woff2",
+    "400": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5btx.woff2",
+    "700": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCND.woff2"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxULg.woff2",
+    "400": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp5w.woff2",
+    "700": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2"
+  }
+}

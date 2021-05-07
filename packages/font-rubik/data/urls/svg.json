@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "400": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "500": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "600": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "700": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "800": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU5f4U&skey=80e52bf85b0b1958&v=v11#Rubik",
+    "900": "https://fonts.gstatic.com/l/font?kit=iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU5f4U&skey=80e52bf85b0b1958&v=v11#Rubik"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "400": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "500": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "600": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "700": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "800": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FWUUy&skey=cee854e66788286d&v=v11#Rubik",
+    "900": "https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FWUUy&skey=cee854e66788286d&v=v11#Rubik"
+  }
+}

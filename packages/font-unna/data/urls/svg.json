@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=AYCKpXzofN0NOpo7mUnB&skey=13632e61d3fe2940&v=v15#Unna",
+    "700": "https://fonts.gstatic.com/l/font?kit=AYCJpXzofN0NOpozLGzTSXJo&skey=2a0d54bc708d9e1e&v=v15#Unna"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=AYCEpXzofN0NOpELkg&skey=4c3f7261c89835bf&v=v15#Unna",
+    "700": "https://fonts.gstatic.com/l/font?kit=AYCLpXzofN0NMiQugGDjQg&skey=d1cba694e6c25c94&v=v15#Unna"
+  }
+}

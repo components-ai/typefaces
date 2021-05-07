@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xEJVj0g.ttf",
+    "200": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8dAYxK8mE.ttf",
+    "300": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95AoxK8mE.ttf",
+    "400": "https://fonts.gstatic.com/s/montserratalternates/v12/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057pfcIJw.ttf",
+    "500": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA4xK8mE.ttf",
+    "600": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8NBIxK8mE.ttf",
+    "700": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBYxK8mE.ttf",
+    "800": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p91BoxK8mE.ttf",
+    "900": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB4xK8mE.ttf"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/montserratalternates/v12/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiJfcIJw.ttf",
+    "200": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIbFCbxD.ttf",
+    "300": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFCbxD.ttf",
+    "400": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU055afV.ttf",
+    "500": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFCbxD.ttf",
+    "600": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIPFCbxD.ttf",
+    "700": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFCbxD.ttf",
+    "800": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIHFCbxD.ttf",
+    "900": "https://fonts.gstatic.com/s/montserratalternates/v12/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFCbxD.ttf"
+  }
+}

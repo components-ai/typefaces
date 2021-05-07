@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/quattrocentosans/v13/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2HA.eot",
+    "700": "https://fonts.gstatic.com/s/quattrocentosans/v13/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiQ.eot"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/quattrocentosans/v13/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0s.eot",
+    "700": "https://fonts.gstatic.com/s/quattrocentosans/v13/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXg.eot"
+  }
+}

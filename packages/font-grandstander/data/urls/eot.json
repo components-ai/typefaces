@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zrsu_lG.eot",
+    "200": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzvsu_lG.eot",
+    "300": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9uTvsu_lG.eot",
+    "400": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zvsu_lG.eot",
+    "500": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf91Tvsu_lG.eot",
+    "600": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9OTzsu_lG.eot",
+    "700": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ADzsu_lG.eot",
+    "800": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzzsu_lG.eot",
+    "900": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Tjzsu_lG.eot"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1-_P3Hcsw.eot",
+    "200": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9--P3Hcsw.eot",
+    "300": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-P3Hcsw.eot",
+    "400": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3Hcsw.eot",
+    "500": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-P3Hcsw.eot",
+    "600": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5P3Hcsw.eot",
+    "700": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5P3Hcsw.eot",
+    "800": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5P3Hcsw.eot",
+    "900": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5P3Hcsw.eot"
+  }
+}

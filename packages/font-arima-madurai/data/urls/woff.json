@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uF.woff",
+    "200": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeQ.woff",
+    "300": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeQ.woff",
+    "400": "https://fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqQ.woff",
+    "500": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeQ.woff",
+    "700": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeQ.woff",
+    "800": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeQ.woff",
+    "900": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeQ.woff"
+  }
+}

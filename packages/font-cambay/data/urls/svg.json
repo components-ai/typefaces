@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=SLXLc1rY6H0_ZDs2bI6F59E&skey=e5bd29ad3697f3e&v=v7#Cambay",
+    "700": "https://fonts.gstatic.com/l/font?kit=SLXMc1rY6H0_ZDs2bIYwwsN9SXw&skey=9075a27258cb299f&v=v7#Cambay"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=SLXJc1rY6H0_ZDs2Z76O&skey=65e6fec681751af2&v=v7#Cambay",
+    "700": "https://fonts.gstatic.com/l/font?kit=SLXKc1rY6H0_ZDs-0puczvN2&skey=9ce85acf2b162d00&v=v7#Cambay"
+  }
+}

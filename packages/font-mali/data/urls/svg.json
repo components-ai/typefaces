@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8wlVgKP7V&skey=c72bef2c9c551d05&v=v4#Mali",
+    "300": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8plZgKP7V&skey=1d5b744bac868534&v=v4#Mali",
+    "400": "https://fonts.gstatic.com/l/font?kit=N0bU2SRONuN4SCj0A3Ry&skey=21e0095f22b1d89a&v=v4#Mali",
+    "500": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8_ldgKP7V&skey=92ac583f5dd9f109&v=v4#Mali",
+    "600": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj80lBgKP7V&skey=62d47d39af0775ac&v=v4#Mali",
+    "700": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8tlFgKP7V&skey=546f7847ebac806d&v=v4#Mali"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QOLlGl1QIw&skey=20d1d61b24dd3ed6&v=v4#Mali",
+    "300": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QIbmGl1QIw&skey=f3fcfcdd896b087b&v=v4#Mali",
+    "400": "https://fonts.gstatic.com/l/font?kit=N0ba2SRONuN4SCPECA&skey=e98fd2af8626b471&v=v4#Mali",
+    "500": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QN7nGl1QIw&skey=385f0a56174073d5&v=v4#Mali",
+    "600": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QPLgGl1QIw&skey=4726225c690c07db&v=v4#Mali",
+    "700": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QJbhGl1QIw&skey=26aeb174a884189b&v=v4#Mali"
+  }
+}

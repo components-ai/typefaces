@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0s&skey=3e9bab971ed4a670&v=v2#KulimPark",
+    "300": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0s&skey=9d3b6a874c42e62a&v=v2#KulimPark",
+    "400": "https://fonts.gstatic.com/l/font?kit=fdN59secq3hflz1Uu3IwhFwc6I5y&skey=f03b89066d999af4&v=v2#KulimPark",
+    "600": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUOapgaJ0s&skey=6b1c8f67089a7ea5&v=v2#KulimPark",
+    "700": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUXatgaJ0s&skey=9139b1aec0eb6778&v=v2#KulimPark"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjJYN8adQYw&skey=c78a3cc36f014a6b&v=v2#KulimPark",
+    "300": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjPIO8adQYw&skey=a6a047b717f3ed04&v=v2#KulimPark",
+    "400": "https://fonts.gstatic.com/l/font?kit=fdN79secq3hflz1Uu3IwhFcs4w&skey=594e1fb0cd5363c9&v=v2#KulimPark",
+    "600": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjIYI8adQYw&skey=aa907525432ab996&v=v2#KulimPark",
+    "700": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjOIJ8adQYw&skey=caa282a6e90554f1&v=v2#KulimPark"
+  }
+}

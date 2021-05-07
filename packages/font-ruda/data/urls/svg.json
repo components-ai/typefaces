@@ -1,0 +1,10 @@
+{
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh_30q4&skey=260e836d3140a70d&v=v13#Ruda",
+    "500": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaJ3sh_30q4&skey=260e836d3140a70d&v=v13#Ruda",
+    "600": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaKbtR_30q4&skey=260e836d3140a70d&v=v13#Ruda",
+    "700": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaKitR_30q4&skey=260e836d3140a70d&v=v13#Ruda",
+    "800": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaLFtR_30q4&skey=260e836d3140a70d&v=v13#Ruda",
+    "900": "https://fonts.gstatic.com/l/font?kit=k3kKo8YQJOpFgHQ1mQ5VkEbUKaLstR_30q4&skey=260e836d3140a70d&v=v13#Ruda"
+  }
+}

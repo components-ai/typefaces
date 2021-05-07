@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/bevietnam/v2/FBVvdDflz-iPfoPuIC2iIqMfiVdsA2c.eot",
+    "300": "https://fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfQUV1KkYq.eot",
+    "400": "https://fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iIqMX5Gdk.eot",
+    "500": "https://fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfGUR1KkYq.eot",
+    "600": "https://fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfNUN1KkYq.eot",
+    "700": "https://fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfUUJ1KkYq.eot",
+    "800": "https://fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfTUF1KkYq.eot"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iKsUX5Gdk.eot",
+    "300": "https://fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKg0F_U5FIg.eot",
+    "400": "https://fonts.gstatic.com/s/bevietnam/v2/FBVzdDflz-iPfoPuIC2iIqgn7A.eot",
+    "500": "https://fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKlUE_U5FIg.eot",
+    "600": "https://fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKnkD_U5FIg.eot",
+    "700": "https://fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKh0C_U5FIg.eot",
+    "800": "https://fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKgEB_U5FIg.eot"
+  }
+}

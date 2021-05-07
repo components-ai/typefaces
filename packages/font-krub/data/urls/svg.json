@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQiwLBCSoAV&skey=dec7c02b8dbf0b69&v=v4#Krub",
+    "300": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQipLNCSoAV&skey=fec9869ecc0a0417&v=v4#Krub",
+    "400": "https://fonts.gstatic.com/l/font?kit=sZlFdRyC6CRYbkQqAZFQ&skey=d36cadc71c02de4d&v=v4#Krub",
+    "500": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi_LJCSoAV&skey=8967b5144182ebec&v=v4#Krub",
+    "600": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi0LVCSoAV&skey=931aa30556216678&v=v4#Krub",
+    "700": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQitLRCSoAV&skey=272769a11a0bebbd&v=v4#Krub"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZo47GLhyQQ&skey=66a2da335df5cb8e&v=v4#Krub",
+    "300": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZuo4GLhyQQ&skey=46b37114ceec7d71&v=v4#Krub",
+    "400": "https://fonts.gstatic.com/l/font?kit=sZlLdRyC6CRYbk8aCg&skey=279c1533cb23a2a&v=v4#Krub",
+    "500": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZrI5GLhyQQ&skey=6128aeabaab7448&v=v4#Krub",
+    "600": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZp4-GLhyQQ&skey=21ce910568c75b41&v=v4#Krub",
+    "700": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZvo_GLhyQQ&skey=3b91ff0320f65468&v=v4#Krub"
+  }
+}

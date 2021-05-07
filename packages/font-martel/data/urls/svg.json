@@ -1,0 +1,11 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVqekqjBzR&skey=865a7af3f62c4b29&v=v5#Martel",
+    "300": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqjBzR&skey=3005143b04f7a910&v=v5#Martel",
+    "400": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdaMg4&skey=59fb7792dca42154&v=v5#Martel",
+    "600": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqjBzR&skey=8f6259619cbf6f4f&v=v5#Martel",
+    "700": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV3e0qjBzR&skey=ce0c9c4932e263d0&v=v5#Martel",
+    "800": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qjBzR&skey=54db9712fcce8986&v=v5#Martel",
+    "900": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qjBzR&skey=b49d7587e0fc5d49&v=v5#Martel"
+  }
+}

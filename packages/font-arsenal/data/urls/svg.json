@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=wXKpE3kQtZQ4pF3D513sDMQo&skey=41b203aa8f6cac2&v=v5#Arsenal",
+    "700": "https://fonts.gstatic.com/l/font?kit=wXKsE3kQtZQ4pF3D513kueE6lFcx&skey=441c0d9389e70183&v=v5#Arsenal"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=wXKrE3kQtZQ4pF3D51bcBw&skey=af599ca341f4a7aa&v=v5#Arsenal",
+    "700": "https://fonts.gstatic.com/l/font?kit=wXKuE3kQtZQ4pF3D7-P5Fe0Knw&skey=69954940f6d1b956&v=v5#Arsenal"
+  }
+}

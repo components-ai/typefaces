@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=nKKV-Go6G5tXcraQI2GwfIRD&skey=af6ebcb691038333&v=v7#Kanit",
+    "200": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI82hZa1hNg&skey=5be4818c7c5589cd&v=v7#Kanit",
+    "300": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI6miZa1hNg&skey=26ce3b98d24c6e21&v=v7#Kanit",
+    "400": "https://fonts.gstatic.com/l/font?kit=nKKX-Go6G5tXcraQKwyAdw&skey=336f203e2505743&v=v7#Kanit",
+    "500": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI_GjZa1hNg&skey=dfeb335f5dc0c656&v=v7#Kanit",
+    "600": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI92kZa1hNg&skey=c9bb313d836b6604&v=v7#Kanit",
+    "700": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI7mlZa1hNg&skey=639445fe76360cd9&v=v7#Kanit",
+    "800": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI6WmZa1hNg&skey=54e5861002b7cf3e&v=v7#Kanit",
+    "900": "https://fonts.gstatic.com/l/font?kit=nKKS-Go6G5tXcraQI4GnZa1hNg&skey=7947e1141cd9170&v=v7#Kanit"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=nKKX-Go6G5tXcr72KwyAdw&skey=1fafa5416853f7e5&v=v7#Kanit",
+    "200": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr5aOhWpVaY&skey=4f9bb3526a17f8a6&v=v7#Kanit",
+    "300": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr4-ORWpVaY&skey=14ca640360d8623e&v=v7#Kanit",
+    "400": "https://fonts.gstatic.com/l/font?kit=nKKZ-Go6G5tXcrabGwc&skey=f700248af71fb487&v=v7#Kanit",
+    "500": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr5mOBWpVaY&skey=6cd9965664507be9&v=v7#Kanit",
+    "600": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr5KPxWpVaY&skey=37a1924777d7d1eb&v=v7#Kanit",
+    "700": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr4uPhWpVaY&skey=5c0b966606f30209&v=v7#Kanit",
+    "800": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr4yPRWpVaY&skey=33753599227b342&v=v7#Kanit",
+    "900": "https://fonts.gstatic.com/l/font?kit=nKKU-Go6G5tXcr4WPBWpVaY&skey=d7003f9a8964e1d2&v=v7#Kanit"
+  }
+}

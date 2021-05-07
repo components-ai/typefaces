@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=O4ZXFGb7hR12BxqH_VpHggQylQ&skey=5538e43ccb5ff0d1&v=v2#Grenze",
+    "200": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_Vrrkx0bt2M&skey=5b72e9f3d677f590&v=v2#Grenze",
+    "300": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_VqPkB0bt2M&skey=f541fe179a513caa&v=v2#Grenze",
+    "400": "https://fonts.gstatic.com/l/font?kit=O4ZRFGb7hR12BxqH_VIqsg8&skey=df5ffdd5c7b27f2f&v=v2#Grenze",
+    "500": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_VrXkR0bt2M&skey=7fae8594b17e7af1&v=v2#Grenze",
+    "600": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_Vr7lh0bt2M&skey=583fffef5ec3ea89&v=v2#Grenze",
+    "700": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_Vqflx0bt2M&skey=fb927f18ccc9e7db&v=v2#Grenze",
+    "800": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_VqDlB0bt2M&skey=d66afddaeff81e8e&v=v2#Grenze",
+    "900": "https://fonts.gstatic.com/l/font?kit=O4ZWFGb7hR12BxqH_VqnlR0bt2M&skey=76f6fb6734554ce5&v=v2#Grenze"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=O4ZRFGb7hR12BxqPm1Iqsg8&skey=de1da64f9de0d6f0&v=v2#Grenze",
+    "200": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPN0Mzmy0Q&skey=20638018bc7f9095&v=v2#Grenze",
+    "300": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPU0Azmy0Q&skey=febfa41fc334738&v=v2#Grenze",
+    "400": "https://fonts.gstatic.com/l/font?kit=O4ZTFGb7hR12BxqH9mIh&skey=26f444e54d17176a&v=v2#Grenze",
+    "500": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPC0Ezmy0Q&skey=6a10e444f9f1aee5&v=v2#Grenze",
+    "600": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPJ0Yzmy0Q&skey=fb0accc1cd5056fd&v=v2#Grenze",
+    "700": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPQ0czmy0Q&skey=e26cb7570ff7ba5d&v=v2#Grenze",
+    "800": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPX0Qzmy0Q&skey=8b6a6a4fb0818694&v=v2#Grenze",
+    "900": "https://fonts.gstatic.com/l/font?kit=O4ZQFGb7hR12BxqPe0Uzmy0Q&skey=9e0c29fc25559af8&v=v2#Grenze"
+  }
+}

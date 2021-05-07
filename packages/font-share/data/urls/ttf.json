@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/share/v11/i7dKIFliZjKNF6VPJreecA.ttf",
+    "700": "https://fonts.gstatic.com/s/share/v11/i7dPIFliZjKNF6VPLgK7YE98QA.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/share/v11/i7dEIFliZjKNF6VEFr4.ttf",
+    "700": "https://fonts.gstatic.com/s/share/v11/i7dJIFliZjKNF63xM663UEY.ttf"
+  }
+}

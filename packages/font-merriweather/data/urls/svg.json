@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvs&skey=2127cbbec4112664&v=v22#Merriweather",
+    "400": "https://fonts.gstatic.com/l/font?kit=u-4m0qyriQwlOrhSvowK_l5-eRZAf-U&skey=899922b35e8afa66&v=v22#Merriweather",
+    "700": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvs&skey=a01d7ebb04b59d3d&v=v22#Merriweather",
+    "900": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvs&skey=6fbe01ac2b2dd35b&v=v22#Merriweather"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l521wRZVsf9&skey=c2b76fd8ebf2629b&v=v22#Merriweather",
+    "400": "https://fonts.gstatic.com/l/font?kit=u-440qyriQwlOrhSvowK_l5-ciZL&skey=379c1eccf863c625&v=v22#Merriweather",
+    "700": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52xwNZVsf9&skey=76f88370d7055e09&v=v22#Merriweather",
+    "900": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52_wFZVsf9&skey=879600b205c1760&v=v22#Merriweather"
+  }
+}

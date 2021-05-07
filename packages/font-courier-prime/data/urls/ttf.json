@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/courierprime/v2/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf_.ttf",
+    "700": "https://fonts.gstatic.com/s/courierprime/v2/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9np.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/courierprime/v2/u-450q2lgwslOqpF_6gQ8kELaw9pXw.ttf",
+    "700": "https://fonts.gstatic.com/s/courierprime/v2/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frg.ttf"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUhiYg&skey=653237e53512d0de&v=v35#Oswald",
+    "300": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUhiYg&skey=653237e53512d0de&v=v35#Oswald",
+    "400": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYg&skey=653237e53512d0de&v=v35#Oswald",
+    "500": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUhiYg&skey=653237e53512d0de&v=v35#Oswald",
+    "600": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUhiYg&skey=653237e53512d0de&v=v35#Oswald",
+    "700": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYg&skey=653237e53512d0de&v=v35#Oswald"
+  }
+}

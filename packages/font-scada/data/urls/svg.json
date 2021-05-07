@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=RLp_K5Pv5qumeVJq_TgAbQ&skey=fff7a9fb170d569a&v=v9#Scada",
+    "700": "https://fonts.gstatic.com/l/font?kit=RLp6K5Pv5qumeVJq9Y0lf1rOZw&skey=ff9f95e254ca9956&v=v9#Scada"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=RLpxK5Pv5qumeVJhzTM&skey=53f06583923e86b2&v=v9#Scada",
+    "700": "https://fonts.gstatic.com/l/font?kit=RLp8K5Pv5qumeVrU6CEpT1E&skey=c007d1874c6c2a77&v=v9#Scada"
+  }
+}

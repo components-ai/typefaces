@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/cuprum/v12/dg4m_pLmvrkcOkBNI9tAr7k.woff2",
+    "700": "https://fonts.gstatic.com/s/cuprum/v12/dg4h_pLmvrkcOkBNI9P7iqwqawc.woff2"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/cuprum/v12/dg4k_pLmvrkcOkBNJutC.woff2",
+    "700": "https://fonts.gstatic.com/s/cuprum/v12/dg4n_pLmvrkcOkBFnc5XiJwo.woff2"
+  }
+}

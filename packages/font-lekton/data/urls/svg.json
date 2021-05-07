@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3ltUA&skey=f90240a45c2af78&v=v11#Lekton"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=SZc43FDmLaWmWpBuVh3u&skey=ea1e370f252c6f8d&v=v11#Lekton",
+    "700": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8nGLR&skey=bda8e77f1d703414&v=v11#Lekton"
+  }
+}

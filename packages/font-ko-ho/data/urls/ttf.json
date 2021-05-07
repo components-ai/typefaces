@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/koho/v4/K2FzfZ5fmddNNisssJ_DK6qg.ttf",
+    "300": "https://fonts.gstatic.com/s/koho/v4/K2FzfZ5fmddNNiss1JzDK6qg.ttf",
+    "400": "https://fonts.gstatic.com/s/koho/v4/K2FwfZ5fmddNNiskcb7T.ttf",
+    "500": "https://fonts.gstatic.com/s/koho/v4/K2FzfZ5fmddNNissjJ3DK6qg.ttf",
+    "600": "https://fonts.gstatic.com/s/koho/v4/K2FzfZ5fmddNNissoJrDK6qg.ttf",
+    "700": "https://fonts.gstatic.com/s/koho/v4/K2FzfZ5fmddNNissxJvDK6qg.ttf"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/koho/v4/K2FxfZ5fmddNPuE1aJfzIg.ttf",
+    "300": "https://fonts.gstatic.com/s/koho/v4/K2FxfZ5fmddNPoU2aJfzIg.ttf",
+    "400": "https://fonts.gstatic.com/s/koho/v4/K2F-fZ5fmddNNiAUeA.ttf",
+    "500": "https://fonts.gstatic.com/s/koho/v4/K2FxfZ5fmddNPt03aJfzIg.ttf",
+    "600": "https://fonts.gstatic.com/s/koho/v4/K2FxfZ5fmddNPvEwaJfzIg.ttf",
+    "700": "https://fonts.gstatic.com/s/koho/v4/K2FxfZ5fmddNPpUxaJfzIg.ttf"
+  }
+}

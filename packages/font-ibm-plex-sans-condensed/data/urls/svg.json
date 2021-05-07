@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=Gg8hN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8M_7jKMP&skey=882e8a9b295ebc66&v=v7#IBMPlexSansCondensed",
+    "200": "https://fonts.gstatic.com/l/font?kit=Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8GPqlYotFA&skey=23ffd94ea4acfe0&v=v7#IBMPlexSansCondensed",
+    "300": "https://fonts.gstatic.com/l/font?kit=Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8AfplYotFA&skey=515ee69ed2ba0983&v=v7#IBMPlexSansCondensed",
+    "400": "https://fonts.gstatic.com/l/font?kit=Gg8nN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas-KLLhw&skey=a718b6195133983d&v=v7#IBMPlexSansCondensed",
+    "500": "https://fonts.gstatic.com/l/font?kit=Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8F_olYotFA&skey=2c45f4bfaa6cb8f&v=v7#IBMPlexSansCondensed",
+    "600": "https://fonts.gstatic.com/l/font?kit=Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8HPvlYotFA&skey=7d6bb8725bad94d2&v=v7#IBMPlexSansCondensed",
+    "700": "https://fonts.gstatic.com/l/font?kit=Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8BfulYotFA&skey=b801ceb9bc0648b8&v=v7#IBMPlexSansCondensed"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=Gg8nN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY7K-KLLhw&skey=4ffd82894bb62ee&v=v7#IBMPlexSansCondensed",
+    "200": "https://fonts.gstatic.com/l/font?kit=Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5m6bvipYE&skey=b1468ccad30a7dc&v=v7#IBMPlexSansCondensed",
+    "300": "https://fonts.gstatic.com/l/font?kit=Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4C6rvipYE&skey=fe5391f16bba58bf&v=v7#IBMPlexSansCondensed",
+    "400": "https://fonts.gstatic.com/l/font?kit=Gg8lN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYanyKk&skey=e4c09f1024b66210&v=v7#IBMPlexSansCondensed",
+    "500": "https://fonts.gstatic.com/l/font?kit=Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5a67vipYE&skey=fc91a0d89f81943f&v=v7#IBMPlexSansCondensed",
+    "600": "https://fonts.gstatic.com/l/font?kit=Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY527LvipYE&skey=1a11357034e0512f&v=v7#IBMPlexSansCondensed",
+    "700": "https://fonts.gstatic.com/l/font?kit=Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4S7bvipYE&skey=9a1da78d10ebdcdd&v=v7#IBMPlexSansCondensed"
+  }
+}

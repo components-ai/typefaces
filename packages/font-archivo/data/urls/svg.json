@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=k3kSo8UDI-1M0wlSfdzYImHD&skey=5baaa5f10d75e728&v=v7#Archivo",
+    "500": "https://fonts.gstatic.com/l/font?kit=k3kXo8UDI-1M0wlSfdzQ30LRIIKP&skey=5a268ba5363d1828&v=v7#Archivo",
+    "600": "https://fonts.gstatic.com/l/font?kit=k3kXo8UDI-1M0wlSfdzQ80XRIIKP&skey=19155be740f1ac51&v=v7#Archivo",
+    "700": "https://fonts.gstatic.com/l/font?kit=k3kXo8UDI-1M0wlSfdzQl0TRIIKP&skey=ef8746c0d377fd31&v=v7#Archivo"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=k3kQo8UDI-1M0wlSfdfoKQ&skey=8131191f4580dfcb&v=v7#Archivo",
+    "500": "https://fonts.gstatic.com/l/font?kit=k3kVo8UDI-1M0wlSdSrLO0jhKw&skey=55b166f29c61ce81&v=v7#Archivo",
+    "600": "https://fonts.gstatic.com/l/font?kit=k3kVo8UDI-1M0wlSdQbMO0jhKw&skey=f4ab601a8d6fbe6&v=v7#Archivo",
+    "700": "https://fonts.gstatic.com/l/font?kit=k3kVo8UDI-1M0wlSdWLNO0jhKw&skey=fe22dd2b5a33cbb7&v=v7#Archivo"
+  }
+}

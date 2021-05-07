@@ -1,0 +1,11 @@
+{
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAX5vuOH08&skey=d0af9b71547c102c&v=v7#MartelSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBz5fuOH08&skey=3e60cf58de23364a&v=v7#MartelSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=h0GsssGi7VdzDgKjM-4d8hjWx-k&skey=bc24a799253841ed&v=v7#MartelSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAH4_uOH08&skey=896de8cd3fa71e6b&v=v7#MartelSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBj4vuOH08&skey=63578146eda7037f&v=v7#MartelSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hB_4fuOH08&skey=7172473d159f7ff5&v=v7#MartelSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBb4PuOH08&skey=f36c0deceb3c5f20&v=v7#MartelSans"
+  }
+}

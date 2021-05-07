@@ -1,0 +1,12 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=wlpogwHKFkZgtmSR3NB0oRJfajhRK_E&skey=e557500e250d718b&v=v11#CrimsonText",
+    "600": "https://fonts.gstatic.com/l/font?kit=wlprgwHKFkZgtmSR3NB0oRJfajCOD-NS_LI&skey=297741408878cce6&v=v11#CrimsonText",
+    "700": "https://fonts.gstatic.com/l/font?kit=wlprgwHKFkZgtmSR3NB0oRJfajDqDuNS_LI&skey=278c8c85e53f0d85&v=v11#CrimsonText"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=wlp2gwHKFkZgtmSR3NB0oRJfbwhU&skey=28fc2c78007b71a9&v=v11#CrimsonText",
+    "600": "https://fonts.gstatic.com/l/font?kit=wlppgwHKFkZgtmSR3NB0oRJXsCxGDNNX&skey=8d0e5c65248ec1b9&v=v11#CrimsonText",
+    "700": "https://fonts.gstatic.com/l/font?kit=wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNX&skey=ac5d7eee4a23d97&v=v11#CrimsonText"
+  }
+}

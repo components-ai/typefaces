@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTesPOA&skey=8e340f40751ab882&v=v18#Rosario",
+    "400": "https://fonts.gstatic.com/l/font?kit=xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTesPOA&skey=8e340f40751ab882&v=v18#Rosario",
+    "500": "https://fonts.gstatic.com/l/font?kit=xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTesPOA&skey=8e340f40751ab882&v=v18#Rosario",
+    "600": "https://fonts.gstatic.com/l/font?kit=xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TesPOA&skey=8e340f40751ab882&v=v18#Rosario",
+    "700": "https://fonts.gstatic.com/l/font?kit=xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TesPOA&skey=8e340f40751ab882&v=v18#Rosario"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc6feA&skey=227e390dd4e339b4&v=v18#Rosario",
+    "400": "https://fonts.gstatic.com/l/font?kit=xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc6feA&skey=227e390dd4e339b4&v=v18#Rosario",
+    "500": "https://fonts.gstatic.com/l/font?kit=xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc6feA&skey=227e390dd4e339b4&v=v18#Rosario",
+    "600": "https://fonts.gstatic.com/l/font?kit=xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc6feA&skey=227e390dd4e339b4&v=v18#Rosario",
+    "700": "https://fonts.gstatic.com/l/font?kit=xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc6feA&skey=227e390dd4e339b4&v=v18#Rosario"
+  }
+}

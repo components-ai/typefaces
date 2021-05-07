@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpXtKeoNgBV0qa4k2THJ30&skey=2a8e91ba4420dbf4&v=v10#Marvel",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpQtKeoNgBV0qa4k2x8Am-l7wo&skey=5857b1551737f8b5&v=v10#Marvel"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpVtKeoNgBV0qa4llTC&skey=52bf62c6b0bbc269&v=v10#Marvel",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpWtKeoNgBV0qawLXHQAF-g&skey=552ff73ffe8c31bc&v=v10#Marvel"
+  }
+}

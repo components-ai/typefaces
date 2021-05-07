@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qMUgLa_SzI&skey=880a42c6c2a7e48&v=v10#Cormorant",
+    "400": "https://fonts.gstatic.com/l/font?kit=H4cjBXOCl9bbnla_nHIq6quxoqQ&skey=f23e1ca4fc70b108&v=v10#Cormorant",
+    "500": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qNMgba_SzI&skey=f8ba0d7482015c2a&v=v10#Cormorant",
+    "600": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qNghra_SzI&skey=549a685ba96a6462&v=v10#Cormorant",
+    "700": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qMEh7a_SzI&skey=9900c6152b34197e&v=v10#Cormorant"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiRLmoi4a0&skey=c3b9f7b75bda2dcc&v=v10#Cormorant",
+    "400": "https://fonts.gstatic.com/l/font?kit=H4clBXOCl9bbnla_nHIq4Zu6&skey=c05230f4b79293a6&v=v10#Cormorant",
+    "500": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiHLioi4a0&skey=833754039073fdc&v=v10#Cormorant",
+    "600": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiML-oi4a0&skey=c7d791cddd8b143c&v=v10#Cormorant",
+    "700": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiVL6oi4a0&skey=b5890d6cd81a661b&v=v10#Cormorant"
+  }
+}

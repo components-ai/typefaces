@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHtCe5g&skey=1da949773a71f90f&v=v13#Karla",
+    "700": "https://fonts.gstatic.com/l/font?kit=qkBQXvYC6trAT7RQFmW79Ldvmg&skey=8c6082f21a1add1e&v=v13#Karla"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=qkBbXvYC6trAT7RbLts&skey=139a38ebe1800a84&v=v13#Karla",
+    "700": "https://fonts.gstatic.com/l/font?kit=qkBWXvYC6trAT7zuC8m3xLw&skey=5004906a717967a3&v=v13#Karla"
+  }
+}

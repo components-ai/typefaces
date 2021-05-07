@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNQ.woff"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oY.woff",
+    "700": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqo.woff"
+  }
+}

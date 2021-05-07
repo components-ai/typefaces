@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYg&skey=75da5a29d105ef1f&v=v4#RedHatDisplay",
+    "500": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AZQbprMKEQ&skey=53a98496a533f1fc&v=v4#RedHatDisplay",
+    "700": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEQ&skey=c8f59bd5a837cea2&v=v4#RedHatDisplay",
+    "900": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEQ&skey=3078815246e0e592&v=v4#RedHatDisplay"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6m&skey=3445dd5b86d56e57&v=v4#RedHatDisplay",
+    "500": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrH&skey=2b96be77f2d66fab&v=v4#RedHatDisplay",
+    "700": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoToRhu0ZKrH&skey=2230f6db327a4dab&v=v4#RedHatDisplay",
+    "900": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoTofhm0ZKrH&skey=dd50e8e3a242d9c7&v=v4#RedHatDisplay"
+  }
+}
