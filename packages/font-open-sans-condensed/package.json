@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-open-sans-condensed",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-open-sans-condensed",
+  "homepage": "https://components.ai/docs/typefaces/open-sans-condensed",
+  "license": "MIT"
 }

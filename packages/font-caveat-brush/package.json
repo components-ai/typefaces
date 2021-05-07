@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-caveat-brush",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-caveat-brush",
+  "homepage": "https://components.ai/docs/typefaces/caveat-brush",
+  "license": "MIT"
 }

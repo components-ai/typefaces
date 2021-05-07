@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-mandali",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-mandali",
+  "homepage": "https://components.ai/docs/typefaces/mandali",
+  "license": "MIT"
 }

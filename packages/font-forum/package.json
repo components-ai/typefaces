@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-forum",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-forum",
+  "homepage": "https://components.ai/docs/typefaces/forum",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-inknut-antiqua",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-inknut-antiqua",
+  "homepage": "https://components.ai/docs/typefaces/inknut-antiqua",
+  "license": "MIT"
 }

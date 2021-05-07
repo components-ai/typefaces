@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-fira-sans-extra-condensed",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-fira-sans-extra-condensed",
+  "homepage": "https://components.ai/docs/typefaces/fira-sans-extra-condensed",
+  "license": "MIT"
 }

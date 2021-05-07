@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-average",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-average",
+  "homepage": "https://components.ai/docs/typefaces/average",
+  "license": "MIT"
 }

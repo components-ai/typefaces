@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-lexend-exa",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-lexend-exa",
+  "homepage": "https://components.ai/docs/typefaces/lexend-exa",
+  "license": "MIT"
 }

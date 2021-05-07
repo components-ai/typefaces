@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-istok-web",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-istok-web",
+  "homepage": "https://components.ai/docs/typefaces/istok-web",
+  "license": "MIT"
 }

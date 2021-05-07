@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-josefin-sans",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-josefin-sans",
+  "homepage": "https://components.ai/docs/typefaces/josefin-sans",
+  "license": "MIT"
 }

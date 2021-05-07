@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-vast-shadow",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-vast-shadow",
+  "homepage": "https://components.ai/docs/typefaces/vast-shadow",
+  "license": "MIT"
 }

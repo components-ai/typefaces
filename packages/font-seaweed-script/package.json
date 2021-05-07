@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-seaweed-script",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-seaweed-script",
+  "homepage": "https://components.ai/docs/typefaces/seaweed-script",
+  "license": "MIT"
 }

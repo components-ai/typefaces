@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-fira-code",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-fira-code",
+  "homepage": "https://components.ai/docs/typefaces/fira-code",
+  "license": "MIT"
 }

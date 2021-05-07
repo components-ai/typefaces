@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-parisienne",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-parisienne",
+  "homepage": "https://components.ai/docs/typefaces/parisienne",
+  "license": "MIT"
 }

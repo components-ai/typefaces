@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-stalemate",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-stalemate",
+  "homepage": "https://components.ai/docs/typefaces/stalemate",
+  "license": "MIT"
 }

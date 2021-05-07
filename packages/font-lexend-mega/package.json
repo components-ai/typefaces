@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-lexend-mega",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-lexend-mega",
+  "homepage": "https://components.ai/docs/typefaces/lexend-mega",
+  "license": "MIT"
 }

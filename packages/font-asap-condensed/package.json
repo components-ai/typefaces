@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-asap-condensed",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-asap-condensed",
+  "homepage": "https://components.ai/docs/typefaces/asap-condensed",
+  "license": "MIT"
 }

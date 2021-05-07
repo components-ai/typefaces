@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-jacques-francois-shadow",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-jacques-francois-shadow",
+  "homepage": "https://components.ai/docs/typefaces/jacques-francois-shadow",
+  "license": "MIT"
 }

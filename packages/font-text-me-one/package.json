@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-text-me-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-text-me-one",
+  "homepage": "https://components.ai/docs/typefaces/text-me-one",
+  "license": "MIT"
 }

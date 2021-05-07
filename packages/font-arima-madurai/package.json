@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-arima-madurai",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-arima-madurai",
+  "homepage": "https://components.ai/docs/typefaces/arima-madurai",
+  "license": "MIT"
 }

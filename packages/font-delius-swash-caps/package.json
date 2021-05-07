@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-delius-swash-caps",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-delius-swash-caps",
+  "homepage": "https://components.ai/docs/typefaces/delius-swash-caps",
+  "license": "MIT"
 }

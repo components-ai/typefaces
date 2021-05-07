@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-habibi",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-habibi",
+  "homepage": "https://components.ai/docs/typefaces/habibi",
+  "license": "MIT"
 }

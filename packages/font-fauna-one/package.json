@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-fauna-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-fauna-one",
+  "homepage": "https://components.ai/docs/typefaces/fauna-one",
+  "license": "MIT"
 }

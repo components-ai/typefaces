@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-headland-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-headland-one",
+  "homepage": "https://components.ai/docs/typefaces/headland-one",
+  "license": "MIT"
 }

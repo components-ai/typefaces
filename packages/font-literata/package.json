@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-literata",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-literata",
+  "homepage": "https://components.ai/docs/typefaces/literata",
+  "license": "MIT"
 }

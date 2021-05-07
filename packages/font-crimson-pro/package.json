@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-crimson-pro",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-crimson-pro",
+  "homepage": "https://components.ai/docs/typefaces/crimson-pro",
+  "license": "MIT"
 }

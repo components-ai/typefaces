@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-kirang-haerang",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-kirang-haerang",
+  "homepage": "https://components.ai/docs/typefaces/kirang-haerang",
+  "license": "MIT"
 }

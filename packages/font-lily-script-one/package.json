@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-lily-script-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-lily-script-one",
+  "homepage": "https://components.ai/docs/typefaces/lily-script-one",
+  "license": "MIT"
 }

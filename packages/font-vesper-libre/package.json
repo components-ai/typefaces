@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-vesper-libre",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-vesper-libre",
+  "homepage": "https://components.ai/docs/typefaces/vesper-libre",
+  "license": "MIT"
 }

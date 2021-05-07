@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-im-fell-french-canon",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-im-fell-french-canon",
+  "homepage": "https://components.ai/docs/typefaces/im-fell-french-canon",
+  "license": "MIT"
 }

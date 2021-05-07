@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-red-hat-display",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-red-hat-display",
+  "homepage": "https://components.ai/docs/typefaces/red-hat-display",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-big-shoulders-display",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-big-shoulders-display",
+  "homepage": "https://components.ai/docs/typefaces/big-shoulders-display",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-miltonian-tattoo",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-miltonian-tattoo",
+  "homepage": "https://components.ai/docs/typefaces/miltonian-tattoo",
+  "license": "MIT"
 }

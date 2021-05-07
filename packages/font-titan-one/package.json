@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-titan-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-titan-one",
+  "homepage": "https://components.ai/docs/typefaces/titan-one",
+  "license": "MIT"
 }

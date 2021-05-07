@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-tillana",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-tillana",
+  "homepage": "https://components.ai/docs/typefaces/tillana",
+  "license": "MIT"
 }

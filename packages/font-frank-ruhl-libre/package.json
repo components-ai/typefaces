@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-frank-ruhl-libre",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-frank-ruhl-libre",
+  "homepage": "https://components.ai/docs/typefaces/frank-ruhl-libre",
+  "license": "MIT"
 }

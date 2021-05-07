@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-nova-cut",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-nova-cut",
+  "homepage": "https://components.ai/docs/typefaces/nova-cut",
+  "license": "MIT"
 }

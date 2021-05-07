@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "yarn build:fonts && yarn build:fonts-list",
+    "build": "yarn build:fonts && yarn build:fonts-list && yarn build:packages",
     "build:fonts": "node scripts/build",
     "build:fonts-list": "node scripts/build-fonts-all",
+    "build:packages": "node scripts/build-package-jsons",
     "changeset": "changeset",
     "release": "changeset publish",
     "version:packages": "yarn changeset version && git add . && git commit -m \"Version Packages\""

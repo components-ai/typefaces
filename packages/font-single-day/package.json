@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-single-day",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-single-day",
+  "homepage": "https://components.ai/docs/typefaces/single-day",
+  "license": "MIT"
 }

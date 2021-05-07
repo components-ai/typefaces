@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-libre-barcode-128-text",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-libre-barcode-128-text",
+  "homepage": "https://components.ai/docs/typefaces/libre-barcode-128-text",
+  "license": "MIT"
 }

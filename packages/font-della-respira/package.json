@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-della-respira",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-della-respira",
+  "homepage": "https://components.ai/docs/typefaces/della-respira",
+  "license": "MIT"
 }

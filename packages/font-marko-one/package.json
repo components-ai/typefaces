@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-marko-one",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-marko-one",
+  "homepage": "https://components.ai/docs/typefaces/marko-one",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-candal",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-candal",
+  "homepage": "https://components.ai/docs/typefaces/candal",
+  "license": "MIT"
 }

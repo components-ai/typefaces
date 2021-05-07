@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-mrs-saint-delafield",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-mrs-saint-delafield",
+  "homepage": "https://components.ai/docs/typefaces/mrs-saint-delafield",
+  "license": "MIT"
 }

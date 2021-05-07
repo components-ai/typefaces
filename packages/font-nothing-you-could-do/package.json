@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-nothing-you-could-do",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-nothing-you-could-do",
+  "homepage": "https://components.ai/docs/typefaces/nothing-you-could-do",
+  "license": "MIT"
 }

@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-life-savers",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-life-savers",
+  "homepage": "https://components.ai/docs/typefaces/life-savers",
+  "license": "MIT"
 }

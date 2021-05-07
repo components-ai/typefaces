@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-zilla-slab",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-zilla-slab",
+  "homepage": "https://components.ai/docs/typefaces/zilla-slab",
+  "license": "MIT"
 }

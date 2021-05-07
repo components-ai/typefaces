@@ -1,4 +1,7 @@
 {
   "name": "@compai/font-give-you-glory",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-give-you-glory",
+  "homepage": "https://components.ai/docs/typefaces/give-you-glory",
+  "license": "MIT"
 }
