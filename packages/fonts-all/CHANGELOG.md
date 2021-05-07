@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.5
+
+### Patch Changes
+
+- b3c24de4: Update font list
+
 ## 0.0.4
 
 ### Patch Changes
