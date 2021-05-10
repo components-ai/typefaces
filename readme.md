@@ -1,3 +1,5 @@
+![Screenshot_2021-05-10 Components AI — A new way to explore generative design systems](https://user-images.githubusercontent.com/1748143/117698111-55099e00-b191-11eb-8bc1-bbdff561cb1a.png)
+
 # [Components AI](https://components.ai) - Typefaces
 
 Collection of [Google fonts](https://fonts.google.com) typeface
