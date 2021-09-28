@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.6
+
+### Patch Changes
+
+- 5a47e79c: include category at top level for fonts data
+
 ## 0.0.5
 
 ### Patch Changes
