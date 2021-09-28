@@ -13,6 +13,7 @@ const googleFonts = require("@compai/fonts/src/data/google-fonts.json");
         packageName: pkgName,
         docs: `https://components.ai/docs/typefaces/${kebab(curr)}`,
         apiEndpoint: `https://components.ai/api/v1/typefaces/${kebab(curr)}`,
+        category: googleFonts[curr].category,
         version: require(`../packages/font-${kebab(curr)}/package.json`)
           .version,
       },
