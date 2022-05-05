@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.7
+
+### Patch Changes
+
+- db85ecfa: Add roboto-flex
+
 ## 0.0.6
 
 ### Patch Changes
