@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Just Another Hand Regular'",
-          "'JustAnotherHand-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG8&skey=519b30e18c44eda6&v=v12#JustAnotherHand",
-          "ttf": "https://fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG0.ttf",
-          "woff": "https://fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG4.woff",
-          "woff2": "https://fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGg.woff2"
+          "eot": "https://fonts.gstatic.com/s/justanotherhand/v19/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG8&skey=519b30e18c44eda6&v=v19#JustAnotherHand",
+          "ttf": "https://fonts.gstatic.com/s/justanotherhand/v19/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG0.ttf",
+          "woff": "https://fonts.gstatic.com/s/justanotherhand/v19/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG4.woff",
+          "woff2": "https://fonts.gstatic.com/s/justanotherhand/v19/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

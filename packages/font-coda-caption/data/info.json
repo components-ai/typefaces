@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "800": {
-        "local": [
-          "'Coda Caption ExtraBold'",
-          "'CodaCaption-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWa.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWZ&skey=c11ca7c94b3d7330&v=v14#CodaCaption",
-          "ttf": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWb.ttf",
-          "woff": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWY.woff",
-          "woff2": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWe.woff2"
+          "eot": "https://fonts.gstatic.com/s/codacaption/v19/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWa.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWZ&skey=c11ca7c94b3d7330&v=v19#CodaCaption",
+          "ttf": "https://fonts.gstatic.com/s/codacaption/v19/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWb.ttf",
+          "woff": "https://fonts.gstatic.com/s/codacaption/v19/ieVm2YRII2GMY7SyXSoDRiQGqcxKzvWY.woff",
+          "woff2": "https://fonts.gstatic.com/s/codacaption/v19/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWe.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "800": {

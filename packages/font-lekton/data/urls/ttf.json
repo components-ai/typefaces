@@ -1,9 +1,9 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUI.ttf"
+    "400": "https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3ltUI.ttf"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3s.ttf",
-    "700": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLT.ttf"
+    "400": "https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuVh3s.ttf",
+    "700": "https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8nGLT.ttf"
   }
 }

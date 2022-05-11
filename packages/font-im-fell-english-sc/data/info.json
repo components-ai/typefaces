@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL English SC'",
-          "'IM_FELL_English_SC'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfellenglishsc/v10/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIL.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIII&skey=44cc57b48745e8ce&v=v10#IMFellEnglishSC",
-          "ttf": "https://fonts.gstatic.com/s/imfellenglishsc/v10/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIK.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfellenglishsc/v10/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIJ.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfellenglishsc/v10/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIP.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIL.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIII&skey=44cc57b48745e8ce&v=v16#IMFellEnglishSC",
+          "ttf": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIK.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIJ.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIP.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

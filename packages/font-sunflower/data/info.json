@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "korean",
     "latin"
@@ -97,47 +97,38 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Sunflower Light'",
-          "'Sunflower-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-06MfSroED.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-06MfSroEA&skey=a8019010739f06d&v=v9#Sunflower",
-          "ttf": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-06MfSroEC.ttf",
-          "woff": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-06MfSroEB.woff",
-          "woff2": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-06MfirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-06MfSroED.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-06MfSroEA&skey=a8019010739f06d&v=v14#Sunflower",
+          "ttf": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-06MfSroEC.ttf",
+          "woff": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-06MfSroEB.woff",
+          "woff2": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-06MfirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Sunflower Medium'",
-          "'Sunflower-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0sMbSroED.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-0sMbSroEA&skey=dc32249520f9343a&v=v9#Sunflower",
-          "ttf": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0sMbSroEC.ttf",
-          "woff": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0sMbSroEB.woff",
-          "woff2": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0sMbirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0sMbSroED.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-0sMbSroEA&skey=dc32249520f9343a&v=v14#Sunflower",
+          "ttf": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0sMbSroEC.ttf",
+          "woff": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0sMbSroEB.woff",
+          "woff2": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0sMbirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sunflower Bold'",
-          "'Sunflower-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0-MDSroED.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-0-MDSroEA&skey=5be87b752f2506c0&v=v9#Sunflower",
-          "ttf": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0-MDSroEC.ttf",
-          "woff": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0-MDSroEB.woff",
-          "woff2": "https://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0-MDirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0-MDSroED.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKeF8fUjqIj7Vc-0-MDSroEA&skey=5be87b752f2506c0&v=v14#Sunflower",
+          "ttf": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0-MDSroEC.ttf",
+          "woff": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0-MDSroEB.woff",
+          "woff2": "https://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0-MDirOMQBm8AZSXxSxgIpkk0e8w0Fyad.119.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "300": {

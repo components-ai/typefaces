@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Swanky and Moo Moo'",
-          "'SwankyandMooMoo'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnh.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrni&skey=1825f7be2ed0907d&v=v10#SwankyandMooMoo",
-          "ttf": "https://fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrng.ttf",
-          "woff": "https://fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnj.woff",
-          "woff2": "https://fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnl.woff2"
+          "eot": "https://fonts.gstatic.com/s/swankyandmoomoo/v22/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnh.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrni&skey=1825f7be2ed0907d&v=v22#SwankyandMooMoo",
+          "ttf": "https://fonts.gstatic.com/s/swankyandmoomoo/v22/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrng.ttf",
+          "woff": "https://fonts.gstatic.com/s/swankyandmoomoo/v22/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnj.woff",
+          "woff2": "https://fonts.gstatic.com/s/swankyandmoomoo/v22/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnl.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

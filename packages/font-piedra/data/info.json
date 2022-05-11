@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Piedra Regular'",
-          "'Piedra-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaC.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8kOg8aN0Bn7hTelUaB&skey=d83c4402d5b65d6a&v=v9#Piedra",
-          "ttf": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaD.ttf",
-          "woff": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaA.woff",
-          "woff2": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTem0aG.woff2"
+          "eot": "https://fonts.gstatic.com/s/piedra/v21/ke8kOg8aN0Bn7hTelUaC.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8kOg8aN0Bn7hTelUaB&skey=d83c4402d5b65d6a&v=v21#Piedra",
+          "ttf": "https://fonts.gstatic.com/s/piedra/v21/ke8kOg8aN0Bn7hTelUaD.ttf",
+          "woff": "https://fonts.gstatic.com/s/piedra/v21/ke8kOg8aN0Bn7hTelUaA.woff",
+          "woff2": "https://fonts.gstatic.com/s/piedra/v21/ke8kOg8aN0Bn7hTem0aG.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

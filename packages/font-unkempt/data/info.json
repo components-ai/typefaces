@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-11",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Unkempt Regular'",
-          "'Unkempt-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unkempt/v12/2EbnL-Z2DFZue0DSeYEV9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-Z2DFZue0DSeYEV9Q&skey=4e89a34edf304e9e&v=v12#Unkempt",
-          "ttf": "https://fonts.gstatic.com/s/unkempt/v12/2EbnL-Z2DFZue0DSeYEV9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/unkempt/v12/2EbnL-Z2DFZue0DSeYEV9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/unkempt/v12/2EbnL-Z2DFZue0DSeYEV8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/unkempt/v19/2EbnL-Z2DFZue0DSeYEV9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-Z2DFZue0DSeYEV9Q&skey=4e89a34edf304e9e&v=v19#Unkempt",
+          "ttf": "https://fonts.gstatic.com/s/unkempt/v19/2EbnL-Z2DFZue0DSeYEV9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/unkempt/v19/2EbnL-Z2DFZue0DSeYEV9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/unkempt/v19/2EbnL-Z2DFZue0DSeYEV8g.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Unkempt Bold'",
-          "'Unkempt-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unkempt/v12/2EbiL-Z2DFZue0DScTow5zK5rg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2EbiL-Z2DFZue0DScTow5zK5rQ&skey=2a41c0828c336d61&v=v12#Unkempt",
-          "ttf": "https://fonts.gstatic.com/s/unkempt/v12/2EbiL-Z2DFZue0DScTow5zK5rw.ttf",
-          "woff": "https://fonts.gstatic.com/s/unkempt/v12/2EbiL-Z2DFZue0DScTow5zK5rA.woff",
-          "woff2": "https://fonts.gstatic.com/s/unkempt/v12/2EbiL-Z2DFZue0DScTow5zK5qg.woff2"
+          "eot": "https://fonts.gstatic.com/s/unkempt/v19/2EbiL-Z2DFZue0DScTow5zK5rg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2EbiL-Z2DFZue0DScTow5zK5rQ&skey=2a41c0828c336d61&v=v19#Unkempt",
+          "ttf": "https://fonts.gstatic.com/s/unkempt/v19/2EbiL-Z2DFZue0DScTow5zK5rw.ttf",
+          "woff": "https://fonts.gstatic.com/s/unkempt/v19/2EbiL-Z2DFZue0DScTow5zK5rA.woff",
+          "woff2": "https://fonts.gstatic.com/s/unkempt/v19/2EbiL-Z2DFZue0DScTow5zK5qg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,5 +1,8 @@
 {
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=4iCt6KZ0a9NXjG8YaCfTtQ&skey=b46a4dce891c78f6&v=v20#Bevan"
+  },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=4iCj6KZ0a9NXjG8TWCw&skey=7503fb07de04c1e8&v=v12#Bevan"
+    "400": "https://fonts.gstatic.com/l/font?kit=4iCj6KZ0a9NXjG8TWCw&skey=7503fb07de04c1e8&v=v20#Bevan"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Oldenburg'",
-          "'Oldenburg-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKWESt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=fC1jPY5JYWzbywv7c4VKWESu&skey=9bde624bd7bf0d51&v=v8#Oldenburg",
-          "ttf": "https://fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKWESs.ttf",
-          "woff": "https://fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKWESv.woff",
-          "woff2": "https://fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKVkSp.woff2"
+          "eot": "https://fonts.gstatic.com/s/oldenburg/v20/fC1jPY5JYWzbywv7c4VKWESt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=fC1jPY5JYWzbywv7c4VKWESu&skey=9bde624bd7bf0d51&v=v20#Oldenburg",
+          "ttf": "https://fonts.gstatic.com/s/oldenburg/v20/fC1jPY5JYWzbywv7c4VKWESs.ttf",
+          "woff": "https://fonts.gstatic.com/s/oldenburg/v20/fC1jPY5JYWzbywv7c4VKWESv.woff",
+          "woff2": "https://fonts.gstatic.com/s/oldenburg/v20/fC1jPY5JYWzbywv7c4VKVkSp.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 125,
             "x_max": 1030,
             "o": "m 758 527 l 758 527 q 806 477 806 527 l 806 477 q 717 347 806 408 q 530 286 627 286 l 530 286 q 236 397 347 286 q 125 674 125 508 q 251 954 125 840 q 571 1068 377 1068 q 898 934 765 1068 q 1030 575 1030 800 l 1030 575 q 948 284 1030 418 q 733 70 866 149 q 458 -10 600 -10 l 458 -10 q 330 35 353 -10 l 330 35 q 323 70 323 48 q 345 109 323 91 q 392 127 366 127 q 450 120 417 127 q 501 114 482 114 q 543 115 520 114 q 610 132 566 116 l 610 132 q 846 342 758 186 l 846 342 q 905 553 905 444 l 905 553 q 804 858 905 753 q 546 962 703 962 l 546 962 q 335 876 425 962 q 245 667 245 789 q 324 469 245 544 q 519 394 404 394 l 519 394 q 663 442 597 394 l 663 442 q 701 483 684 458 q 730 518 718 509 q 758 527 742 527 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 581,

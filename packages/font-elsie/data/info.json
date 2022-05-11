@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Elsie Regular'",
-          "'Elsie-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYn_Mw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BCanqZABrez54xYn_M8&skey=f3b82328fc9a0e44&v=v10#Elsie",
-          "ttf": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYn_M0.ttf",
-          "woff": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYn_M4.woff",
-          "woff2": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_Mg.woff2"
+          "eot": "https://fonts.gstatic.com/s/elsie/v12/BCanqZABrez54xYn_Mw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BCanqZABrez54xYn_M8&skey=f3b82328fc9a0e44&v=v12#Elsie",
+          "ttf": "https://fonts.gstatic.com/s/elsie/v12/BCanqZABrez54xYn_M0.ttf",
+          "woff": "https://fonts.gstatic.com/s/elsie/v12/BCanqZABrez54xYn_M4.woff",
+          "woff2": "https://fonts.gstatic.com/s/elsie/v12/BCanqZABrez54xYp_Mg.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Elsie Black'",
-          "'Elsie-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291BWaE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BCaqqZABrez54x6q291BWaI&skey=c81378f431f562b8&v=v10#Elsie",
-          "ttf": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291BWaA.ttf",
-          "woff": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291BWaM.woff",
-          "woff2": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaU.woff2"
+          "eot": "https://fonts.gstatic.com/s/elsie/v12/BCaqqZABrez54x6q291BWaE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BCaqqZABrez54x6q291BWaI&skey=c81378f431f562b8&v=v12#Elsie",
+          "ttf": "https://fonts.gstatic.com/s/elsie/v12/BCaqqZABrez54x6q291BWaA.ttf",
+          "woff": "https://fonts.gstatic.com/s/elsie/v12/BCaqqZABrez54x6q291BWaM.woff",
+          "woff2": "https://fonts.gstatic.com/s/elsie/v12/BCaqqZABrez54x6q291PWaU.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {
@@ -635,7 +629,7 @@
           "£": {
             "ha": 665,
             "x_min": 28,
-            "x_max": 610,
+            "x_max": 608,
             "o": "m 353 169 l 353 169 l 351 149 q 461 121 417 121 l 461 121 q 583 225 574 121 l 583 225 l 608 225 q 608 185 608 213 q 600 114 608 158 q 556 28 592 69 q 461 -14 519 -14 l 461 -14 q 306 60 376 -14 l 306 60 q 160 1 247 1 l 160 1 q 69 28 110 1 q 28 101 28 56 q 67 177 28 147 q 164 207 106 207 q 285 178 222 207 l 285 178 q 253 239 275 215 l 253 239 q 169 322 207 292 l 169 322 l 67 322 l 67 351 l 142 351 q 78 514 78 422 q 158 657 78 606 q 343 708 238 708 q 509 665 449 708 q 569 540 569 621 l 569 540 q 544 472 569 499 q 481 444 519 444 q 419 466 443 444 q 394 520 394 488 q 413 573 394 553 q 463 593 432 593 l 463 593 q 518 554 510 593 l 518 554 q 531 542 519 542 q 543 554 543 542 l 543 554 q 501 641 543 601 q 382 681 458 681 q 266 635 306 681 q 226 510 226 590 q 278 351 226 431 l 278 351 l 478 351 l 478 322 l 297 322 q 353 169 353 238 z m 158 26 l 158 26 q 276 90 244 26 l 276 90 q 144 157 213 157 l 144 157 q 85 137 106 157 q 64 90 64 117 q 89 45 64 64 q 158 26 114 26 z "
           },
           "¤": {
@@ -1507,13 +1501,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.002;UKWN;Elsie-Regular"
+            "en": "1.003;UKWN;Elsie-Regular"
           },
           "fullName": {
             "en": "Elsie Regular"
           },
           "version": {
-            "en": "1.002"
+            "en": "1.003"
           },
           "postScriptName": {
             "en": "Elsie-Regular"

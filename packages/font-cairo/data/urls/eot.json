@@ -1,10 +1,12 @@
 {
   "normal": {
-    "200": "https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalrub46F59I.eot",
-    "300": "https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqKbI6F59I.eot",
-    "400": "https://fonts.gstatic.com/s/cairo/v9/SLXGc1nY6HkvalIvTp8.eot",
-    "600": "https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalr-ao6F59I.eot",
-    "700": "https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalqaa46F59I.eot",
-    "900": "https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqiaY6F59I.eot"
+    "200": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5l2WgcSCyW.eot",
+    "300": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5lB2gcSCyW.eot",
+    "400": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcSCyW.eot",
+    "500": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5la2gcSCyW.eot",
+    "600": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5lh28cSCyW.eot",
+    "700": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5lvm8cSCyW.eot",
+    "800": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5l2W8cSCyW.eot",
+    "900": "https://fonts.gstatic.com/s/cairo/v18/SLXVc1nY6HkvangtZmpcWmhzfH5l8G8cSCyW.eot"
   }
 }

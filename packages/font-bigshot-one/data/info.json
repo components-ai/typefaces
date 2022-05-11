@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bigshot One Regular'",
-          "'BigshotOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-470qukhRkkO6BD_7cM_jxpWwQ&skey=4a9efbaa7702e0cd&v=v11#BigshotOne",
-          "ttf": "https://fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwY.ttf",
-          "woff": "https://fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwU.woff",
-          "woff2": "https://fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwM.woff2"
+          "eot": "https://fonts.gstatic.com/s/bigshotone/v25/u-470qukhRkkO6BD_7cM_jxpWwc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-470qukhRkkO6BD_7cM_jxpWwQ&skey=4a9efbaa7702e0cd&v=v25#BigshotOne",
+          "ttf": "https://fonts.gstatic.com/s/bigshotone/v25/u-470qukhRkkO6BD_7cM_jxpWwY.ttf",
+          "woff": "https://fonts.gstatic.com/s/bigshotone/v25/u-470qukhRkkO6BD_7cM_jxpWwU.woff",
+          "woff2": "https://fonts.gstatic.com/s/bigshotone/v25/u-470qukhRkkO6BD_7cM_jxpWwM.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

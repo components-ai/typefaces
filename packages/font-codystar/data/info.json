@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Codystar Light'",
-          "'Codystar-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZf7-Q1xVk-40qxOuYsytyihUE&skey=6c4a048055cc7f7b&v=v8#Codystar",
-          "ttf": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUM.ttf",
-          "woff": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUA.woff",
-          "woff2": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyshUY.woff2"
+          "eot": "https://fonts.gstatic.com/s/codystar/v15/FwZf7-Q1xVk-40qxOuYsytyihUI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZf7-Q1xVk-40qxOuYsytyihUE&skey=6c4a048055cc7f7b&v=v15#Codystar",
+          "ttf": "https://fonts.gstatic.com/s/codystar/v15/FwZf7-Q1xVk-40qxOuYsytyihUM.ttf",
+          "woff": "https://fonts.gstatic.com/s/codystar/v15/FwZf7-Q1xVk-40qxOuYsytyihUA.woff",
+          "woff2": "https://fonts.gstatic.com/s/codystar/v15/FwZf7-Q1xVk-40qxOuYsytyshUY.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Codystar'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q1xVk-40qxOu6J6M4&skey=5d796f9025f59d2&v=v8#Codystar",
-          "ttf": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6Mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M8.woff",
-          "woff2": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6H6Mk.woff2"
+          "eot": "https://fonts.gstatic.com/s/codystar/v15/FwZY7-Q1xVk-40qxOu6J6M0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q1xVk-40qxOu6J6M4&skey=5d796f9025f59d2&v=v15#Codystar",
+          "ttf": "https://fonts.gstatic.com/s/codystar/v15/FwZY7-Q1xVk-40qxOu6J6Mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/codystar/v15/FwZY7-Q1xVk-40qxOu6J6M8.woff",
+          "woff2": "https://fonts.gstatic.com/s/codystar/v15/FwZY7-Q1xVk-40qxOu6H6Mk.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "300": {

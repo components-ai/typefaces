@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Risque'",
-          "'Risque-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYAEwQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYAEwT&skey=7de61f5b97e020bc&v=v8#Risque",
-          "ttf": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYAEwR.ttf",
-          "woff": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYAEwS.woff",
-          "woff2": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwU.woff2"
+          "eot": "https://fonts.gstatic.com/s/risque/v20/VdGfAZUfHosahXxYAEwQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYAEwT&skey=7de61f5b97e020bc&v=v20#Risque",
+          "ttf": "https://fonts.gstatic.com/s/risque/v20/VdGfAZUfHosahXxYAEwR.ttf",
+          "woff": "https://fonts.gstatic.com/s/risque/v20/VdGfAZUfHosahXxYAEwS.woff",
+          "woff2": "https://fonts.gstatic.com/s/risque/v20/VdGfAZUfHosahXxYDkwU.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

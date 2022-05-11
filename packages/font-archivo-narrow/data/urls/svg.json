@@ -1,14 +1,14 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXB62Q&skey=ec1fde26e7c4f98c&v=v12#ArchivoNarrow",
-    "500": "https://fonts.gstatic.com/l/font?kit=tssxApVBdCYD5Q7hcxTE1ArZ0bb1sY1Zy94IPQ&skey=9262d601b46d99ee&v=v12#ArchivoNarrow",
-    "600": "https://fonts.gstatic.com/l/font?kit=tssxApVBdCYD5Q7hcxTE1ArZ0bb1saFey94IPQ&skey=781263cf12939840&v=v12#ArchivoNarrow",
-    "700": "https://fonts.gstatic.com/l/font?kit=tssxApVBdCYD5Q7hcxTE1ArZ0bb1scVfy94IPQ&skey=6e161893db35d59a&v=v12#ArchivoNarrow"
+    "400": "https://fonts.gstatic.com/l/font?kit=tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJi50mgPCc&skey=ec1fde26e7c4f98c&v=v22#ArchivoNarrow",
+    "500": "https://fonts.gstatic.com/l/font?kit=tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJQ50mgPCc&skey=ec1fde26e7c4f98c&v=v22#ArchivoNarrow",
+    "600": "https://fonts.gstatic.com/l/font?kit=tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BK84EmgPCc&skey=ec1fde26e7c4f98c&v=v22#ArchivoNarrow",
+    "700": "https://fonts.gstatic.com/l/font?kit=tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BKF4EmgPCc&skey=ec1fde26e7c4f98c&v=v22#ArchivoNarrow"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=tss0ApVBdCYD5Q7hcxTE1ArZ0bb-iXs&skey=345333fd7197b162&v=v12#ArchivoNarrow",
-    "500": "https://fonts.gstatic.com/l/font?kit=tss3ApVBdCYD5Q7hcxTE1ArZ0b4DqmlT-9U&skey=1d56e30506958c57&v=v12#ArchivoNarrow",
-    "600": "https://fonts.gstatic.com/l/font?kit=tss3ApVBdCYD5Q7hcxTE1ArZ0b4vrWlT-9U&skey=eefce3389ee8b5e5&v=v12#ArchivoNarrow",
-    "700": "https://fonts.gstatic.com/l/font?kit=tss3ApVBdCYD5Q7hcxTE1ArZ0b5LrGlT-9U&skey=3f6673ee0dfa8685&v=v12#ArchivoNarrow"
+    "400": "https://fonts.gstatic.com/l/font?kit=tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvLFG6rXmr&skey=345333fd7197b162&v=v22#ArchivoNarrow",
+    "500": "https://fonts.gstatic.com/l/font?kit=tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvHlG6rXmr&skey=345333fd7197b162&v=v22#ArchivoNarrow",
+    "600": "https://fonts.gstatic.com/l/font?kit=tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhv8la6rXmr&skey=345333fd7197b162&v=v22#ArchivoNarrow",
+    "700": "https://fonts.gstatic.com/l/font?kit=tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvy1a6rXmr&skey=345333fd7197b162&v=v22#ArchivoNarrow"
   }
 }

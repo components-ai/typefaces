@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Milonga'",
-          "'Milonga-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzTMlA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHnIaK9W5kfTzTMlw&skey=db6287e2596efbcb&v=v8#Milonga",
-          "ttf": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzTMlQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzTMlg.woff",
-          "woff2": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMkA.woff2"
+          "eot": "https://fonts.gstatic.com/s/milonga/v20/SZc53FHnIaK9W5kfTzTMlA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHnIaK9W5kfTzTMlw&skey=db6287e2596efbcb&v=v20#Milonga",
+          "ttf": "https://fonts.gstatic.com/s/milonga/v20/SZc53FHnIaK9W5kfTzTMlQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/milonga/v20/SZc53FHnIaK9W5kfTzTMlg.woff",
+          "woff2": "https://fonts.gstatic.com/s/milonga/v20/SZc53FHnIaK9W5kfTzrMkA.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

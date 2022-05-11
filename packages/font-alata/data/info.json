@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Alata Regular'",
-          "'Alata-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIocezzqI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIocezzqE&skey=8b3803308a257846&v=v2#Alata",
-          "ttf": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIocezzqM.ttf",
-          "woff": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIocezzqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoce9zqY.woff2"
+          "eot": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIocezzqI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIocezzqE&skey=8b3803308a257846&v=v9#Alata",
+          "ttf": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIocezzqM.ttf",
+          "woff": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIocezzqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIoce9zqY.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v9",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,9 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdObFn.woff2",
-    "700": "https://fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGZCNc.woff2"
+    "100": "https://fonts.gstatic.com/s/hanuman/v22/VuJzdNvD15HhpJJBQMLtO6lj.woff2",
+    "300": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQAr_LI5GZA.woff2",
+    "400": "https://fonts.gstatic.com/s/hanuman/v22/VuJxdNvD15HhpJJBSKHdOQ.woff2",
+    "700": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQBr4LI5GZA.woff2",
+    "900": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQCL6LI5GZA.woff2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Supermercado One Regular'",
-          "'SupermercadoOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/supermercadoone/v10/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9NQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9Ng&skey=de09a3ce18c9e16d&v=v10#SupermercadoOne",
-          "ttf": "https://fonts.gstatic.com/s/supermercadoone/v10/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9NA.ttf",
-          "woff": "https://fonts.gstatic.com/s/supermercadoone/v10/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9Nw.woff",
-          "woff2": "https://fonts.gstatic.com/s/supermercadoone/v10/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9MQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/supermercadoone/v22/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9NQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9Ng&skey=de09a3ce18c9e16d&v=v22#SupermercadoOne",
+          "ttf": "https://fonts.gstatic.com/s/supermercadoone/v22/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9NA.ttf",
+          "woff": "https://fonts.gstatic.com/s/supermercadoone/v22/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9Nw.woff",
+          "woff2": "https://fonts.gstatic.com/s/supermercadoone/v22/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9MQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 106,
             "x_max": 587,
             "o": "m 332 0 l 309 0 q 266 18 284 0 q 248 55 248 36 q 253 84 248 73 q 266 104 258 96 l 266 104 q 308 122 286 122 q 351 133 330 122 q 389 165 372 144 l 389 165 q 427 300 427 213 l 427 300 l 427 353 q 419 370 427 366 q 406 374 412 374 q 393 369 399 374 l 393 369 l 382 357 q 276 311 336 311 l 276 311 q 155 370 203 311 l 155 370 q 106 512 106 429 l 106 512 l 106 736 q 168 880 106 827 l 168 880 q 347 935 233 935 l 347 935 q 524 880 459 935 l 524 880 q 587 734 587 827 l 587 734 l 587 307 q 525 95 587 180 l 525 95 q 332 0 454 0 l 332 0 z m 267 732 l 267 514 q 283 463 267 480 l 283 463 q 338 433 313 433 q 377 438 363 433 q 403 453 391 444 l 403 453 q 427 506 427 473 l 427 506 l 427 732 q 410 783 427 766 l 410 783 q 347 813 380 813 l 347 813 q 296 796 313 813 l 296 796 q 267 732 267 766 l 267 732 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 348,

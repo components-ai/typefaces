@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Architects Daughter Regular'",
-          "'ArchitectsDaughter-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/architectsdaughter/v11/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5A&skey=d34ee9a1a308e98b&v=v11#ArchitectsDaughter",
-          "ttf": "https://fonts.gstatic.com/s/architectsdaughter/v11/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf",
-          "woff": "https://fonts.gstatic.com/s/architectsdaughter/v11/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/architectsdaughter/v11/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2"
+          "eot": "https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5A&skey=d34ee9a1a308e98b&v=v18#ArchitectsDaughter",
+          "ttf": "https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf",
+          "woff": "https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

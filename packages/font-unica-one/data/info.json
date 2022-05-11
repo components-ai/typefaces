@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Unica One'",
-          "'UnicaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRf93a.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DPEuYwWHyAYGVTSmalsRf93Z&skey=95c90eaca39f67c7&v=v8#UnicaOne",
-          "ttf": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRf93b.ttf",
-          "woff": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRf93Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRcd3e.woff2"
+          "eot": "https://fonts.gstatic.com/s/unicaone/v13/DPEuYwWHyAYGVTSmalsRf93a.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DPEuYwWHyAYGVTSmalsRf93Z&skey=95c90eaca39f67c7&v=v13#UnicaOne",
+          "ttf": "https://fonts.gstatic.com/s/unicaone/v13/DPEuYwWHyAYGVTSmalsRf93b.ttf",
+          "woff": "https://fonts.gstatic.com/s/unicaone/v13/DPEuYwWHyAYGVTSmalsRf93Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/unicaone/v13/DPEuYwWHyAYGVTSmalsRcd3e.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

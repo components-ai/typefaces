@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,62 +12,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Unna Italic'",
-          "'Unna-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unna/v15/AYCKpXzofN0NOpo7mUnC.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpXzofN0NOpo7mUnB&skey=13632e61d3fe2940&v=v15#Unna",
-          "ttf": "https://fonts.gstatic.com/s/unna/v15/AYCKpXzofN0NOpo7mUnD.ttf",
-          "woff": "https://fonts.gstatic.com/s/unna/v15/AYCKpXzofN0NOpo7mUnA.woff",
-          "woff2": "https://fonts.gstatic.com/s/unna/v15/AYCKpXzofN0NOpo7l0nG.woff2"
+          "eot": "https://fonts.gstatic.com/s/unna/v21/AYCKpXzofN0NOpo7mUnC.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpXzofN0NOpo7mUnB&skey=13632e61d3fe2940&v=v21#Unna",
+          "ttf": "https://fonts.gstatic.com/s/unna/v21/AYCKpXzofN0NOpo7mUnD.ttf",
+          "woff": "https://fonts.gstatic.com/s/unna/v21/AYCKpXzofN0NOpo7mUnA.woff",
+          "woff2": "https://fonts.gstatic.com/s/unna/v21/AYCKpXzofN0NOpo7l0nG.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Unna Bold Italic'",
-          "'Unna-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unna/v15/AYCJpXzofN0NOpozLGzTSXJr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpXzofN0NOpozLGzTSXJo&skey=2a0d54bc708d9e1e&v=v15#Unna",
-          "ttf": "https://fonts.gstatic.com/s/unna/v15/AYCJpXzofN0NOpozLGzTSXJq.ttf",
-          "woff": "https://fonts.gstatic.com/s/unna/v15/AYCJpXzofN0NOpozLGzTSXJp.woff",
-          "woff2": "https://fonts.gstatic.com/s/unna/v15/AYCJpXzofN0NOpozLGzTR3Jv.woff2"
+          "eot": "https://fonts.gstatic.com/s/unna/v21/AYCJpXzofN0NOpozLGzTSXJr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpXzofN0NOpozLGzTSXJo&skey=2a0d54bc708d9e1e&v=v21#Unna",
+          "ttf": "https://fonts.gstatic.com/s/unna/v21/AYCJpXzofN0NOpozLGzTSXJq.ttf",
+          "woff": "https://fonts.gstatic.com/s/unna/v21/AYCJpXzofN0NOpozLGzTSXJp.woff",
+          "woff2": "https://fonts.gstatic.com/s/unna/v21/AYCJpXzofN0NOpozLGzTR3Jv.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Unna Regular'",
-          "'Unna-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unna/v15/AYCEpXzofN0NOpELkQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCEpXzofN0NOpELkg&skey=4c3f7261c89835bf&v=v15#Unna",
-          "ttf": "https://fonts.gstatic.com/s/unna/v15/AYCEpXzofN0NOpELkA.ttf",
-          "woff": "https://fonts.gstatic.com/s/unna/v15/AYCEpXzofN0NOpELkw.woff",
-          "woff2": "https://fonts.gstatic.com/s/unna/v15/AYCEpXzofN0NOp8LlQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/unna/v21/AYCEpXzofN0NOpELkQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCEpXzofN0NOpELkg&skey=4c3f7261c89835bf&v=v21#Unna",
+          "ttf": "https://fonts.gstatic.com/s/unna/v21/AYCEpXzofN0NOpELkA.ttf",
+          "woff": "https://fonts.gstatic.com/s/unna/v21/AYCEpXzofN0NOpELkw.woff",
+          "woff2": "https://fonts.gstatic.com/s/unna/v21/AYCEpXzofN0NOp8LlQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Unna Bold'",
-          "'Unna-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unna/v15/AYCLpXzofN0NMiQugGDjQQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCLpXzofN0NMiQugGDjQg&skey=d1cba694e6c25c94&v=v15#Unna",
-          "ttf": "https://fonts.gstatic.com/s/unna/v15/AYCLpXzofN0NMiQugGDjQA.ttf",
-          "woff": "https://fonts.gstatic.com/s/unna/v15/AYCLpXzofN0NMiQugGDjQw.woff",
-          "woff2": "https://fonts.gstatic.com/s/unna/v15/AYCLpXzofN0NMiQugG7jRQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/unna/v21/AYCLpXzofN0NMiQugGDjQQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCLpXzofN0NMiQugGDjQg&skey=d1cba694e6c25c94&v=v21#Unna",
+          "ttf": "https://fonts.gstatic.com/s/unna/v21/AYCLpXzofN0NMiQugGDjQA.ttf",
+          "woff": "https://fonts.gstatic.com/s/unna/v21/AYCLpXzofN0NMiQugGDjQw.woff",
+          "woff2": "https://fonts.gstatic.com/s/unna/v21/AYCLpXzofN0NMiQugG7jRQ.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v21",
   "typefaces": {
     "italic": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Chonburi'",
-          "'Chonburi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWTHLg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8AtqGs-wOpGRTBq66LWTHLs&skey=c7df2cb94921e7b4&v=v5#Chonburi",
-          "ttf": "https://fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWTHLk.ttf",
-          "woff": "https://fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWTHLo.woff",
-          "woff2": "https://fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWdHLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/chonburi/v10/8AtqGs-wOpGRTBq66LWTHLg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8AtqGs-wOpGRTBq66LWTHLs&skey=c7df2cb94921e7b4&v=v10#Chonburi",
+          "ttf": "https://fonts.gstatic.com/s/chonburi/v10/8AtqGs-wOpGRTBq66LWTHLk.ttf",
+          "woff": "https://fonts.gstatic.com/s/chonburi/v10/8AtqGs-wOpGRTBq66LWTHLo.woff",
+          "woff2": "https://fonts.gstatic.com/s/chonburi/v10/8AtqGs-wOpGRTBq66LWdHLw.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

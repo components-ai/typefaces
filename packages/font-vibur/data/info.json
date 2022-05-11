@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vibur'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJD8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DPEiYwmEzw0QRgTuJDw&skey=78db927127d153c7&v=v11#Vibur",
-          "ttf": "https://fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJD4.ttf",
-          "woff": "https://fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJD0.woff",
-          "woff2": "https://fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJDs.woff2"
+          "eot": "https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRgTuJD8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DPEiYwmEzw0QRgTuJDw&skey=78db927127d153c7&v=v23#Vibur",
+          "ttf": "https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRgTuJD4.ttf",
+          "woff": "https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRgTuJD0.woff",
+          "woff2": "https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRgTuJDs.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

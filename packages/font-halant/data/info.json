@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Halant Light'",
-          "'Halant-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pykgxv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2Pbsvc_pykgxs&skey=9ff3b9b305c6e001&v=v8#Halant",
-          "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pykgxu.ttf",
-          "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pykgxt.woff",
-          "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pynAxr.woff2"
+          "eot": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2Pbsvc_pykgxv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2Pbsvc_pykgxs&skey=9ff3b9b305c6e001&v=v13#Halant",
+          "ttf": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2Pbsvc_pykgxu.ttf",
+          "woff": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2Pbsvc_pykgxt.woff",
+          "woff2": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2Pbsvc_pynAxr.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Halant Regular'",
-          "'Halant-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn1thj.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4-0qaujRI2Pbsn1thg&skey=1d23a673749ae7ff&v=v8#Halant",
-          "ttf": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn1thi.ttf",
-          "woff": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn1thh.woff",
-          "woff2": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn2Nhn.woff2"
+          "eot": "https://fonts.gstatic.com/s/halant/v13/u-4-0qaujRI2Pbsn1thj.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4-0qaujRI2Pbsn1thg&skey=1d23a673749ae7ff&v=v13#Halant",
+          "ttf": "https://fonts.gstatic.com/s/halant/v13/u-4-0qaujRI2Pbsn1thi.ttf",
+          "woff": "https://fonts.gstatic.com/s/halant/v13/u-4-0qaujRI2Pbsn1thh.woff",
+          "woff2": "https://fonts.gstatic.com/s/halant/v13/u-4-0qaujRI2Pbsn2Nhn.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Halant Medium'",
-          "'Halant-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tykgxv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvK_tykgxs&skey=156a3c14db18c3e0&v=v8#Halant",
-          "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tykgxu.ttf",
-          "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tykgxt.woff",
-          "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tynAxr.woff2"
+          "eot": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvK_tykgxv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvK_tykgxs&skey=156a3c14db18c3e0&v=v13#Halant",
+          "ttf": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvK_tykgxu.ttf",
+          "woff": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvK_tykgxt.woff",
+          "woff2": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvK_tynAxr.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Halant SemiBold'",
-          "'Halant-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xykgxv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvB_xykgxs&skey=398f3452b33c6ab0&v=v8#Halant",
-          "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xykgxu.ttf",
-          "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xykgxt.woff",
-          "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xynAxr.woff2"
+          "eot": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvB_xykgxv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvB_xykgxs&skey=398f3452b33c6ab0&v=v13#Halant",
+          "ttf": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvB_xykgxu.ttf",
+          "woff": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvB_xykgxt.woff",
+          "woff2": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvB_xynAxr.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Halant Bold'",
-          "'Halant-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ykgxv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvY_1ykgxs&skey=c35b97d69a3e339d&v=v8#Halant",
-          "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ykgxu.ttf",
-          "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ykgxt.woff",
-          "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ynAxr.woff2"
+          "eot": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvY_1ykgxv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvY_1ykgxs&skey=c35b97d69a3e339d&v=v13#Halant",
+          "ttf": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvY_1ykgxu.ttf",
+          "woff": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvY_1ykgxt.woff",
+          "woff2": "https://fonts.gstatic.com/s/halant/v13/u-490qaujRI2PbsvY_1ynAxr.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "300": {

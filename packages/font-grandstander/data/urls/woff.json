@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zrsu_lE.woff",
-    "200": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzvsu_lE.woff",
-    "300": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9uTvsu_lE.woff",
-    "400": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zvsu_lE.woff",
-    "500": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf91Tvsu_lE.woff",
-    "600": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9OTzsu_lE.woff",
-    "700": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ADzsu_lE.woff",
-    "800": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzzsu_lE.woff",
-    "900": "https://fonts.gstatic.com/s/grandstander/v2/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Tjzsu_lE.woff"
+    "100": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zrsu_lE.woff",
+    "200": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzvsu_lE.woff",
+    "300": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9uTvsu_lE.woff",
+    "400": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zvsu_lE.woff",
+    "500": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf91Tvsu_lE.woff",
+    "600": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9OTzsu_lE.woff",
+    "700": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ADzsu_lE.woff",
+    "800": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Zzzsu_lE.woff",
+    "900": "https://fonts.gstatic.com/s/grandstander/v10/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9Tjzsu_lE.woff"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1-_P3HcsQ.woff",
-    "200": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9--P3HcsQ.woff",
-    "300": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-P3HcsQ.woff",
-    "400": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3HcsQ.woff",
-    "500": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-P3HcsQ.woff",
-    "600": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5P3HcsQ.woff",
-    "700": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5P3HcsQ.woff",
-    "800": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5P3HcsQ.woff",
-    "900": "https://fonts.gstatic.com/s/grandstander/v2/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5P3HcsQ.woff"
+    "100": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1-_P3HcsQ.woff",
+    "200": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9--P3HcsQ.woff",
+    "300": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-P3HcsQ.woff",
+    "400": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3HcsQ.woff",
+    "500": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-P3HcsQ.woff",
+    "600": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5P3HcsQ.woff",
+    "700": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5P3HcsQ.woff",
+    "800": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5P3HcsQ.woff",
+    "900": "https://fonts.gstatic.com/s/grandstander/v10/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5P3HcsQ.woff"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-05-10",
   "subsets": [
     "korean",
     "latin"
@@ -102,32 +102,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'NanumGothicCoding'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Uw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UA&skey=252a63b28c363963&v=v14#NanumGothicCoding",
-          "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Ug.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROwsy6FZQM9Ynbkmi96slCI8cUV15P99pg.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Uw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UA&skey=252a63b28c363963&v=v19#NanumGothicCoding",
+          "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Ug.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIVdjzHisX_8vv59_xMxtPFW4IXROwsy6FZQM9Ynbkmi96slCI8cUV15P99pg.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'NanumGothicCoding-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29A&skey=5068284840382792&v=v14#NanumGothicCoding",
-          "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29g.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgecsAU5NxahdCwric3SEBl7uoYyrp7XQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29A&skey=5068284840382792&v=v19#NanumGothicCoding",
+          "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29g.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v19/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgecsAU5NxahdCwric3SEBl7uoYyrp7XQ.119.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

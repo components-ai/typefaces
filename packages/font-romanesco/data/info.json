@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Romanesco'",
-          "'Romanesco-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2ozQOY7_r_J7mSX1XYN&skey=dce06ed1e7f19359&v=v9#Romanesco",
-          "ttf": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYP.ttf",
-          "woff": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYM.woff",
-          "woff2": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX23YK.woff2"
+          "eot": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX1XYO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2ozQOY7_r_J7mSX1XYN&skey=dce06ed1e7f19359&v=v21#Romanesco",
+          "ttf": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX1XYP.ttf",
+          "woff": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX1XYM.woff",
+          "woff2": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX23YK.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

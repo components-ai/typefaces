@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "gujarati",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kumar One'",
-          "'KumarOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2PeST.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGe2PeSQ&skey=eb34840884e61733&v=v5#KumarOne",
-          "ttf": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2PeSS.ttf",
-          "woff": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2PeSR.woff",
-          "woff2": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2M-SX.woff2"
+          "eot": "https://fonts.gstatic.com/s/kumarone/v17/bMr1mS-P958wYi6YaGe2PeST.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGe2PeSQ&skey=eb34840884e61733&v=v17#KumarOne",
+          "ttf": "https://fonts.gstatic.com/s/kumarone/v17/bMr1mS-P958wYi6YaGe2PeSS.ttf",
+          "woff": "https://fonts.gstatic.com/s/kumarone/v17/bMr1mS-P958wYi6YaGe2PeSR.woff",
+          "woff2": "https://fonts.gstatic.com/s/kumarone/v17/bMr1mS-P958wYi6YaGe2M-SX.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {
@@ -98,6 +95,18 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "અ": {
+            "ha": 1488,
+            "x_min": 69,
+            "x_max": 1501,
+            "o": "m 1390 56 l 1501 56 l 1501 0 l 1200 0 l 1071 129 l 1071 472 l 911 472 l 911 240 l 782 111 l 282 111 l 167 226 l 167 472 l 69 472 l 69 528 l 417 528 l 417 889 l 299 889 l 201 792 l 158 835 l 268 944 l 614 944 l 729 829 l 729 588 l 614 472 l 479 472 l 479 167 l 751 167 l 849 264 l 849 694 l 911 694 l 911 528 l 1071 528 l 1071 889 l 960 889 l 960 944 l 1261 944 l 1390 815 l 1390 56 z "
+          },
+          "આ": {
+            "ha": 2001,
+            "x_min": 69,
+            "x_max": 2015,
+            "o": "m 1390 56 l 1501 56 l 1501 0 l 1200 0 l 1071 129 l 1071 472 l 911 472 l 911 240 l 782 111 l 282 111 l 167 226 l 167 472 l 69 472 l 69 528 l 417 528 l 417 889 l 299 889 l 201 792 l 158 835 l 268 944 l 614 944 l 729 829 l 729 588 l 614 472 l 479 472 l 479 167 l 751 167 l 849 264 l 849 694 l 911 694 l 911 528 l 1071 528 l 1071 889 l 960 889 l 960 944 l 1261 944 l 1390 815 l 1390 56 z m 1714 0 l 1585 129 l 1585 889 l 1474 889 l 1474 944 l 1775 944 l 1904 815 l 1904 56 l 2015 56 l 2015 0 l 1714 0 z "
           },
           "₹": {
             "ha": 951,

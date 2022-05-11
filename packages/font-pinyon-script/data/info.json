@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pinyon Script'",
-          "'PinyonScript'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6xKpdSJbL9-e9LuoeQiDRQR8WOXaPQ&skey=1c8692ba3eab87&v=v11#PinyonScript",
-          "ttf": "https://fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf",
-          "woff": "https://fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff",
-          "woff2": "https://fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2"
+          "eot": "https://fonts.gstatic.com/s/pinyonscript/v16/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6xKpdSJbL9-e9LuoeQiDRQR8WOXaPQ&skey=1c8692ba3eab87&v=v16#PinyonScript",
+          "ttf": "https://fonts.gstatic.com/s/pinyonscript/v16/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf",
+          "woff": "https://fonts.gstatic.com/s/pinyonscript/v16/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff",
+          "woff2": "https://fonts.gstatic.com/s/pinyonscript/v16/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 99,
             "x_max": 873,
             "o": "m 774 563 l 774 563 q 488 386 620 386 l 488 386 q 350 437 401 386 l 350 437 q 307 581 296 492 l 307 581 q 374 765 317 675 l 374 765 q 598 941 458 896 l 598 941 q 694 955 643 955 q 787 937 746 955 q 854 886 829 920 l 854 886 q 873 572 932 785 l 873 572 q 675 209 817 370 l 675 209 q 460 38 578 96 l 460 38 q 290 -1 380 -1 l 290 -1 q 151 39 205 -1 l 151 39 q 99 125 99 77 l 99 125 q 115 167 100 151 q 149 183 130 183 q 175 179 167 183 q 189 170 184 176 l 189 170 q 199 146 199 158 l 199 146 q 190 119 199 132 q 180 91 180 105 q 190 64 180 77 q 216 41 199 51 l 216 41 q 307 16 252 16 q 431 55 363 16 q 562 165 500 94 l 562 165 q 774 563 689 311 z m 476 402 q 563 419 524 402 q 639 466 602 437 q 709 535 676 496 q 768 617 743 574 l 768 617 q 824 795 823 713 l 824 795 q 758 928 828 909 l 758 928 q 701 935 734 935 q 628 914 667 935 q 553 859 590 893 q 484 781 517 825 q 427 690 452 737 l 427 690 q 399 433 331 505 l 399 433 q 476 402 429 402 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 477,

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Headland One'",
-          "'HeadlandOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB2fNW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yYLu0hHR2vKnp89Tk1TCq3TB2fNV&skey=8cb712da05e7381c&v=v8#HeadlandOne",
-          "ttf": "https://fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB2fNX.ttf",
-          "woff": "https://fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB2fNU.woff",
-          "woff2": "https://fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB1_NS.woff2"
+          "eot": "https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yYLu0hHR2vKnp89Tk1TCq3TB2fNV&skey=8cb712da05e7381c&v=v15#HeadlandOne",
+          "ttf": "https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNX.ttf",
+          "woff": "https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB2fNU.woff",
+          "woff2": "https://fonts.gstatic.com/s/headlandone/v15/yYLu0hHR2vKnp89Tk1TCq3TB1_NS.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 79,
             "x_max": 840,
             "o": "m 656 314 l 656 314 q 401 226 536 226 l 401 226 q 164 326 254 226 l 164 326 q 79 569 79 421 l 79 569 q 191 827 79 722 l 191 827 q 472 935 304 935 l 472 935 q 751 802 653 935 l 751 802 q 838 522 836 688 l 838 522 q 585 -23 840 168 l 585 -23 q 271 -159 443 -130 l 271 -159 q 189 -168 224 -168 l 189 -168 l 173 -111 l 177 -109 q 476 26 344 -90 l 476 26 q 656 314 610 144 z m 292 405 q 365 348 321 369 q 447 327 408 327 q 512 332 486 327 q 567 346 538 336 l 567 346 q 674 406 630 368 l 674 406 q 677 507 677 446 q 662 638 677 567 q 620 755 647 709 l 620 755 q 468 850 565 850 l 468 850 q 245 699 286 850 l 245 699 q 233 594 233 651 q 248 489 233 536 q 292 405 262 441 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 514,

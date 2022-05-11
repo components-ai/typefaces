@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,7 +16,7 @@
     "cyrillic-ext": "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
     "greek": "U+0370-03FF",
     "greek-ext": "U+1F00-1FFF",
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
     "latin-ext": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
     "vietnamese": "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB"
@@ -24,62 +24,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Tinos Italic'",
-          "'Tinos-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmhJ8Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buE2poGnedXvwjX-TmhJ8g&skey=bebefdc6a40fd4ff&v=v15#Tinos",
-          "ttf": "https://fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmhJ8A.ttf",
-          "woff": "https://fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmhJ8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmZJ9Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/tinos/v24/buE2poGnedXvwjX-TmhJ8Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buE2poGnedXvwjX-TmhJ8g&skey=bebefdc6a40fd4ff&v=v24#Tinos",
+          "ttf": "https://fonts.gstatic.com/s/tinos/v24/buE2poGnedXvwjX-TmhJ8A.ttf",
+          "woff": "https://fonts.gstatic.com/s/tinos/v24/buE2poGnedXvwjX-TmhJ8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/tinos/v24/buE2poGnedXvwjX-TmZJ9Q.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tinos Bold Italic'",
-          "'Tinos-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4CMf-Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buEzpoGnedXvwjX-Rt1s4CMf-g&skey=5e1e0bd2a77305f&v=v15#Tinos",
-          "ttf": "https://fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4CMf-A.ttf",
-          "woff": "https://fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4CMf-w.woff",
-          "woff2": "https://fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4C0f_Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/tinos/v24/buEzpoGnedXvwjX-Rt1s4CMf-Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buEzpoGnedXvwjX-Rt1s4CMf-g&skey=5e1e0bd2a77305f&v=v24#Tinos",
+          "ttf": "https://fonts.gstatic.com/s/tinos/v24/buEzpoGnedXvwjX-Rt1s4CMf-A.ttf",
+          "woff": "https://fonts.gstatic.com/s/tinos/v24/buEzpoGnedXvwjX-Rt1s4CMf-w.woff",
+          "woff2": "https://fonts.gstatic.com/s/tinos/v24/buEzpoGnedXvwjX-Rt1s4C0f_Q.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Tinos Regular'",
-          "'Tinos-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX1fmA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buE4poGnedXvwjX1fmM&skey=c8b6aa82b57934a&v=v15#Tinos",
-          "ttf": "https://fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX1fmE.ttf",
-          "woff": "https://fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX1fmI.woff",
-          "woff2": "https://fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX7fmQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tinos/v24/buE4poGnedXvwjX1fmA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buE4poGnedXvwjX1fmM&skey=c8b6aa82b57934a&v=v24#Tinos",
+          "ttf": "https://fonts.gstatic.com/s/tinos/v24/buE4poGnedXvwjX1fmE.ttf",
+          "woff": "https://fonts.gstatic.com/s/tinos/v24/buE4poGnedXvwjX1fmI.woff",
+          "woff2": "https://fonts.gstatic.com/s/tinos/v24/buE4poGnedXvwjX7fmQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tinos Bold'",
-          "'Tinos-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fg0Cs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buE1poGnedXvwj1AW3Fg0Cg&skey=d2066bbd7f2ceff4&v=v15#Tinos",
-          "ttf": "https://fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fg0Co.ttf",
-          "woff": "https://fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fg0Ck.woff",
-          "woff2": "https://fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fu0C8.woff2"
+          "eot": "https://fonts.gstatic.com/s/tinos/v24/buE1poGnedXvwj1AW3Fg0Cs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buE1poGnedXvwj1AW3Fg0Cg&skey=d2066bbd7f2ceff4&v=v24#Tinos",
+          "ttf": "https://fonts.gstatic.com/s/tinos/v24/buE1poGnedXvwj1AW3Fg0Co.ttf",
+          "woff": "https://fonts.gstatic.com/s/tinos/v24/buE1poGnedXvwj1AW3Fg0Ck.woff",
+          "woff2": "https://fonts.gstatic.com/s/tinos/v24/buE1poGnedXvwj1AW3Fu0C8.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v24",
   "typefaces": {
     "italic": {
       "400": {

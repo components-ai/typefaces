@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -22,62 +22,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Noto Serif Italic'",
-          "'NotoSerif-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserif/v9/ga6Kaw1J5X9T9RW6j9bNfFImZDC_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Kaw1J5X9T9RW6j9bNfFImZDC8&skey=39fc6d597fb39b7e&v=v9#NotoSerif",
-          "ttf": "https://fonts.gstatic.com/s/notoserif/v9/ga6Kaw1J5X9T9RW6j9bNfFImZDC-.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserif/v9/ga6Kaw1J5X9T9RW6j9bNfFImZDC9.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserif/v9/ga6Kaw1J5X9T9RW6j9bNfFImajC7.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserif/v21/ga6Kaw1J5X9T9RW6j9bNfFImZDC_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Kaw1J5X9T9RW6j9bNfFImZDC8&skey=39fc6d597fb39b7e&v=v21#NotoSerif",
+          "ttf": "https://fonts.gstatic.com/s/notoserif/v21/ga6Kaw1J5X9T9RW6j9bNfFImZDC-.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserif/v21/ga6Kaw1J5X9T9RW6j9bNfFImZDC9.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserif/v21/ga6Kaw1J5X9T9RW6j9bNfFImajC7.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Noto Serif Bold Italic'",
-          "'NotoSerif-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserif/v9/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVL&skey=9777b861e0fad22b&v=v9#NotoSerif",
-          "ttf": "https://fonts.gstatic.com/s/notoserif/v9/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserif/v9/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVK.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserif/v9/ga6Vaw1J5X9T9RW6j9bNfFIu0RWuc-VM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserif/v21/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVL&skey=9777b861e0fad22b&v=v21#NotoSerif",
+          "ttf": "https://fonts.gstatic.com/s/notoserif/v21/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserif/v21/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufeVK.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserif/v21/ga6Vaw1J5X9T9RW6j9bNfFIu0RWuc-VM.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Noto Serif'",
-          "'NotoSerif'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserif/v9/ga6Iaw1J5X9T9RW6j9bNfFkWbA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Iaw1J5X9T9RW6j9bNfFkWbw&skey=ff3f102bd67fc93c&v=v9#NotoSerif",
-          "ttf": "https://fonts.gstatic.com/s/notoserif/v9/ga6Iaw1J5X9T9RW6j9bNfFkWbQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserif/v9/ga6Iaw1J5X9T9RW6j9bNfFkWbg.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserif/v9/ga6Iaw1J5X9T9RW6j9bNfFcWaA.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNfFkWbA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Iaw1J5X9T9RW6j9bNfFkWbw&skey=ff3f102bd67fc93c&v=v21#NotoSerif",
+          "ttf": "https://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNfFkWbQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNfFkWbg.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNfFcWaA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Noto Serif Bold'",
-          "'NotoSerif-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserif/v9/ga6Law1J5X9T9RW6j9bNdOwzfRmedQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Law1J5X9T9RW6j9bNdOwzfRmedg&skey=d061d87fe9231c&v=v9#NotoSerif",
-          "ttf": "https://fonts.gstatic.com/s/notoserif/v9/ga6Law1J5X9T9RW6j9bNdOwzfRmedA.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserif/v9/ga6Law1J5X9T9RW6j9bNdOwzfRmedw.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserif/v9/ga6Law1J5X9T9RW6j9bNdOwzfReecQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzfRmedQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6Law1J5X9T9RW6j9bNdOwzfRmedg&skey=d061d87fe9231c&v=v21#NotoSerif",
+          "ttf": "https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzfRmedA.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzfRmedw.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzfReecQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "italic": {
       "400": {
@@ -4785,7 +4773,7 @@
             "en": "Noto Serif Italic"
           },
           "version": {
-            "en": "Version 1.02"
+            "en": "Version 1.03"
           },
           "postScriptName": {
             "en": "NotoSerif-Italic"
@@ -9502,7 +9490,7 @@
             "en": "Noto Serif Bold Italic"
           },
           "version": {
-            "en": "Version 1.02"
+            "en": "Version 1.03"
           },
           "postScriptName": {
             "en": "NotoSerif-BoldItalic"
@@ -14221,7 +14209,7 @@
             "en": "Noto Serif"
           },
           "version": {
-            "en": "Version 1.02"
+            "en": "Version 1.03"
           },
           "postScriptName": {
             "en": "NotoSerif"
@@ -18938,7 +18926,7 @@
             "en": "Noto Serif Bold"
           },
           "version": {
-            "en": "Version 1.02"
+            "en": "Version 1.03"
           },
           "postScriptName": {
             "en": "NotoSerif-Bold"

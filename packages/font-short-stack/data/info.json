@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Short Stack'",
-          "'ShortStack'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe3o.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bMrzmS2X6p0jZC6EcmPFX9SVe3k&skey=ff5a4a185170ff9a&v=v10#ShortStack",
-          "ttf": "https://fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe3s.ttf",
-          "woff": "https://fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe3g.woff",
-          "woff2": "https://fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe34.woff2"
+          "eot": "https://fonts.gstatic.com/s/shortstack/v15/bMrzmS2X6p0jZC6EcmPFX9SVe3o.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bMrzmS2X6p0jZC6EcmPFX9SVe3k&skey=ff5a4a185170ff9a&v=v15#ShortStack",
+          "ttf": "https://fonts.gstatic.com/s/shortstack/v15/bMrzmS2X6p0jZC6EcmPFX9SVe3s.ttf",
+          "woff": "https://fonts.gstatic.com/s/shortstack/v15/bMrzmS2X6p0jZC6EcmPFX9SVe3g.woff",
+          "woff2": "https://fonts.gstatic.com/s/shortstack/v15/bMrzmS2X6p0jZC6EcmPFX9SVe34.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 84,
             "x_max": 766,
             "o": "m 600 38 l 600 38 q 606 113 600 77 q 617 190 611 149 q 629 281 624 231 q 635 397 635 330 l 635 397 q 634 435 635 415 q 632 474 633 454 l 632 474 q 552 444 596 456 q 467 431 507 431 l 467 431 q 381 438 425 431 q 294 458 336 444 q 213 494 251 472 q 146 547 175 516 q 101 619 117 578 q 84 712 84 660 l 84 712 q 102 781 84 749 q 150 838 121 812 q 217 884 180 864 q 294 917 255 903 q 368 937 332 930 q 431 943 404 943 l 431 943 q 535 927 486 943 q 621 881 584 911 q 680 810 658 852 q 702 718 702 769 l 702 718 q 703 706 702 717 q 705 684 705 695 l 705 684 q 714 661 705 669 q 735 645 724 653 q 756 623 747 636 q 766 583 766 610 l 766 583 q 762 427 766 498 q 752 288 758 356 q 740 151 746 220 q 731 1 734 81 l 731 1 q 684 -45 731 -45 l 684 -45 q 664 -40 678 -45 q 636 -24 650 -35 q 611 3 622 -13 q 600 38 600 18 z m 466 549 l 466 549 q 489 550 475 549 q 521 554 504 551 q 556 560 538 556 q 588 571 574 564 q 611 586 602 577 q 620 606 620 595 l 620 606 q 618 626 620 612 q 615 655 617 640 q 611 686 613 671 q 608 709 609 701 l 608 709 q 583 757 602 735 q 538 795 564 779 q 485 820 513 811 q 435 829 457 829 l 435 829 q 367 821 405 829 q 294 795 328 812 q 237 751 260 778 q 214 688 214 725 l 214 688 q 226 648 214 667 q 259 613 239 629 q 307 586 280 598 q 361 566 333 574 q 416 553 389 557 q 466 549 444 549 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 506,

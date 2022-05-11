@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Marmelad'",
-          "'Marmelad-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFCEeM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Qw3eZQdSHj_jK2e-8uFCEeA&skey=91be53246a2a25ed&v=v10#Marmelad",
-          "ttf": "https://fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFCEeI.ttf",
-          "woff": "https://fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFCEeE.woff",
-          "woff2": "https://fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFMEec.woff2"
+          "eot": "https://fonts.gstatic.com/s/marmelad/v15/Qw3eZQdSHj_jK2e-8uFCEeM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Qw3eZQdSHj_jK2e-8uFCEeA&skey=91be53246a2a25ed&v=v15#Marmelad",
+          "ttf": "https://fonts.gstatic.com/s/marmelad/v15/Qw3eZQdSHj_jK2e-8uFCEeI.ttf",
+          "woff": "https://fonts.gstatic.com/s/marmelad/v15/Qw3eZQdSHj_jK2e-8uFCEeE.woff",
+          "woff2": "https://fonts.gstatic.com/s/marmelad/v15/Qw3eZQdSHj_jK2e-8uFMEec.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,60 +12,48 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Farro Light'",
-          "'Farro-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK63UEc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3hNK63UEQ&skey=4b4fc19131c9938f&v=v2#Farro",
-          "ttf": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK63UEY.ttf",
-          "woff": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK63UEU.woff",
-          "woff2": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK65UEM.woff2"
+          "eot": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3hNK63UEc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3hNK63UEQ&skey=4b4fc19131c9938f&v=v14#Farro",
+          "ttf": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3hNK63UEY.ttf",
+          "woff": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3hNK63UEU.woff",
+          "woff2": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3hNK65UEM.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Farro Regular'",
-          "'Farro-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVEFr8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dEIFl3byGNHaVEFrw&skey=98da50ce7a7cf748&v=v2#Farro",
-          "ttf": "https://fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVEFr4.ttf",
-          "woff": "https://fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVEFr0.woff",
-          "woff2": "https://fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVKFrs.woff2"
+          "eot": "https://fonts.gstatic.com/s/farro/v14/i7dEIFl3byGNHaVEFr8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dEIFl3byGNHaVEFrw&skey=98da50ce7a7cf748&v=v14#Farro",
+          "ttf": "https://fonts.gstatic.com/s/farro/v14/i7dEIFl3byGNHaVEFr4.ttf",
+          "woff": "https://fonts.gstatic.com/s/farro/v14/i7dEIFl3byGNHaVEFr0.woff",
+          "woff2": "https://fonts.gstatic.com/s/farro/v14/i7dEIFl3byGNHaVKFrs.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Farro Medium'",
-          "'Farro-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na63UEc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa25Na63UEQ&skey=13c8c06d5847a9c0&v=v2#Farro",
-          "ttf": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na63UEY.ttf",
-          "woff": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na63UEU.woff",
-          "woff2": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na65UEM.woff2"
+          "eot": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa25Na63UEc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa25Na63UEQ&skey=13c8c06d5847a9c0&v=v14#Farro",
+          "ttf": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa25Na63UEY.ttf",
+          "woff": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa25Na63UEU.woff",
+          "woff2": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa25Na65UEM.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Farro Bold'",
-          "'Farro-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM663UEc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3xM663UEQ&skey=b5aceea5ac1149e6&v=v2#Farro",
-          "ttf": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM663UEY.ttf",
-          "woff": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM663UEU.woff",
-          "woff2": "https://fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM665UEM.woff2"
+          "eot": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3xM663UEc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3xM663UEQ&skey=b5aceea5ac1149e6&v=v14#Farro",
+          "ttf": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3xM663UEY.ttf",
+          "woff": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3xM663UEU.woff",
+          "woff2": "https://fonts.gstatic.com/s/farro/v14/i7dJIFl3byGNHa3xM665UEM.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "300": {

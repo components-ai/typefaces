@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Patua One'",
-          "'PatuaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lq.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZXuke1cDvLCKLDcimxB44_lp&skey=51d89b43b04a07a9&v=v11#PatuaOne",
-          "ttf": "https://fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lr.ttf",
-          "woff": "https://fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lo.woff",
-          "woff2": "https://fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lu.woff2"
+          "eot": "https://fonts.gstatic.com/s/patuaone/v16/ZXuke1cDvLCKLDcimxB44_lq.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZXuke1cDvLCKLDcimxB44_lp&skey=51d89b43b04a07a9&v=v16#PatuaOne",
+          "ttf": "https://fonts.gstatic.com/s/patuaone/v16/ZXuke1cDvLCKLDcimxB44_lr.ttf",
+          "woff": "https://fonts.gstatic.com/s/patuaone/v16/ZXuke1cDvLCKLDcimxB44_lo.woff",
+          "woff2": "https://fonts.gstatic.com/s/patuaone/v16/ZXuke1cDvLCKLDcimxB44_lu.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

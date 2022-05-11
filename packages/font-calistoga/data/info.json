@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Calistoga Regular'",
-          "'Calistoga-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fvcwF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6NUU8F2OJg6MeR7l4e0fvcwG&skey=e8e8bbd2bc5db823&v=v2#Calistoga",
-          "ttf": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fvcwE.ttf",
-          "woff": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fvcwH.woff",
-          "woff2": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fs8wB.woff2"
+          "eot": "https://fonts.gstatic.com/s/calistoga/v10/6NUU8F2OJg6MeR7l4e0fvcwF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6NUU8F2OJg6MeR7l4e0fvcwG&skey=e8e8bbd2bc5db823&v=v10#Calistoga",
+          "ttf": "https://fonts.gstatic.com/s/calistoga/v10/6NUU8F2OJg6MeR7l4e0fvcwE.ttf",
+          "woff": "https://fonts.gstatic.com/s/calistoga/v10/6NUU8F2OJg6MeR7l4e0fvcwH.woff",
+          "woff2": "https://fonts.gstatic.com/s/calistoga/v10/6NUU8F2OJg6MeR7l4e0fs8wB.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

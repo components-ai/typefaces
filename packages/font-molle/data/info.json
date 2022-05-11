@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Molle'",
-          "'Molle-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbzEsUg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dL5hOXFhWEsbzEsUQ&skey=f55d6ddb7bd7ec17&v=v9#Molle",
-          "ttf": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbzEsUw.ttf",
-          "woff": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbzEsUA.woff",
-          "woff2": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sVg.woff2"
+          "eot": "https://fonts.gstatic.com/s/molle/v21/E21n_dL5hOXFhWEsbzEsUg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dL5hOXFhWEsbzEsUQ&skey=f55d6ddb7bd7ec17&v=v21#Molle",
+          "ttf": "https://fonts.gstatic.com/s/molle/v21/E21n_dL5hOXFhWEsbzEsUw.ttf",
+          "woff": "https://fonts.gstatic.com/s/molle/v21/E21n_dL5hOXFhWEsbzEsUA.woff",
+          "woff2": "https://fonts.gstatic.com/s/molle/v21/E21n_dL5hOXFhWEsbz8sVg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "italic": {
       "400": {
@@ -99,6 +96,12 @@
           },
           "\r": {
             "ha": 694,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
+            "ha": 0,
             "x_min": null,
             "x_max": null,
             "o": ""

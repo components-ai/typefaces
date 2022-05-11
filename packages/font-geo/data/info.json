@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Geo Oblique'",
-          "'Geo-Oblique'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplajk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSRx4zRZluflLUplajo&skey=d62ed86780b06e0&v=v12#Geo",
-          "ttf": "https://fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplajg.ttf",
-          "woff": "https://fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplajs.woff",
-          "woff2": "https://fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplaj0.woff2"
+          "eot": "https://fonts.gstatic.com/s/geo/v19/CSRx4zRZluflLUplajk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSRx4zRZluflLUplajo&skey=d62ed86780b06e0&v=v19#Geo",
+          "ttf": "https://fonts.gstatic.com/s/geo/v19/CSRx4zRZluflLUplajg.ttf",
+          "woff": "https://fonts.gstatic.com/s/geo/v19/CSRx4zRZluflLUplajs.woff",
+          "woff2": "https://fonts.gstatic.com/s/geo/v19/CSRx4zRZluflLUplaj0.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Geo'",
-          "'Geo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHpj.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSRz4zRZluflKHpg&skey=417aad24c5ef650a&v=v12#Geo",
-          "ttf": "https://fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHpi.ttf",
-          "woff": "https://fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHph.woff",
-          "woff2": "https://fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHpn.woff2"
+          "eot": "https://fonts.gstatic.com/s/geo/v19/CSRz4zRZluflKHpj.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSRz4zRZluflKHpg&skey=417aad24c5ef650a&v=v19#Geo",
+          "ttf": "https://fonts.gstatic.com/s/geo/v19/CSRz4zRZluflKHpi.ttf",
+          "woff": "https://fonts.gstatic.com/s/geo/v19/CSRz4zRZluflKHph.woff",
+          "woff2": "https://fonts.gstatic.com/s/geo/v19/CSRz4zRZluflKHpn.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "italic": {
       "400": {

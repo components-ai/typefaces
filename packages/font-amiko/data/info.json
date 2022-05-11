@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,47 +14,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Amiko'",
-          "'Amiko-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqseVg&skey=9370075dbbb9661d&v=v5#Amiko",
-          "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqieV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiko/v12/WwkQxPq1DFK04uqseVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqseVg&skey=9370075dbbb9661d&v=v12#Amiko",
+          "ttf": "https://fonts.gstatic.com/s/amiko/v12/WwkQxPq1DFK04uqseVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiko/v12/WwkQxPq1DFK04uqseVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiko/v12/WwkQxPq1DFK04uqieV8.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Amiko SemiBold'",
-          "'Amiko-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrNEII&skey=dc341fb169f5b947&v=v5#Amiko",
-          "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIA.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIM.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrDEIU.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uJ9XUrNEIE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrNEII&skey=dc341fb169f5b947&v=v12#Amiko",
+          "ttf": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uJ9XUrNEIA.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uJ9XUrNEIM.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uJ9XUrDEIU.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amiko Bold'",
-          "'Amiko-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErNEII&skey=b0f97d34e902453e&v=v5#Amiko",
-          "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIA.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIM.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErDEIU.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uIZXErNEIE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErNEII&skey=b0f97d34e902453e&v=v12#Amiko",
+          "ttf": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uIZXErNEIA.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uIZXErNEIM.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiko/v12/WwkdxPq1DFK04uIZXErDEIU.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

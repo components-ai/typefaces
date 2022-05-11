@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Courgette Regular'",
-          "'Courgette-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUk1WPoN&skey=427bdd45dca77eaa&v=v8#Courgette",
-          "ttf": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoP.ttf",
-          "woff": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoM.woff",
-          "woff2": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1VvoK.woff2"
+          "eot": "https://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1WPoO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUk1WPoN&skey=427bdd45dca77eaa&v=v13#Courgette",
+          "ttf": "https://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1WPoP.ttf",
+          "woff": "https://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1WPoM.woff",
+          "woff2": "https://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1VvoK.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {
@@ -98,6 +95,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=JTUOjIg1_i6t8kCHKm459WxZqh7q29Q&skey=665c6c6c4d7782ba&v=v15#Montserrat",
-    "200": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZBg_z8vZ3&skey=786130032acd4521&v=v15#Montserrat",
-    "300": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZYgzz8vZ3&skey=a59d6e62b542782e&v=v15#Montserrat",
-    "400": "https://fonts.gstatic.com/l/font?kit=JTUQjIg1_i6t8kCHKm459WxRxy7h&skey=2d3c1187d5eede0f&v=v15#Montserrat",
-    "500": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZOg3z8vZ3&skey=45c7d4e882761ae6&v=v15#Montserrat",
-    "600": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZFgrz8vZ3&skey=726d69663f96e79a&v=v15#Montserrat",
-    "700": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZcgvz8vZ3&skey=9e2c16f671d1af79&v=v15#Montserrat",
-    "800": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZbgjz8vZ3&skey=856704370ed36c4e&v=v15#Montserrat",
-    "900": "https://fonts.gstatic.com/l/font?kit=JTUPjIg1_i6t8kCHKm459WxZSgnz8vZ3&skey=810b009effdbda34&v=v15#Montserrat"
+    "100": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "200": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "300": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "400": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "500": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "600": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "700": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "800": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat",
+    "900": "https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oQ&skey=2d3c1187d5eede0f&v=v24#Montserrat"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=JTUQjIg1_i6t8kCHKm45_QpRxy7h&skey=7eae9536f271f41a&v=v15#Montserrat",
-    "200": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_aZA3gfD-Q&skey=7f026987368eef64&v=v15#Montserrat",
-    "300": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_cJD3gfD-Q&skey=1ce67628c9aa416a&v=v15#Montserrat",
-    "400": "https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm459WdhzA&skey=7bc19f711c0de8f&v=v15#Montserrat",
-    "500": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_ZpC3gfD-Q&skey=7675f1290281829e&v=v15#Montserrat",
-    "600": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_bZF3gfD-Q&skey=72ae044fab0d9adc&v=v15#Montserrat",
-    "700": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_dJE3gfD-Q&skey=11a939c399e8c9fe&v=v15#Montserrat",
-    "800": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_c5H3gfD-Q&skey=8405922d7a25fc4c&v=v15#Montserrat",
-    "900": "https://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_epG3gfD-Q&skey=2dd8299a3c2aa157&v=v15#Montserrat"
+    "100": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "200": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "300": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "400": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "500": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "600": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "700": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "800": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat",
+    "900": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX0&skey=7bc19f711c0de8f&v=v24#Montserrat"
   }
 }

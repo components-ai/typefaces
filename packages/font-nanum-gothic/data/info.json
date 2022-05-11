@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-22",
+  "lastModified": "2022-05-10",
   "subsets": [
     "korean",
     "latin"
@@ -130,46 +130,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'NanumGothic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D-dja.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_3Rfi-oW3hYwmKDpxS7F_D-djZ&skey=e63963c7c3a19959&v=v17#NanumGothic",
-          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D-djY.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_z-7rJxHVIsPV5MbNO2rV2_va-Nv6p.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_3Rfi-oW3hYwmKDpxS7F_D-dja.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_3Rfi-oW3hYwmKDpxS7F_D-djZ&skey=e63963c7c3a19959&v=v21#NanumGothic",
+          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_3Rfi-oW3hYwmKDpxS7F_D-djY.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_3Rfi-oW3hYwmKDpxS7F_z-7rJxHVIsPV5MbNO2rV2_va-Nv6p.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'NanumGothic Bold'",
-          "'NanumGothic-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsi.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsh&skey=7e29fcddae682887&v=v17#NanumGothic",
-          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsg.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv37yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsi.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsh&skey=7e29fcddae682887&v=v21#NanumGothic",
+          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsg.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LQv37yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2"
         }
       },
       "800": {
-        "local": [
-          "'NanumGothic ExtraBold'",
-          "'NanumGothic-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsi.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsh&skey=6d4b7c5ee89d1886&v=v17#NanumGothic",
-          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsg.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv77yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsi.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsh&skey=6d4b7c5ee89d1886&v=v21#NanumGothic",
+          "ttf": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsg.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumgothic/v21/PN_oRfi-oW3hYwmKDpxS7F_LXv77yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2"
         }
       }
     }
   },
-  "version": "v17",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

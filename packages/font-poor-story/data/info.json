@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "korean",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Poor Story Regular'",
-          "'PoorStory-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizfREFUsnUct9P6cDfd0O6tKg&skey=e23f2981588de137&v=v8#PoorStory",
-          "ttf": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKA.ttf",
-          "woff": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKw.woff",
-          "woff2": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/poorstory/v20/jizfREFUsnUct9P6cDfd0O6tKQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizfREFUsnUct9P6cDfd0O6tKg&skey=e23f2981588de137&v=v20#PoorStory",
+          "ttf": "https://fonts.gstatic.com/s/poorstory/v20/jizfREFUsnUct9P6cDfd0O6tKA.ttf",
+          "woff": "https://fonts.gstatic.com/s/poorstory/v20/jizfREFUsnUct9P6cDfd0O6tKw.woff",
+          "woff2": "https://fonts.gstatic.com/s/poorstory/v20/jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -179,6 +176,24 @@
             "x_min": 23,
             "x_max": 605,
             "o": "m 605 666 l 605 666 l 605 -26 l 502 -26 l 502 444 l 445 403 q 288 369 366 369 l 288 369 q 193 383 240 369 q 107 427 145 397 q 46 503 69 457 q 23 613 23 549 l 23 613 q 50 728 23 678 q 121 810 77 777 q 220 861 165 844 q 330 878 274 878 l 330 878 q 428 864 381 878 q 512 824 475 850 q 574 758 549 798 q 605 666 598 719 z m 426 490 l 426 490 q 498 547 475 511 q 522 624 522 582 l 522 624 q 506 699 522 666 q 463 753 490 731 q 401 785 435 774 q 330 796 366 796 l 330 796 q 251 783 290 796 q 180 747 212 770 q 130 689 149 723 q 110 613 110 655 l 110 613 q 127 538 110 568 q 170 489 144 507 q 226 463 195 471 q 285 454 256 454 l 285 454 q 357 464 320 454 q 426 490 393 473 z "
+          },
+          "가": {
+            "ha": 1118,
+            "x_min": 54,
+            "x_max": 1099,
+            "o": "m 502 897 l 545 829 l 342 129 l 250 148 l 437 791 l 54 791 l 62 897 l 502 897 z m 860 18 l 760 18 l 760 945 l 865 945 l 865 530 l 1099 530 l 1099 441 l 860 441 l 860 18 z "
+          },
+          "각": {
+            "ha": 1118,
+            "x_min": 60,
+            "x_max": 1082,
+            "o": "m 524 951 l 567 883 l 380 292 l 288 311 l 456 845 l 60 845 l 68 951 l 524 951 z m 773 259 l 779 981 l 871 981 l 871 690 l 1082 690 l 1082 598 l 871 598 l 871 259 l 773 259 z m 939 104 l 939 -235 l 841 -235 l 841 72 l 174 72 l 174 161 l 890 161 l 939 104 z "
+          },
+          "갂": {
+            "ha": 1118,
+            "x_min": 60,
+            "x_max": 1082,
+            "o": "m 524 951 l 567 883 l 380 292 l 288 311 l 456 845 l 60 845 l 68 951 l 524 951 z m 773 259 l 779 981 l 871 981 l 871 690 l 1082 690 l 1082 598 l 871 598 l 871 259 l 773 259 z m 529 104 l 521 -235 l 431 -235 l 431 72 l 117 72 l 117 161 l 480 161 l 529 104 z m 936 104 l 936 -235 l 838 -235 l 838 72 l 562 72 l 562 161 l 887 161 l 936 104 z "
           },
           "!": {
             "ha": 410,

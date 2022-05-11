@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pxl9tDMQC.woff2",
+    "300": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pGF9tDMQC.woff2",
+    "400": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pRl9tDMQC.woff2",
+    "500": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pdF9tDMQC.woff2",
+    "600": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pmFhtDMQC.woff2",
+    "700": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98poVhtDMQC.woff2",
+    "800": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pxlhtDMQC.woff2",
+    "900": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98p71htDMQC.woff2"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdqnhtdDg.woff2",
+    "300": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiklqnhtdDg.woff2",
+    "400": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnhtdDg.woff2",
+    "500": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiiVqnhtdDg.woff2",
+    "600": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjisltnhtdDg.woff2",
+    "700": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjivBtnhtdDg.woff2",
+    "800": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdtnhtdDg.woff2",
+    "900": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjir5tnhtdDg.woff2"
+  }
+}

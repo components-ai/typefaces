@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Coustard Regular'",
-          "'Coustard-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3XFpErgg3YsZ5fqUU-UIt2M&skey=c590e3818c6baa04&v=v11#Coustard",
-          "ttf": "https://fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2E.ttf",
-          "woff": "https://fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2I.woff",
-          "woff2": "https://fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/coustard/v16/3XFpErgg3YsZ5fqUU-UIt2A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3XFpErgg3YsZ5fqUU-UIt2M&skey=c590e3818c6baa04&v=v16#Coustard",
+          "ttf": "https://fonts.gstatic.com/s/coustard/v16/3XFpErgg3YsZ5fqUU-UIt2E.ttf",
+          "woff": "https://fonts.gstatic.com/s/coustard/v16/3XFpErgg3YsZ5fqUU-UIt2I.woff",
+          "woff2": "https://fonts.gstatic.com/s/coustard/v16/3XFpErgg3YsZ5fqUU-UIt2Q.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Coustard Black'",
-          "'Coustard-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZf0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3XFuErgg3YsZ5fqUU-2LkHHhZf4&skey=8cbd71770ec740f2&v=v11#Coustard",
-          "ttf": "https://fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZfw.ttf",
-          "woff": "https://fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZf8.woff",
-          "woff2": "https://fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZfk.woff2"
+          "eot": "https://fonts.gstatic.com/s/coustard/v16/3XFuErgg3YsZ5fqUU-2LkHHhZf0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3XFuErgg3YsZ5fqUU-2LkHHhZf4&skey=8cbd71770ec740f2&v=v16#Coustard",
+          "ttf": "https://fonts.gstatic.com/s/coustard/v16/3XFuErgg3YsZ5fqUU-2LkHHhZfw.ttf",
+          "woff": "https://fonts.gstatic.com/s/coustard/v16/3XFuErgg3YsZ5fqUU-2LkHHhZf8.woff",
+          "woff2": "https://fonts.gstatic.com/s/coustard/v16/3XFuErgg3YsZ5fqUU-2LkHHhZfk.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

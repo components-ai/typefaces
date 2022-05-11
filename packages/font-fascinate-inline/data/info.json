@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fascinate Inline'",
-          "'FascinateInline-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jVyR7mzzB3zc-jp6QCAu60poNqIy5grIew&skey=6bb8a5acb4159e5d&v=v10#FascinateInline",
-          "ttf": "https://fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeg.woff",
-          "woff2": "https://fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIfA.woff2"
+          "eot": "https://fonts.gstatic.com/s/fascinateinline/v22/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jVyR7mzzB3zc-jp6QCAu60poNqIy5grIew&skey=6bb8a5acb4159e5d&v=v22#FascinateInline",
+          "ttf": "https://fonts.gstatic.com/s/fascinateinline/v22/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/fascinateinline/v22/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeg.woff",
+          "woff2": "https://fonts.gstatic.com/s/fascinateinline/v22/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIfA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

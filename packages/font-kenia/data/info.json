@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kenia'",
-          "'Kenia-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizURE5PuHQH9pCJP0c&skey=4963fd4437f2b5f&v=v12#Kenia",
-          "ttf": "https://fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/kenia/v24/jizURE5PuHQH9pCJP0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizURE5PuHQH9pCJP0c&skey=4963fd4437f2b5f&v=v24#Kenia",
+          "ttf": "https://fonts.gstatic.com/s/kenia/v24/jizURE5PuHQH9pCJP0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/kenia/v24/jizURE5PuHQH9pCJP0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/kenia/v24/jizURE5PuHQH9pCJP0A.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

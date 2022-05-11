@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Candal'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XoHn2YH6T7-t_8c9BhQP&skey=bed53528c4492bda&v=v10#Candal",
-          "ttf": "https://fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQN.ttf",
-          "woff": "https://fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQO.woff",
-          "woff2": "https://fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQI.woff2"
+          "eot": "https://fonts.gstatic.com/s/candal/v15/XoHn2YH6T7-t_8c9BhQM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XoHn2YH6T7-t_8c9BhQP&skey=bed53528c4492bda&v=v15#Candal",
+          "ttf": "https://fonts.gstatic.com/s/candal/v15/XoHn2YH6T7-t_8c9BhQN.ttf",
+          "woff": "https://fonts.gstatic.com/s/candal/v15/XoHn2YH6T7-t_8c9BhQO.woff",
+          "woff2": "https://fonts.gstatic.com/s/candal/v15/XoHn2YH6T7-t_8c9BhQI.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -89,6 +87,12 @@
             "o": "m 143 24 l 165 218 q 207 203 183 211 q 259 189 231 195 q 318 178 288 182 q 379 174 349 174 l 379 174 q 459 182 421 174 q 526 217 496 191 q 575 290 555 243 q 599 415 594 338 l 599 415 q 546 395 574 404 q 490 382 519 387 q 434 374 462 376 q 382 372 407 372 l 382 372 q 266 390 321 372 q 169 444 211 408 q 103 532 127 479 q 78 654 78 585 l 78 654 q 84 733 78 694 q 107 808 91 772 q 150 875 123 844 q 217 929 177 906 q 313 964 258 951 q 442 977 369 977 l 442 977 q 603 959 534 977 q 720 908 671 941 q 800 829 768 875 q 849 728 831 783 q 874 611 867 673 q 881 481 881 548 l 881 481 q 851 282 881 374 q 763 123 822 191 q 616 18 705 56 q 411 -20 528 -20 l 411 -20 q 285 -9 351 -20 q 143 24 218 1 l 143 24 z m 599 566 l 599 566 q 585 684 599 640 q 550 749 572 727 q 499 778 528 772 q 441 784 471 784 l 441 784 q 388 774 411 784 q 349 747 365 764 q 325 709 333 730 q 317 665 317 688 l 317 665 q 320 627 317 648 q 338 587 324 606 q 379 555 352 568 q 454 543 407 543 l 454 543 q 518 548 482 543 q 599 566 553 553 z "
           },
           "\u0000": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Share Tech Regular'",
-          "'ShareTech-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0JnA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4Uyi5K0OeZ7bohU8H0Jnw&skey=91c9c246effcb6ab&v=v10#ShareTech",
-          "ttf": "https://fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0JnQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0Jng.woff",
-          "woff2": "https://fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0JmA.woff2"
+          "eot": "https://fonts.gstatic.com/s/sharetech/v17/7cHtv4Uyi5K0OeZ7bohU8H0JnA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4Uyi5K0OeZ7bohU8H0Jnw&skey=91c9c246effcb6ab&v=v17#ShareTech",
+          "ttf": "https://fonts.gstatic.com/s/sharetech/v17/7cHtv4Uyi5K0OeZ7bohU8H0JnQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/sharetech/v17/7cHtv4Uyi5K0OeZ7bohU8H0Jng.woff",
+          "woff2": "https://fonts.gstatic.com/s/sharetech/v17/7cHtv4Uyi5K0OeZ7bohU8H0JmA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

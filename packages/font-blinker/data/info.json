@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,112 +12,88 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Blinker Thin'",
-          "'Blinker-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf_MaFatEE-VTaP_E2RbUEH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf_MaFatEE-VTaP_E2RbUEG.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf_MaFatEE-VTaP_E2RbUEF.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf_MaFatEE-VTaP_E2RY0ED.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf_MaFatEE-VTaP_E2RbUEH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf_MaFatEE-VTaP_E2RbUEG.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf_MaFatEE-VTaP_E2RbUEF.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf_MaFatEE-VTaP_E2RY0ED.woff2"
         }
       },
       "200": {
-        "local": [
-          "'Blinker ExtraLight'",
-          "'Blinker-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_OGAdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_OGAdGgmmg&skey=33b501c23802f988&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_OGAdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_OGAdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_OGAdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_OGAdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_OGAdGgmmg&skey=33b501c23802f988&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_OGAdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_OGAdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_OGAdGYmnQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Blinker Light'",
-          "'Blinker-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_IWDdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_IWDdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_IWDdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_IWDdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_IWDdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_IWDdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_IWDdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_IWDdGYmnQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Blinker'",
-          "'Blinker-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf9MaFatEE-VTaP9CChZQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf9MaFatEE-VTaP9CChZg&skey=5eef5824e6fffb2f&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf9MaFatEE-VTaP9CChZA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf9MaFatEE-VTaP9CChZw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf9MaFatEE-VTaP9C6hYQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf9MaFatEE-VTaP9CChZQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf9MaFatEE-VTaP9CChZg&skey=5eef5824e6fffb2f&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf9MaFatEE-VTaP9CChZA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf9MaFatEE-VTaP9CChZw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf9MaFatEE-VTaP9C6hYQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Blinker SemiBold'",
-          "'Blinker-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_PGFdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_PGFdGgmmg&skey=c93948df950b125f&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_PGFdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_PGFdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_PGFdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_PGFdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_PGFdGgmmg&skey=c93948df950b125f&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_PGFdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_PGFdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_PGFdGYmnQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Blinker Bold'",
-          "'Blinker-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_JWEdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_JWEdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_JWEdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_JWEdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_JWEdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_JWEdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_JWEdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_JWEdGYmnQ.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Blinker ExtraBold'",
-          "'Blinker-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_ImHdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_ImHdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_ImHdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_ImHdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_ImHdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_ImHdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_ImHdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_ImHdGYmnQ.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Blinker Black'",
-          "'Blinker-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_K2GdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_K2GdGgmmg&skey=763562ad3ef21a92&v=v4#Blinker",
-          "ttf": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_K2GdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_K2GdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/blinker/v4/cIf4MaFatEE-VTaP_K2GdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_K2GdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_K2GdGgmmg&skey=763562ad3ef21a92&v=v12#Blinker",
+          "ttf": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_K2GdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_K2GdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/blinker/v12/cIf4MaFatEE-VTaP_K2GdGYmnQ.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "100": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -96,21 +96,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gugi Regular'",
-          "'Gugi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=A2BVn5dXywshZAmK8g&skey=207df05a0760ad00&v=v8#Gugi",
-          "ttf": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8A.ttf",
-          "woff": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshVAvo4jMQ8c2HNvL_56t4zTCEuE6pbA.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gugi/v13/A2BVn5dXywshZAmK8Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=A2BVn5dXywshZAmK8g&skey=207df05a0760ad00&v=v13#Gugi",
+          "ttf": "https://fonts.gstatic.com/s/gugi/v13/A2BVn5dXywshZAmK8A.ttf",
+          "woff": "https://fonts.gstatic.com/s/gugi/v13/A2BVn5dXywshZAmK8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/gugi/v13/A2BVn5dXywshVAvo4jMQ8c2HNvL_56t4zTCEuE6pbA.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

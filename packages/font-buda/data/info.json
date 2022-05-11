@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Buda Light'",
-          "'Buda-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=GFDqWAN8mnyIJSSrK7ILqQ&skey=b7e64cadd1bf937&v=v11#Buda",
-          "ttf": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILrg.woff2"
+          "eot": "https://fonts.gstatic.com/s/buda/v25/GFDqWAN8mnyIJSSrK7ILqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=GFDqWAN8mnyIJSSrK7ILqQ&skey=b7e64cadd1bf937&v=v25#Buda",
+          "ttf": "https://fonts.gstatic.com/s/buda/v25/GFDqWAN8mnyIJSSrK7ILqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/buda/v25/GFDqWAN8mnyIJSSrK7ILqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/buda/v25/GFDqWAN8mnyIJSSrK7ILrg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "300": {

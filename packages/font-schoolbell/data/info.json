@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-11",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Schoolbell Regular'",
-          "'Schoolbell-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa7w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=92zQtBZWOrcgoe-fgnJIZxUa7A&skey=3eb0ffe783f8592a&v=v11#Schoolbell",
-          "ttf": "https://fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa7g.ttf",
-          "woff": "https://fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa7Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa6w.woff2"
+          "eot": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa7w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=92zQtBZWOrcgoe-fgnJIZxUa7A&skey=3eb0ffe783f8592a&v=v18#Schoolbell",
+          "ttf": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa7g.ttf",
+          "woff": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa7Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa6w.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

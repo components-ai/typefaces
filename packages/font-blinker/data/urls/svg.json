@@ -1,12 +1,12 @@
 {
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v4#Blinker",
-    "200": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_OGAdGgmmg&skey=33b501c23802f988&v=v4#Blinker",
-    "300": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v4#Blinker",
-    "400": "https://fonts.gstatic.com/l/font?kit=cIf9MaFatEE-VTaP9CChZg&skey=5eef5824e6fffb2f&v=v4#Blinker",
-    "600": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_PGFdGgmmg&skey=c93948df950b125f&v=v4#Blinker",
-    "700": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v4#Blinker",
-    "800": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v4#Blinker",
-    "900": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_K2GdGgmmg&skey=763562ad3ef21a92&v=v4#Blinker"
+    "100": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v12#Blinker",
+    "200": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_OGAdGgmmg&skey=33b501c23802f988&v=v12#Blinker",
+    "300": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v12#Blinker",
+    "400": "https://fonts.gstatic.com/l/font?kit=cIf9MaFatEE-VTaP9CChZg&skey=5eef5824e6fffb2f&v=v12#Blinker",
+    "600": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_PGFdGgmmg&skey=c93948df950b125f&v=v12#Blinker",
+    "700": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v12#Blinker",
+    "800": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v12#Blinker",
+    "900": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_K2GdGgmmg&skey=763562ad3ef21a92&v=v12#Blinker"
   }
 }

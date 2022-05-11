@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gidugu'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qj.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMkk1Uf6w3hu_qg&skey=52d850c02c4a43e2&v=v8#Gidugu",
-          "ttf": "https://fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qi.ttf",
-          "woff": "https://fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qh.woff",
-          "woff2": "https://fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qn.woff2"
+          "eot": "https://fonts.gstatic.com/s/gidugu/v21/L0x8DFMkk1Uf6w3hu_qj.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMkk1Uf6w3hu_qg&skey=52d850c02c4a43e2&v=v21#Gidugu",
+          "ttf": "https://fonts.gstatic.com/s/gidugu/v21/L0x8DFMkk1Uf6w3hu_qi.ttf",
+          "woff": "https://fonts.gstatic.com/s/gidugu/v21/L0x8DFMkk1Uf6w3hu_qh.woff",
+          "woff2": "https://fonts.gstatic.com/s/gidugu/v21/L0x8DFMkk1Uf6w3hu_qn.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

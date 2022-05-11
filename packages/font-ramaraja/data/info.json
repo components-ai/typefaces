@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ramaraja'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGTmQearpYAYG1CACIjoHY&skey=f83b7da96b6fa9d5&v=v5#Ramaraja",
-          "ttf": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHc.woff",
-          "woff2": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHE.woff2"
+          "eot": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CACIjoHU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGTmQearpYAYG1CACIjoHY&skey=f83b7da96b6fa9d5&v=v15#Ramaraja",
+          "ttf": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CACIjoHQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CACIjoHc.woff",
+          "woff2": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CACIjoHE.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

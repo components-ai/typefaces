@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rum Raisin'",
-          "'RumRaisin-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3aCzg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpRtKu3Ih8D5avB4h2uF3aCzQ&skey=44d98c7d6c7f6b23&v=v8#RumRaisin",
-          "ttf": "https://fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3aCzw.ttf",
-          "woff": "https://fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3aCzA.woff",
-          "woff2": "https://fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3iCyg.woff2"
+          "eot": "https://fonts.gstatic.com/s/rumraisin/v20/nwpRtKu3Ih8D5avB4h2uF3aCzg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpRtKu3Ih8D5avB4h2uF3aCzQ&skey=44d98c7d6c7f6b23&v=v20#RumRaisin",
+          "ttf": "https://fonts.gstatic.com/s/rumraisin/v20/nwpRtKu3Ih8D5avB4h2uF3aCzw.ttf",
+          "woff": "https://fonts.gstatic.com/s/rumraisin/v20/nwpRtKu3Ih8D5avB4h2uF3aCzA.woff",
+          "woff2": "https://fonts.gstatic.com/s/rumraisin/v20/nwpRtKu3Ih8D5avB4h2uF3iCyg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

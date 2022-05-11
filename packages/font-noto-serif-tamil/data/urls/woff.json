@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5svbw.woff",
+    "200": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5s_bw.woff",
+    "300": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJwns_bw.woff",
+    "400": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5s_bw.woff",
+    "500": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJxLs_bw.woff",
+    "600": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyntPbw.woff",
+    "700": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyetPbw.woff",
+    "800": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5tPbw.woff",
+    "900": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJzQtPbw.woff"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN6R8w.woff",
+    "200": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNN-R8w.woff",
+    "300": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecat6t-R8w.woff",
+    "400": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-R8w.woff",
+    "500": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatht-R8w.woff",
+    "600": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatatiR8w.woff",
+    "700": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatU9iR8w.woff",
+    "800": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNNiR8w.woff",
+    "900": "https://fonts.gstatic.com/s/notoseriftamil/v17/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatHdiR8w.woff"
+  }
+}

@@ -1,11 +1,11 @@
 {
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFA&skey=ed1d703a47426543&v=v7#NotoSerifSC",
-    "300": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFA&skey=5ac3311bdc44bf05&v=v7#NotoSerifSC",
-    "400": "https://fonts.gstatic.com/l/font?kit=H4chBXePl9DZ0Xe7gG9cyOj7kqGWaQ&skey=37fe335b8fd815cc&v=v7#NotoSerifSC",
-    "500": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFA&skey=87bb14d8b216d1de&v=v7#NotoSerifSC",
-    "600": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFA&skey=f6b5c3e144565643&v=v7#NotoSerifSC",
-    "700": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFA&skey=7cc3e195f647f266&v=v7#NotoSerifSC",
-    "900": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFA&skey=eae19a675dacf32a&v=v7#NotoSerifSC"
+    "200": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFA&skey=ed1d703a47426543&v=v22#NotoSerifSC",
+    "300": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFA&skey=5ac3311bdc44bf05&v=v22#NotoSerifSC",
+    "400": "https://fonts.gstatic.com/l/font?kit=H4chBXePl9DZ0Xe7gG9cyOj7kqGWaQ&skey=37fe335b8fd815cc&v=v22#NotoSerifSC",
+    "500": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFA&skey=87bb14d8b216d1de&v=v22#NotoSerifSC",
+    "600": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFA&skey=f6b5c3e144565643&v=v22#NotoSerifSC",
+    "700": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFA&skey=7cc3e195f647f266&v=v22#NotoSerifSC",
+    "900": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFA&skey=eae19a675dacf32a&v=v22#NotoSerifSC"
   }
 }

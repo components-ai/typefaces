@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Quintessential'",
-          "'Quintessential-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qbw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb8&skey=69a7a147bd395e2d&v=v8#Quintessential",
-          "ttf": "https://fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb0.ttf",
-          "woff": "https://fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb4.woff",
-          "woff2": "https://fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb53Qbg.woff2"
+          "eot": "https://fonts.gstatic.com/s/quintessential/v20/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qbw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb8&skey=69a7a147bd395e2d&v=v20#Quintessential",
+          "ttf": "https://fonts.gstatic.com/s/quintessential/v20/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb0.ttf",
+          "woff": "https://fonts.gstatic.com/s/quintessential/v20/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb4.woff",
+          "woff2": "https://fonts.gstatic.com/s/quintessential/v20/fdNn9sOGq31Yjnh3qWU14Ddtjb53Qbg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

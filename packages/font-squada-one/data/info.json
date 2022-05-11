@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Squada One'",
-          "'SquadaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2XQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BCasqZ8XsOrx4mcOk6Mtaac2Xg&skey=367d3d9b9a52b6b3&v=v9#SquadaOne",
-          "ttf": "https://fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2XA.ttf",
-          "woff": "https://fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2Xw.woff",
-          "woff2": "https://fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/squadaone/v14/BCasqZ8XsOrx4mcOk6Mtaac2XQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BCasqZ8XsOrx4mcOk6Mtaac2Xg&skey=367d3d9b9a52b6b3&v=v14#SquadaOne",
+          "ttf": "https://fonts.gstatic.com/s/squadaone/v14/BCasqZ8XsOrx4mcOk6Mtaac2XA.ttf",
+          "woff": "https://fonts.gstatic.com/s/squadaone/v14/BCasqZ8XsOrx4mcOk6Mtaac2Xw.woff",
+          "woff2": "https://fonts.gstatic.com/s/squadaone/v14/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

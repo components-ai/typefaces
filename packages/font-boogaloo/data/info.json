@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Boogaloo Regular'",
-          "'Boogaloo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=kmK-Zq45GAvOdnaW6y1C9yw&skey=1670c69be039349f&v=v12#Boogaloo",
-          "ttf": "https://fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y4.ttf",
-          "woff": "https://fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y0.woff",
-          "woff2": "https://fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9ys.woff2"
+          "eot": "https://fonts.gstatic.com/s/boogaloo/v19/kmK-Zq45GAvOdnaW6y1C9y8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=kmK-Zq45GAvOdnaW6y1C9yw&skey=1670c69be039349f&v=v19#Boogaloo",
+          "ttf": "https://fonts.gstatic.com/s/boogaloo/v19/kmK-Zq45GAvOdnaW6y1C9y4.ttf",
+          "woff": "https://fonts.gstatic.com/s/boogaloo/v19/kmK-Zq45GAvOdnaW6y1C9y0.woff",
+          "woff2": "https://fonts.gstatic.com/s/boogaloo/v19/kmK-Zq45GAvOdnaW6y1C9ys.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 61,
             "x_max": 639,
             "o": "m 306 292 l 306 292 q 130 370 199 292 q 61 557 61 449 l 61 557 q 156 799 61 690 q 369 907 250 907 l 369 907 q 546 831 465 907 l 546 831 q 613 716 588 790 q 639 542 639 642 l 639 542 q 324 -71 639 321 l 324 -71 l 192 22 q 410 315 313 160 l 410 315 q 306 292 344 292 z m 319 444 l 319 444 q 467 507 385 444 l 467 507 q 472 556 472 540 l 472 556 q 441 707 472 660 q 363 754 410 754 q 272 693 315 754 q 228 557 228 632 l 228 557 q 253 478 228 511 q 319 444 279 444 z "
+          },
+          "\u0011": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 336,

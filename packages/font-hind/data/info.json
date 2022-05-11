@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Hind Light'",
-          "'Hind-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERKSiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfMJaERKSig&skey=67a5c17d8888694b&v=v11#Hind",
-          "ttf": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERKSiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERKSiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERySjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaERKSiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfMJaERKSig&skey=67a5c17d8888694b&v=v16#Hind",
+          "ttf": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaERKSiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaERKSiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaERySjQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Hind Regular'",
-          "'Hind-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGd4AA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5aU69_a8oxmIdGd4Aw&skey=88b46a73a32439b3&v=v11#Hind",
-          "ttf": "https://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGd4AQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGd4Ag.woff",
-          "woff2": "https://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGl4BA.woff2"
+          "eot": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGd4AA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5aU69_a8oxmIdGd4Aw&skey=88b46a73a32439b3&v=v16#Hind",
+          "ttf": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGd4AQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGd4Ag.woff",
+          "woff2": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGl4BA.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Hind Medium'",
-          "'Hind-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERKSiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfJpbERKSig&skey=240cc253f5a86f17&v=v11#Hind",
-          "ttf": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERKSiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERKSiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERySjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbERKSiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfJpbERKSig&skey=240cc253f5a86f17&v=v16#Hind",
+          "ttf": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbERKSiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbERKSiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbERySjQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Hind SemiBold'",
-          "'Hind-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERKSiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfLZcERKSig&skey=da2b34d6f21b4cf5&v=v11#Hind",
-          "ttf": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERKSiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERKSiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERySjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfLZcERKSiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfLZcERKSig&skey=da2b34d6f21b4cf5&v=v16#Hind",
+          "ttf": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfLZcERKSiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfLZcERKSiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfLZcERySjQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Hind Bold'",
-          "'Hind-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERKSiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfNJdERKSig&skey=9c157a14144029ee&v=v11#Hind",
-          "ttf": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERKSiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERKSiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERySjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdERKSiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfNJdERKSig&skey=9c157a14144029ee&v=v16#Hind",
+          "ttf": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdERKSiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdERKSiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdERySjQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "300": {

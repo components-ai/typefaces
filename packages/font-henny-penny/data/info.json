@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Henny Penny'",
-          "'HennyPenny-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKvE3UZookzsxz_kjGSfPQtvXU&skey=337b39e4b7ae6f1&v=v8#HennyPenny",
-          "ttf": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf",
-          "woff": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXI.woff2"
+          "eot": "https://fonts.gstatic.com/s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKvE3UZookzsxz_kjGSfPQtvXU&skey=337b39e4b7ae6f1&v=v17#HennyPenny",
+          "ttf": "https://fonts.gstatic.com/s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf",
+          "woff": "https://fonts.gstatic.com/s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXI.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Goblin One'",
-          "'GoblinOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR64z1ZnOqZRjRCBVY_fOAKSg&skey=42b648ad0b68aa48&v=v10#GoblinOne",
-          "ttf": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/goblinone/v22/CSR64z1ZnOqZRjRCBVY_fOAKSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR64z1ZnOqZRjRCBVY_fOAKSg&skey=42b648ad0b68aa48&v=v22#GoblinOne",
+          "ttf": "https://fonts.gstatic.com/s/goblinone/v22/CSR64z1ZnOqZRjRCBVY_fOAKSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/goblinone/v22/CSR64z1ZnOqZRjRCBVY_fOAKSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/goblinone/v22/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 74,
             "x_max": 1217,
             "o": "m 113 193 l 113 193 q 115 215 113 203 q 121 235 117 226 l 121 235 l 403 275 q 398 252 400 263 q 397 228 397 241 l 397 228 q 408 190 397 210 q 444 153 419 170 q 510 124 469 136 q 609 113 550 113 l 609 113 q 725 132 677 113 q 802 188 772 151 q 845 279 832 224 q 859 407 859 334 l 859 407 q 789 381 827 393 q 708 363 751 370 q 621 351 666 355 q 530 347 576 347 l 530 347 q 420 354 475 347 q 314 377 365 361 q 220 416 264 393 q 143 473 176 440 q 93 549 111 506 q 74 644 74 591 l 74 644 q 95 760 74 709 q 154 851 116 812 q 243 918 191 890 q 356 964 295 946 q 487 990 418 982 q 627 998 555 998 l 627 998 q 1072 874 926 998 q 1217 502 1217 751 l 1217 502 q 1179 293 1217 389 q 1065 125 1141 196 q 874 14 989 54 q 604 -26 759 -26 l 604 -26 q 485 -21 545 -26 q 371 -6 426 -16 q 270 22 317 5 q 188 64 222 39 q 133 120 153 88 q 113 193 113 153 z m 627 494 l 627 494 q 740 508 681 494 q 856 545 799 522 l 856 545 q 840 673 854 615 q 799 772 826 730 q 729 836 771 813 q 627 859 686 859 l 627 859 q 479 809 527 859 q 432 671 432 759 l 432 671 q 445 597 432 630 q 484 542 458 564 q 545 507 509 519 q 627 494 581 494 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 419,

@@ -1,34 +1,31 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "hebrew",
     "latin",
     "latin-ext"
   ],
   "unicodeRange": {
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
     "latin-ext": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bellefair Regular'",
-          "'Bellefair-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N9voz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG1N9vow&skey=5e2608507b793d9a&v=v6#Bellefair",
-          "ttf": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N9voy.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N9vox.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-Po3.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellefair/v14/kJExBuYY6AAuhiXUxG1N9voz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG1N9vow&skey=5e2608507b793d9a&v=v14#Bellefair",
+          "ttf": "https://fonts.gstatic.com/s/bellefair/v14/kJExBuYY6AAuhiXUxG1N9voy.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellefair/v14/kJExBuYY6AAuhiXUxG1N9vox.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellefair/v14/kJExBuYY6AAuhiXUxG1N-Po3.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Eagle Lake'",
-          "'EagleLake-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1Of4LA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTiqbbuNJDOiKj9wG1Of4Lw&skey=63718d6a75d9c744&v=v8#EagleLake",
-          "ttf": "https://fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1Of4LQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1Of4Lg.woff",
-          "woff2": "https://fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1On4KA.woff2"
+          "eot": "https://fonts.gstatic.com/s/eaglelake/v20/ptRMTiqbbuNJDOiKj9wG1Of4LA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTiqbbuNJDOiKj9wG1Of4Lw&skey=63718d6a75d9c744&v=v20#EagleLake",
+          "ttf": "https://fonts.gstatic.com/s/eaglelake/v20/ptRMTiqbbuNJDOiKj9wG1Of4LQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/eaglelake/v20/ptRMTiqbbuNJDOiKj9wG1Of4Lg.woff",
+          "woff2": "https://fonts.gstatic.com/s/eaglelake/v20/ptRMTiqbbuNJDOiKj9wG1On4KA.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

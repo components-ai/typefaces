@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Prociono'",
-          "'Prociono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=r05YGLlR-KxAf9GGO_uuwjA&skey=f1ab602d48b8a5f7&v=v10#Prociono",
-          "ttf": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjI.ttf",
-          "woff": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjE.woff",
-          "woff2": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjc.woff2"
+          "eot": "https://fonts.gstatic.com/s/prociono/v22/r05YGLlR-KxAf9GGO_uuwjM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=r05YGLlR-KxAf9GGO_uuwjA&skey=f1ab602d48b8a5f7&v=v22#Prociono",
+          "ttf": "https://fonts.gstatic.com/s/prociono/v22/r05YGLlR-KxAf9GGO_uuwjI.ttf",
+          "woff": "https://fonts.gstatic.com/s/prociono/v22/r05YGLlR-KxAf9GGO_uuwjE.woff",
+          "woff2": "https://fonts.gstatic.com/s/prociono/v22/r05YGLlR-KxAf9GGO_uuwjc.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

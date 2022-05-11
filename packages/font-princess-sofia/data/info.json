@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Princess Sofia'",
-          "'PrincessSofia'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSzykjA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qWczB6yguIb8DZ_GXZst16n7GSzykjM&skey=c12de19c7965de10&v=v9#PrincessSofia",
-          "ttf": "https://fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSzykjE.ttf",
-          "woff": "https://fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSzykjI.woff",
-          "woff2": "https://fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSz8kjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/princesssofia/v21/qWczB6yguIb8DZ_GXZst16n7GSzykjA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qWczB6yguIb8DZ_GXZst16n7GSzykjM&skey=c12de19c7965de10&v=v21#PrincessSofia",
+          "ttf": "https://fonts.gstatic.com/s/princesssofia/v21/qWczB6yguIb8DZ_GXZst16n7GSzykjE.ttf",
+          "woff": "https://fonts.gstatic.com/s/princesssofia/v21/qWczB6yguIb8DZ_GXZst16n7GSzykjI.woff",
+          "woff2": "https://fonts.gstatic.com/s/princesssofia/v21/qWczB6yguIb8DZ_GXZst16n7GSz8kjQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

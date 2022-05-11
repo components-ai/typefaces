@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Aladin Regular'",
-          "'Aladin-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF4C39.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZgNSjPJFPrvJV5fF4C3-&skey=6a1ad71149991211&v=v9#Aladin",
-          "ttf": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF4C38.ttf",
-          "woff": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF4C3_.woff",
-          "woff2": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i35.woff2"
+          "eot": "https://fonts.gstatic.com/s/aladin/v18/ZgNSjPJFPrvJV5fF4C39.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZgNSjPJFPrvJV5fF4C3-&skey=6a1ad71149991211&v=v18#Aladin",
+          "ttf": "https://fonts.gstatic.com/s/aladin/v18/ZgNSjPJFPrvJV5fF4C38.ttf",
+          "woff": "https://fonts.gstatic.com/s/aladin/v18/ZgNSjPJFPrvJV5fF4C3_.woff",
+          "woff2": "https://fonts.gstatic.com/s/aladin/v18/ZgNSjPJFPrvJV5fF7i35.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {
@@ -1338,6 +1335,12 @@
             "x_min": 42,
             "x_max": 650,
             "o": "m 101 533 l 101 533 q 629 538 101 533 l 629 538 q 644 533 639 538 q 650 524 650 528 l 650 524 l 650 519 q 594 444 650 444 l 594 444 l 63 444 q 42 472 42 444 l 42 472 q 101 533 42 533 z "
+          },
+          " ": {
+            "ha": 250,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           }
         },
         "ascender": 1257,

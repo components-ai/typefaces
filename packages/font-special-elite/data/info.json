@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Special Elite Regular'",
-          "'SpecialElite-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOTA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZbkc4JPUL5CVArUVL0ntnAOTw&skey=8f705625ab986205&v=v11#SpecialElite",
-          "ttf": "https://fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOTQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOTg.woff",
-          "woff2": "https://fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOSA.woff2"
+          "eot": "https://fonts.gstatic.com/s/specialelite/v18/XLYgIZbkc4JPUL5CVArUVL0ntnAOTA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZbkc4JPUL5CVArUVL0ntnAOTw&skey=8f705625ab986205&v=v18#SpecialElite",
+          "ttf": "https://fonts.gstatic.com/s/specialelite/v18/XLYgIZbkc4JPUL5CVArUVL0ntnAOTQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/specialelite/v18/XLYgIZbkc4JPUL5CVArUVL0ntnAOTg.woff",
+          "woff2": "https://fonts.gstatic.com/s/specialelite/v18/XLYgIZbkc4JPUL5CVArUVL0ntnAOSA.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Press Start 2P Regular'",
-          "'PressStart2P-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nbivc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nbivQ&skey=24cc298767068e24&v=v9#PressStart2P",
-          "ttf": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nbivY.ttf",
-          "woff": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nbivU.woff",
-          "woff2": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2"
+          "eot": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nbivQ&skey=24cc298767068e24&v=v14#PressStart2P",
+          "ttf": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivY.ttf",
+          "woff": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivU.woff",
+          "woff2": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

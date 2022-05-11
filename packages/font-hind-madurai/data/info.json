@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Hind Madurai Light'",
-          "'HindMadurai-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEu&skey=e10e27078fbda7fa&v=v6#HindMadurai",
-          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEs.ttf",
-          "woff": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEv.woff",
-          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEp.woff2"
+          "eot": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEu&skey=e10e27078fbda7fa&v=v11#HindMadurai",
+          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEs.ttf",
+          "woff": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEv.woff",
+          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEp.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Hind Madurai Regular'",
-          "'HindMadurai-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX-IcG.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0e2p98ZvDXdZQIOcpqjX-IcF&skey=2f195a7cb0b99eb0&v=v6#HindMadurai",
-          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX-IcH.ttf",
-          "woff": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX-IcE.woff",
-          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX9ocC.woff2"
+          "eot": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX-IcG.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0e2p98ZvDXdZQIOcpqjX-IcF&skey=2f195a7cb0b99eb0&v=v11#HindMadurai",
+          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX-IcH.ttf",
+          "woff": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX-IcE.woff",
+          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX9ocC.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Hind Madurai Medium'",
-          "'HindMadurai-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEu&skey=56afda129ae517c5&v=v6#HindMadurai",
-          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEs.ttf",
-          "woff": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEv.woff",
-          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEp.woff2"
+          "eot": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEu&skey=56afda129ae517c5&v=v11#HindMadurai",
+          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEs.ttf",
+          "woff": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEv.woff",
+          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEp.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Hind Madurai SemiBold'",
-          "'HindMadurai-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEu&skey=9556beb0868db4be&v=v6#HindMadurai",
-          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEs.ttf",
-          "woff": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEv.woff",
-          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEp.woff2"
+          "eot": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEu&skey=9556beb0868db4be&v=v11#HindMadurai",
+          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEs.ttf",
+          "woff": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEv.woff",
+          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEp.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Hind Madurai Bold'",
-          "'HindMadurai-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEu&skey=d7fd4659050e217c&v=v6#HindMadurai",
-          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEs.ttf",
-          "woff": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEv.woff",
-          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEp.woff2"
+          "eot": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEu&skey=d7fd4659050e217c&v=v11#HindMadurai",
+          "ttf": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEs.ttf",
+          "woff": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEv.woff",
+          "woff2": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEp.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "300": {

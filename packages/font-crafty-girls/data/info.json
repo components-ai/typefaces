@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Crafty Girls Regular'",
-          "'CraftyGirls-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9B4kXI39VaDdlPJo8N_NveRhf9&skey=91eaf80902c91de4&v=v10#CraftyGirls",
-          "ttf": "https://fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf_.ttf",
-          "woff": "https://fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf8.woff",
-          "woff2": "https://fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf6.woff2"
+          "eot": "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9B4kXI39VaDdlPJo8N_NveRhf9&skey=91eaf80902c91de4&v=v16#CraftyGirls",
+          "ttf": "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf_.ttf",
+          "woff": "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf8.woff",
+          "woff2": "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf6.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

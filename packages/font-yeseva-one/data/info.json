@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Yeseva One Regular'",
-          "'YesevaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4ck8vc-xYpwWWxliNVXA&skey=9baeda5be4021674&v=v15#YesevaOne",
-          "ttf": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxli1VWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/yesevaone/v20/OpNJno4ck8vc-xYpwWWxliNVXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4ck8vc-xYpwWWxliNVXA&skey=9baeda5be4021674&v=v20#YesevaOne",
+          "ttf": "https://fonts.gstatic.com/s/yesevaone/v20/OpNJno4ck8vc-xYpwWWxliNVXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/yesevaone/v20/OpNJno4ck8vc-xYpwWWxliNVXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/yesevaone/v20/OpNJno4ck8vc-xYpwWWxli1VWw.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

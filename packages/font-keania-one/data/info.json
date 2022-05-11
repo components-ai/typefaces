@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Keania One'",
-          "'KeaniaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kug.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zOL54pXJk65E8pXardnu-c1kuQ&skey=dbf3f94cd2851bcd&v=v8#KeaniaOne",
-          "ttf": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kuw.ttf",
-          "woff": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kuA.woff",
-          "woff2": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-cNkvg.woff2"
+          "eot": "https://fonts.gstatic.com/s/keaniaone/v20/zOL54pXJk65E8pXardnu-c1kug.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zOL54pXJk65E8pXardnu-c1kuQ&skey=dbf3f94cd2851bcd&v=v20#KeaniaOne",
+          "ttf": "https://fonts.gstatic.com/s/keaniaone/v20/zOL54pXJk65E8pXardnu-c1kuw.ttf",
+          "woff": "https://fonts.gstatic.com/s/keaniaone/v20/zOL54pXJk65E8pXardnu-c1kuA.woff",
+          "woff2": "https://fonts.gstatic.com/s/keaniaone/v20/zOL54pXJk65E8pXardnu-cNkvg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

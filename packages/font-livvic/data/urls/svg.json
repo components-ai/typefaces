@@ -1,22 +1,22 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=rnCt-x1S2hzjrlfXbdtaonTmSw&skey=da4e9f98ebba4d41&v=v5#Livvic",
-    "200": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdv2s23PafE&skey=f225ef0329cd93e&v=v5#Livvic",
-    "300": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduSsG3PafE&skey=8e07f89e17039950&v=v5#Livvic",
-    "400": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlfXbdM3kn8&skey=9f695521e7206ecb&v=v5#Livvic",
-    "500": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvKsW3PafE&skey=4d795352cabc5808&v=v5#Livvic",
-    "600": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvmtm3PafE&skey=c395967ef99edb83&v=v5#Livvic",
-    "700": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduCt23PafE&skey=5fb629f18199b476&v=v5#Livvic",
-    "900": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdu6tW3PafE&skey=9b14c3d804edf8eb&v=v5#Livvic"
+    "100": "https://fonts.gstatic.com/l/font?kit=rnCt-x1S2hzjrlfXbdtaonTmSw&skey=da4e9f98ebba4d41&v=v13#Livvic",
+    "200": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdv2s23PafE&skey=f225ef0329cd93e&v=v13#Livvic",
+    "300": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduSsG3PafE&skey=8e07f89e17039950&v=v13#Livvic",
+    "400": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlfXbdM3kn8&skey=9f695521e7206ecb&v=v13#Livvic",
+    "500": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvKsW3PafE&skey=4d795352cabc5808&v=v13#Livvic",
+    "600": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvmtm3PafE&skey=c395967ef99edb83&v=v13#Livvic",
+    "700": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduCt23PafE&skey=5fb629f18199b476&v=v13#Livvic",
+    "900": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdu6tW3PafE&skey=9b14c3d804edf8eb&v=v13#Livvic"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlffC9M3kn8&skey=156873aca65ee5e9&v=v5#Livvic",
-    "200": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffp8Iuu13E&skey=f7b8780f28b60980&v=v5#Livvic",
-    "300": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffw8Euu13E&skey=9453c1a1f1de8a65&v=v5#Livvic",
-    "400": "https://fonts.gstatic.com/l/font?kit=rnCp-x1S2hzjrlfXZuM8&skey=39534644bc440b79&v=v5#Livvic",
-    "500": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffm8Auu13E&skey=1ce7eacc326b4a17&v=v5#Livvic",
-    "600": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlfft8cuu13E&skey=92cdb4e03e66fcbe&v=v5#Livvic",
-    "700": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff08Yuu13E&skey=53b0c364356cdaf5&v=v5#Livvic",
-    "900": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff68Quu13E&skey=17578ae47c093ada&v=v5#Livvic"
+    "100": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlffC9M3kn8&skey=156873aca65ee5e9&v=v13#Livvic",
+    "200": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffp8Iuu13E&skey=f7b8780f28b60980&v=v13#Livvic",
+    "300": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffw8Euu13E&skey=9453c1a1f1de8a65&v=v13#Livvic",
+    "400": "https://fonts.gstatic.com/l/font?kit=rnCp-x1S2hzjrlfXZuM8&skey=39534644bc440b79&v=v13#Livvic",
+    "500": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffm8Auu13E&skey=1ce7eacc326b4a17&v=v13#Livvic",
+    "600": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlfft8cuu13E&skey=92cdb4e03e66fcbe&v=v13#Livvic",
+    "700": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff08Yuu13E&skey=53b0c364356cdaf5&v=v13#Livvic",
+    "900": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff68Quu13E&skey=17578ae47c093ada&v=v13#Livvic"
   }
 }

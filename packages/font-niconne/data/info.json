@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Niconne'",
-          "'Niconne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niconne/v10/w8gaH2QvRug1_rTfnQKn3Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=w8gaH2QvRug1_rTfnQKn3g&skey=fbaa81f57eaf685b&v=v10#Niconne",
-          "ttf": "https://fonts.gstatic.com/s/niconne/v10/w8gaH2QvRug1_rTfnQKn3A.ttf",
-          "woff": "https://fonts.gstatic.com/s/niconne/v10/w8gaH2QvRug1_rTfnQKn3w.woff",
-          "woff2": "https://fonts.gstatic.com/s/niconne/v10/w8gaH2QvRug1_rTfnQyn2Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/niconne/v15/w8gaH2QvRug1_rTfnQKn3Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=w8gaH2QvRug1_rTfnQKn3g&skey=fbaa81f57eaf685b&v=v15#Niconne",
+          "ttf": "https://fonts.gstatic.com/s/niconne/v15/w8gaH2QvRug1_rTfnQKn3A.ttf",
+          "woff": "https://fonts.gstatic.com/s/niconne/v15/w8gaH2QvRug1_rTfnQKn3w.woff",
+          "woff2": "https://fonts.gstatic.com/s/niconne/v15/w8gaH2QvRug1_rTfnQyn2Q.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

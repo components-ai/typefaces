@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sunshiney Regular'",
-          "'Sunshiney-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDIwapGTLBwsS-wT4vcQFMOu&skey=1d52846c69c15718&v=v11#Sunshiney",
-          "ttf": "https://fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOs.ttf",
-          "woff": "https://fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOv.woff",
-          "woff2": "https://fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOp.woff2"
+          "eot": "https://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQFMOt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDIwapGTLBwsS-wT4vcQFMOu&skey=1d52846c69c15718&v=v24#Sunshiney",
+          "ttf": "https://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQFMOs.ttf",
+          "woff": "https://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQFMOv.woff",
+          "woff2": "https://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQFMOp.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

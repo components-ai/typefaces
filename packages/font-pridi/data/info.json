@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,86 +16,68 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Pridi ExtraLight'",
-          "'Pridi-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0qT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1SiH0qT0c&skey=6defbaa5424aa26a&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0qT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0qT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1SiH0qT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1SiH0qT0c&skey=6defbaa5424aa26a&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1SiH0qT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1SiH0qT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1SiH0kT0A.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Pridi Light'",
-          "'Pridi-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30qT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc02i30qT0c&skey=561533c817801d75&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30qT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30qT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc02i30qT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc02i30qT0c&skey=561533c817801d75&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc02i30qT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc02i30qT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc02i30kT0A.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Pridi Regular'",
-          "'Pridi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWTqWw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDQZG5JnZLfkcWTqW8&skey=43d1c43aae7d1f74&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWTqW0.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWTqW4.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWdqWg.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDQZG5JnZLfkcWTqWw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDQZG5JnZLfkcWTqW8&skey=43d1c43aae7d1f74&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDQZG5JnZLfkcWTqW0.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDQZG5JnZLfkcWTqW4.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDQZG5JnZLfkcWdqWg.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Pridi Medium'",
-          "'Pridi-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0qT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1uin0qT0c&skey=e6f379d2c1843a2c&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0qT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0qT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1uin0qT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1uin0qT0c&skey=e6f379d2c1843a2c&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1uin0qT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1uin0qT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1uin0kT0A.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Pridi SemiBold'",
-          "'Pridi-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0qT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1CjX0qT0c&skey=b825c36542fbd3d3&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0qT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0qT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1CjX0qT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1CjX0qT0c&skey=b825c36542fbd3d3&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1CjX0qT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1CjX0qT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc1CjX0kT0A.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Pridi Bold'",
-          "'Pridi-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0qT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc0mjH0qT0c&skey=8dbedb040627946f&v=v6#Pridi",
-          "ttf": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0qT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0qT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc0mjH0qT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc0mjH0qT0c&skey=8dbedb040627946f&v=v11#Pridi",
+          "ttf": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc0mjH0qT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc0mjH0qT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/pridi/v11/2sDdZG5JnZLfkc0mjH0kT0A.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "200": {

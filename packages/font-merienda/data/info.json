@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Merienda'",
-          "'Merienda-Regular_0_wt'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merienda/v9/gNMHW3x8Qoy5_mf8uWMLMI4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gNMHW3x8Qoy5_mf8uWMLMI0&skey=410a1b360191e647&v=v9#Merienda",
-          "ttf": "https://fonts.gstatic.com/s/merienda/v9/gNMHW3x8Qoy5_mf8uWMLMI8.ttf",
-          "woff": "https://fonts.gstatic.com/s/merienda/v9/gNMHW3x8Qoy5_mf8uWMLMIw.woff",
-          "woff2": "https://fonts.gstatic.com/s/merienda/v9/gNMHW3x8Qoy5_mf8uWMFMIo.woff2"
+          "eot": "https://fonts.gstatic.com/s/merienda/v14/gNMHW3x8Qoy5_mf8uWMLMI4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gNMHW3x8Qoy5_mf8uWMLMI0&skey=410a1b360191e647&v=v14#Merienda",
+          "ttf": "https://fonts.gstatic.com/s/merienda/v14/gNMHW3x8Qoy5_mf8uWMLMI8.ttf",
+          "woff": "https://fonts.gstatic.com/s/merienda/v14/gNMHW3x8Qoy5_mf8uWMLMIw.woff",
+          "woff2": "https://fonts.gstatic.com/s/merienda/v14/gNMHW3x8Qoy5_mf8uWMFMIo.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Merienda Bold'",
-          "'Merienda-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merienda/v9/gNMAW3x8Qoy5_mf8uWu-FZ-73MI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gNMAW3x8Qoy5_mf8uWu-FZ-73ME&skey=a49e06106180d9ee&v=v9#Merienda",
-          "ttf": "https://fonts.gstatic.com/s/merienda/v9/gNMAW3x8Qoy5_mf8uWu-FZ-73MM.ttf",
-          "woff": "https://fonts.gstatic.com/s/merienda/v9/gNMAW3x8Qoy5_mf8uWu-FZ-73MA.woff",
-          "woff2": "https://fonts.gstatic.com/s/merienda/v9/gNMAW3x8Qoy5_mf8uWu-FZ-13MY.woff2"
+          "eot": "https://fonts.gstatic.com/s/merienda/v14/gNMAW3x8Qoy5_mf8uWu-FZ-73MI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gNMAW3x8Qoy5_mf8uWu-FZ-73ME&skey=a49e06106180d9ee&v=v14#Merienda",
+          "ttf": "https://fonts.gstatic.com/s/merienda/v14/gNMAW3x8Qoy5_mf8uWu-FZ-73MM.ttf",
+          "woff": "https://fonts.gstatic.com/s/merienda/v14/gNMAW3x8Qoy5_mf8uWu-FZ-73MA.woff",
+          "woff2": "https://fonts.gstatic.com/s/merienda/v14/gNMAW3x8Qoy5_mf8uWu-FZ-13MY.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

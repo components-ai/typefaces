@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Geostar Fill'",
-          "'GeostarFill-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFiz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOWz4SWuWiXFfjEohxQ9osEVFiw&skey=828f2e60a91919b&v=v11#GeostarFill",
-          "ttf": "https://fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFiy.ttf",
-          "woff": "https://fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFix.woff",
-          "woff2": "https://fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFi3.woff2"
+          "eot": "https://fonts.gstatic.com/s/geostarfill/v22/AMOWz4SWuWiXFfjEohxQ9osEVFiz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOWz4SWuWiXFfjEohxQ9osEVFiw&skey=828f2e60a91919b&v=v22#GeostarFill",
+          "ttf": "https://fonts.gstatic.com/s/geostarfill/v22/AMOWz4SWuWiXFfjEohxQ9osEVFiy.ttf",
+          "woff": "https://fonts.gstatic.com/s/geostarfill/v22/AMOWz4SWuWiXFfjEohxQ9osEVFix.woff",
+          "woff2": "https://fonts.gstatic.com/s/geostarfill/v22/AMOWz4SWuWiXFfjEohxQ9osEVFi3.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

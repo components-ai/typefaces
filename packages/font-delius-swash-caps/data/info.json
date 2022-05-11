@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Delius Swash Caps'",
-          "'DeliusSwashCaps-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGE&skey=2fbdc5319af197e&v=v12#DeliusSwashCaps",
-          "ttf": "https://fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGM.ttf",
-          "woff": "https://fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGA.woff",
-          "woff2": "https://fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGY.woff2"
+          "eot": "https://fonts.gstatic.com/s/deliusswashcaps/v19/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGE&skey=2fbdc5319af197e&v=v19#DeliusSwashCaps",
+          "ttf": "https://fonts.gstatic.com/s/deliusswashcaps/v19/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGM.ttf",
+          "woff": "https://fonts.gstatic.com/s/deliusswashcaps/v19/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGA.woff",
+          "woff2": "https://fonts.gstatic.com/s/deliusswashcaps/v19/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGY.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

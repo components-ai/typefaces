@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Butcherman Regular'",
-          "'Butcherman-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zy5rg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2EbiL-thF0loflXUBOdb5zy5rQ&skey=a81c66da830bfcb3&v=v12#Butcherman",
-          "ttf": "https://fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zy5rw.ttf",
-          "woff": "https://fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zy5rA.woff",
-          "woff2": "https://fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zK5qg.woff2"
+          "eot": "https://fonts.gstatic.com/s/butcherman/v24/2EbiL-thF0loflXUBOdb5zy5rg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2EbiL-thF0loflXUBOdb5zy5rQ&skey=a81c66da830bfcb3&v=v24#Butcherman",
+          "ttf": "https://fonts.gstatic.com/s/butcherman/v24/2EbiL-thF0loflXUBOdb5zy5rw.ttf",
+          "woff": "https://fonts.gstatic.com/s/butcherman/v24/2EbiL-thF0loflXUBOdb5zy5rA.woff",
+          "woff2": "https://fonts.gstatic.com/s/butcherman/v24/2EbiL-thF0loflXUBOdb5zK5qg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

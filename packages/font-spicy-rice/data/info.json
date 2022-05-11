@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Spicy Rice'",
-          "'SpicyRice-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/spicyrice/v9/uK_24rSEd-Uqwk4jY1RyKvi8Xw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_24rSEd-Uqwk4jY1RyKvi8XA&skey=d17c690e3897e4f0&v=v9#SpicyRice",
-          "ttf": "https://fonts.gstatic.com/s/spicyrice/v9/uK_24rSEd-Uqwk4jY1RyKvi8Xg.ttf",
-          "woff": "https://fonts.gstatic.com/s/spicyrice/v9/uK_24rSEd-Uqwk4jY1RyKvi8XQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/spicyrice/v9/uK_24rSEd-Uqwk4jY1RyKvi8Ww.woff2"
+          "eot": "https://fonts.gstatic.com/s/spicyrice/v21/uK_24rSEd-Uqwk4jY1RyKvi8Xw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_24rSEd-Uqwk4jY1RyKvi8XA&skey=d17c690e3897e4f0&v=v21#SpicyRice",
+          "ttf": "https://fonts.gstatic.com/s/spicyrice/v21/uK_24rSEd-Uqwk4jY1RyKvi8Xg.ttf",
+          "woff": "https://fonts.gstatic.com/s/spicyrice/v21/uK_24rSEd-Uqwk4jY1RyKvi8XQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/spicyrice/v21/uK_24rSEd-Uqwk4jY1RyKvi8Ww.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

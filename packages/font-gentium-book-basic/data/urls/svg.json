@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266U&skey=7d0db4a8f90df4cf&v=v11#GentiumBookBasic",
-    "700": "https://fonts.gstatic.com/l/font?kit=pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V0&skey=fcece854bedf6784&v=v11#GentiumBookBasic"
+    "400": "https://fonts.gstatic.com/l/font?kit=pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266U&skey=7d0db4a8f90df4cf&v=v16#GentiumBookBasic",
+    "700": "https://fonts.gstatic.com/l/font?kit=pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V0&skey=fcece854bedf6784&v=v16#GentiumBookBasic"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF9&skey=e59bbbdff9bf19ed&v=v11#GentiumBookBasic",
-    "700": "https://fonts.gstatic.com/l/font?kit=pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofe&skey=a88f8dc92f935def&v=v11#GentiumBookBasic"
+    "400": "https://fonts.gstatic.com/l/font?kit=pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF9&skey=e59bbbdff9bf19ed&v=v16#GentiumBookBasic",
+    "700": "https://fonts.gstatic.com/l/font?kit=pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofe&skey=a88f8dc92f935def&v=v16#GentiumBookBasic"
   }
 }

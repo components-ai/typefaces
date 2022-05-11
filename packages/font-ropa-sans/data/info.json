@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Ropa Sans Italic'",
-          "'RopaSans-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EYq3maNOzLlWtsZSScy6WANle5E&skey=c6198dadd1bf5d82&v=v10#RopaSans",
-          "ttf": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5M.ttf",
-          "woff": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5A.woff",
-          "woff2": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANre5Y.woff2"
+          "eot": "https://fonts.gstatic.com/s/ropasans/v15/EYq3maNOzLlWtsZSScy6WANle5I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EYq3maNOzLlWtsZSScy6WANle5E&skey=c6198dadd1bf5d82&v=v15#RopaSans",
+          "ttf": "https://fonts.gstatic.com/s/ropasans/v15/EYq3maNOzLlWtsZSScy6WANle5M.ttf",
+          "woff": "https://fonts.gstatic.com/s/ropasans/v15/EYq3maNOzLlWtsZSScy6WANle5A.woff",
+          "woff2": "https://fonts.gstatic.com/s/ropasans/v15/EYq3maNOzLlWtsZSScy6WANre5Y.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Ropa Sans Regular'",
-          "'RopaSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNt.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6UzNu&skey=edf65b5a911839ad&v=v10#RopaSans",
-          "ttf": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNs.ttf",
-          "woff": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNv.woff",
-          "woff2": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6XTNp.woff2"
+          "eot": "https://fonts.gstatic.com/s/ropasans/v15/EYqxmaNOzLlWtsZSScy6UzNt.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6UzNu&skey=edf65b5a911839ad&v=v15#RopaSans",
+          "ttf": "https://fonts.gstatic.com/s/ropasans/v15/EYqxmaNOzLlWtsZSScy6UzNs.ttf",
+          "woff": "https://fonts.gstatic.com/s/ropasans/v15/EYqxmaNOzLlWtsZSScy6UzNv.woff",
+          "woff2": "https://fonts.gstatic.com/s/ropasans/v15/EYqxmaNOzLlWtsZSScy6XTNp.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

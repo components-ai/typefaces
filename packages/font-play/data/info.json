@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -20,34 +20,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Play Regular'",
-          "'Play-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvts2Gw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvts2GA&skey=b09c7c1d7347911b&v=v12#Play",
-          "ttf": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvts2Gg.ttf",
-          "woff": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvts2GQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvtU2Hw.woff2"
+          "eot": "https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIvts2Gw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvts2GA&skey=b09c7c1d7347911b&v=v17#Play",
+          "ttf": "https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIvts2Gg.ttf",
+          "woff": "https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIvts2GQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIvtU2Hw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Play Bold'",
-          "'Play-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp4y3g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCp4y3Q&skey=545b346b46c13d48&v=v12#Play",
-          "ttf": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp4y3w.ttf",
-          "woff": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp4y3A.woff",
-          "woff2": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCpAy2g.woff2"
+          "eot": "https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TCp4y3g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCp4y3Q&skey=545b346b46c13d48&v=v17#Play",
+          "ttf": "https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TCp4y3w.ttf",
+          "woff": "https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TCp4y3A.woff",
+          "woff2": "https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TCpAy2g.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

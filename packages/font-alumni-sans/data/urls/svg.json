@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Ky46mEE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Kw462EE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Kzm62EE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Ky462EE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8KyK62EE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Kxm7GEE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Kxf7GEE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8Kw47GEE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=nwpBtKqkOwdO2aOIwhWudG-g9QMylBJAV3Bo8KwR7GEE9Cw&skey=bae67cad7bebd079&v=v10#AlumniSans"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9OO5goVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9uO9goVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9Zu9goVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9OO9goVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9Cu9goVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd95uhgoVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd93-hgoVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9uOhgoVEP&skey=657bad10154336df&v=v10#AlumniSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9kehgoVEP&skey=657bad10154336df&v=v10#AlumniSans"
+  }
+}

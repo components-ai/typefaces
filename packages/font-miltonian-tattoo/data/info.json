@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Miltonian Tattoo'",
-          "'MiltonianTattoo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2NQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2Ng&skey=693480709c2dd2f3&v=v16#MiltonianTattoo",
-          "ttf": "https://fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2NA.ttf",
-          "woff": "https://fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2Nw.woff",
-          "woff2": "https://fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2MQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/miltoniantattoo/v28/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2NQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2Ng&skey=693480709c2dd2f3&v=v28#MiltonianTattoo",
+          "ttf": "https://fonts.gstatic.com/s/miltoniantattoo/v28/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2NA.ttf",
+          "woff": "https://fonts.gstatic.com/s/miltoniantattoo/v28/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2Nw.woff",
+          "woff2": "https://fonts.gstatic.com/s/miltoniantattoo/v28/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2MQ.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v28",
   "typefaces": {
     "normal": {
       "400": {

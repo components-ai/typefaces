@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,86 +16,68 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Athiti ExtraLight'",
-          "'Athiti-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCC_e7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAxDNCC_e4&skey=bcbc982d0b25e70c&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCC_e6.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCC_e5.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCBfe_.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAxDNCC_e7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAxDNCC_e4&skey=bcbc982d0b25e70c&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAxDNCC_e6.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAxDNCC_e5.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAxDNCBfe_.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Athiti Light'",
-          "'Athiti-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCC_e7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAoDBCC_e4&skey=b8d03b3a95724f63&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCC_e6.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCC_e5.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCBfe_.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAoDBCC_e7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAoDBCC_e4&skey=b8d03b3a95724f63&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAoDBCC_e6.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAoDBCC_e5.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAoDBCBfe_.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Athiti'",
-          "'Athiti-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wIBRJT.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0vMISdLIZIv1wIBRJQ&skey=a25e2ee822825b12&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wIBRJS.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wIBRJR.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wICxJX.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0vMISdLIZIv1wIBRJT.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0vMISdLIZIv1wIBRJQ&skey=a25e2ee822825b12&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0vMISdLIZIv1wIBRJS.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0vMISdLIZIv1wIBRJR.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0vMISdLIZIv1wICxJX.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Athiti Medium'",
-          "'Athiti-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCC_e7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wA-DFCC_e4&skey=a9af0aff3636876a&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCC_e6.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCC_e5.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCBfe_.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA-DFCC_e7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wA-DFCC_e4&skey=a9af0aff3636876a&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA-DFCC_e6.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA-DFCC_e5.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA-DFCBfe_.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Athiti SemiBold'",
-          "'Athiti-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCC_e7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wA1DZCC_e4&skey=777c730b5b3868b2&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCC_e6.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCC_e5.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCBfe_.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA1DZCC_e7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wA1DZCC_e4&skey=777c730b5b3868b2&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA1DZCC_e6.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA1DZCC_e5.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wA1DZCBfe_.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Athiti Bold'",
-          "'Athiti-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCC_e7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAsDdCC_e4&skey=a60a8166ef402cc9&v=v5#Athiti",
-          "ttf": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCC_e6.ttf",
-          "woff": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCC_e5.woff",
-          "woff2": "https://fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCBfe_.woff2"
+          "eot": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAsDdCC_e7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMISdLIZIv1wAsDdCC_e4&skey=a60a8166ef402cc9&v=v12#Athiti",
+          "ttf": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAsDdCC_e6.ttf",
+          "woff": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAsDdCC_e5.woff",
+          "woff2": "https://fonts.gstatic.com/s/athiti/v12/pe0sMISdLIZIv1wAsDdCBfe_.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "200": {

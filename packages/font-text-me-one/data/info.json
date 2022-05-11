@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Text Me One'",
-          "'TextMeOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZVYFM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dOIFdlayuLUvgoFvHQFVZVYFA&skey=e4462b563ebfbe6&v=v8#TextMeOne",
-          "ttf": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZVYFI.ttf",
-          "woff": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZVYFE.woff",
-          "woff2": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZbYFc.woff2"
+          "eot": "https://fonts.gstatic.com/s/textmeone/v20/i7dOIFdlayuLUvgoFvHQFVZVYFM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dOIFdlayuLUvgoFvHQFVZVYFA&skey=e4462b563ebfbe6&v=v20#TextMeOne",
+          "ttf": "https://fonts.gstatic.com/s/textmeone/v20/i7dOIFdlayuLUvgoFvHQFVZVYFI.ttf",
+          "woff": "https://fonts.gstatic.com/s/textmeone/v20/i7dOIFdlayuLUvgoFvHQFVZVYFE.woff",
+          "woff2": "https://fonts.gstatic.com/s/textmeone/v20/i7dOIFdlayuLUvgoFvHQFVZbYFc.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

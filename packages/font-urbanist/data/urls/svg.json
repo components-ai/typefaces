@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmmY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "200": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VammY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "300": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVammY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "400": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VammY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "500": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVammY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "600": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmmY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "700": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmmY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "800": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmmY8c&skey=5871af2eddfd3a55&v=v8#Urbanist",
+    "900": "https://fonts.gstatic.com/l/font?kit=L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmmY8c&skey=5871af2eddfd3a55&v=v8#Urbanist"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "200": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "300": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "400": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "500": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "600": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "700": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "800": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist",
+    "900": "https://fonts.gstatic.com/l/font?kit=L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvH5mt&skey=1cdbdfe57ba870bf&v=v8#Urbanist"
+  }
+}

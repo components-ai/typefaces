@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,166 +16,130 @@
   "variants": {
     "italic": {
       "200": {
-        "local": [
-          "'Niramit ExtraLight Italic'",
-          "'Niramit-ExtraLightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiXim-orfC&skey=2f7a8de642f40452&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfA.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfD.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-rLfF.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiXim-orfB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiXim-orfC&skey=2f7a8de642f40452&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiXim-orfA.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiXim-orfD.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiXim-rLfF.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Niramit Light Italic'",
-          "'Niramit-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiOiq-orfC&skey=2a9dc8a02823bad2&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfA.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-rLfF.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiOiq-orfB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiOiq-orfC&skey=2a9dc8a02823bad2&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiOiq-orfA.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiOiq-rLfF.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Niramit Italic'",
-          "'Niramit-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwiv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_usMpWdvgLdNxVLXbZqnwis&skey=a40a6e2be736c7a5&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwiu.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwit.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqkQir.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_usMpWdvgLdNxVLXbZqnwiv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_usMpWdvgLdNxVLXbZqnwis&skey=a40a6e2be736c7a5&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_usMpWdvgLdNxVLXbZqnwiu.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_usMpWdvgLdNxVLXbZqnwit.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_usMpWdvgLdNxVLXbZqkQir.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Niramit Medium Italic'",
-          "'Niramit-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiYiu-orfC&skey=42f15dc119d78f19&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfA.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-rLfF.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiYiu-orfB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiYiu-orfC&skey=42f15dc119d78f19&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiYiu-orfA.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiYiu-rLfF.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Niramit SemiBold Italic'",
-          "'Niramit-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiTiy-orfC&skey=460b220ac65ae845&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfA.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-rLfF.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiTiy-orfB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiTiy-orfC&skey=460b220ac65ae845&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiTiy-orfA.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiTiy-rLfF.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Niramit Bold Italic'",
-          "'Niramit-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiKi2-orfC&skey=fad14a6f04f4cd59&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfA.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfD.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-rLfF.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiKi2-orfB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiKi2-orfC&skey=fad14a6f04f4cd59&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiKi2-orfA.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiKi2-orfD.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiKi2-rLfF.woff2"
         }
       }
     },
     "normal": {
       "200": {
-        "local": [
-          "'Niramit ExtraLight'",
-          "'Niramit-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVXx7hiGOqQ&skey=f4a1a425c2d84b63&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVXx7hiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVXx7hiGOqQ&skey=f4a1a425c2d84b63&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVXx7hiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVXx7hiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVXx7hi-Org.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Niramit Light'",
-          "'Niramit-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVRh4hiGOqQ&skey=bac7fc8d27a6ef54&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVRh4hiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVRh4hiGOqQ&skey=bac7fc8d27a6ef54&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVRh4hiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVRh4hi-Org.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Niramit Regular'",
-          "'Niramit-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_uuMpWdvgLdNxVLXb1alA&skey=540bbbea370cfb82&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alg.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXbNakw.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_uuMpWdvgLdNxVLXb1alw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_uuMpWdvgLdNxVLXb1alA&skey=540bbbea370cfb82&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_uuMpWdvgLdNxVLXb1alg.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_uuMpWdvgLdNxVLXb1alQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_uuMpWdvgLdNxVLXbNakw.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Niramit Medium'",
-          "'Niramit-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVUB5hiGOqQ&skey=94c5df9fe8438525&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVUB5hiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVUB5hiGOqQ&skey=94c5df9fe8438525&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVUB5hiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVUB5hi-Org.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Niramit SemiBold'",
-          "'Niramit-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVWx-hiGOqQ&skey=baa58151530c1238&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVWx-hiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVWx-hiGOqQ&skey=baa58151530c1238&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVWx-hiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVWx-hi-Org.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Niramit Bold'",
-          "'Niramit-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVQh_hiGOqQ&skey=611a4cf856daa99a&v=v5#Niramit",
-          "ttf": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVQh_hiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVQh_hiGOqQ&skey=611a4cf856daa99a&v=v10#Niramit",
+          "ttf": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVQh_hiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVQh_hiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVQh_hi-Org.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "italic": {
       "200": {

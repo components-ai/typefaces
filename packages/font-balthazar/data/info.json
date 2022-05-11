@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Balthazar Regular'",
-          "'Balthazar-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/balthazar/v10/d6lKkaajS8Gm4CVQjFEfzh7t.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=d6lKkaajS8Gm4CVQjFEfzh7u&skey=eb41b13c48ddda62&v=v10#Balthazar",
-          "ttf": "https://fonts.gstatic.com/s/balthazar/v10/d6lKkaajS8Gm4CVQjFEfzh7s.ttf",
-          "woff": "https://fonts.gstatic.com/s/balthazar/v10/d6lKkaajS8Gm4CVQjFEfzh7v.woff",
-          "woff2": "https://fonts.gstatic.com/s/balthazar/v10/d6lKkaajS8Gm4CVQjFEfzh7p.woff2"
+          "eot": "https://fonts.gstatic.com/s/balthazar/v17/d6lKkaajS8Gm4CVQjFEfzh7t.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=d6lKkaajS8Gm4CVQjFEfzh7u&skey=eb41b13c48ddda62&v=v17#Balthazar",
+          "ttf": "https://fonts.gstatic.com/s/balthazar/v17/d6lKkaajS8Gm4CVQjFEfzh7s.ttf",
+          "woff": "https://fonts.gstatic.com/s/balthazar/v17/d6lKkaajS8Gm4CVQjFEfzh7v.woff",
+          "woff2": "https://fonts.gstatic.com/s/balthazar/v17/d6lKkaajS8Gm4CVQjFEfzh7p.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 56,
             "x_max": 593,
             "o": "m 56 446 q 135 626 56 549 q 337 704 214 704 q 526 618 460 704 q 593 372 593 532 l 593 372 q 474 40 593 163 q 140 -97 356 -83 l 140 -97 l 135 -44 q 395 69 313 -28 q 478 357 478 165 l 478 357 q 441 564 478 501 q 317 626 404 626 l 317 626 q 172 447 172 626 l 172 447 q 339 293 172 293 l 339 293 q 439 301 389 293 l 439 301 l 442 274 q 248 225 329 225 q 111 284 167 225 q 56 446 56 343 z "
+          },
+          "\u001e": {
+            "ha": 306,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 278,

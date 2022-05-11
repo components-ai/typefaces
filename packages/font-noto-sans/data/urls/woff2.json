@@ -1,10 +1,24 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/notosans/v11/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2",
-    "700": "https://fonts.gstatic.com/s/notosans/v11/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2"
+    "100": "https://fonts.gstatic.com/s/notosans/v27/o-0MIpQlx3QUlC5A4PNr4Awhc_uk6A.woff2",
+    "200": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AyNYuyDzW0.woff2",
+    "300": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AzpYeyDzW0.woff2",
+    "400": "https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2",
+    "500": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AyxYOyDzW0.woff2",
+    "600": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yDzW0.woff2",
+    "700": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2",
+    "800": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AzlZeyDzW0.woff2",
+    "900": "https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AzBZOyDzW0.woff2"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/notosans/v11/o-0IIpQlx3QUlC5A4PNr5TRA.woff2",
-    "700": "https://fonts.gstatic.com/s/notosans/v11/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2"
+    "100": "https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNjhgRCQ_k.woff2",
+    "200": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjKhVVZNyB.woff2",
+    "300": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjThZVZNyB.woff2",
+    "400": "https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr5TRA.woff2",
+    "500": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjFhdVZNyB.woff2",
+    "600": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVZNyB.woff2",
+    "700": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2",
+    "800": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjQhJVZNyB.woff2",
+    "900": "https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjZhNVZNyB.woff2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'League Script'",
-          "'LeagueScript'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNRevQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR54zpSlumSWj9CGVsoBZdeWNRevg&skey=84dc0ed8164e7f66&v=v12#LeagueScript",
-          "ttf": "https://fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNRevA.ttf",
-          "woff": "https://fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNRevw.woff",
-          "woff2": "https://fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNReuQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/leaguescript/v24/CSR54zpSlumSWj9CGVsoBZdeWNRevQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR54zpSlumSWj9CGVsoBZdeWNRevg&skey=84dc0ed8164e7f66&v=v24#LeagueScript",
+          "ttf": "https://fonts.gstatic.com/s/leaguescript/v24/CSR54zpSlumSWj9CGVsoBZdeWNRevA.ttf",
+          "woff": "https://fonts.gstatic.com/s/leaguescript/v24/CSR54zpSlumSWj9CGVsoBZdeWNRevw.woff",
+          "woff2": "https://fonts.gstatic.com/s/leaguescript/v24/CSR54zpSlumSWj9CGVsoBZdeWNReuQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

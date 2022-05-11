@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bubbler One Regular'",
-          "'BubblerOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHO0aY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xy0eqj68ppQV9KBLmAotHO0aU&skey=5d82c961a83b9bd&v=v9#BubblerOne",
-          "ttf": "https://fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHO0ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHO0aQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHA0aI.woff2"
+          "eot": "https://fonts.gstatic.com/s/bubblerone/v20/f0Xy0eqj68ppQV9KBLmAotHO0aY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xy0eqj68ppQV9KBLmAotHO0aU&skey=5d82c961a83b9bd&v=v20#BubblerOne",
+          "ttf": "https://fonts.gstatic.com/s/bubblerone/v20/f0Xy0eqj68ppQV9KBLmAotHO0ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/bubblerone/v20/f0Xy0eqj68ppQV9KBLmAotHO0aQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/bubblerone/v20/f0Xy0eqj68ppQV9KBLmAotHA0aI.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

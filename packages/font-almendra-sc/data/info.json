@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Almendra SC Regular'",
-          "'AlmendraSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iure6Yx284eebowr7hbyTaZOrLM&skey=5f28d08bd71a54e3&v=v11#AlmendraSC",
-          "ttf": "https://fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLE.ttf",
-          "woff": "https://fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLI.woff",
-          "woff2": "https://fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/almendrasc/v25/Iure6Yx284eebowr7hbyTaZOrLA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iure6Yx284eebowr7hbyTaZOrLM&skey=5f28d08bd71a54e3&v=v25#AlmendraSC",
+          "ttf": "https://fonts.gstatic.com/s/almendrasc/v25/Iure6Yx284eebowr7hbyTaZOrLE.ttf",
+          "woff": "https://fonts.gstatic.com/s/almendrasc/v25/Iure6Yx284eebowr7hbyTaZOrLI.woff",
+          "woff2": "https://fonts.gstatic.com/s/almendrasc/v25/Iure6Yx284eebowr7hbyTaZOrLQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,5 +1,8 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/reemkufi/v9/2sDcZGJLip7W2J7v7wQzaGW_.woff"
+    "400": "https://fonts.gstatic.com/s/reemkufi/v17/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtuZnIGaV2Q.woff",
+    "500": "https://fonts.gstatic.com/s/reemkufi/v17/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQttRnIGaV2Q.woff",
+    "600": "https://fonts.gstatic.com/s/reemkufi/v17/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtjhgIGaV2Q.woff",
+    "700": "https://fonts.gstatic.com/s/reemkufi/v17/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtgFgIGaV2Q.woff"
   }
 }

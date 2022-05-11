@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin"
@@ -12,99 +12,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Mada ExtraLight'",
-          "'Mada-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdf3nOCX2yA&skey=c5595ee0db1eebd2&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdf3nOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdf3nOCX2yA&skey=c5595ee0db1eebd2&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdf3nOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdf3nOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdf3nOCX2zw.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Mada Light'",
-          "'Mada-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdZnkOCX2yA&skey=f8e2afa6af414101&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdZnkOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdZnkOCX2yA&skey=f8e2afa6af414101&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdZnkOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdZnkOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdZnkOCX2zw.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Mada Regular'",
-          "'Mada-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGKQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Auwp_0qnzeSfTLGKg&skey=5d0f924e6baf8e8f&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGKA.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGKw.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGLQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Auwp_0qnzeSfTLGKQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Auwp_0qnzeSfTLGKg&skey=5d0f924e6baf8e8f&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Auwp_0qnzeSfTLGKA.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Auwp_0qnzeSfTLGKw.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Auwp_0qnzeSfTLGLQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Mada Medium'",
-          "'Mada-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdcHlOCX2yA&skey=379f582382d03f4f&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdcHlOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdcHlOCX2yA&skey=379f582382d03f4f&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdcHlOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdcHlOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdcHlOCX2zw.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Mada SemiBold'",
-          "'Mada-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSde3iOCX2yA&skey=35eb060b2de51ad7&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSde3iOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSde3iOCX2yA&skey=35eb060b2de51ad7&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSde3iOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSde3iOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSde3iOCX2zw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Mada Bold'",
-          "'Mada-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdYnjOCX2yA&skey=86ddfef69a043960&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdYnjOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdYnjOCX2yA&skey=86ddfef69a043960&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdYnjOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdYnjOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdYnjOCX2zw.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Mada Black'",
-          "'Mada-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2yw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdbHhOCX2yA&skey=13b9c8de71716e3d&v=v9#Mada",
-          "ttf": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2yg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2yQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2zw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdbHhOCX2yw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au_p_0qnzeSdbHhOCX2yA&skey=13b9c8de71716e3d&v=v16#Mada",
+          "ttf": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdbHhOCX2yg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdbHhOCX2yQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mada/v16/7Au_p_0qnzeSdbHhOCX2zw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "200": {

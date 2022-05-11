@@ -1,18 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXurT6jqENvE&skey=4b161d3edf792696&v=v2#Kufam",
-    "500": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXurh6jqENvE&skey=4b161d3edf792696&v=v2#Kufam",
-    "600": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXuoN7TqENvE&skey=4b161d3edf792696&v=v2#Kufam",
-    "700": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXuo07TqENvE&skey=4b161d3edf792696&v=v2#Kufam",
-    "800": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXupT7TqENvE&skey=4b161d3edf792696&v=v2#Kufam",
-    "900": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXup67TqENvE&skey=4b161d3edf792696&v=v2#Kufam"
+    "400": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXurT6jqENvE&skey=4b161d3edf792696&v=v19#Kufam",
+    "500": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXurh6jqENvE&skey=4b161d3edf792696&v=v19#Kufam",
+    "600": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXuoN7TqENvE&skey=4b161d3edf792696&v=v19#Kufam",
+    "700": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXuo07TqENvE&skey=4b161d3edf792696&v=v19#Kufam",
+    "800": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXupT7TqENvE&skey=4b161d3edf792696&v=v19#Kufam",
+    "900": "https://fonts.gstatic.com/l/font?kit=C8c84cY7pG7w_q6APDMZN6kY3hbiXup67TqENvE&skey=4b161d3edf792696&v=v19#Kufam"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam",
-    "500": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3pKkLoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam",
-    "600": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3SK4LoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam",
-    "700": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3ca4LoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam",
-    "800": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3Fq4LoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam",
-    "900": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3P64LoAqP&skey=6ed5ded0226ac4ec&v=v2#Kufam"
+    "400": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam",
+    "500": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3pKkLoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam",
+    "600": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3SK4LoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam",
+    "700": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3ca4LoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam",
+    "800": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3Fq4LoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam",
+    "900": "https://fonts.gstatic.com/l/font?kit=C8c-4cY7pG7w_oSJDszBXsKCcBH3P64LoAqP&skey=6ed5ded0226ac4ec&v=v19#Kufam"
   }
 }

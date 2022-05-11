@@ -1,13 +1,13 @@
 {
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "200": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "300": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "400": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "500": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "600": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "700": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "800": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
-    "900": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmh&skey=878db4aed11f133b&v=v9#Heebo"
+    "100": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "200": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "300": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "400": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "500": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "600": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "700": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "800": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmh&skey=878db4aed11f133b&v=v20#Heebo",
+    "900": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmh&skey=878db4aed11f133b&v=v20#Heebo"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Shadows Into Light'",
-          "'ShadowsIntoLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD9.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD-&skey=d59d8f871dbcf35e&v=v10#ShadowsIntoLight",
-          "ttf": "https://fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf",
-          "woff": "https://fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD_.woff",
-          "woff2": "https://fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD5.woff2"
+          "eot": "https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD9.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD-&skey=d59d8f871dbcf35e&v=v15#ShadowsIntoLight",
+          "ttf": "https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf",
+          "woff": "https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD_.woff",
+          "woff2": "https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD5.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

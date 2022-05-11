@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Holtwood One SC'",
-          "'HoltwoodOneSC'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz8&skey=a792affb0acbc8db&v=v11#HoltwoodOneSC",
-          "ttf": "https://fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz-.ttf",
-          "woff": "https://fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz9.woff",
-          "woff2": "https://fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz7.woff2"
+          "eot": "https://fonts.gstatic.com/s/holtwoodonesc/v16/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz8&skey=a792affb0acbc8db&v=v16#HoltwoodOneSC",
+          "ttf": "https://fonts.gstatic.com/s/holtwoodonesc/v16/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz-.ttf",
+          "woff": "https://fonts.gstatic.com/s/holtwoodonesc/v16/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz9.woff",
+          "woff2": "https://fonts.gstatic.com/s/holtwoodonesc/v16/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz7.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

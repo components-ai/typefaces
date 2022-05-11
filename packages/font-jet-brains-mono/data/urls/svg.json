@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO-Lf2OZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "200": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO8LfmOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "300": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO_VfmOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "400": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO-LfmOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "500": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO-5fmOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "600": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO9VeWOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO9seWOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono",
+    "800": "https://fonts.gstatic.com/l/font?kit=tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO8LeWOZmaU&skey=74ed26de24979d51&v=v12#JetBrainsMono"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yK1TNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "200": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8SKxTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "300": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8lqxTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "400": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "500": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "600": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8L6tTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono",
+    "800": "https://fonts.gstatic.com/l/font?kit=tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8SKtTNFOS&skey=48ad01c60053c2ae&v=v12#JetBrainsMono"
+  }
+}

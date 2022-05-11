@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,88 +12,70 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Inria Sans Light Italic'",
-          "'InriaSans-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM43.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM40&skey=78c56fc24fa722e0&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM42.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM41.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM43.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM40&skey=78c56fc24fa722e0&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM42.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM41.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Inria Sans Italic'",
-          "'InriaSans-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCtu.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptROTiqXYfZMCOiVj9kQ1OzIJCtt&skey=29e66132202d338&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCtv.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCts.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIKitq.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptROTiqXYfZMCOiVj9kQ1OzIJCtu.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptROTiqXYfZMCOiVj9kQ1OzIJCtt&skey=29e66132202d338&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptROTiqXYfZMCOiVj9kQ1OzIJCtv.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptROTiqXYfZMCOiVj9kQ1OzIJCts.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptROTiqXYfZMCOiVj9kQ1OzIKitq.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Inria Sans Bold Italic'",
-          "'InriaSans-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM43.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM40&skey=a586f92b0e708a6&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM42.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM41.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_qs4z.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM43.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM40&skey=a586f92b0e708a6&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM42.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM41.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_qs4z.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Inria Sans Light'",
-          "'InriaSans-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrw&skey=e031c7d974834666&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQxPqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrw&skey=e031c7d974834666&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3ELaPQxPqA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Inria Sans Regular'",
-          "'InriaSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4LA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTiqXYfZMCOiVj9kQ1Of4Lw&skey=e50f9c61e17312cb&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4LQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4Lg.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1Of4LA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTiqXYfZMCOiVj9kQ1Of4Lw&skey=e50f9c61e17312cb&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1Of4LQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1Of4Lg.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Inria Sans Bold'",
-          "'InriaSans-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrw&skey=5eedcb144fe0412&v=v2#InriaSans",
-          "ttf": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQxPqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrw&skey=5eedcb144fe0412&v=v14#InriaSans",
+          "ttf": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3FLdPQxPqA.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "italic": {
       "300": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sree Krushnadevaraya'",
-          "'SreeKrushnadevaraya'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l4&skey=e1fc77f4532581af&v=v8#SreeKrushnadevaraya",
-          "ttf": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l8.woff",
-          "woff2": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lk.woff2"
+          "eot": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l4&skey=e1fc77f4532581af&v=v21#SreeKrushnadevaraya",
+          "ttf": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l8.woff",
+          "woff2": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lk.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

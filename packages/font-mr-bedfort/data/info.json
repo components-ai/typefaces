@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mr Bedfort'",
-          "'MrBedfort-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpiO-WA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MQpR-WCtNZSWAdTMwBicpiO-Ww&skey=6eb5e3ba826b3845&v=v9#MrBedfort",
-          "ttf": "https://fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpiO-WQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpiO-Wg.woff",
-          "woff2": "https://fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpi2-XA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBicpiO-WA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MQpR-WCtNZSWAdTMwBicpiO-Ww&skey=6eb5e3ba826b3845&v=v21#MrBedfort",
+          "ttf": "https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBicpiO-WQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBicpiO-Wg.woff",
+          "woff2": "https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBicpi2-XA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

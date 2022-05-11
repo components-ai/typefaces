@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/kanit/v7/nKKV-Go6G5tXcraQI2GwfIRB.ttf",
-    "200": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI82hZa1hNA.ttf",
-    "300": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI6miZa1hNA.ttf",
-    "400": "https://fonts.gstatic.com/s/kanit/v7/nKKX-Go6G5tXcraQKwyAdQ.ttf",
-    "500": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI_GjZa1hNA.ttf",
-    "600": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI92kZa1hNA.ttf",
-    "700": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI7mlZa1hNA.ttf",
-    "800": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI6WmZa1hNA.ttf",
-    "900": "https://fonts.gstatic.com/s/kanit/v7/nKKS-Go6G5tXcraQI4GnZa1hNA.ttf"
+    "100": "https://fonts.gstatic.com/s/kanit/v12/nKKV-Go6G5tXcraQI2GwfIRB.ttf",
+    "200": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI82hZa1hNA.ttf",
+    "300": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI6miZa1hNA.ttf",
+    "400": "https://fonts.gstatic.com/s/kanit/v12/nKKX-Go6G5tXcraQKwyAdQ.ttf",
+    "500": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI_GjZa1hNA.ttf",
+    "600": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI92kZa1hNA.ttf",
+    "700": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI7mlZa1hNA.ttf",
+    "800": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI6WmZa1hNA.ttf",
+    "900": "https://fonts.gstatic.com/s/kanit/v12/nKKS-Go6G5tXcraQI4GnZa1hNA.ttf"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/kanit/v7/nKKX-Go6G5tXcr72KwyAdQ.ttf",
-    "200": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr5aOhWpVaQ.ttf",
-    "300": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr4-ORWpVaQ.ttf",
-    "400": "https://fonts.gstatic.com/s/kanit/v7/nKKZ-Go6G5tXcrabGwU.ttf",
-    "500": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr5mOBWpVaQ.ttf",
-    "600": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr5KPxWpVaQ.ttf",
-    "700": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr4uPhWpVaQ.ttf",
-    "800": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr4yPRWpVaQ.ttf",
-    "900": "https://fonts.gstatic.com/s/kanit/v7/nKKU-Go6G5tXcr4WPBWpVaQ.ttf"
+    "100": "https://fonts.gstatic.com/s/kanit/v12/nKKX-Go6G5tXcr72KwyAdQ.ttf",
+    "200": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5aOhWpVaQ.ttf",
+    "300": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr4-ORWpVaQ.ttf",
+    "400": "https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcrabGwU.ttf",
+    "500": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5mOBWpVaQ.ttf",
+    "600": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPxWpVaQ.ttf",
+    "700": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr4uPhWpVaQ.ttf",
+    "800": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr4yPRWpVaQ.ttf",
+    "900": "https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr4WPBWpVaQ.ttf"
   }
 }

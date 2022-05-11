@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Peralta'",
-          "'Peralta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxkrqw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hYkJPu0-RP_9d3kRKxkrqA&skey=4fcf46385831e5a6&v=v8#Peralta",
-          "ttf": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxkrqg.ttf",
-          "woff": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxkrqQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrrw.woff2"
+          "eot": "https://fonts.gstatic.com/s/peralta/v17/hYkJPu0-RP_9d3kRKxkrqw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hYkJPu0-RP_9d3kRKxkrqA&skey=4fcf46385831e5a6&v=v17#Peralta",
+          "ttf": "https://fonts.gstatic.com/s/peralta/v17/hYkJPu0-RP_9d3kRKxkrqg.ttf",
+          "woff": "https://fonts.gstatic.com/s/peralta/v17/hYkJPu0-RP_9d3kRKxkrqQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/peralta/v17/hYkJPu0-RP_9d3kRKxcrrw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

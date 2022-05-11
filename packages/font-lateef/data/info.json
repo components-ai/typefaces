@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lateef'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVnNCxEvkb8oR2C&skey=c6edfa7a4a5da33&v=v16#Lateef",
-          "ttf": "https://fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2A.ttf",
-          "woff": "https://fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2D.woff",
-          "woff2": "https://fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2F.woff2"
+          "eot": "https://fonts.gstatic.com/s/lateef/v23/hESw6XVnNCxEvkb8oR2B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVnNCxEvkb8oR2C&skey=c6edfa7a4a5da33&v=v23#Lateef",
+          "ttf": "https://fonts.gstatic.com/s/lateef/v23/hESw6XVnNCxEvkb8oR2A.ttf",
+          "woff": "https://fonts.gstatic.com/s/lateef/v23/hESw6XVnNCxEvkb8oR2D.woff",
+          "woff2": "https://fonts.gstatic.com/s/lateef/v23/hESw6XVnNCxEvkb8oR2F.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

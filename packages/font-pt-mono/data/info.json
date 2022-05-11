@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'PT Mono'",
-          "'PTMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCEzNw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9AnCEzNA&skey=a4defc8e382ed677&v=v8#PTMono",
-          "ttf": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCEzNg.ttf",
-          "woff": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCEzNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnC8zMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/ptmono/v13/9oRONYoBnWILk-9AnCEzNw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9AnCEzNA&skey=a4defc8e382ed677&v=v13#PTMono",
+          "ttf": "https://fonts.gstatic.com/s/ptmono/v13/9oRONYoBnWILk-9AnCEzNg.ttf",
+          "woff": "https://fonts.gstatic.com/s/ptmono/v13/9oRONYoBnWILk-9AnCEzNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/ptmono/v13/9oRONYoBnWILk-9AnC8zMw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

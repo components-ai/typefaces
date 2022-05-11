@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Maiden Orange Regular'",
-          "'MaidenOrange-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXDA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=kJE1BuIX7AUmhi2V4m08kb1XvOFXDw&skey=bc673e1da07006c9&v=v11#MaidenOrange",
-          "ttf": "https://fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXDQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXDg.woff",
-          "woff2": "https://fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXCA.woff2"
+          "eot": "https://fonts.gstatic.com/s/maidenorange/v25/kJE1BuIX7AUmhi2V4m08kb1XvOFXDA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=kJE1BuIX7AUmhi2V4m08kb1XvOFXDw&skey=bc673e1da07006c9&v=v25#MaidenOrange",
+          "ttf": "https://fonts.gstatic.com/s/maidenorange/v25/kJE1BuIX7AUmhi2V4m08kb1XvOFXDQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/maidenorange/v25/kJE1BuIX7AUmhi2V4m08kb1XvOFXDg.woff",
+          "woff2": "https://fonts.gstatic.com/s/maidenorange/v25/kJE1BuIX7AUmhi2V4m08kb1XvOFXCA.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

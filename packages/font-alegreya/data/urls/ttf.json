@@ -1,16 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/alegreya/v15/4UaHrEBBsBhlBjvfkSLk96Tp4g.ttf",
-    "500": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_1nK8pJUKw.ttf",
-    "700": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_xHM8pJUKw.ttf",
-    "800": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_w3P8pJUKw.ttf",
-    "900": "https://fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_ynO8pJUKw.ttf"
+    "400": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qvmSA.ttf",
+    "500": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qvmSA.ttf",
+    "600": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqvmSA.ttf",
+    "700": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqvmSA.ttf",
+    "800": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqvmSA.ttf",
+    "900": "https://fonts.gstatic.com/s/alegreya/v27/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqvmSA.ttf"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/alegreya/v15/4UaBrEBBsBhlBjvfkSLvx60.ttf",
-    "500": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSoS5L3Awps.ttf",
-    "700": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpa4r3Awps.ttf",
-    "800": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpG4b3Awps.ttf",
-    "900": "https://fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpi4L3Awps.ttf"
+    "400": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU49aqm.ttf",
+    "500": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU49aqm.ttf",
+    "600": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI49aqm.ttf",
+    "700": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI49aqm.ttf",
+    "800": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI49aqm.ttf",
+    "900": "https://fonts.gstatic.com/s/alegreya/v27/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI49aqm.ttf"
   }
 }

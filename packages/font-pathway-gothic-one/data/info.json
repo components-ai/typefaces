@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pathway Gothic One Regular'",
-          "'PathwayGothicOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZY&skey=fdd3ccfa4bb0720f&v=v9#PathwayGothicOne",
-          "ttf": "https://fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZa.ttf",
-          "woff": "https://fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tS1Zf.woff2"
+          "eot": "https://fonts.gstatic.com/s/pathwaygothicone/v14/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZY&skey=fdd3ccfa4bb0720f&v=v14#PathwayGothicOne",
+          "ttf": "https://fonts.gstatic.com/s/pathwaygothicone/v14/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZa.ttf",
+          "woff": "https://fonts.gstatic.com/s/pathwaygothicone/v14/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/pathwaygothicone/v14/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tS1Zf.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

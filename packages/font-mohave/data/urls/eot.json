@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/mohave/v7/7cH2v4ksjJunKqM_CdE36I75AIQkY7G8qLOqr7rS.eot",
+    "400": "https://fonts.gstatic.com/s/mohave/v7/7cH2v4ksjJunKqM_CdE36I75AIQkY7G89rOqr7rS.eot",
+    "500": "https://fonts.gstatic.com/s/mohave/v7/7cH2v4ksjJunKqM_CdE36I75AIQkY7G8xLOqr7rS.eot",
+    "600": "https://fonts.gstatic.com/s/mohave/v7/7cH2v4ksjJunKqM_CdE36I75AIQkY7G8KLSqr7rS.eot",
+    "700": "https://fonts.gstatic.com/s/mohave/v7/7cH2v4ksjJunKqM_CdE36I75AIQkY7G8EbSqr7rS.eot"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/s/mohave/v7/7cH0v4ksjJunKqMVAOPIMOeSmiojdif_Lvmapw.eot",
+    "400": "https://fonts.gstatic.com/s/mohave/v7/7cH0v4ksjJunKqMVAOPIMOeSmiojdnn_Lvmapw.eot",
+    "500": "https://fonts.gstatic.com/s/mohave/v7/7cH0v4ksjJunKqMVAOPIMOeSmiojdkv_Lvmapw.eot",
+    "600": "https://fonts.gstatic.com/s/mohave/v7/7cH0v4ksjJunKqMVAOPIMOeSmiojdqf4Lvmapw.eot",
+    "700": "https://fonts.gstatic.com/s/mohave/v7/7cH0v4ksjJunKqMVAOPIMOeSmiojdp74Lvmapw.eot"
+  }
+}

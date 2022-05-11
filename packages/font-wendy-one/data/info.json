@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Wendy One'",
-          "'WendyOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzZmW9.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZGJOipXfgfXV5wgzZmW-&skey=41326e4490787c89&v=v9#WendyOne",
-          "ttf": "https://fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzZmW8.ttf",
-          "woff": "https://fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzZmW_.woff",
-          "woff2": "https://fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzaGW5.woff2"
+          "eot": "https://fonts.gstatic.com/s/wendyone/v14/2sDcZGJOipXfgfXV5wgzZmW9.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZGJOipXfgfXV5wgzZmW-&skey=41326e4490787c89&v=v14#WendyOne",
+          "ttf": "https://fonts.gstatic.com/s/wendyone/v14/2sDcZGJOipXfgfXV5wgzZmW8.ttf",
+          "woff": "https://fonts.gstatic.com/s/wendyone/v14/2sDcZGJOipXfgfXV5wgzZmW_.woff",
+          "woff2": "https://fonts.gstatic.com/s/wendyone/v14/2sDcZGJOipXfgfXV5wgzaGW5.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

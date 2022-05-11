@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Freckle Face'",
-          "'FreckleFace-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEWliz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOWz4SXrmKHCvXTohxY-YIEWliw&skey=6847a6b1de75e60f&v=v9#FreckleFace",
-          "ttf": "https://fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEWliy.ttf",
-          "woff": "https://fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEWlix.woff",
-          "woff2": "https://fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEVFi3.woff2"
+          "eot": "https://fonts.gstatic.com/s/freckleface/v14/AMOWz4SXrmKHCvXTohxY-YIEWliz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOWz4SXrmKHCvXTohxY-YIEWliw&skey=6847a6b1de75e60f&v=v14#FreckleFace",
+          "ttf": "https://fonts.gstatic.com/s/freckleface/v14/AMOWz4SXrmKHCvXTohxY-YIEWliy.ttf",
+          "woff": "https://fonts.gstatic.com/s/freckleface/v14/AMOWz4SXrmKHCvXTohxY-YIEWlix.woff",
+          "woff2": "https://fonts.gstatic.com/s/freckleface/v14/AMOWz4SXrmKHCvXTohxY-YIEVFi3.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

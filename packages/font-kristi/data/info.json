@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kristi Regular'",
-          "'Kristi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4ricdeU6zwdhDRcV&skey=102b657bda2b64be&v=v12#Kristi",
-          "ttf": "https://fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcX.ttf",
-          "woff": "https://fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcU.woff",
-          "woff2": "https://fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcS.woff2"
+          "eot": "https://fonts.gstatic.com/s/kristi/v17/uK_y4ricdeU6zwdhDRcW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4ricdeU6zwdhDRcV&skey=102b657bda2b64be&v=v17#Kristi",
+          "ttf": "https://fonts.gstatic.com/s/kristi/v17/uK_y4ricdeU6zwdhDRcX.ttf",
+          "woff": "https://fonts.gstatic.com/s/kristi/v17/uK_y4ricdeU6zwdhDRcU.woff",
+          "woff2": "https://fonts.gstatic.com/s/kristi/v17/uK_y4ricdeU6zwdhDRcS.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

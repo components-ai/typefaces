@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Quando-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZAq-2.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xMQVuFNaVa6YuW0ZAq-1&skey=dc4e8c3b7c4829c7&v=v9#Quando",
-          "ttf": "https://fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZAq-3.ttf",
-          "woff": "https://fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZAq-0.woff",
-          "woff2": "https://fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZDK-y.woff2"
+          "eot": "https://fonts.gstatic.com/s/quando/v14/xMQVuFNaVa6YuW0ZAq-2.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xMQVuFNaVa6YuW0ZAq-1&skey=dc4e8c3b7c4829c7&v=v14#Quando",
+          "ttf": "https://fonts.gstatic.com/s/quando/v14/xMQVuFNaVa6YuW0ZAq-3.ttf",
+          "woff": "https://fonts.gstatic.com/s/quando/v14/xMQVuFNaVa6YuW0ZAq-0.woff",
+          "woff2": "https://fonts.gstatic.com/s/quando/v14/xMQVuFNaVa6YuW0ZDK-y.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {
@@ -97,6 +95,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

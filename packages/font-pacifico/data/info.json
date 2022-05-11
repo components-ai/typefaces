@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pacifico Regular'",
-          "'Pacifico-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6J6M0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qmy14u9lezJ-6J6M4&skey=a336e4011ec32111&v=v17#Pacifico",
-          "ttf": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6J6Mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6J6M8.woff",
-          "woff2": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6Mk.woff2"
+          "eot": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6J6M0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qmy14u9lezJ-6J6M4&skey=a336e4011ec32111&v=v22#Pacifico",
+          "ttf": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6J6Mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6J6M8.woff",
+          "woff2": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mk.woff2"
         }
       }
     }
   },
-  "version": "v17",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

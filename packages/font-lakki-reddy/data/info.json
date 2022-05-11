@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "telugu"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lakki Reddy'",
-          "'LakkiReddy'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfvzdw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=S6u5w49MUSzD9jlCPmvLZTfvzd8&skey=6d3860caa41babe7&v=v7#LakkiReddy",
-          "ttf": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfvzd0.ttf",
-          "woff": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfvzd4.woff",
-          "woff2": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfvzdg.woff2"
+          "eot": "https://fonts.gstatic.com/s/lakkireddy/v19/S6u5w49MUSzD9jlCPmvLZTfvzdw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=S6u5w49MUSzD9jlCPmvLZTfvzd8&skey=6d3860caa41babe7&v=v19#LakkiReddy",
+          "ttf": "https://fonts.gstatic.com/s/lakkireddy/v19/S6u5w49MUSzD9jlCPmvLZTfvzd0.ttf",
+          "woff": "https://fonts.gstatic.com/s/lakkireddy/v19/S6u5w49MUSzD9jlCPmvLZTfvzd4.woff",
+          "woff2": "https://fonts.gstatic.com/s/lakkireddy/v19/S6u5w49MUSzD9jlCPmvLZTfvzdg.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -92,6 +89,12 @@
             "o": "m 372 956 l 372 956 q 467 932 418 952 q 557 873 515 911 q 630 776 600 834 q 669 639 661 718 l 669 639 q 652 404 682 503 q 564 231 621 305 q 429 98 506 156 q 271 -11 353 41 l 271 -11 q 208 53 231 28 l 208 53 l 183 77 q 159 104 174 90 l 159 104 q 129 137 146 118 q 90 180 111 156 l 90 180 q 166 151 132 157 q 225 145 201 144 l 225 145 q 277 155 254 146 l 277 155 q 387 229 338 184 l 387 229 q 463 328 429 269 q 500 468 498 387 l 500 468 q 406 378 457 406 q 312 342 355 351 l 312 342 q 209 338 260 331 l 209 338 q 153 365 183 342 q 96 424 123 388 q 48 505 69 460 q 19 599 27 549 q 18 699 11 648 q 57 798 26 750 l 57 798 q 144 902 103 867 q 222 950 184 937 q 297 962 260 963 q 372 956 334 960 z m 228 682 l 228 682 q 217 606 217 644 q 227 537 217 568 q 256 484 237 506 q 304 456 275 461 l 304 456 q 360 465 332 449 q 412 509 388 480 q 452 576 435 537 q 475 655 469 614 l 475 655 q 475 717 479 684 q 462 779 472 750 q 436 829 452 808 q 400 853 420 849 l 400 853 q 347 846 373 857 q 297 810 320 834 q 256 753 274 787 q 228 682 237 720 z "
           },
           "\u0000": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\f": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

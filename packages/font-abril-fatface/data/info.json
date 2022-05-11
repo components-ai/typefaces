@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Abril Fatface'",
-          "'AbrilFatface-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zOL64pLDlL1D99S8g8PtiKchq-lmig&skey=3aaa84d7e0b4f9c7&v=v12#AbrilFatface",
-          "ttf": "https://fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-dmjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-lmiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zOL64pLDlL1D99S8g8PtiKchq-lmig&skey=3aaa84d7e0b4f9c7&v=v19#AbrilFatface",
+          "ttf": "https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-lmiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-lmiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-dmjQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

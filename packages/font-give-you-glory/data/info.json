@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Give You Glory'",
-          "'GiveYouGlory'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIQdiHOgt3vv4LR7ahjw9-XYf10DYA&skey=147545eeeab1069c&v=v10#GiveYouGlory",
-          "ttf": "https://fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYI.ttf",
-          "woff": "https://fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYE.woff",
-          "woff2": "https://fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYc.woff2"
+          "eot": "https://fonts.gstatic.com/s/giveyouglory/v15/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIQdiHOgt3vv4LR7ahjw9-XYf10DYA&skey=147545eeeab1069c&v=v15#GiveYouGlory",
+          "ttf": "https://fonts.gstatic.com/s/giveyouglory/v15/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYI.ttf",
+          "woff": "https://fonts.gstatic.com/s/giveyouglory/v15/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYE.woff",
+          "woff2": "https://fonts.gstatic.com/s/giveyouglory/v15/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYc.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

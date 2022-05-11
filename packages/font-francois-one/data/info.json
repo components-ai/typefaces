@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Francois One Regular'",
-          "'FrancoisOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zwiV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmr-H4zszafZw3A-KPSZut9zwiW&skey=37e55f964c88f579&v=v15#FrancoisOne",
-          "ttf": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zwiU.ttf",
-          "woff": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zwiX.woff",
-          "woff2": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9wQiR.woff2"
+          "eot": "https://fonts.gstatic.com/s/francoisone/v20/_Xmr-H4zszafZw3A-KPSZut9zwiV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmr-H4zszafZw3A-KPSZut9zwiW&skey=37e55f964c88f579&v=v20#FrancoisOne",
+          "ttf": "https://fonts.gstatic.com/s/francoisone/v20/_Xmr-H4zszafZw3A-KPSZut9zwiU.ttf",
+          "woff": "https://fonts.gstatic.com/s/francoisone/v20/_Xmr-H4zszafZw3A-KPSZut9zwiX.woff",
+          "woff2": "https://fonts.gstatic.com/s/francoisone/v20/_Xmr-H4zszafZw3A-KPSZut9wQiR.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sevillana'",
-          "'Sevillana-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnWFscmDt1Bfiy1fChc_&skey=766250f377172da2&v=v9#Sevillana",
-          "ttf": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc9.ttf",
-          "woff": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc-.woff",
-          "woff2": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fBBc4.woff2"
+          "eot": "https://fonts.gstatic.com/s/sevillana/v21/KFOlCnWFscmDt1Bfiy1fChc8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnWFscmDt1Bfiy1fChc_&skey=766250f377172da2&v=v21#Sevillana",
+          "ttf": "https://fonts.gstatic.com/s/sevillana/v21/KFOlCnWFscmDt1Bfiy1fChc9.ttf",
+          "woff": "https://fonts.gstatic.com/s/sevillana/v21/KFOlCnWFscmDt1Bfiy1fChc-.woff",
+          "woff2": "https://fonts.gstatic.com/s/sevillana/v21/KFOlCnWFscmDt1Bfiy1fBBc4.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

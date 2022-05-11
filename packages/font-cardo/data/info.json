@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "greek",
     "greek-ext",
@@ -16,49 +16,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Cardo Italic'",
-          "'Cardo-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97I0x2A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwjKBV1pqhv97I0x2w&skey=26bb5df469a255da&v=v13#Cardo",
-          "ttf": "https://fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97I0x2Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97I0x2g.woff",
-          "woff2": "https://fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97IMx3A.woff2"
+          "eot": "https://fonts.gstatic.com/s/cardo/v19/wlpxgwjKBV1pqhv97I0x2A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwjKBV1pqhv97I0x2w&skey=26bb5df469a255da&v=v19#Cardo",
+          "ttf": "https://fonts.gstatic.com/s/cardo/v19/wlpxgwjKBV1pqhv97I0x2Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/cardo/v19/wlpxgwjKBV1pqhv97I0x2g.woff",
+          "woff2": "https://fonts.gstatic.com/s/cardo/v19/wlpxgwjKBV1pqhv97IMx3A.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Cardo'",
-          "'Cardo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv23IU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wlp_gwjKBV1pqhv23IY&skey=6e473b3c3fa37289&v=v13#Cardo",
-          "ttf": "https://fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv23IQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv23Ic.woff",
-          "woff2": "https://fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv43IE.woff2"
+          "eot": "https://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv23IU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wlp_gwjKBV1pqhv23IY&skey=6e473b3c3fa37289&v=v19#Cardo",
+          "ttf": "https://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv23IQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv23Ic.woff",
+          "woff2": "https://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv43IE.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cardo Bold'",
-          "'Cardo-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQY-Wc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wlpygwjKBV1pqhND-ZQY-WQ&skey=90e31575a38858c1&v=v13#Cardo",
-          "ttf": "https://fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQY-WY.ttf",
-          "woff": "https://fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQY-WU.woff",
-          "woff2": "https://fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQW-WM.woff2"
+          "eot": "https://fonts.gstatic.com/s/cardo/v19/wlpygwjKBV1pqhND-ZQY-Wc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wlpygwjKBV1pqhND-ZQY-WQ&skey=90e31575a38858c1&v=v19#Cardo",
+          "ttf": "https://fonts.gstatic.com/s/cardo/v19/wlpygwjKBV1pqhND-ZQY-WY.ttf",
+          "woff": "https://fonts.gstatic.com/s/cardo/v19/wlpygwjKBV1pqhND-ZQY-WU.woff",
+          "woff2": "https://fonts.gstatic.com/s/cardo/v19/wlpygwjKBV1pqhND-ZQW-WM.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v19",
   "typefaces": {
     "italic": {
       "400": {

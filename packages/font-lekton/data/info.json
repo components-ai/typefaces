@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,47 +12,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Lekton-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3ltUA&skey=f90240a45c2af78&v=v11#Lekton",
-          "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUI.ttf",
-          "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUE.woff",
-          "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3rtUc.woff2"
+          "eot": "https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3ltUM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3ltUA&skey=f90240a45c2af78&v=v17#Lekton",
+          "ttf": "https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3ltUI.ttf",
+          "woff": "https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3ltUE.woff",
+          "woff2": "https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3rtUc.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Lekton'",
-          "'Lekton-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3t.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc43FDmLaWmWpBuVh3u&skey=ea1e370f252c6f8d&v=v11#Lekton",
-          "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3s.ttf",
-          "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3v.woff",
-          "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuWB3p.woff2"
+          "eot": "https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuVh3t.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc43FDmLaWmWpBuVh3u&skey=ea1e370f252c6f8d&v=v17#Lekton",
+          "ttf": "https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuVh3s.ttf",
+          "woff": "https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuVh3v.woff",
+          "woff2": "https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuWB3p.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Lekton-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8nGLR&skey=bda8e77f1d703414&v=v11#Lekton",
-          "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLT.ttf",
-          "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8kmLW.woff2"
+          "eot": "https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8nGLS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8nGLR&skey=bda8e77f1d703414&v=v17#Lekton",
+          "ttf": "https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8nGLT.ttf",
+          "woff": "https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8nGLQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8kmLW.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v17",
   "typefaces": {
     "italic": {
       "400": {

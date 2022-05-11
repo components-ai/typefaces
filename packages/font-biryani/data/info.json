@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Biryani ExtraLight'",
-          "'Biryani-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddYQyKTlYVQ&skey=d42b7163daf22ee9&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddYQyKTlYVQ&skey=d42b7163daf22ee9&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTdYUg.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Biryani Light'",
-          "'Biryani-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddeAxKTlYVQ&skey=e54893269db4ddbe&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddeAxKTlYVQ&skey=e54893269db4ddbe&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTdYUg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Biryani Regular'",
-          "'Biryani-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-WlzNxIFoO84YdfUUTOw&skey=2357f49981935149&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOg.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUsTPA.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUUTOA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-WlzNxIFoO84YdfUUTOw&skey=2357f49981935149&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUUTOQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUUTOg.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTPA.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Biryani SemiBold'",
-          "'Biryani-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddZQ3KTlYVQ&skey=ee13aa13f636c74f&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddZQ3KTlYVQ&skey=ee13aa13f636c74f&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTdYUg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Biryani Bold'",
-          "'Biryani-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddfA2KTlYVQ&skey=5fc70b714608548d&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddfA2KTlYVQ&skey=5fc70b714608548d&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTdYUg.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Biryani ExtraBold'",
-          "'Biryani-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddew1KTlYVQ&skey=1ca99bb6f7b098ac&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddew1KTlYVQ&skey=1ca99bb6f7b098ac&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTdYUg.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Biryani Black'",
-          "'Biryani-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddcg0KTlYVQ&skey=87a891a314ca2a5c&v=v6#Biryani",
-          "ttf": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVw.ttf",
-          "woff": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVA.woff",
-          "woff2": "https://fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTdYUg.woff2"
+          "eot": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTlYVg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddcg0KTlYVQ&skey=87a891a314ca2a5c&v=v13#Biryani",
+          "ttf": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTlYVw.ttf",
+          "woff": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTlYVA.woff",
+          "woff2": "https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTdYUg.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "200": {

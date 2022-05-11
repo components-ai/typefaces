@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Seymour One'",
-          "'SeymourOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyBN4U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6Khla9xbjQpoWGGd0lyBN4Y&skey=f9acfe398dc38251&v=v8#SeymourOne",
-          "ttf": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyBN4Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyBN4c.woff",
-          "woff2": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyPN4E.woff2"
+          "eot": "https://fonts.gstatic.com/s/seymourone/v20/4iCp6Khla9xbjQpoWGGd0lyBN4U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6Khla9xbjQpoWGGd0lyBN4Y&skey=f9acfe398dc38251&v=v20#SeymourOne",
+          "ttf": "https://fonts.gstatic.com/s/seymourone/v20/4iCp6Khla9xbjQpoWGGd0lyBN4Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/seymourone/v20/4iCp6Khla9xbjQpoWGGd0lyBN4c.woff",
+          "woff2": "https://fonts.gstatic.com/s/seymourone/v20/4iCp6Khla9xbjQpoWGGd0lyPN4E.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

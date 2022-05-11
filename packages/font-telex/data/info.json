@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Telex Regular'",
-          "'Telex-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-faDV8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ieVw2Y1fKWmIO-faDVw&skey=f563425e95f7a3e2&v=v9#Telex",
-          "ttf": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-faDV4.ttf",
-          "woff": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-faDV0.woff",
-          "woff2": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDVs.woff2"
+          "eot": "https://fonts.gstatic.com/s/telex/v14/ieVw2Y1fKWmIO-faDV8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ieVw2Y1fKWmIO-faDVw&skey=f563425e95f7a3e2&v=v14#Telex",
+          "ttf": "https://fonts.gstatic.com/s/telex/v14/ieVw2Y1fKWmIO-faDV4.ttf",
+          "woff": "https://fonts.gstatic.com/s/telex/v14/ieVw2Y1fKWmIO-faDV0.woff",
+          "woff2": "https://fonts.gstatic.com/s/telex/v14/ieVw2Y1fKWmIO-fUDVs.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Electrolize'",
-          "'Electrolize-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuIs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf5Ma1dtE0zSiGSiED7AXEBuIg&skey=530b3bebd29b1b4d&v=v9#Electrolize",
-          "ttf": "https://fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuIo.ttf",
-          "woff": "https://fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuIk.woff",
-          "woff2": "https://fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuI8.woff2"
+          "eot": "https://fonts.gstatic.com/s/electrolize/v14/cIf5Ma1dtE0zSiGSiED7AXEBuIs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf5Ma1dtE0zSiGSiED7AXEBuIg&skey=530b3bebd29b1b4d&v=v14#Electrolize",
+          "ttf": "https://fonts.gstatic.com/s/electrolize/v14/cIf5Ma1dtE0zSiGSiED7AXEBuIo.ttf",
+          "woff": "https://fonts.gstatic.com/s/electrolize/v14/cIf5Ma1dtE0zSiGSiED7AXEBuIk.woff",
+          "woff2": "https://fonts.gstatic.com/s/electrolize/v14/cIf5Ma1dtE0zSiGSiED7AXEBuI8.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mako'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mako/v12/H4coBX6Mmc_Z4SP-8w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4coBX6Mmc_Z4SP-8A&skey=c52d723c8275c271&v=v12#Mako",
-          "ttf": "https://fonts.gstatic.com/s/mako/v12/H4coBX6Mmc_Z4SP-8g.ttf",
-          "woff": "https://fonts.gstatic.com/s/mako/v12/H4coBX6Mmc_Z4SP-8Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/mako/v12/H4coBX6Mmc_Z4SP-9w.woff2"
+          "eot": "https://fonts.gstatic.com/s/mako/v18/H4coBX6Mmc_Z4SP-8w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4coBX6Mmc_Z4SP-8A&skey=c52d723c8275c271&v=v18#Mako",
+          "ttf": "https://fonts.gstatic.com/s/mako/v18/H4coBX6Mmc_Z4SP-8g.ttf",
+          "woff": "https://fonts.gstatic.com/s/mako/v18/H4coBX6Mmc_Z4SP-8Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/mako/v18/H4coBX6Mmc_Z4SP-9w.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

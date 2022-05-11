@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,125 +14,98 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Encode Sans Semi Expanded Thin'",
-          "'EncodeSansSemiExpanded-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDj&skey=dc0a4068b5ecf50a&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDh.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDi.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FLADk.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDj&skey=dc0a4068b5ecf50a&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDh.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIgDi.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FLADk.woff2"
         }
       },
       "200": {
-        "local": [
-          "'Encode Sans Semi Expanded ExtraLight'",
-          "'EncodeSansSemiExpanded-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIw&skey=bbb9731d46a038ad&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIw&skey=bbb9731d46a038ad&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyfBJA.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Encode Sans Semi Expanded Light'",
-          "'EncodeSansSemiExpanded-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIw&skey=fe4df3368e732156&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIw&skey=fe4df3368e732156&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyfBJA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Encode Sans Semi Expanded Regular'",
-          "'EncodeSansSemiExpanded-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1Kg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1KQ&skey=4f229740d3e0a176&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1Kw.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1KA.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO401Lg.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1Kg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1KQ&skey=4f229740d3e0a176&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1Kw.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4M1KA.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO401Lg.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Encode Sans Semi Expanded Medium'",
-          "'EncodeSansSemiExpanded-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIw&skey=4c7bf071c9069b97&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIw&skey=4c7bf071c9069b97&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM34WOyfBJA.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Encode Sans Semi Expanded SemiBold'",
-          "'EncodeSansSemiExpanded-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIw&skey=a215417dfb1dacc&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIw&skey=a215417dfb1dacc&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyfBJA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Encode Sans Semi Expanded Bold'",
-          "'EncodeSansSemiExpanded-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIw&skey=a522d23b7cd26a0d&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIw&skey=a522d23b7cd26a0d&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyfBJA.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Encode Sans Semi Expanded ExtraBold'",
-          "'EncodeSansSemiExpanded-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIw&skey=4d5246cdaa83674a&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIw&skey=4d5246cdaa83674a&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyoTOyfBJA.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Encode Sans Semi Expanded Black'",
-          "'EncodeSansSemiExpanded-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIw&skey=2462d6bf6de02c23&v=v6#EncodeSansSemiExpanded",
-          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v6/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOyfBJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIw&skey=2462d6bf6de02c23&v=v18#EncodeSansSemiExpanded",
+          "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOynBIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v18/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOyfBJA.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "100": {

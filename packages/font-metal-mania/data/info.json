@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Metal Mania'",
-          "'MetalMania-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/metalmania/v10/RWmMoKWb4e8kqMfBUdPFJdXLiaA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmMoKWb4e8kqMfBUdPFJdXLiaM&skey=d8d4125af87e0443&v=v10#MetalMania",
-          "ttf": "https://fonts.gstatic.com/s/metalmania/v10/RWmMoKWb4e8kqMfBUdPFJdXLiaE.ttf",
-          "woff": "https://fonts.gstatic.com/s/metalmania/v10/RWmMoKWb4e8kqMfBUdPFJdXLiaI.woff",
-          "woff2": "https://fonts.gstatic.com/s/metalmania/v10/RWmMoKWb4e8kqMfBUdPFJdXFiaQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/metalmania/v22/RWmMoKWb4e8kqMfBUdPFJdXLiaA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmMoKWb4e8kqMfBUdPFJdXLiaM&skey=d8d4125af87e0443&v=v22#MetalMania",
+          "ttf": "https://fonts.gstatic.com/s/metalmania/v22/RWmMoKWb4e8kqMfBUdPFJdXLiaE.ttf",
+          "woff": "https://fonts.gstatic.com/s/metalmania/v22/RWmMoKWb4e8kqMfBUdPFJdXLiaI.woff",
+          "woff2": "https://fonts.gstatic.com/s/metalmania/v22/RWmMoKWb4e8kqMfBUdPFJdXFiaQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

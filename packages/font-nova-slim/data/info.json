@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Slim'",
-          "'NovaSlim'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novaslim/v12/Z9XUDmZNQAuem8jyZcnOz8mN.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZNQAuem8jyZcnOz8mO&skey=bc1efc70722f8a4b&v=v12#NovaSlim",
-          "ttf": "https://fonts.gstatic.com/s/novaslim/v12/Z9XUDmZNQAuem8jyZcnOz8mM.ttf",
-          "woff": "https://fonts.gstatic.com/s/novaslim/v12/Z9XUDmZNQAuem8jyZcnOz8mP.woff",
-          "woff2": "https://fonts.gstatic.com/s/novaslim/v12/Z9XUDmZNQAuem8jyZcnOz8mJ.woff2"
+          "eot": "https://fonts.gstatic.com/s/novaslim/v24/Z9XUDmZNQAuem8jyZcnOz8mN.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZNQAuem8jyZcnOz8mO&skey=bc1efc70722f8a4b&v=v24#NovaSlim",
+          "ttf": "https://fonts.gstatic.com/s/novaslim/v24/Z9XUDmZNQAuem8jyZcnOz8mM.ttf",
+          "woff": "https://fonts.gstatic.com/s/novaslim/v24/Z9XUDmZNQAuem8jyZcnOz8mP.woff",
+          "woff2": "https://fonts.gstatic.com/s/novaslim/v24/Z9XUDmZNQAuem8jyZcnOz8mJ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,18 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmQObM&skey=32518239f351a3af&v=v12#Vollkorn",
-    "500": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmQObM&skey=32518239f351a3af&v=v12#Vollkorn",
-    "600": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmQObM&skey=32518239f351a3af&v=v12#Vollkorn",
-    "700": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmQObM&skey=32518239f351a3af&v=v12#Vollkorn",
-    "800": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmQObM&skey=32518239f351a3af&v=v12#Vollkorn",
-    "900": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmQObM&skey=32518239f351a3af&v=v12#Vollkorn"
+    "400": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmQObM&skey=32518239f351a3af&v=v20#Vollkorn",
+    "500": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmQObM&skey=32518239f351a3af&v=v20#Vollkorn",
+    "600": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmQObM&skey=32518239f351a3af&v=v20#Vollkorn",
+    "700": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmQObM&skey=32518239f351a3af&v=v20#Vollkorn",
+    "800": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmQObM&skey=32518239f351a3af&v=v20#Vollkorn",
+    "900": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmQObM&skey=32518239f351a3af&v=v20#Vollkorn"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEGmb&skey=70793812edfff824&v=v12#Vollkorn",
-    "500": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeEGmb&skey=70793812edfff824&v=v12#Vollkorn",
-    "600": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeEGmb&skey=70793812edfff824&v=v12#Vollkorn",
-    "700": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeEGmb&skey=70793812edfff824&v=v12#Vollkorn",
-    "800": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeEGmb&skey=70793812edfff824&v=v12#Vollkorn",
-    "900": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeEGmb&skey=70793812edfff824&v=v12#Vollkorn"
+    "400": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEGmb&skey=70793812edfff824&v=v20#Vollkorn",
+    "500": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeEGmb&skey=70793812edfff824&v=v20#Vollkorn",
+    "600": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeEGmb&skey=70793812edfff824&v=v20#Vollkorn",
+    "700": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeEGmb&skey=70793812edfff824&v=v20#Vollkorn",
+    "800": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeEGmb&skey=70793812edfff824&v=v20#Vollkorn",
+    "900": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeEGmb&skey=70793812edfff824&v=v20#Vollkorn"
   }
 }

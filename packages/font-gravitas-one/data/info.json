@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gravitas One'",
-          "'GravitasOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h1diZ4hJ3cblKy3LWakKQmqCm5L&skey=64e506eb4eda273f&v=v10#GravitasOne",
-          "ttf": "https://fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5J.ttf",
-          "woff": "https://fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5K.woff",
-          "woff2": "https://fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5M.woff2"
+          "eot": "https://fonts.gstatic.com/s/gravitasone/v15/5h1diZ4hJ3cblKy3LWakKQmqCm5I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h1diZ4hJ3cblKy3LWakKQmqCm5L&skey=64e506eb4eda273f&v=v15#GravitasOne",
+          "ttf": "https://fonts.gstatic.com/s/gravitasone/v15/5h1diZ4hJ3cblKy3LWakKQmqCm5J.ttf",
+          "woff": "https://fonts.gstatic.com/s/gravitasone/v15/5h1diZ4hJ3cblKy3LWakKQmqCm5K.woff",
+          "woff2": "https://fonts.gstatic.com/s/gravitasone/v15/5h1diZ4hJ3cblKy3LWakKQmqCm5M.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

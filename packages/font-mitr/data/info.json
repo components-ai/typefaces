@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,86 +16,68 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Mitr ExtraLight'",
-          "'Mitr-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8fMZJJnedQ&skey=8b1e120e0c5cab67&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfecg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8fMZJJnedg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8fMZJJnedQ&skey=8b1e120e0c5cab67&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8fMZJJnedw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8fMZJJnedA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8fMZJJfecg.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Mitr Light'",
-          "'Mitr-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8ZcaJJnedQ&skey=6b814b7e1d9784a5&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfecg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8ZcaJJnedg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8ZcaJJnedQ&skey=6b814b7e1d9784a5&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8ZcaJJnedw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8ZcaJJnedA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8ZcaJJfecg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Mitr Regular'",
-          "'Mitr-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4NQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiLypw5ucZF-TI4Ng&skey=d9d553d0e1ce1028&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4NA.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4Nw.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4MQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiLypw5ucZF-TI4NQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiLypw5ucZF-TI4Ng&skey=d9d553d0e1ce1028&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiLypw5ucZF-TI4NA.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiLypw5ucZF-TI4Nw.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiLypw5ucZF-Tw4MQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Mitr Medium'",
-          "'Mitr-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8c8bJJnedQ&skey=2decc630fed765c1&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfecg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8c8bJJnedg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8c8bJJnedQ&skey=2decc630fed765c1&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8c8bJJnedw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8c8bJJnedA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8c8bJJfecg.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Mitr SemiBold'",
-          "'Mitr-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8eMcJJnedQ&skey=fff00b7b84b6ca5a&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfecg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8eMcJJnedg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8eMcJJnedQ&skey=fff00b7b84b6ca5a&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8eMcJJnedw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8eMcJJnedA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8eMcJJfecg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Mitr Bold'",
-          "'Mitr-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8YcdJJnedQ&skey=96da9a487f210d6e&v=v5#Mitr",
-          "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfecg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8YcdJJnedg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8YcdJJnedQ&skey=96da9a487f210d6e&v=v11#Mitr",
+          "ttf": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8YcdJJnedw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8YcdJJnedA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mitr/v11/pxiEypw5ucZF8YcdJJfecg.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "200": {

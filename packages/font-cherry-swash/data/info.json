@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cherry Swash'",
-          "'CherrySwash-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MSXK7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dNIFByZjaNAMxtZcnfAy5MSXK4&skey=c62d02307a44c176&v=v9#CherrySwash",
-          "ttf": "https://fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MSXK6.ttf",
-          "woff": "https://fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MSXK5.woff",
-          "woff2": "https://fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MR3K_.woff2"
+          "eot": "https://fonts.gstatic.com/s/cherryswash/v18/i7dNIFByZjaNAMxtZcnfAy5MSXK7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dNIFByZjaNAMxtZcnfAy5MSXK4&skey=c62d02307a44c176&v=v18#CherrySwash",
+          "ttf": "https://fonts.gstatic.com/s/cherryswash/v18/i7dNIFByZjaNAMxtZcnfAy5MSXK6.ttf",
+          "woff": "https://fonts.gstatic.com/s/cherryswash/v18/i7dNIFByZjaNAMxtZcnfAy5MSXK5.woff",
+          "woff2": "https://fonts.gstatic.com/s/cherryswash/v18/i7dNIFByZjaNAMxtZcnfAy5MR3K_.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cherry Swash Bold'",
-          "'CherrySwash-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSW&skey=aa797e97ac712f5f&v=v9#CherrySwash",
-          "ttf": "https://fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSU.ttf",
-          "woff": "https://fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSX.woff",
-          "woff2": "https://fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqHCSR.woff2"
+          "eot": "https://fonts.gstatic.com/s/cherryswash/v18/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSW&skey=aa797e97ac712f5f&v=v18#CherrySwash",
+          "ttf": "https://fonts.gstatic.com/s/cherryswash/v18/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSU.ttf",
+          "woff": "https://fonts.gstatic.com/s/cherryswash/v18/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSX.woff",
+          "woff2": "https://fonts.gstatic.com/s/cherryswash/v18/i7dSIFByZjaNAMxtZcnfAy5E_FeqHCSR.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

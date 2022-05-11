@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Port Lligat Slab'",
-          "'PortLligatSlab-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/portlligatslab/v9/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8Q&skey=fb3c2054ca7cb5a6&v=v9#PortLligatSlab",
-          "ttf": "https://fonts.gstatic.com/s/portlligatslab/v9/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8w.ttf",
-          "woff": "https://fonts.gstatic.com/s/portlligatslab/v9/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/portlligatslab/v9/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R9g.woff2"
+          "eot": "https://fonts.gstatic.com/s/portlligatslab/v21/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8Q&skey=fb3c2054ca7cb5a6&v=v21#PortLligatSlab",
+          "ttf": "https://fonts.gstatic.com/s/portlligatslab/v21/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8w.ttf",
+          "woff": "https://fonts.gstatic.com/s/portlligatslab/v21/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/portlligatslab/v21/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R9g.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Stalinist One'",
-          "'StalinistOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezM9W4Dd7D3B7I-UT7SZaeOQ&skey=c6285f31e996b9a4&v=v26#StalinistOne",
-          "ttf": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOw.ttf",
-          "woff": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOA.woff",
-          "woff2": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZiePg.woff2"
+          "eot": "https://fonts.gstatic.com/s/stalinistone/v47/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezM9W4Dd7D3B7I-UT7SZaeOQ&skey=c6285f31e996b9a4&v=v47#StalinistOne",
+          "ttf": "https://fonts.gstatic.com/s/stalinistone/v47/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOw.ttf",
+          "woff": "https://fonts.gstatic.com/s/stalinistone/v47/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOA.woff",
+          "woff2": "https://fonts.gstatic.com/s/stalinistone/v47/MQpS-WezM9W4Dd7D3B7I-UT7SZiePg.woff2"
         }
       }
     }
   },
-  "version": "v26",
+  "version": "v47",
   "typefaces": {
     "normal": {
       "400": {
@@ -94,7 +91,7 @@
             "o": "m 1568 0 l 125 0 l 125 324 l 488 268 l 488 197 l 1206 197 l 1206 304 l 125 486 l 125 972 l 1568 972 l 1568 0 z m 488 775 l 488 657 l 1206 536 l 1206 775 l 488 775 z "
           },
           " ": {
-            "ha": 694,
+            "ha": 556,
             "x_min": null,
             "x_max": null,
             "o": ""
@@ -604,7 +601,7 @@
             "o": "m 349 411 l 69 306 l 69 564 l 333 661 l 707 533 l 986 639 l 986 381 l 722 283 l 349 411 z "
           },
           " ": {
-            "ha": 0,
+            "ha": 556,
             "x_min": null,
             "x_max": null,
             "o": ""
@@ -1466,7 +1463,7 @@
             "en": "Stalinist One"
           },
           "version": {
-            "en": "Version 3.002; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w \"gGD\""
+            "en": "Version 3.004"
           },
           "postScriptName": {
             "en": "StalinistOne-Regular"

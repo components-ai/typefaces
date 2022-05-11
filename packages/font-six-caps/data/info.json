@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Six Caps'",
-          "'SixCaps'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6ae_4KGrU7VR7bNmaYcV_3M&skey=71e00ad30dbb0507&v=v11#SixCaps",
-          "ttf": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3E.ttf",
-          "woff": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3I.woff",
-          "woff2": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/sixcaps/v16/6ae_4KGrU7VR7bNmaYcV_3A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6ae_4KGrU7VR7bNmaYcV_3M&skey=71e00ad30dbb0507&v=v16#SixCaps",
+          "ttf": "https://fonts.gstatic.com/s/sixcaps/v16/6ae_4KGrU7VR7bNmaYcV_3E.ttf",
+          "woff": "https://fonts.gstatic.com/s/sixcaps/v16/6ae_4KGrU7VR7bNmaYcV_3I.woff",
+          "woff2": "https://fonts.gstatic.com/s/sixcaps/v16/6ae_4KGrU7VR7bNmaYcV_3Q.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

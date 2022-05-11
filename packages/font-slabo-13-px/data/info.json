@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Slabo 13px'",
-          "'Slabo13px-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/slabo13px/v8/11hEGp_azEvXZUdSBzzRQK6h3g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=11hEGp_azEvXZUdSBzzRQK6h3Q&skey=c374e0391fcc76cc&v=v8#Slabo13px",
-          "ttf": "https://fonts.gstatic.com/s/slabo13px/v8/11hEGp_azEvXZUdSBzzRQK6h3w.ttf",
-          "woff": "https://fonts.gstatic.com/s/slabo13px/v8/11hEGp_azEvXZUdSBzzRQK6h3A.woff",
-          "woff2": "https://fonts.gstatic.com/s/slabo13px/v8/11hEGp_azEvXZUdSBzzRQKCh2g.woff2"
+          "eot": "https://fonts.gstatic.com/s/slabo13px/v13/11hEGp_azEvXZUdSBzzRQK6h3g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=11hEGp_azEvXZUdSBzzRQK6h3Q&skey=c374e0391fcc76cc&v=v13#Slabo13px",
+          "ttf": "https://fonts.gstatic.com/s/slabo13px/v13/11hEGp_azEvXZUdSBzzRQK6h3w.ttf",
+          "woff": "https://fonts.gstatic.com/s/slabo13px/v13/11hEGp_azEvXZUdSBzzRQK6h3A.woff",
+          "woff2": "https://fonts.gstatic.com/s/slabo13px/v13/11hEGp_azEvXZUdSBzzRQKCh2g.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

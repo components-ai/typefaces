@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jockey One'",
-          "'JockeyOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnI_xGA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HTxpL2g2KjCFj4x8WI6AnI_xGw&skey=c5851443324208ee&v=v10#JockeyOne",
-          "ttf": "https://fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnI_xGQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnI_xGg.woff",
-          "woff2": "https://fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnIHxHA.woff2"
+          "eot": "https://fonts.gstatic.com/s/jockeyone/v15/HTxpL2g2KjCFj4x8WI6AnI_xGA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HTxpL2g2KjCFj4x8WI6AnI_xGw&skey=c5851443324208ee&v=v15#JockeyOne",
+          "ttf": "https://fonts.gstatic.com/s/jockeyone/v15/HTxpL2g2KjCFj4x8WI6AnI_xGQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/jockeyone/v15/HTxpL2g2KjCFj4x8WI6AnI_xGg.woff",
+          "woff2": "https://fonts.gstatic.com/s/jockeyone/v15/HTxpL2g2KjCFj4x8WI6AnIHxHA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 35,
             "x_max": 615,
             "o": "m 264 531 l 264 531 l 393 531 q 426 652 426 600 q 415 746 426 704 q 388 806 403 788 l 388 806 l 265 806 q 228 663 228 746 q 264 531 228 581 z m 274 369 l 274 369 l 201 369 q 78 488 122 410 q 35 649 35 567 l 35 649 q 200 972 35 854 l 200 972 l 457 972 q 615 649 615 860 l 615 649 q 486 222 615 489 l 486 222 l 386 0 l 193 0 l 374 401 q 274 369 322 369 z "
+          },
+          "\u0002": {
+            "ha": 375,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 222,

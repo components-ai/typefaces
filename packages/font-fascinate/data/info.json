@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fascinate'",
-          "'Fascinate-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=z7NWdRrufC8XJK0IIElS07zW&skey=7162e4816d2dd13a&v=v9#Fascinate",
-          "ttf": "https://fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zU.ttf",
-          "woff": "https://fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zX.woff",
-          "woff2": "https://fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zR.woff2"
+          "eot": "https://fonts.gstatic.com/s/fascinate/v21/z7NWdRrufC8XJK0IIElS07zV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=z7NWdRrufC8XJK0IIElS07zW&skey=7162e4816d2dd13a&v=v21#Fascinate",
+          "ttf": "https://fonts.gstatic.com/s/fascinate/v21/z7NWdRrufC8XJK0IIElS07zU.ttf",
+          "woff": "https://fonts.gstatic.com/s/fascinate/v21/z7NWdRrufC8XJK0IIElS07zX.woff",
+          "woff2": "https://fonts.gstatic.com/s/fascinate/v21/z7NWdRrufC8XJK0IIElS07zR.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Wellfleet'",
-          "'Wellfleet-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj6myO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nuF7D_LfQJb3VYgX6eyj6myN&skey=b3e4f94e7d1662e4&v=v8#Wellfleet",
-          "ttf": "https://fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj6myP.ttf",
-          "woff": "https://fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj6myM.woff",
-          "woff2": "https://fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj5GyK.woff2"
+          "eot": "https://fonts.gstatic.com/s/wellfleet/v20/nuF7D_LfQJb3VYgX6eyj6myO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nuF7D_LfQJb3VYgX6eyj6myN&skey=b3e4f94e7d1662e4&v=v20#Wellfleet",
+          "ttf": "https://fonts.gstatic.com/s/wellfleet/v20/nuF7D_LfQJb3VYgX6eyj6myP.ttf",
+          "woff": "https://fonts.gstatic.com/s/wellfleet/v20/nuF7D_LfQJb3VYgX6eyj6myM.woff",
+          "woff2": "https://fonts.gstatic.com/s/wellfleet/v20/nuF7D_LfQJb3VYgX6eyj5GyK.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 83,
             "x_max": 726,
             "o": "m 267 -10 l 142 -35 q 113 -8 116 -35 l 113 -8 l 135 220 q 150 238 137 237 l 150 238 l 243 245 q 258 229 255 245 l 258 229 l 272 95 q 373 87 319 87 q 465 109 427 87 q 524 175 503 130 l 524 175 q 564 447 560 250 l 564 447 q 371 413 474 413 l 371 413 q 94 602 143 413 l 94 602 q 83 722 83 646 q 109 865 83 798 q 180 975 136 932 l 180 975 q 410 1059 268 1059 l 410 1059 q 649 934 573 1059 q 726 557 726 810 l 726 557 q 563 12 726 122 l 563 12 q 416 -26 506 -26 q 267 -10 327 -26 l 267 -10 z m 331 543 l 331 543 q 412 536 359 536 q 566 561 465 536 l 566 561 l 566 580 q 529 840 566 764 l 529 840 q 391 920 490 920 l 391 920 q 236 728 236 920 l 236 728 q 331 543 236 567 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 400,

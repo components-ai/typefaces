@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Flamenco Light'",
-          "'Flamenco-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/flamenco/v11/neIPzCehqYguo67ssZ0qNLk1cJQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIPzCehqYguo67ssZ0qNLk1cJc&skey=982e722eb7bf7dcb&v=v11#Flamenco",
-          "ttf": "https://fonts.gstatic.com/s/flamenco/v11/neIPzCehqYguo67ssZ0qNLk1cJU.ttf",
-          "woff": "https://fonts.gstatic.com/s/flamenco/v11/neIPzCehqYguo67ssZ0qNLk1cJY.woff",
-          "woff2": "https://fonts.gstatic.com/s/flamenco/v11/neIPzCehqYguo67ssZ0qNLk1cJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/flamenco/v18/neIPzCehqYguo67ssZ0qNLk1cJQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIPzCehqYguo67ssZ0qNLk1cJc&skey=982e722eb7bf7dcb&v=v18#Flamenco",
+          "ttf": "https://fonts.gstatic.com/s/flamenco/v18/neIPzCehqYguo67ssZ0qNLk1cJU.ttf",
+          "woff": "https://fonts.gstatic.com/s/flamenco/v18/neIPzCehqYguo67ssZ0qNLk1cJY.woff",
+          "woff2": "https://fonts.gstatic.com/s/flamenco/v18/neIPzCehqYguo67ssZ0qNLk1cJA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Flamenco Regular'",
-          "'Flamenco-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/flamenco/v11/neIIzCehqYguo67ssZWBFqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCehqYguo67ssZWBFqs&skey=f68e375417019cab&v=v11#Flamenco",
-          "ttf": "https://fonts.gstatic.com/s/flamenco/v11/neIIzCehqYguo67ssZWBFqk.ttf",
-          "woff": "https://fonts.gstatic.com/s/flamenco/v11/neIIzCehqYguo67ssZWBFqo.woff",
-          "woff2": "https://fonts.gstatic.com/s/flamenco/v11/neIIzCehqYguo67ssZWBFqw.woff2"
+          "eot": "https://fonts.gstatic.com/s/flamenco/v18/neIIzCehqYguo67ssZWBFqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCehqYguo67ssZWBFqs&skey=f68e375417019cab&v=v18#Flamenco",
+          "ttf": "https://fonts.gstatic.com/s/flamenco/v18/neIIzCehqYguo67ssZWBFqk.ttf",
+          "woff": "https://fonts.gstatic.com/s/flamenco/v18/neIIzCehqYguo67ssZWBFqo.woff",
+          "woff2": "https://fonts.gstatic.com/s/flamenco/v18/neIIzCehqYguo67ssZWBFqw.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "300": {

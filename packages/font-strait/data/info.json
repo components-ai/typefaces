@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Strait'",
-          "'Strait-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DtViJxy6WaEr1LZDfzJr&skey=5211a85745f89b97&v=v8#Strait",
-          "ttf": "https://fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJp.ttf",
-          "woff": "https://fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJq.woff",
-          "woff2": "https://fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJs.woff2"
+          "eot": "https://fonts.gstatic.com/s/strait/v13/DtViJxy6WaEr1LZDfzJo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DtViJxy6WaEr1LZDfzJr&skey=5211a85745f89b97&v=v13#Strait",
+          "ttf": "https://fonts.gstatic.com/s/strait/v13/DtViJxy6WaEr1LZDfzJp.ttf",
+          "woff": "https://fonts.gstatic.com/s/strait/v13/DtViJxy6WaEr1LZDfzJq.woff",
+          "woff2": "https://fonts.gstatic.com/s/strait/v13/DtViJxy6WaEr1LZDfzJs.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

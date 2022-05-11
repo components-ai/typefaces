@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Actor Regular'",
-          "'Actor-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVS0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wEOzEBbCkc5cO0ejVS4&skey=68222b0e89da6199&v=v10#Actor",
-          "ttf": "https://fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVSw.ttf",
-          "woff": "https://fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVS8.woff",
-          "woff2": "https://fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVSk.woff2"
+          "eot": "https://fonts.gstatic.com/s/actor/v17/wEOzEBbCkc5cO0ejVS0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wEOzEBbCkc5cO0ejVS4&skey=68222b0e89da6199&v=v17#Actor",
+          "ttf": "https://fonts.gstatic.com/s/actor/v17/wEOzEBbCkc5cO0ejVSw.ttf",
+          "woff": "https://fonts.gstatic.com/s/actor/v17/wEOzEBbCkc5cO0ejVS8.woff",
+          "woff2": "https://fonts.gstatic.com/s/actor/v17/wEOzEBbCkc5cO0ejVSk.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

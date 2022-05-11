@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Arapey Italic'",
-          "'Arapey-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJn-UDDA2RCKZeofTkE&skey=681ef1f751ddde7&v=v9#Arapey",
-          "ttf": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkM.ttf",
-          "woff": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkA.woff",
-          "woff2": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkY.woff2"
+          "eot": "https://fonts.gstatic.com/s/arapey/v16/-W_9XJn-UDDA2RCKZeofTkI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJn-UDDA2RCKZeofTkE&skey=681ef1f751ddde7&v=v16#Arapey",
+          "ttf": "https://fonts.gstatic.com/s/arapey/v16/-W_9XJn-UDDA2RCKZeofTkM.ttf",
+          "woff": "https://fonts.gstatic.com/s/arapey/v16/-W_9XJn-UDDA2RCKZeofTkA.woff",
+          "woff2": "https://fonts.gstatic.com/s/arapey/v16/-W_9XJn-UDDA2RCKZeofTkY.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Arapey Regular'",
-          "'Arapey-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNoZ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-W__XJn-UDDA2RCKYNoa&skey=72771e7dd1745eb0&v=v9#Arapey",
-          "ttf": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNoY.ttf",
-          "woff": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNob.woff",
-          "woff2": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNod.woff2"
+          "eot": "https://fonts.gstatic.com/s/arapey/v16/-W__XJn-UDDA2RCKYNoZ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-W__XJn-UDDA2RCKYNoa&skey=72771e7dd1745eb0&v=v16#Arapey",
+          "ttf": "https://fonts.gstatic.com/s/arapey/v16/-W__XJn-UDDA2RCKYNoY.ttf",
+          "woff": "https://fonts.gstatic.com/s/arapey/v16/-W__XJn-UDDA2RCKYNob.woff",
+          "woff2": "https://fonts.gstatic.com/s/arapey/v16/-W__XJn-UDDA2RCKYNod.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "italic": {
       "400": {

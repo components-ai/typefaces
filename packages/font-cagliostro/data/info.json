@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cagliostro Regular'",
-          "'Cagliostro-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLONg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZgNWjP5HM73BV5amnX-TvGLONQ&skey=f8581841a65f7b32&v=v9#Cagliostro",
-          "ttf": "https://fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLONw.ttf",
-          "woff": "https://fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLONA.woff",
-          "woff2": "https://fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLOMg.woff2"
+          "eot": "https://fonts.gstatic.com/s/cagliostro/v21/ZgNWjP5HM73BV5amnX-TvGLONg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZgNWjP5HM73BV5amnX-TvGLONQ&skey=f8581841a65f7b32&v=v21#Cagliostro",
+          "ttf": "https://fonts.gstatic.com/s/cagliostro/v21/ZgNWjP5HM73BV5amnX-TvGLONw.ttf",
+          "woff": "https://fonts.gstatic.com/s/cagliostro/v21/ZgNWjP5HM73BV5amnX-TvGLONA.woff",
+          "woff2": "https://fonts.gstatic.com/s/cagliostro/v21/ZgNWjP5HM73BV5amnX-TvGLOMg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

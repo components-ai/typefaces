@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,35 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Fondamento-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z67t1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJGsxNmFTPDnkaJ96_Z67t2&skey=456138419774c965&v=v11#Fondamento",
-          "ttf": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z67t0.ttf",
-          "woff": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z67t3.woff",
-          "woff2": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2"
+          "eot": "https://fonts.gstatic.com/s/fondamento/v16/4UaFrEJGsxNmFTPDnkaJ96_Z67t1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJGsxNmFTPDnkaJ96_Z67t2&skey=456138419774c965&v=v16#Fondamento",
+          "ttf": "https://fonts.gstatic.com/s/fondamento/v16/4UaFrEJGsxNmFTPDnkaJ96_Z67t0.ttf",
+          "woff": "https://fonts.gstatic.com/s/fondamento/v16/4UaFrEJGsxNmFTPDnkaJ96_Z67t3.woff",
+          "woff2": "https://fonts.gstatic.com/s/fondamento/v16/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Fondamento Regular'",
-          "'Fondamento-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96Tp4w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJGsxNmFTPDnkaJ96Tp4A&skey=33bcda47da77a40b&v=v11#Fondamento",
-          "ttf": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96Tp4g.ttf",
-          "woff": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96Tp4Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2"
+          "eot": "https://fonts.gstatic.com/s/fondamento/v16/4UaHrEJGsxNmFTPDnkaJ96Tp4w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJGsxNmFTPDnkaJ96Tp4A&skey=33bcda47da77a40b&v=v16#Fondamento",
+          "ttf": "https://fonts.gstatic.com/s/fondamento/v16/4UaHrEJGsxNmFTPDnkaJ96Tp4g.ttf",
+          "woff": "https://fonts.gstatic.com/s/fondamento/v16/4UaHrEJGsxNmFTPDnkaJ96Tp4Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/fondamento/v16/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "italic": {
       "400": {

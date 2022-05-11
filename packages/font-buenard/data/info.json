@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Buenard Regular'",
-          "'Buenard-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDz73rQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OD5DuM6Cyma8FnnsDz73rg&skey=9765affe45fa9583&v=v12#Buenard",
-          "ttf": "https://fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDz73rA.ttf",
-          "woff": "https://fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDz73rw.woff",
-          "woff2": "https://fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDzD3qQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDz73rQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OD5DuM6Cyma8FnnsDz73rg&skey=9765affe45fa9583&v=v17#Buenard",
+          "ttf": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDz73rA.ttf",
+          "woff": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDz73rw.woff",
+          "woff2": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDzD3qQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Buenard Bold'",
-          "'Buenard-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGmcBQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OD5GuM6Cyma8FnnsB4vSvGmcBg&skey=f0ec52c5a48bc809&v=v12#Buenard",
-          "ttf": "https://fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGmcBA.ttf",
-          "woff": "https://fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGmcBw.woff",
-          "woff2": "https://fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/buenard/v17/OD5GuM6Cyma8FnnsB4vSvGmcBQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OD5GuM6Cyma8FnnsB4vSvGmcBg&skey=f0ec52c5a48bc809&v=v17#Buenard",
+          "ttf": "https://fonts.gstatic.com/s/buenard/v17/OD5GuM6Cyma8FnnsB4vSvGmcBA.ttf",
+          "woff": "https://fonts.gstatic.com/s/buenard/v17/OD5GuM6Cyma8FnnsB4vSvGmcBw.woff",
+          "woff2": "https://fonts.gstatic.com/s/buenard/v17/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

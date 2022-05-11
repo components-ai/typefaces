@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Redressed Regular'",
-          "'Redressed-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHUbrmJ7wMy9Msxe_oE&skey=e6da60254863cd29&v=v11#Redressed",
-          "ttf": "https://fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oG.ttf",
-          "woff": "https://fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oF.woff",
-          "woff2": "https://fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oD.woff2"
+          "eot": "https://fonts.gstatic.com/s/redressed/v25/x3dickHUbrmJ7wMy9Msxe_oH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHUbrmJ7wMy9Msxe_oE&skey=e6da60254863cd29&v=v25#Redressed",
+          "ttf": "https://fonts.gstatic.com/s/redressed/v25/x3dickHUbrmJ7wMy9Msxe_oG.ttf",
+          "woff": "https://fonts.gstatic.com/s/redressed/v25/x3dickHUbrmJ7wMy9Msxe_oF.woff",
+          "woff2": "https://fonts.gstatic.com/s/redressed/v25/x3dickHUbrmJ7wMy9Msxe_oD.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

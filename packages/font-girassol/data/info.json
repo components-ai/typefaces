@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Girassol Regular'",
-          "'Girassol-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9ExW8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=JTUUjIo_-DK48laaNB9ExWw&skey=2cc1dbc883e2a625&v=v3#Girassol",
-          "ttf": "https://fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9ExW4.ttf",
-          "woff": "https://fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9ExW0.woff",
-          "woff2": "https://fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9KxWs.woff2"
+          "eot": "https://fonts.gstatic.com/s/girassol/v16/JTUUjIo_-DK48laaNB9ExW8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=JTUUjIo_-DK48laaNB9ExWw&skey=2cc1dbc883e2a625&v=v16#Girassol",
+          "ttf": "https://fonts.gstatic.com/s/girassol/v16/JTUUjIo_-DK48laaNB9ExW4.ttf",
+          "woff": "https://fonts.gstatic.com/s/girassol/v16/JTUUjIo_-DK48laaNB9ExW0.woff",
+          "woff2": "https://fonts.gstatic.com/s/girassol/v16/JTUUjIo_-DK48laaNB9KxWs.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -99,6 +96,12 @@
           },
           " ": {
             "ha": 267,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          " ": {
+            "ha": 750,
             "x_min": null,
             "x_max": null,
             "o": ""

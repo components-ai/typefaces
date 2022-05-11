@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,49 +18,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Old Standard TT Italic'",
-          "'OldStandardTT-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHQ&skey=308f26f9fad19839&v=v13#OldStandardTT",
-          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHY.ttf",
-          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHU.woff",
-          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQsbh3o1vLImiwAVvYawgcf2eVer2q6bHM.woff2"
+          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHQ&skey=308f26f9fad19839&v=v18#OldStandardTT",
+          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHY.ttf",
+          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHU.woff",
+          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQsbh3o1vLImiwAVvYawgcf2eVer2q6bHM.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Old Standard TT Regular'",
-          "'OldStandardTT-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQubh3o1vLImiwAVvYawgcf2eVepFq8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQubh3o1vLImiwAVvYawgcf2eVepFq_&skey=f1cef4e9ada09fef&v=v13#OldStandardTT",
-          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQubh3o1vLImiwAVvYawgcf2eVepFq9.ttf",
-          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQubh3o1vLImiwAVvYawgcf2eVepFq-.woff",
-          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4.woff2"
+          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQubh3o1vLImiwAVvYawgcf2eVepFq8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQubh3o1vLImiwAVvYawgcf2eVepFq_&skey=f1cef4e9ada09fef&v=v18#OldStandardTT",
+          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQubh3o1vLImiwAVvYawgcf2eVepFq9.ttf",
+          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQubh3o1vLImiwAVvYawgcf2eVepFq-.woff",
+          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Old Standard TT Bold'",
-          "'OldStandardTT-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZY&skey=1bf619948ec3c1a3&v=v13#OldStandardTT",
-          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZa.ttf",
-          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v13/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tS1Zf.woff2"
+          "eot": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZY&skey=1bf619948ec3c1a3&v=v18#OldStandardTT",
+          "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZa.ttf",
+          "woff": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v18/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tS1Zf.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

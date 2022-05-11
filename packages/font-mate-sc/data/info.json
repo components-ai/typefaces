@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mate SC Regular'",
-          "'MateSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/matesc/v9/-nF8OGQ1-uoVr2wK-iLT8g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGQ1-uoVr2wK-iLT8Q&skey=9d865f50b2871cd&v=v9#MateSC",
-          "ttf": "https://fonts.gstatic.com/s/matesc/v9/-nF8OGQ1-uoVr2wK-iLT8w.ttf",
-          "woff": "https://fonts.gstatic.com/s/matesc/v9/-nF8OGQ1-uoVr2wK-iLT8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/matesc/v9/-nF8OGQ1-uoVr2wK-iLT9g.woff2"
+          "eot": "https://fonts.gstatic.com/s/matesc/v21/-nF8OGQ1-uoVr2wK-iLT8g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGQ1-uoVr2wK-iLT8Q&skey=9d865f50b2871cd&v=v21#MateSC",
+          "ttf": "https://fonts.gstatic.com/s/matesc/v21/-nF8OGQ1-uoVr2wK-iLT8w.ttf",
+          "woff": "https://fonts.gstatic.com/s/matesc/v21/-nF8OGQ1-uoVr2wK-iLT8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/matesc/v21/-nF8OGQ1-uoVr2wK-iLT9g.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

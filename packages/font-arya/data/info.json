@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Arya Regular'",
-          "'Arya-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxU___A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6CawNG-HJdxU___w&skey=1738d136b939f402&v=v6#Arya",
-          "ttf": "https://fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxU___Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxU___g.woff",
-          "woff2": "https://fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxUH_-A.woff2"
+          "eot": "https://fonts.gstatic.com/s/arya/v19/ga6CawNG-HJdxU___A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6CawNG-HJdxU___w&skey=1738d136b939f402&v=v19#Arya",
+          "ttf": "https://fonts.gstatic.com/s/arya/v19/ga6CawNG-HJdxU___Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/arya/v19/ga6CawNG-HJdxU___g.woff",
+          "woff2": "https://fonts.gstatic.com/s/arya/v19/ga6CawNG-HJdxUH_-A.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arya Bold'",
-          "'Arya-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7baLbQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ga6NawNG-HJdzfra7baLbg&skey=80c71c480b2039a7&v=v6#Arya",
-          "ttf": "https://fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7baLbA.ttf",
-          "woff": "https://fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7baLbw.woff",
-          "woff2": "https://fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7biLaQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/arya/v19/ga6NawNG-HJdzfra7baLbQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ga6NawNG-HJdzfra7baLbg&skey=80c71c480b2039a7&v=v19#Arya",
+          "ttf": "https://fonts.gstatic.com/s/arya/v19/ga6NawNG-HJdzfra7baLbA.ttf",
+          "woff": "https://fonts.gstatic.com/s/arya/v19/ga6NawNG-HJdzfra7baLbw.woff",
+          "woff2": "https://fonts.gstatic.com/s/arya/v19/ga6NawNG-HJdzfra7biLaQ.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

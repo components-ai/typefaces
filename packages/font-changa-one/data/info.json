@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Changa One Italic'",
-          "'ChangaOne-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/changaone/v13/xfu20W3wXn3QLUJXhzq42ATSu5_b.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xfu20W3wXn3QLUJXhzq42ATSu5_Y&skey=7e2c0b69e2b8585&v=v13#ChangaOne",
-          "ttf": "https://fonts.gstatic.com/s/changaone/v13/xfu20W3wXn3QLUJXhzq42ATSu5_a.ttf",
-          "woff": "https://fonts.gstatic.com/s/changaone/v13/xfu20W3wXn3QLUJXhzq42ATSu5_Z.woff",
-          "woff2": "https://fonts.gstatic.com/s/changaone/v13/xfu20W3wXn3QLUJXhzq42ATSu5_f.woff2"
+          "eot": "https://fonts.gstatic.com/s/changaone/v18/xfu20W3wXn3QLUJXhzq42ATSu5_b.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xfu20W3wXn3QLUJXhzq42ATSu5_Y&skey=7e2c0b69e2b8585&v=v18#ChangaOne",
+          "ttf": "https://fonts.gstatic.com/s/changaone/v18/xfu20W3wXn3QLUJXhzq42ATSu5_a.ttf",
+          "woff": "https://fonts.gstatic.com/s/changaone/v18/xfu20W3wXn3QLUJXhzq42ATSu5_Z.woff",
+          "woff2": "https://fonts.gstatic.com/s/changaone/v18/xfu20W3wXn3QLUJXhzq42ATSu5_f.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Changa One'",
-          "'ChangaOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/changaone/v13/xfu00W3wXn3QLUJXhzq42AHivQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xfu00W3wXn3QLUJXhzq42AHivg&skey=b778b7c8d55425c&v=v13#ChangaOne",
-          "ttf": "https://fonts.gstatic.com/s/changaone/v13/xfu00W3wXn3QLUJXhzq42AHivA.ttf",
-          "woff": "https://fonts.gstatic.com/s/changaone/v13/xfu00W3wXn3QLUJXhzq42AHivw.woff",
-          "woff2": "https://fonts.gstatic.com/s/changaone/v13/xfu00W3wXn3QLUJXhzq42AHiuQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/changaone/v18/xfu00W3wXn3QLUJXhzq42AHivQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xfu00W3wXn3QLUJXhzq42AHivg&skey=b778b7c8d55425c&v=v18#ChangaOne",
+          "ttf": "https://fonts.gstatic.com/s/changaone/v18/xfu00W3wXn3QLUJXhzq42AHivA.ttf",
+          "woff": "https://fonts.gstatic.com/s/changaone/v18/xfu00W3wXn3QLUJXhzq42AHivw.woff",
+          "woff2": "https://fonts.gstatic.com/s/changaone/v18/xfu00W3wXn3QLUJXhzq42AHiuQ.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Yellowtail Regular'",
-          "'Yellowtail-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHxQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpGg_pnoDtINPfRIlLohlvHxg&skey=22fa7c6bface696b&v=v11#Yellowtail",
-          "ttf": "https://fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHxw.woff",
-          "woff2": "https://fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHwQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/yellowtail/v18/OZpGg_pnoDtINPfRIlLohlvHxQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpGg_pnoDtINPfRIlLohlvHxg&skey=22fa7c6bface696b&v=v18#Yellowtail",
+          "ttf": "https://fonts.gstatic.com/s/yellowtail/v18/OZpGg_pnoDtINPfRIlLohlvHxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/yellowtail/v18/OZpGg_pnoDtINPfRIlLohlvHxw.woff",
+          "woff2": "https://fonts.gstatic.com/s/yellowtail/v18/OZpGg_pnoDtINPfRIlLohlvHwQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

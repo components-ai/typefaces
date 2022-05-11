@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mouse Memoirs'",
-          "'MouseMemoirs-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqA&skey=b6fdd9ea61fd55f3&v=v8#MouseMemoirs",
-          "ttf": "https://fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mousememoirs/v13/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqA&skey=b6fdd9ea61fd55f3&v=v13#MouseMemoirs",
+          "ttf": "https://fonts.gstatic.com/s/mousememoirs/v13/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mousememoirs/v13/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mousememoirs/v13/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

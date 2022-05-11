@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,62 +14,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Noticia Text Italic'",
-          "'NoticiaText-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0o.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12YwtUn0k&skey=30669c460dd81720&v=v10#NoticiaText",
-          "ttf": "https://fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0s.ttf",
-          "woff": "https://fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0g.woff",
-          "woff2": "https://fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12Ywtan04.woff2"
+          "eot": "https://fonts.gstatic.com/s/noticiatext/v15/VuJodNDF2Yv9qppOePKYRP12YwtUn0o.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12YwtUn0k&skey=30669c460dd81720&v=v15#NoticiaText",
+          "ttf": "https://fonts.gstatic.com/s/noticiatext/v15/VuJodNDF2Yv9qppOePKYRP12YwtUn0s.ttf",
+          "woff": "https://fonts.gstatic.com/s/noticiatext/v15/VuJodNDF2Yv9qppOePKYRP12YwtUn0g.woff",
+          "woff2": "https://fonts.gstatic.com/s/noticiatext/v15/VuJodNDF2Yv9qppOePKYRP12Ywtan04.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Noticia Text Bold Italic'",
-          "'NoticiaText-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDI&skey=91633cfc4b65e760&v=v10#NoticiaText",
-          "ttf": "https://fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDA.ttf",
-          "woff": "https://fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDM.woff",
-          "woff2": "https://fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDU.woff2"
+          "eot": "https://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDI&skey=91633cfc4b65e760&v=v15#NoticiaText",
+          "ttf": "https://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDA.ttf",
+          "woff": "https://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDM.woff",
+          "woff2": "https://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDU.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Noticia Text'",
-          "'NoticiaText-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDtc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP12aDtf&skey=ebbf84981792db5&v=v10#NoticiaText",
-          "ttf": "https://fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDtd.ttf",
-          "woff": "https://fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDte.woff",
-          "woff2": "https://fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12ZjtY.woff2"
+          "eot": "https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP12aDtc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP12aDtf&skey=ebbf84981792db5&v=v15#NoticiaText",
+          "ttf": "https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP12aDtd.ttf",
+          "woff": "https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP12aDte.woff",
+          "woff2": "https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP12ZjtY.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Noticia Text Bold'",
-          "'NoticiaText-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvX&skey=bea077d1ab0bfaf0&v=v10#NoticiaText",
-          "ttf": "https://fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvV.ttf",
-          "woff": "https://fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvW.woff",
-          "woff2": "https://fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/noticiatext/v15/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvX&skey=bea077d1ab0bfaf0&v=v15#NoticiaText",
+          "ttf": "https://fonts.gstatic.com/s/noticiatext/v15/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvV.ttf",
+          "woff": "https://fonts.gstatic.com/s/noticiatext/v15/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvW.woff",
+          "woff2": "https://fonts.gstatic.com/s/noticiatext/v15/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

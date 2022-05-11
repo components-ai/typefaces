@@ -1,20 +1,20 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-s.eot",
-    "200": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoU.eot",
-    "300": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoU.eot",
-    "400": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dk.eot",
-    "500": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoU.eot",
-    "600": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoU.eot",
-    "700": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoU.eot"
+    "100": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-s.eot",
+    "200": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoU.eot",
+    "300": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoU.eot",
+    "400": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dk.eot",
+    "500": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoU.eot",
+    "600": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoU.eot",
+    "700": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoU.eot"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dk.eot",
-    "200": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhg.eot",
-    "300": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhg.eot",
-    "400": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1iEq0w.eot",
-    "500": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhg.eot",
-    "600": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhg.eot",
-    "700": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhg.eot"
+    "100": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dk.eot",
+    "200": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhg.eot",
+    "300": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhg.eot",
+    "400": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F63fjptAgt5VM-kVkqdyU8n1iEq0w.eot",
+    "500": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhg.eot",
+    "600": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhg.eot",
+    "700": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhg.eot"
   }
 }

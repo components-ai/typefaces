@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Meddon'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=kmK8ZqA2EgDNeHTpgx1H&skey=2e2bd3444edaf0dd&v=v13#Meddon",
-          "ttf": "https://fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1F.ttf",
-          "woff": "https://fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1G.woff",
-          "woff2": "https://fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1A.woff2"
+          "eot": "https://fonts.gstatic.com/s/meddon/v20/kmK8ZqA2EgDNeHTpgx1E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=kmK8ZqA2EgDNeHTpgx1H&skey=2e2bd3444edaf0dd&v=v20#Meddon",
+          "ttf": "https://fonts.gstatic.com/s/meddon/v20/kmK8ZqA2EgDNeHTpgx1F.ttf",
+          "woff": "https://fonts.gstatic.com/s/meddon/v20/kmK8ZqA2EgDNeHTpgx1G.woff",
+          "woff2": "https://fonts.gstatic.com/s/meddon/v20/kmK8ZqA2EgDNeHTpgx1A.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

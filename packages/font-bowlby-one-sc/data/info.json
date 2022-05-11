@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bowlby One SC Regular'",
-          "'BowlbyOneSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_gH2pg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DtVlJxerQqQm37tzN3wMug9P_gH2pQ&skey=434092f596a4d5b0&v=v12#BowlbyOneSC",
-          "ttf": "https://fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_gH2pw.ttf",
-          "woff": "https://fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_gH2pA.woff",
-          "woff2": "https://fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_g_2og.woff2"
+          "eot": "https://fonts.gstatic.com/s/bowlbyonesc/v19/DtVlJxerQqQm37tzN3wMug9P_gH2pg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DtVlJxerQqQm37tzN3wMug9P_gH2pQ&skey=434092f596a4d5b0&v=v19#BowlbyOneSC",
+          "ttf": "https://fonts.gstatic.com/s/bowlbyonesc/v19/DtVlJxerQqQm37tzN3wMug9P_gH2pw.ttf",
+          "woff": "https://fonts.gstatic.com/s/bowlbyonesc/v19/DtVlJxerQqQm37tzN3wMug9P_gH2pA.woff",
+          "woff2": "https://fonts.gstatic.com/s/bowlbyonesc/v19/DtVlJxerQqQm37tzN3wMug9P_g_2og.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

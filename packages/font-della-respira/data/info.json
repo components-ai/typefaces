@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Della Respira'",
-          "'DellaRespira-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4Yvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5v44KaueWI6iEJQBiGPdf4YvQ&skey=44c96c00cff030aa&v=v8#DellaRespira",
-          "ttf": "https://fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4Yvw.ttf",
-          "woff": "https://fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4YvA.woff",
-          "woff2": "https://fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4Yug.woff2"
+          "eot": "https://fonts.gstatic.com/s/dellarespira/v18/RLp5K5v44KaueWI6iEJQBiGPdf4Yvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5v44KaueWI6iEJQBiGPdf4YvQ&skey=44c96c00cff030aa&v=v18#DellaRespira",
+          "ttf": "https://fonts.gstatic.com/s/dellarespira/v18/RLp5K5v44KaueWI6iEJQBiGPdf4Yvw.ttf",
+          "woff": "https://fonts.gstatic.com/s/dellarespira/v18/RLp5K5v44KaueWI6iEJQBiGPdf4YvA.woff",
+          "woff2": "https://fonts.gstatic.com/s/dellarespira/v18/RLp5K5v44KaueWI6iEJQBiGPdf4Yug.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

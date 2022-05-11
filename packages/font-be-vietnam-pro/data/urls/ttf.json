@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsibJgj.ttf",
+    "200": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczdbEDcg.ttf",
+    "300": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwdbEDcg.ttf",
+    "400": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVNSTAyLFyeg_IDWvOJmVES_HwyNXYSZQ.ttf",
+    "500": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxdbEDcg.ttf",
+    "600": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2dbEDcg.ttf",
+    "700": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3dbEDcg.ttf",
+    "800": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80dbEDcg.ttf",
+    "900": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1dbEDcg.ttf"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVNSTAyLFyeg_IDWvOJmVES_HRUNXYSZQ.ttf",
+    "200": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HT4JG87Rbg.ttf",
+    "300": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HScJ287Rbg.ttf",
+    "400": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVPSTAyLFyeg_IDWvOJmVES_Hw5BX8.ttf",
+    "500": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm87Rbg.ttf",
+    "600": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HToIW87Rbg.ttf",
+    "700": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HSMIG87Rbg.ttf",
+    "800": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HSQI287Rbg.ttf",
+    "900": "https://fonts.gstatic.com/s/bevietnampro/v10/QdVMSTAyLFyeg_IDWvOJmVES_HS0Im87Rbg.ttf"
+  }
+}

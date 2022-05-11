@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sedgwick Ave Display Regular'",
-          "'SedgwickAveDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feA&skey=bd380dabc39e09ab&v=v6#SedgwickAveDisplay",
-          "ttf": "https://fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feI.ttf",
-          "woff": "https://fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feE.woff",
-          "woff2": "https://fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c0fec.woff2"
+          "eot": "https://fonts.gstatic.com/s/sedgwickavedisplay/v19/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feA&skey=bd380dabc39e09ab&v=v19#SedgwickAveDisplay",
+          "ttf": "https://fonts.gstatic.com/s/sedgwickavedisplay/v19/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feI.ttf",
+          "woff": "https://fonts.gstatic.com/s/sedgwickavedisplay/v19/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feE.woff",
+          "woff2": "https://fonts.gstatic.com/s/sedgwickavedisplay/v19/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c0fec.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

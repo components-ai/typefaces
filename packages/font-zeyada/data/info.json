@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Zeyada'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2yo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=11hAGpPTxVPUbgZzM2yr&skey=51b7b240f3f4dbb1&v=v10#Zeyada",
-          "ttf": "https://fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2yp.ttf",
-          "woff": "https://fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2yq.woff",
-          "woff2": "https://fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2ys.woff2"
+          "eot": "https://fonts.gstatic.com/s/zeyada/v15/11hAGpPTxVPUbgZzM2yo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=11hAGpPTxVPUbgZzM2yr&skey=51b7b240f3f4dbb1&v=v15#Zeyada",
+          "ttf": "https://fonts.gstatic.com/s/zeyada/v15/11hAGpPTxVPUbgZzM2yp.ttf",
+          "woff": "https://fonts.gstatic.com/s/zeyada/v15/11hAGpPTxVPUbgZzM2yq.woff",
+          "woff2": "https://fonts.gstatic.com/s/zeyada/v15/11hAGpPTxVPUbgZzM2ys.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

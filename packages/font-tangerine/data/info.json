@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tangerine Regular'",
-          "'Tangerine-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tangerine/v12/IurY6Y5j_oScZZow4VOxCZZI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=IurY6Y5j_oScZZow4VOxCZZL&skey=7b78e1b6f929768b&v=v12#Tangerine",
-          "ttf": "https://fonts.gstatic.com/s/tangerine/v12/IurY6Y5j_oScZZow4VOxCZZJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/tangerine/v12/IurY6Y5j_oScZZow4VOxCZZK.woff",
-          "woff2": "https://fonts.gstatic.com/s/tangerine/v12/IurY6Y5j_oScZZow4VOxCZZM.woff2"
+          "eot": "https://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=IurY6Y5j_oScZZow4VOxCZZL&skey=7b78e1b6f929768b&v=v17#Tangerine",
+          "ttf": "https://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZK.woff",
+          "woff2": "https://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZM.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tangerine Bold'",
-          "'Tangerine-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tangerine/v12/Iurd6Y5j_oScZZow4VO5srNZi5FJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurd6Y5j_oScZZow4VO5srNZi5FK&skey=5c4c007d60bd0b83&v=v12#Tangerine",
-          "ttf": "https://fonts.gstatic.com/s/tangerine/v12/Iurd6Y5j_oScZZow4VO5srNZi5FI.ttf",
-          "woff": "https://fonts.gstatic.com/s/tangerine/v12/Iurd6Y5j_oScZZow4VO5srNZi5FL.woff",
-          "woff2": "https://fonts.gstatic.com/s/tangerine/v12/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2"
+          "eot": "https://fonts.gstatic.com/s/tangerine/v17/Iurd6Y5j_oScZZow4VO5srNZi5FJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurd6Y5j_oScZZow4VO5srNZi5FK&skey=5c4c007d60bd0b83&v=v17#Tangerine",
+          "ttf": "https://fonts.gstatic.com/s/tangerine/v17/Iurd6Y5j_oScZZow4VO5srNZi5FI.ttf",
+          "woff": "https://fonts.gstatic.com/s/tangerine/v17/Iurd6Y5j_oScZZow4VO5srNZi5FL.woff",
+          "woff2": "https://fonts.gstatic.com/s/tangerine/v17/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

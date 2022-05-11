@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Poly-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErp.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MQpV-W6wKNitdLK6qErq&skey=99803a2f08a4c8f6&v=v11#Poly",
-          "ttf": "https://fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qEro.ttf",
-          "woff": "https://fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErr.woff",
-          "woff2": "https://fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErt.woff2"
+          "eot": "https://fonts.gstatic.com/s/poly/v16/MQpV-W6wKNitdLK6qErp.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MQpV-W6wKNitdLK6qErq&skey=99803a2f08a4c8f6&v=v16#Poly",
+          "ttf": "https://fonts.gstatic.com/s/poly/v16/MQpV-W6wKNitdLK6qEro.ttf",
+          "woff": "https://fonts.gstatic.com/s/poly/v16/MQpV-W6wKNitdLK6qErr.woff",
+          "woff2": "https://fonts.gstatic.com/s/poly/v16/MQpV-W6wKNitdLK6qErt.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Poly-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKrg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MQpb-W6wKNitdLeKrQ&skey=3e86e1ec7bee2763&v=v11#Poly",
-          "ttf": "https://fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKrw.ttf",
-          "woff": "https://fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKrA.woff",
-          "woff2": "https://fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKqg.woff2"
+          "eot": "https://fonts.gstatic.com/s/poly/v16/MQpb-W6wKNitdLeKrg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MQpb-W6wKNitdLeKrQ&skey=3e86e1ec7bee2763&v=v16#Poly",
+          "ttf": "https://fonts.gstatic.com/s/poly/v16/MQpb-W6wKNitdLeKrw.ttf",
+          "woff": "https://fonts.gstatic.com/s/poly/v16/MQpb-W6wKNitdLeKrA.woff",
+          "woff2": "https://fonts.gstatic.com/s/poly/v16/MQpb-W6wKNitdLeKqg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "italic": {
       "400": {

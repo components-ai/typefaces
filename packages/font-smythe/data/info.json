@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Smythe'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J6.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ3bhT01--coT1xP7J5&skey=f3833efd8ba60d81&v=v11#Smythe",
-          "ttf": "https://fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J7.ttf",
-          "woff": "https://fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J4.woff",
-          "woff2": "https://fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J-.woff2"
+          "eot": "https://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xP7J6.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ3bhT01--coT1xP7J5&skey=f3833efd8ba60d81&v=v23#Smythe",
+          "ttf": "https://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xP7J7.ttf",
+          "woff": "https://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xP7J4.woff",
+          "woff2": "https://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xP7J-.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

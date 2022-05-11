@@ -1,5 +1,9 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=jAnCgHV7GtDvc8jbe8hXXIWn&skey=7f2b4c74488656f0&v=v14#Suwannaphum"
+    "100": "https://fonts.gstatic.com/l/font?kit=jAnAgHV7GtDvc8jbe8hXXL3BxcOcWQ&skey=92d6a6d83aaf3a4b&v=v29#Suwannaphum",
+    "300": "https://fonts.gstatic.com/l/font?kit=jAnfgHV7GtDvc8jbe8hXXL0J19S7exc&skey=f6db18fb8855eb99&v=v29#Suwannaphum",
+    "400": "https://fonts.gstatic.com/l/font?kit=jAnCgHV7GtDvc8jbe8hXXLWi9cY&skey=7f2b4c74488656f0&v=v29#Suwannaphum",
+    "700": "https://fonts.gstatic.com/l/font?kit=jAnfgHV7GtDvc8jbe8hXXL0Z0NS7exc&skey=ce499df7f6561e5f&v=v29#Suwannaphum",
+    "900": "https://fonts.gstatic.com/l/font?kit=jAnfgHV7GtDvc8jbe8hXXL0h0tS7exc&skey=bcd4587ba532a2d9&v=v29#Suwannaphum"
   }
 }

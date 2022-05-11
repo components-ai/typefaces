@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-29",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,60 +14,48 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cabin Condensed'",
-          "'CabinCondensed-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpMtK6mNhBK2err_hqkYhHRqmwqaeLf&skey=17b81add35c8280b&v=v14#CabinCondensed",
-          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLd.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLe.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqZ-LY.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpMtK6mNhBK2err_hqkYhHRqmwqaeLf&skey=17b81add35c8280b&v=v19#CabinCondensed",
+          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLd.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLe.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpMtK6mNhBK2err_hqkYhHRqmwqZ-LY.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Cabin Condensed Medium'",
-          "'CabinCondensed-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd_&skey=c24e1e943f65c064&v=v14#CabinCondensed",
-          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd9.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd-.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN61d4.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd_&skey=c24e1e943f65c064&v=v19#CabinCondensed",
+          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd9.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd-.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN61d4.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Cabin Condensed SemiBold'",
-          "'CabinCondensed-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd_&skey=73e2998c2216d30c&v=v14#CabinCondensed",
-          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd9.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd-.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN61d4.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd_&skey=73e2998c2216d30c&v=v19#CabinCondensed",
+          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd9.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd-.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN61d4.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cabin Condensed Bold'",
-          "'CabinCondensed-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd_&skey=3035336f1cb2d188&v=v14#CabinCondensed",
-          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd9.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd-.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN61d4.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd_&skey=3035336f1cb2d188&v=v19#CabinCondensed",
+          "ttf": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd9.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd-.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabincondensed/v19/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN61d4.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

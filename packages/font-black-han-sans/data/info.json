@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-20",
   "subsets": [
     "korean",
     "latin"
@@ -97,21 +97,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Black Han Sans Regular'",
-          "'BlackHanSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ea8Aad44WunzF9a-dL6toA8r8kqSK3I&skey=10d56f3563364219&v=v8#BlackHanSans",
-          "ttf": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf",
-          "woff": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3M.woff",
-          "woff2": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8nqQSWKmEJKy1nK6J8sYUGdTBHS2osQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/blackhansans/v15/ea8Aad44WunzF9a-dL6toA8r8kqSK3E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ea8Aad44WunzF9a-dL6toA8r8kqSK3I&skey=10d56f3563364219&v=v15#BlackHanSans",
+          "ttf": "https://fonts.gstatic.com/s/blackhansans/v15/ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf",
+          "woff": "https://fonts.gstatic.com/s/blackhansans/v15/ea8Aad44WunzF9a-dL6toA8r8kqSK3M.woff",
+          "woff2": "https://fonts.gstatic.com/s/blackhansans/v15/ea8Aad44WunzF9a-dL6toA8r8nqQSWKmEJKy1nK6J8sYUGdTBHS2osQ.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -175,6 +172,24 @@
             "x_min": 47,
             "x_max": 783,
             "o": "m 485 221 l 485 221 l 485 301 l 415 303 q 233 324 304 306 q 120 378 161 342 q 63 467 79 414 q 47 590 47 519 l 47 590 q 74 742 47 683 q 150 833 101 800 q 267 877 199 865 q 415 889 335 889 l 415 889 q 590 863 519 889 q 704 781 661 836 q 765 640 747 725 q 783 435 783 554 l 783 435 q 765 229 783 315 q 704 88 746 143 q 594 6 663 32 q 426 -21 526 -21 l 426 -21 q 74 15 231 -21 l 74 15 l 113 244 q 332 213 247 213 l 332 213 q 485 221 421 213 z m 346 621 l 346 621 l 346 522 l 403 522 q 467 533 449 522 q 485 581 485 543 l 485 581 l 485 679 l 428 679 q 364 669 382 679 q 346 621 346 658 z "
+          },
+          "가": {
+            "ha": 1160,
+            "x_min": 69,
+            "x_max": 1160,
+            "o": "m 1056 654 l 1056 1056 l 794 1056 l 794 0 l 1056 0 l 1056 446 l 1160 446 l 1160 654 l 1056 654 z m 69 250 l 97 42 q 399 139 268 42 q 603 416 531 236 q 676 836 676 596 l 676 836 l 676 1044 l 83 1044 l 83 836 l 415 836 q 360 490 415 621 q 225 304 304 358 q 69 250 146 250 l 69 250 z "
+          },
+          "각": {
+            "ha": 1174,
+            "x_min": 69,
+            "x_max": 1174,
+            "o": "m 808 1056 l 808 458 l 1069 458 l 1069 647 l 1174 647 l 1174 857 l 1069 857 l 1069 1056 l 808 1056 z m 69 667 l 97 458 q 421 505 293 458 q 619 679 549 551 q 690 1042 690 807 l 690 1042 l 97 1042 l 97 836 l 406 836 q 308 712 406 757 q 69 667 211 667 l 69 667 z m 125 396 l 125 188 l 808 188 l 808 0 l 1069 0 l 1069 396 l 125 396 z "
+          },
+          "간": {
+            "ha": 1174,
+            "x_min": 69,
+            "x_max": 1174,
+            "o": "m 1069 843 l 1069 1056 l 808 1056 l 808 396 l 1069 396 l 1069 633 l 1174 633 l 1174 843 l 1069 843 z m 69 667 l 97 458 q 421 505 293 458 q 619 679 549 551 q 690 1042 690 807 l 690 1042 l 97 1042 l 97 836 l 406 836 q 308 712 406 757 q 69 667 211 667 l 69 667 z m 1069 208 l 386 208 l 386 396 l 125 396 l 125 0 l 1069 0 l 1069 208 z "
           },
           " ": {
             "ha": 417,

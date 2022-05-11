@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Covered By Your Grace'",
-          "'CoveredByYourGrace'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgr&skey=5b102ce185343299&v=v10#CoveredByYourGrace",
-          "ttf": "https://fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgp.ttf",
-          "woff": "https://fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgq.woff",
-          "woff2": "https://fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2"
+          "eot": "https://fonts.gstatic.com/s/coveredbyyourgrace/v15/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgr&skey=5b102ce185343299&v=v15#CoveredByYourGrace",
+          "ttf": "https://fonts.gstatic.com/s/coveredbyyourgrace/v15/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgp.ttf",
+          "woff": "https://fonts.gstatic.com/s/coveredbyyourgrace/v15/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgq.woff",
+          "woff2": "https://fonts.gstatic.com/s/coveredbyyourgrace/v15/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

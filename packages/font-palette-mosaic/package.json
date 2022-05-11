@@ -1,0 +1,7 @@
+{
+  "name": "@compai/font-palette-mosaic",
+  "version": "0.0.0",
+  "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-palette-mosaic",
+  "homepage": "https://components.ai/docs/typefaces/palette-mosaic",
+  "license": "MIT"
+}

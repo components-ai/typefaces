@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Shojumaru'",
-          "'Shojumaru-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8DRhb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax_HiWfutkLLnaKCtl8DRhY&skey=11b917a26089a5c4&v=v8#Shojumaru",
-          "ttf": "https://fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8DRha.ttf",
-          "woff": "https://fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8DRhZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8Axhf.woff2"
+          "eot": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8DRhb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax_HiWfutkLLnaKCtl8DRhY&skey=11b917a26089a5c4&v=v15#Shojumaru",
+          "ttf": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8DRha.ttf",
+          "woff": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8DRhZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8Axhf.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

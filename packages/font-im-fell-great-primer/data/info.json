@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'IM FELL Great Primer Italic'",
-          "'IM_FELL_Great_Primer_Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSg&skey=3f9cf92ebbb0969b&v=v10#IMFellGreatPrimer",
-          "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSg&skey=3f9cf92ebbb0969b&v=v21#IMFellGreatPrimer",
+          "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfTQ.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL Great Primer Roman'",
-          "'IM_FELL_Great_Primer_Roman'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjw&skey=906399d54c97c2e3&v=v10#IMFellGreatPrimer",
-          "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj4.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj0.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjs.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjw&skey=906399d54c97c2e3&v=v21#IMFellGreatPrimer",
+          "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj4.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj0.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjs.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v21",
   "typefaces": {
     "italic": {
       "400": {

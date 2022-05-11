@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Denk One'",
-          "'DenkOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtOr70.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dg4m_pzhrqcFb2IzRNtOr74&skey=b0bbfe9b5a3111c6&v=v8#DenkOne",
-          "ttf": "https://fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtOr7w.ttf",
-          "woff": "https://fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtOr78.woff",
-          "woff2": "https://fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtAr7k.woff2"
+          "eot": "https://fonts.gstatic.com/s/denkone/v15/dg4m_pzhrqcFb2IzRNtOr70.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dg4m_pzhrqcFb2IzRNtOr74&skey=b0bbfe9b5a3111c6&v=v15#DenkOne",
+          "ttf": "https://fonts.gstatic.com/s/denkone/v15/dg4m_pzhrqcFb2IzRNtOr7w.ttf",
+          "woff": "https://fonts.gstatic.com/s/denkone/v15/dg4m_pzhrqcFb2IzRNtOr78.woff",
+          "woff2": "https://fonts.gstatic.com/s/denkone/v15/dg4m_pzhrqcFb2IzRNtAr7k.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

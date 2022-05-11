@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWi5ODko.woff",
+    "200": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWq5PDko.woff",
+    "300": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWnBPDko.woff",
+    "400": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWi5PDko.woff",
+    "500": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWhxPDko.woff",
+    "600": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWvBIDko.woff",
+    "700": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWslIDko.woff",
+    "800": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWq5IDko.woff",
+    "900": "https://fonts.gstatic.com/s/notosanscherokee/v16/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWodIDko.woff"
+  }
+}

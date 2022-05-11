@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin",
@@ -14,20 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Katibeh-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCRbUQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5MQJog4bxDWCRbUg&skey=5f417d48499acf32&v=v9#Katibeh",
-          "ttf": "https://fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCRbUA.ttf",
-          "woff": "https://fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCRbUw.woff",
-          "woff2": "https://fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCpbVQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/katibeh/v17/ZGjXol5MQJog4bxDWCRbUQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5MQJog4bxDWCRbUg&skey=5f417d48499acf32&v=v17#Katibeh",
+          "ttf": "https://fonts.gstatic.com/s/katibeh/v17/ZGjXol5MQJog4bxDWCRbUA.ttf",
+          "woff": "https://fonts.gstatic.com/s/katibeh/v17/ZGjXol5MQJog4bxDWCRbUw.woff",
+          "woff2": "https://fonts.gstatic.com/s/katibeh/v17/ZGjXol5MQJog4bxDWCpbVQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

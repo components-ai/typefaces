@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Magra'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n54KjY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruaZus72n54KjU&skey=9abba3c66818028c&v=v9#Magra",
-          "ttf": "https://fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n54Kjc.ttf",
-          "woff": "https://fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n54KjQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n52KjI.woff2"
+          "eot": "https://fonts.gstatic.com/s/magra/v14/uK_94ruaZus72n54KjY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruaZus72n54KjU&skey=9abba3c66818028c&v=v14#Magra",
+          "ttf": "https://fonts.gstatic.com/s/magra/v14/uK_94ruaZus72n54Kjc.ttf",
+          "woff": "https://fonts.gstatic.com/s/magra/v14/uK_94ruaZus72n54KjQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/magra/v14/uK_94ruaZus72n52KjI.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Magra Bold'",
-          "'Magra-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDyceGv4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_w4ruaZus72nbNDyceGv0&skey=26cb1ea4207d004&v=v9#Magra",
-          "ttf": "https://fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDyceGv8.ttf",
-          "woff": "https://fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDyceGvw.woff",
-          "woff2": "https://fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDycQGvo.woff2"
+          "eot": "https://fonts.gstatic.com/s/magra/v14/uK_w4ruaZus72nbNDyceGv4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_w4ruaZus72nbNDyceGv0&skey=26cb1ea4207d004&v=v14#Magra",
+          "ttf": "https://fonts.gstatic.com/s/magra/v14/uK_w4ruaZus72nbNDyceGv8.ttf",
+          "woff": "https://fonts.gstatic.com/s/magra/v14/uK_w4ruaZus72nbNDyceGvw.woff",
+          "woff2": "https://fonts.gstatic.com/s/magra/v14/uK_w4ruaZus72nbNDycQGvo.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

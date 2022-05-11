@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=WBLirETNbFtZCeGqgRXXQwHYJeCr&skey=1c4ab806878a4f4f&v=v3#Tomorrow",
-    "200": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ63JPMmJig&skey=86bd86395d1a5fd9&v=v3#Tomorrow",
-    "300": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ8nKPMmJig&skey=dcc4f61bd5b2db9c&v=v3#Tomorrow",
-    "400": "https://fonts.gstatic.com/l/font?kit=WBLgrETNbFtZCeGqgRXXS2zoLg&skey=796eb0cb1bdc2f51&v=v3#Tomorrow",
-    "500": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ5HLPMmJig&skey=3daff1c90646d528&v=v3#Tomorrow",
-    "600": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ73MPMmJig&skey=f7000df56c813155&v=v3#Tomorrow",
-    "700": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ9nNPMmJig&skey=162b3955906c9f89&v=v3#Tomorrow",
-    "800": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ8XOPMmJig&skey=f39f118730da0c24&v=v3#Tomorrow",
-    "900": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ-HPPMmJig&skey=6bea37d6f14a8853&v=v3#Tomorrow"
+    "100": "https://fonts.gstatic.com/l/font?kit=WBLirETNbFtZCeGqgRXXQwHYJeCr&skey=1c4ab806878a4f4f&v=v15#Tomorrow",
+    "200": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ63JPMmJig&skey=86bd86395d1a5fd9&v=v15#Tomorrow",
+    "300": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ8nKPMmJig&skey=dcc4f61bd5b2db9c&v=v15#Tomorrow",
+    "400": "https://fonts.gstatic.com/l/font?kit=WBLgrETNbFtZCeGqgRXXS2zoLg&skey=796eb0cb1bdc2f51&v=v15#Tomorrow",
+    "500": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ5HLPMmJig&skey=3daff1c90646d528&v=v15#Tomorrow",
+    "600": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ73MPMmJig&skey=f7000df56c813155&v=v15#Tomorrow",
+    "700": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ9nNPMmJig&skey=162b3955906c9f89&v=v15#Tomorrow",
+    "800": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ8XOPMmJig&skey=f39f118730da0c24&v=v15#Tomorrow",
+    "900": "https://fonts.gstatic.com/l/font?kit=WBLjrETNbFtZCeGqgRXXQ-HPPMmJig&skey=6bea37d6f14a8853&v=v15#Tomorrow"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=WBLgrETNbFtZCeGqgR2xS2zoLg&skey=b9d2b14531837d95&v=v3#Tomorrow",
-    "200": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0dWnXBDMI&skey=46cbb3df55f752de&v=v3#Tomorrow",
-    "300": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR15WXXBDMI&skey=d8218a19bb620178&v=v3#Tomorrow",
-    "400": "https://fonts.gstatic.com/l/font?kit=WBLmrETNbFtZCeGqgRXce2c&skey=91fe1fad34048dd0&v=v3#Tomorrow",
-    "500": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0hWHXBDMI&skey=5f4c4044355c8a1&v=v3#Tomorrow",
-    "600": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0NX3XBDMI&skey=3a33882491e95bf1&v=v3#Tomorrow",
-    "700": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR1pXnXBDMI&skey=d2a5a1c23fd0e7c0&v=v3#Tomorrow",
-    "800": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR11XXXBDMI&skey=3ebc0b9797481282&v=v3#Tomorrow",
-    "900": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR1RXHXBDMI&skey=d1820806e6c76dde&v=v3#Tomorrow"
+    "100": "https://fonts.gstatic.com/l/font?kit=WBLgrETNbFtZCeGqgR2xS2zoLg&skey=b9d2b14531837d95&v=v15#Tomorrow",
+    "200": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0dWnXBDMI&skey=46cbb3df55f752de&v=v15#Tomorrow",
+    "300": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR15WXXBDMI&skey=d8218a19bb620178&v=v15#Tomorrow",
+    "400": "https://fonts.gstatic.com/l/font?kit=WBLmrETNbFtZCeGqgRXce2c&skey=91fe1fad34048dd0&v=v15#Tomorrow",
+    "500": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0hWHXBDMI&skey=5f4c4044355c8a1&v=v15#Tomorrow",
+    "600": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR0NX3XBDMI&skey=3a33882491e95bf1&v=v15#Tomorrow",
+    "700": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR1pXnXBDMI&skey=d2a5a1c23fd0e7c0&v=v15#Tomorrow",
+    "800": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR11XXXBDMI&skey=3ebc0b9797481282&v=v15#Tomorrow",
+    "900": "https://fonts.gstatic.com/l/font?kit=WBLhrETNbFtZCeGqgR1RXHXBDMI&skey=d1820806e6c76dde&v=v15#Tomorrow"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mansalva Regular'",
-          "'Mansalva-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aWB4m0aacbtDfvq5NKliKYg&skey=c44feb786187b756&v=v2#Mansalva",
-          "ttf": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYo.ttf",
-          "woff": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYk.woff",
-          "woff2": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKY8.woff2"
+          "eot": "https://fonts.gstatic.com/s/mansalva/v9/aWB4m0aacbtDfvq5NKliKYs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aWB4m0aacbtDfvq5NKliKYg&skey=c44feb786187b756&v=v9#Mansalva",
+          "ttf": "https://fonts.gstatic.com/s/mansalva/v9/aWB4m0aacbtDfvq5NKliKYo.ttf",
+          "woff": "https://fonts.gstatic.com/s/mansalva/v9/aWB4m0aacbtDfvq5NKliKYk.woff",
+          "woff2": "https://fonts.gstatic.com/s/mansalva/v9/aWB4m0aacbtDfvq5NKliKY8.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v9",
   "typefaces": {
     "normal": {
       "400": {

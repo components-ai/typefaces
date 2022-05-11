@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Clicker Script'",
-          "'ClickerScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/clickerscript/v8/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=raxkHiKPvt8CMH6ZWP8PdlEq71rR0Tw&skey=a8a0c13ec25a7971&v=v8#ClickerScript",
-          "ttf": "https://fonts.gstatic.com/s/clickerscript/v8/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T4.ttf",
-          "woff": "https://fonts.gstatic.com/s/clickerscript/v8/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T0.woff",
-          "woff2": "https://fonts.gstatic.com/s/clickerscript/v8/raxkHiKPvt8CMH6ZWP8PdlEq71rf0Ts.woff2"
+          "eot": "https://fonts.gstatic.com/s/clickerscript/v13/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=raxkHiKPvt8CMH6ZWP8PdlEq71rR0Tw&skey=a8a0c13ec25a7971&v=v13#ClickerScript",
+          "ttf": "https://fonts.gstatic.com/s/clickerscript/v13/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T4.ttf",
+          "woff": "https://fonts.gstatic.com/s/clickerscript/v13/raxkHiKPvt8CMH6ZWP8PdlEq71rR0T0.woff",
+          "woff2": "https://fonts.gstatic.com/s/clickerscript/v13/raxkHiKPvt8CMH6ZWP8PdlEq71rf0Ts.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Akronim Regular'",
-          "'Akronim-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygl7lQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygl7lg&skey=a537edc4421490c4&v=v10#Akronim",
-          "ttf": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygl7lA.ttf",
-          "woff": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygl7lw.woff",
-          "woff2": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygd7kQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygl7lQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygl7lg&skey=a537edc4421490c4&v=v23#Akronim",
+          "ttf": "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygl7lA.ttf",
+          "woff": "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygl7lw.woff",
+          "woff2": "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygd7kQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

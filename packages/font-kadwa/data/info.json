@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kadwa'",
-          "'Kadwa-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5V0g7ipiTAT8E&skey=8e11c8fa888bb656&v=v4#Kadwa",
-          "ttf": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8M.ttf",
-          "woff": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8Y.woff2"
+          "eot": "https://fonts.gstatic.com/s/kadwa/v10/rnCm-x5V0g7ipiTAT8I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5V0g7ipiTAT8E&skey=8e11c8fa888bb656&v=v10#Kadwa",
+          "ttf": "https://fonts.gstatic.com/s/kadwa/v10/rnCm-x5V0g7ipiTAT8M.ttf",
+          "woff": "https://fonts.gstatic.com/s/kadwa/v10/rnCm-x5V0g7ipiTAT8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/kadwa/v10/rnCm-x5V0g7ipiTAT8Y.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Kadwa Bold'",
-          "'Kadwa-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5knw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5V0g7ipix7atM5kn8&skey=a9b36cfe309e5f71&v=v4#Kadwa",
-          "ttf": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kn0.ttf",
-          "woff": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kn4.woff",
-          "woff2": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kng.woff2"
+          "eot": "https://fonts.gstatic.com/s/kadwa/v10/rnCr-x5V0g7ipix7atM5knw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5V0g7ipix7atM5kn8&skey=a9b36cfe309e5f71&v=v10#Kadwa",
+          "ttf": "https://fonts.gstatic.com/s/kadwa/v10/rnCr-x5V0g7ipix7atM5kn0.ttf",
+          "woff": "https://fonts.gstatic.com/s/kadwa/v10/rnCr-x5V0g7ipix7atM5kn4.woff",
+          "woff2": "https://fonts.gstatic.com/s/kadwa/v10/rnCr-x5V0g7ipix7atM5kng.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

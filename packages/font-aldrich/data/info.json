@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Aldrich Regular'",
-          "'Aldrich-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MCoTzAn-1s3IGyJMVacY2A&skey=b376a342fbff0b06&v=v11#Aldrich",
-          "ttf": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2g.ttf",
-          "woff": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY3w.woff2"
+          "eot": "https://fonts.gstatic.com/s/aldrich/v17/MCoTzAn-1s3IGyJMVacY2w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MCoTzAn-1s3IGyJMVacY2A&skey=b376a342fbff0b06&v=v17#Aldrich",
+          "ttf": "https://fonts.gstatic.com/s/aldrich/v17/MCoTzAn-1s3IGyJMVacY2g.ttf",
+          "woff": "https://fonts.gstatic.com/s/aldrich/v17/MCoTzAn-1s3IGyJMVacY2Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/aldrich/v17/MCoTzAn-1s3IGyJMVacY3w.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

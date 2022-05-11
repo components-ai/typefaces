@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,34 +16,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Charm Regular'",
-          "'Charm-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYmK-o.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7cHmv4oii5K0MdYmK-k&skey=203fb70c7d6d0c6c&v=v5#Charm",
-          "ttf": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYmK-s.ttf",
-          "woff": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYmK-g.woff",
-          "woff2": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYoK-4.woff2"
+          "eot": "https://fonts.gstatic.com/s/charm/v10/7cHmv4oii5K0MdYmK-o.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7cHmv4oii5K0MdYmK-k&skey=203fb70c7d6d0c6c&v=v10#Charm",
+          "ttf": "https://fonts.gstatic.com/s/charm/v10/7cHmv4oii5K0MdYmK-s.ttf",
+          "woff": "https://fonts.gstatic.com/s/charm/v10/7cHmv4oii5K0MdYmK-g.woff",
+          "woff2": "https://fonts.gstatic.com/s/charm/v10/7cHmv4oii5K0MdYoK-4.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Charm Bold'",
-          "'Charm-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs1wHs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4oii5K0Md6TDvs1wHg&skey=36260d0affa72a7a&v=v5#Charm",
-          "ttf": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs1wHo.ttf",
-          "woff": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs1wHk.woff",
-          "woff2": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs7wH8.woff2"
+          "eot": "https://fonts.gstatic.com/s/charm/v10/7cHrv4oii5K0Md6TDvs1wHs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4oii5K0Md6TDvs1wHg&skey=36260d0affa72a7a&v=v10#Charm",
+          "ttf": "https://fonts.gstatic.com/s/charm/v10/7cHrv4oii5K0Md6TDvs1wHo.ttf",
+          "woff": "https://fonts.gstatic.com/s/charm/v10/7cHrv4oii5K0Md6TDvs1wHk.woff",
+          "woff2": "https://fonts.gstatic.com/s/charm/v10/7cHrv4oii5K0Md6TDvs7wH8.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

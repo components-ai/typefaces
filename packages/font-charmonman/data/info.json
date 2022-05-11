@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,34 +16,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Charmonman Regular'",
-          "'Charmonman-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJiiug&skey=ec7d9de60d8da527&v=v5#Charmonman",
-          "ttf": "https://fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJiiug&skey=ec7d9de60d8da527&v=v18#Charmonman",
+          "ttf": "https://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJaivQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Charmonman Bold'",
-          "'Charmonman-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLZA8Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLZA8g&skey=b984f529c1aa8e40&v=v5#Charmonman",
-          "ttf": "https://fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLZA8A.ttf",
-          "woff": "https://fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLZA8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLhA9Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLZA8Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLZA8g&skey=b984f529c1aa8e40&v=v18#Charmonman",
+          "ttf": "https://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLZA8A.ttf",
+          "woff": "https://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLZA8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLhA9Q.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

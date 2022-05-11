@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Monoton'",
-          "'Monoton-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLRg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h1aiZUrOngCibe4TkHLRQ&skey=6851b793dcae5a6c&v=v10#Monoton",
-          "ttf": "https://fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLRw.ttf",
-          "woff": "https://fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLRA.woff",
-          "woff2": "https://fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLQg.woff2"
+          "eot": "https://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkHLRg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h1aiZUrOngCibe4TkHLRQ&skey=6851b793dcae5a6c&v=v15#Monoton",
+          "ttf": "https://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkHLRw.ttf",
+          "woff": "https://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkHLRA.woff",
+          "woff2": "https://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkHLQg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -96,6 +93,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 151,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
             "ha": 151,
             "x_min": null,
             "x_max": null,

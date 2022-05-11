@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Devonshire-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0xg1g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=46kqlbDwWirWr4gtBD2Bb0xg1Q&skey=35e45d512ea5a377&v=v9#Devonshire",
-          "ttf": "https://fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0xg1w.ttf",
-          "woff": "https://fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0xg1A.woff",
-          "woff2": "https://fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0Jg0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/devonshire/v21/46kqlbDwWirWr4gtBD2Bb0xg1g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=46kqlbDwWirWr4gtBD2Bb0xg1Q&skey=35e45d512ea5a377&v=v21#Devonshire",
+          "ttf": "https://fonts.gstatic.com/s/devonshire/v21/46kqlbDwWirWr4gtBD2Bb0xg1w.ttf",
+          "woff": "https://fonts.gstatic.com/s/devonshire/v21/46kqlbDwWirWr4gtBD2Bb0xg1A.woff",
+          "woff2": "https://fonts.gstatic.com/s/devonshire/v21/46kqlbDwWirWr4gtBD2Bb0Jg0g.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

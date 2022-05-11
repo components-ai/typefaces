@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMpr5EWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "200": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMrr5UWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "300": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMo15UWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "400": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMpr5UWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "500": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMpZ5UWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "600": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMq14kWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "700": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMqM4kWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "800": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMrr4kWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho",
+    "900": "https://fonts.gstatic.com/l/font?kit=q5uYsoq3NOBn_I-ggCJg98TBOoNFCMrC4kWQJiw&skey=927ed14a90eb1ab0&v=v5#Murecho"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-17",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Mukta ExtraLight'",
-          "'Mukta-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEOjGmT8Wc&skey=b0f5e948f14f09ea&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmd8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjGmT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEOjGmT8Wc&skey=b0f5e948f14f09ea&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjGmT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjGmT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjGmd8WA.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Mukta Light'",
-          "'Mukta-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFqj2mT8Wc&skey=28d7cadd0fd3def&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2md8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFqj2mT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFqj2mT8Wc&skey=28d7cadd0fd3def&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFqj2mT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFqj2mT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFqj2md8WA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Mukta Regular'",
-          "'Mukta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnPrXg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWKBXyXfDDVXbnPrXs&skey=1924b0eeab402e18&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnPrXk.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnPrXo.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnBrXw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXbnPrXg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWKBXyXfDDVXbnPrXs&skey=1924b0eeab402e18&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXbnPrXk.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXbnPrXo.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXbnBrXw.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Mukta Medium'",
-          "'Mukta-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEyjmmT8Wc&skey=7e02db405fcfde6f&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmd8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEyjmmT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEyjmmT8Wc&skey=7e02db405fcfde6f&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEyjmmT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEyjmmT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEyjmmd8WA.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Mukta SemiBold'",
-          "'Mukta-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEeiWmT8Wc&skey=b6217d1b1487e999&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmd8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEeiWmT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEeiWmT8Wc&skey=b6217d1b1487e999&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEeiWmT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEeiWmT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEeiWmd8WA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Mukta Bold'",
-          "'Mukta-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbF6iGmT8Wc&skey=2dd8ff0c402d2647&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmd8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iGmT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbF6iGmT8Wc&skey=2dd8ff0c402d2647&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iGmT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iGmT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iGmd8WA.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Mukta ExtraBold'",
-          "'Mukta-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mT8WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFmi2mT8Wc&skey=800c584f86d8cf55&v=v7#Mukta",
-          "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mT8WU.ttf",
-          "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mT8WY.woff",
-          "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2md8WA.woff2"
+          "eot": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFmi2mT8WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFmi2mT8Wc&skey=800c584f86d8cf55&v=v13#Mukta",
+          "ttf": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFmi2mT8WU.ttf",
+          "woff": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFmi2mT8WY.woff",
+          "woff2": "https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFmi2md8WA.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "200": {

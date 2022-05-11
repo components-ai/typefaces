@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pompiere '",
-          "'Pompiere-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7DU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VEMyRoxis5Dwuyeov5Wq7DY&skey=367aa6846743b787&v=v10#Pompiere",
-          "ttf": "https://fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7DQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7Dc.woff",
-          "woff2": "https://fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7DE.woff2"
+          "eot": "https://fonts.gstatic.com/s/pompiere/v15/VEMyRoxis5Dwuyeov5Wq7DU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VEMyRoxis5Dwuyeov5Wq7DY&skey=367aa6846743b787&v=v15#Pompiere",
+          "ttf": "https://fonts.gstatic.com/s/pompiere/v15/VEMyRoxis5Dwuyeov5Wq7DQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/pompiere/v15/VEMyRoxis5Dwuyeov5Wq7Dc.woff",
+          "woff2": "https://fonts.gstatic.com/s/pompiere/v15/VEMyRoxis5Dwuyeov5Wq7DE.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 98,
             "x_max": 578,
             "o": "m 512 726 l 512 726 q 500 858 512 800 q 467 958 489 916 l 467 958 q 336 1044 420 1044 l 336 1044 q 210 952 258 1044 l 210 952 q 165 770 165 867 q 175 611 165 674 q 204 504 184 548 l 204 504 q 326 412 245 412 l 326 412 q 458 494 407 412 l 458 494 q 512 726 512 580 z m 518 490 l 518 517 q 327 353 460 353 l 327 353 q 158 452 218 353 q 98 753 98 551 l 98 753 q 152 978 98 875 l 152 978 q 334 1105 216 1105 l 334 1105 q 524 991 469 1105 l 524 991 q 578 616 578 881 l 578 616 q 530 153 578 300 l 530 153 q 347 -15 475 -15 l 347 -15 q 205 51 267 -15 l 205 51 q 132 244 137 124 l 132 244 q 141 278 130 267 q 163 289 151 289 q 184 279 174 289 q 197 234 195 269 q 213 161 199 199 q 247 98 227 123 l 247 98 q 347 47 288 47 l 347 47 q 502 285 460 47 l 502 285 q 518 490 518 381 l 518 490 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 247,

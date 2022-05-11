@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,47 +10,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tienne Regular'",
-          "'Tienne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nC.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpX7pe9YCRP07l0nB&skey=80ed6e66d365b35a&v=v13#Tienne",
-          "ttf": "https://fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nD.ttf",
-          "woff": "https://fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nA.woff",
-          "woff2": "https://fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nG.woff2"
+          "eot": "https://fonts.gstatic.com/s/tienne/v20/AYCKpX7pe9YCRP07l0nC.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpX7pe9YCRP07l0nB&skey=80ed6e66d365b35a&v=v20#Tienne",
+          "ttf": "https://fonts.gstatic.com/s/tienne/v20/AYCKpX7pe9YCRP07l0nD.ttf",
+          "woff": "https://fonts.gstatic.com/s/tienne/v20/AYCKpX7pe9YCRP07l0nA.woff",
+          "woff2": "https://fonts.gstatic.com/s/tienne/v20/AYCKpX7pe9YCRP07l0nG.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tienne Bold'",
-          "'Tienne-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpX7pe9YCRP0zLGzTR3Jo&skey=bfd99ea95218b7d1&v=v13#Tienne",
-          "ttf": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jq.ttf",
-          "woff": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jp.woff",
-          "woff2": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jv.woff2"
+          "eot": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zLGzTR3Jr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpX7pe9YCRP0zLGzTR3Jo&skey=bfd99ea95218b7d1&v=v20#Tienne",
+          "ttf": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zLGzTR3Jq.ttf",
+          "woff": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zLGzTR3Jp.woff",
+          "woff2": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zLGzTR3Jv.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Tienne Black'",
-          "'Tienne-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpX7pe9YCRP0zFG7TR3Jo&skey=b08a725b1e5b28a1&v=v13#Tienne",
-          "ttf": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jq.ttf",
-          "woff": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jp.woff",
-          "woff2": "https://fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jv.woff2"
+          "eot": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zFG7TR3Jr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpX7pe9YCRP0zFG7TR3Jo&skey=b08a725b1e5b28a1&v=v20#Tienne",
+          "ttf": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zFG7TR3Jq.ttf",
+          "woff": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zFG7TR3Jp.woff",
+          "woff2": "https://fonts.gstatic.com/s/tienne/v20/AYCJpX7pe9YCRP0zFG7TR3Jv.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -122,6 +113,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
             "ha": 0,
             "x_min": null,
             "x_max": null,
@@ -1460,6 +1457,12 @@
             "x_max": 778,
             "o": "m 566 441 l 566 441 q 457 381 511 401 q 344 361 403 361 l 344 361 q 228 383 280 361 q 138 444 176 404 q 81 538 101 483 q 60 663 60 594 l 60 663 q 86 788 60 731 q 158 887 111 846 q 271 951 205 928 q 417 974 336 974 l 417 974 q 688 864 599 974 q 778 530 778 755 l 778 530 q 754 293 778 395 q 681 120 730 190 q 557 15 632 51 q 381 -20 483 -20 l 381 -20 q 300 -16 340 -20 q 225 -4 260 -12 q 160 15 189 3 q 113 43 132 27 l 113 43 l 113 271 l 233 271 l 259 109 q 375 85 325 85 l 375 85 q 453 105 420 85 q 510 162 487 126 q 545 248 533 199 q 560 355 557 298 l 560 355 q 564 395 563 374 q 566 441 565 416 z m 563 606 l 563 606 q 526 802 563 734 q 410 869 489 869 l 410 869 q 353 856 378 869 q 308 817 327 842 q 279 752 290 791 q 269 665 269 714 l 269 665 q 276 587 269 623 q 296 525 282 551 q 332 484 310 498 q 383 469 353 469 l 383 469 q 419 472 397 469 q 462 482 440 475 q 502 499 484 489 q 528 526 520 510 l 528 526 q 553 566 544 543 q 563 606 562 589 z "
           },
+          "\u0002": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           " ": {
             "ha": 361,
             "x_min": null,
@@ -2777,6 +2780,12 @@
             "x_min": 49,
             "x_max": 814,
             "o": "m 429 958 l 429 958 q 602 929 529 958 q 721 846 674 901 q 791 710 768 791 q 814 522 814 629 l 814 522 q 710 123 814 260 q 399 -15 607 -15 l 399 -15 q 312 -12 355 -15 q 231 -2 269 -9 q 163 14 193 5 q 113 37 133 24 l 113 37 l 113 290 l 270 290 l 292 129 q 389 113 352 113 l 389 113 q 463 140 437 113 q 502 208 489 166 q 518 300 514 250 q 528 399 523 351 l 528 399 q 341 355 432 355 l 341 355 q 218 377 272 355 q 126 438 163 399 q 68 533 88 477 q 49 656 49 589 l 49 656 q 76 778 49 722 q 154 873 104 833 q 274 936 204 913 q 429 958 345 958 z m 526 511 l 526 511 q 527 548 526 533 q 527 568 527 563 l 527 568 q 523 679 527 630 q 508 761 519 728 q 476 812 497 794 q 422 829 456 829 l 422 829 q 356 786 382 829 q 331 657 331 743 l 331 657 q 333 594 331 625 q 342 539 335 564 q 365 500 350 515 q 407 485 380 485 l 407 485 q 526 511 441 485 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 361,

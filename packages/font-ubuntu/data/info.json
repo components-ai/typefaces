@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -20,114 +20,90 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Ubuntu Light Italic'",
-          "'Ubuntu-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZftVyBN4U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyBN4Y&skey=90d99b3fe961a2bb&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZftVyBN4Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZftVyBN4c.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZftVyPN4E.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyBN4U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyBN4Y&skey=90d99b3fe961a2bb&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyBN4Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyBN4c.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyPN4E.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Ubuntu Italic'",
-          "'Ubuntu-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCu6KVjbNBYlgoKej76l00.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej76l04&skey=faa714a35371172&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCu6KVjbNBYlgoKej76l0w.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCu6KVjbNBYlgoKej76l08.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCu6KVjbNBYlgoKej70l0k.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej76l00.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej76l04&skey=faa714a35371172&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej76l0w.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej76l08.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0k.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Ubuntu Medium Italic'",
-          "'Ubuntu-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejYHtFyBN4U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyBN4Y&skey=c945e28caa1e3826&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejYHtFyBN4Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejYHtFyBN4c.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejYHtFyPN4E.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyBN4U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyBN4Y&skey=c945e28caa1e3826&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyBN4Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyBN4c.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyPN4E.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Ubuntu Bold Italic'",
-          "'Ubuntu-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZPslyBN4U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyBN4Y&skey=fa49613badbd6dc7&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZPslyBN4Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZPslyBN4c.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCp6KVjbNBYlgoKejZPslyPN4E.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyBN4U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyBN4Y&skey=fa49613badbd6dc7&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyBN4Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyBN4c.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4E.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Ubuntu Light'",
-          "'Ubuntu-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjvmyJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvmyK&skey=c70d0e00360563fb&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjvmyI.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjvmyL.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjsGyN.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjvmyJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvmyK&skey=c70d0e00360563fb&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjvmyI.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjvmyL.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyN.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Ubuntu Regular'",
-          "'Ubuntu-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcQ7y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKcQ7x&skey=7e59fc036a1a8481&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcQ7z.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcQ7w.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKfw72.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcQ7y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKcQ7x&skey=7e59fc036a1a8481&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcQ7z.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcQ7w.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Ubuntu Medium'",
-          "'Ubuntu-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvmyJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvmyK&skey=d8a1e01f6daf5892&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvmyI.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvmyL.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jsGyN.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jvmyJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvmyK&skey=d8a1e01f6daf5892&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jvmyI.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jvmyL.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyN.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Ubuntu Bold'",
-          "'Ubuntu-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvmyJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjvmyK&skey=403363908a1ded4d&v=v15#Ubuntu",
-          "ttf": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvmyI.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvmyL.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjsGyN.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvmyJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjvmyK&skey=403363908a1ded4d&v=v20#Ubuntu",
+          "ttf": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvmyI.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvmyL.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyN.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "italic": {
       "300": {
@@ -198,7 +174,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 322,
             "x_min": null,
             "x_max": null,
@@ -3622,7 +3598,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 321,
             "x_min": null,
             "x_max": null,
@@ -7046,7 +7022,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 329,
             "x_min": null,
             "x_max": null,
@@ -10470,7 +10446,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 333,
             "x_min": null,
             "x_max": null,
@@ -13896,7 +13872,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 317,
             "x_min": null,
             "x_max": null,
@@ -17320,7 +17296,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 321,
             "x_min": null,
             "x_max": null,
@@ -20744,7 +20720,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 324,
             "x_min": null,
             "x_max": null,
@@ -24168,7 +24144,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 333,
             "x_min": null,
             "x_max": null,

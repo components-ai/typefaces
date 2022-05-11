@@ -1,0 +1,22 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pxl9tAsQH.ttf",
+    "300": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pGF9tAsQH.ttf",
+    "400": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pRl9tAsQH.ttf",
+    "500": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pdF9tAsQH.ttf",
+    "600": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pmFhtAsQH.ttf",
+    "700": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98poVhtAsQH.ttf",
+    "800": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pxlhtAsQH.ttf",
+    "900": "https://fonts.gstatic.com/s/sourceserif4/v6/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98p71htAsQH.ttf"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdqnhVdCw.ttf",
+    "300": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiklqnhVdCw.ttf",
+    "400": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnhVdCw.ttf",
+    "500": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiiVqnhVdCw.ttf",
+    "600": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjisltnhVdCw.ttf",
+    "700": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjivBtnhVdCw.ttf",
+    "800": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjipdtnhVdCw.ttf",
+    "900": "https://fonts.gstatic.com/s/sourceserif4/v6/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjir5tnhVdCw.ttf"
+  }
+}

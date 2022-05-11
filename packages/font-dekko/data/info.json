@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,20 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dekko'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutMTU4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=46khlb_wWjfSrutMTU0&skey=87b460a581e29e9a&v=v7#Dekko",
-          "ttf": "https://fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutMTU8.ttf",
-          "woff": "https://fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutMTUw.woff",
-          "woff2": "https://fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutCTUo.woff2"
+          "eot": "https://fonts.gstatic.com/s/dekko/v19/46khlb_wWjfSrutMTU4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=46khlb_wWjfSrutMTU0&skey=87b460a581e29e9a&v=v19#Dekko",
+          "ttf": "https://fonts.gstatic.com/s/dekko/v19/46khlb_wWjfSrutMTU8.ttf",
+          "woff": "https://fonts.gstatic.com/s/dekko/v19/46khlb_wWjfSrutMTUw.woff",
+          "woff2": "https://fonts.gstatic.com/s/dekko/v19/46khlb_wWjfSrutCTUo.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

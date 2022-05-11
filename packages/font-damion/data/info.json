@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Damion'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwy.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-XlzJ3KEUe_YZkamwx&skey=cab2b817d665dc28&v=v10#Damion",
-          "ttf": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwz.ttf",
-          "woff": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamww.woff",
-          "woff2": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamw2.woff2"
+          "eot": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZkamwy.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-XlzJ3KEUe_YZkamwx&skey=cab2b817d665dc28&v=v14#Damion",
+          "ttf": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZkamwz.ttf",
+          "woff": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZkamww.woff",
+          "woff2": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZkamw2.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

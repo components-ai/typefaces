@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorxbq0h.woff",
+    "200": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopxb60h.woff",
+    "300": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLoqvb60h.woff",
+    "400": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorxb60h.woff",
+    "500": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorDb60h.woff",
+    "600": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLoovaK0h.woff",
+    "700": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLooWaK0h.woff",
+    "800": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopxaK0h.woff",
+    "900": "https://fonts.gstatic.com/s/notosansarmenian/v31/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopYaK0h.woff"
+  }
+}

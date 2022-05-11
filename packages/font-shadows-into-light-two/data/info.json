@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Shadows Into Light Two'",
-          "'ShadowsIntoLightTwo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHg&skey=597283c5dde78337&v=v8#ShadowsIntoLightTwo",
-          "ttf": "https://fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHA.ttf",
-          "woff": "https://fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHw.woff",
-          "woff2": "https://fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHGQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/shadowsintolighttwo/v13/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHg&skey=597283c5dde78337&v=v13#ShadowsIntoLightTwo",
+          "ttf": "https://fonts.gstatic.com/s/shadowsintolighttwo/v13/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHA.ttf",
+          "woff": "https://fonts.gstatic.com/s/shadowsintolighttwo/v13/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHw.woff",
+          "woff2": "https://fonts.gstatic.com/s/shadowsintolighttwo/v13/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHGQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

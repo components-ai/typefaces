@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Average Sans Regular'",
-          "'AverageSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCf.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1Ptpg8fLXP2dlAXR-HlJJNJ_DNCc&skey=96ddd4e1c10cfd7f&v=v9#AverageSans",
-          "ttf": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCe.ttf",
-          "woff": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCd.woff",
-          "woff2": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2"
+          "eot": "https://fonts.gstatic.com/s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCf.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1Ptpg8fLXP2dlAXR-HlJJNJ_DNCc&skey=96ddd4e1c10cfd7f&v=v16#AverageSans",
+          "ttf": "https://fonts.gstatic.com/s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCe.ttf",
+          "woff": "https://fonts.gstatic.com/s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCd.woff",
+          "woff2": "https://fonts.gstatic.com/s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

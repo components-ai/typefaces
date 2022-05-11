@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kavoon'",
-          "'Kavoon-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIPbD_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_scRYhlUIPbD8&skey=466d574b2f49f7d7&v=v9#Kavoon",
-          "ttf": "https://fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIPbD-.ttf",
-          "woff": "https://fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIPbD9.woff",
-          "woff2": "https://fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIM7D7.woff2"
+          "eot": "https://fonts.gstatic.com/s/kavoon/v21/pxiFyp4_scRYhlUIPbD_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_scRYhlUIPbD8&skey=466d574b2f49f7d7&v=v21#Kavoon",
+          "ttf": "https://fonts.gstatic.com/s/kavoon/v21/pxiFyp4_scRYhlUIPbD-.ttf",
+          "woff": "https://fonts.gstatic.com/s/kavoon/v21/pxiFyp4_scRYhlUIPbD9.woff",
+          "woff2": "https://fonts.gstatic.com/s/kavoon/v21/pxiFyp4_scRYhlUIM7D7.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Junge'",
-          "'Junge-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/junge/v8/gokgH670Gl1lUpAatBU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokgH670Gl1lUpAatBY&skey=3e6552312d33b055&v=v8#Junge",
-          "ttf": "https://fonts.gstatic.com/s/junge/v8/gokgH670Gl1lUpAatBQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/junge/v8/gokgH670Gl1lUpAatBc.woff",
-          "woff2": "https://fonts.gstatic.com/s/junge/v8/gokgH670Gl1lUpAatBE.woff2"
+          "eot": "https://fonts.gstatic.com/s/junge/v20/gokgH670Gl1lUpAatBU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokgH670Gl1lUpAatBY&skey=3e6552312d33b055&v=v20#Junge",
+          "ttf": "https://fonts.gstatic.com/s/junge/v20/gokgH670Gl1lUpAatBQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/junge/v20/gokgH670Gl1lUpAatBc.woff",
+          "woff2": "https://fonts.gstatic.com/s/junge/v20/gokgH670Gl1lUpAatBE.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

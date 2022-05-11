@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Itim'",
-          "'Itim-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8A1AlA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0nknC9ziJOYe8A1Alw&skey=5906924f6c9ed948&v=v4#Itim",
-          "ttf": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8A1AlQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8A1Alg.woff",
-          "woff2": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8ANAkA.woff2"
+          "eot": "https://fonts.gstatic.com/s/itim/v10/0nknC9ziJOYe8A1AlA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0nknC9ziJOYe8A1Alw&skey=5906924f6c9ed948&v=v10#Itim",
+          "ttf": "https://fonts.gstatic.com/s/itim/v10/0nknC9ziJOYe8A1AlQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/itim/v10/0nknC9ziJOYe8A1Alg.woff",
+          "woff2": "https://fonts.gstatic.com/s/itim/v10/0nknC9ziJOYe8ANAkA.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

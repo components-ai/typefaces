@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fenix'",
-          "'Fenix-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XoHo2YL_S7-g5rskITY&skey=f66d8ae9cfca8a8a&v=v8#Fenix",
-          "ttf": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITc.woff",
-          "woff2": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rsqITE.woff2"
+          "eot": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rskITU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XoHo2YL_S7-g5rskITY&skey=f66d8ae9cfca8a8a&v=v20#Fenix",
+          "ttf": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rskITQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rskITc.woff",
+          "woff2": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rsqITE.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

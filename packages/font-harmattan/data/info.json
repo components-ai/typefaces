@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Harmattan'",
-          "'Harmattan-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjQkqm.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjQkql&skey=455aa37d69b7e881&v=v9#Harmattan",
-          "ttf": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjQkqn.ttf",
-          "woff": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjQkqk.woff",
-          "woff2": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjTEqi.woff2"
+          "eot": "https://fonts.gstatic.com/s/harmattan/v15/goksH6L2DkFvVvRp9XpjQkqm.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjQkql&skey=455aa37d69b7e881&v=v15#Harmattan",
+          "ttf": "https://fonts.gstatic.com/s/harmattan/v15/goksH6L2DkFvVvRp9XpjQkqn.ttf",
+          "woff": "https://fonts.gstatic.com/s/harmattan/v15/goksH6L2DkFvVvRp9XpjQkqk.woff",
+          "woff2": "https://fonts.gstatic.com/s/harmattan/v15/goksH6L2DkFvVvRp9XpjTEqi.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Harmattan Bold'",
-          "'Harmattan-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3kdxB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L2DkFvVvRp9Xpr92-3kdxC&skey=e78db0f27125f9f1&v=v9#Harmattan",
-          "ttf": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3kdxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3kdxD.woff",
-          "woff2": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2"
+          "eot": "https://fonts.gstatic.com/s/harmattan/v15/gokpH6L2DkFvVvRp9Xpr92-3kdxB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L2DkFvVvRp9Xpr92-3kdxC&skey=e78db0f27125f9f1&v=v15#Harmattan",
+          "ttf": "https://fonts.gstatic.com/s/harmattan/v15/gokpH6L2DkFvVvRp9Xpr92-3kdxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/harmattan/v15/gokpH6L2DkFvVvRp9Xpr92-3kdxD.woff",
+          "woff2": "https://fonts.gstatic.com/s/harmattan/v15/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

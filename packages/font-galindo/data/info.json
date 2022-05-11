@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Galindo'",
-          "'Galindo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5joQw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HI_KiYMeLqVKqwyuc5joQA&skey=62f7a52c71aba32&v=v8#Galindo",
-          "ttf": "https://fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5joQg.ttf",
-          "woff": "https://fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5joQQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5boRw.woff2"
+          "eot": "https://fonts.gstatic.com/s/galindo/v20/HI_KiYMeLqVKqwyuc5joQw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HI_KiYMeLqVKqwyuc5joQA&skey=62f7a52c71aba32&v=v20#Galindo",
+          "ttf": "https://fonts.gstatic.com/s/galindo/v20/HI_KiYMeLqVKqwyuc5joQg.ttf",
+          "woff": "https://fonts.gstatic.com/s/galindo/v20/HI_KiYMeLqVKqwyuc5joQQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/galindo/v20/HI_KiYMeLqVKqwyuc5boRw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

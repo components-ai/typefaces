@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsjSlw&skey=2ef562fcb6285746&v=v10#UbuntuMono",
-    "700": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueQ&skey=f90714a1dc0ab369&v=v10#UbuntuMono"
+    "400": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsjSlw&skey=2ef562fcb6285746&v=v15#UbuntuMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueQ&skey=f90714a1dc0ab369&v=v15#UbuntuMono"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc0CsM&skey=8c1feb82f3a61020&v=v10#UbuntuMono",
-    "700": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H7tYo&skey=a9bb4edd8443acaf&v=v10#UbuntuMono"
+    "400": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc0CsM&skey=8c1feb82f3a61020&v=v15#UbuntuMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H7tYo&skey=a9bb4edd8443acaf&v=v15#UbuntuMono"
   }
 }

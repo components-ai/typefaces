@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Macondo Swash Caps'",
-          "'MacondoSwashCaps-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAf.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAc&skey=e481c3cce08b10c0&v=v8#MacondoSwashCaps",
-          "ttf": "https://fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAe.ttf",
-          "woff": "https://fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAd.woff",
-          "woff2": "https://fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2"
+          "eot": "https://fonts.gstatic.com/s/macondoswashcaps/v20/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAf.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAc&skey=e481c3cce08b10c0&v=v20#MacondoSwashCaps",
+          "ttf": "https://fonts.gstatic.com/s/macondoswashcaps/v20/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAe.ttf",
+          "woff": "https://fonts.gstatic.com/s/macondoswashcaps/v20/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAd.woff",
+          "woff2": "https://fonts.gstatic.com/s/macondoswashcaps/v20/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 63,
             "x_max": 656,
             "o": "m 480 749 q 346 804 425 804 q 212 749 267 804 q 157 615 157 694 q 213 474 157 535 q 346 413 268 413 q 479 474 424 413 q 535 615 535 535 q 480 749 535 694 z m 110 53 q 129 100 110 81 q 167 119 149 119 q 215 110 186 119 q 278 100 244 100 l 278 100 q 467 231 382 100 q 560 492 553 361 l 560 492 q 447 369 532 421 q 274 318 363 318 q 124 380 186 318 q 63 532 63 442 l 63 532 q 169 788 63 683 q 418 892 276 892 l 418 892 q 591 809 526 892 q 656 594 656 726 q 591 322 656 461 q 416 87 526 182 q 189 -8 306 -8 l 189 -8 q 131 8 151 -8 q 110 53 110 25 z "
+          },
+          "": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 417,

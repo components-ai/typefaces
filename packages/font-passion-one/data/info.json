@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,47 +12,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Passion One Regular'",
-          "'PassionOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/passionone/v11/PbynFmL8HhTPqbjUzux3JEuf9l8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PbynFmL8HhTPqbjUzux3JEuf9lw&skey=36208c49537b53f2&v=v11#PassionOne",
-          "ttf": "https://fonts.gstatic.com/s/passionone/v11/PbynFmL8HhTPqbjUzux3JEuf9l4.ttf",
-          "woff": "https://fonts.gstatic.com/s/passionone/v11/PbynFmL8HhTPqbjUzux3JEuf9l0.woff",
-          "woff2": "https://fonts.gstatic.com/s/passionone/v11/PbynFmL8HhTPqbjUzux3JEuR9ls.woff2"
+          "eot": "https://fonts.gstatic.com/s/passionone/v16/PbynFmL8HhTPqbjUzux3JEuf9l8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PbynFmL8HhTPqbjUzux3JEuf9lw&skey=36208c49537b53f2&v=v16#PassionOne",
+          "ttf": "https://fonts.gstatic.com/s/passionone/v16/PbynFmL8HhTPqbjUzux3JEuf9l4.ttf",
+          "woff": "https://fonts.gstatic.com/s/passionone/v16/PbynFmL8HhTPqbjUzux3JEuf9l0.woff",
+          "woff2": "https://fonts.gstatic.com/s/passionone/v16/PbynFmL8HhTPqbjUzux3JEuR9ls.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Passion One Bold'",
-          "'PassionOne-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMq007hyJM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMq007hyJA&skey=2010b1f537e24c19&v=v11#PassionOne",
-          "ttf": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMq007hyJI.ttf",
-          "woff": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMq007hyJE.woff",
-          "woff2": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMq007vyJc.woff2"
+          "eot": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMq007hyJM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMq007hyJA&skey=2010b1f537e24c19&v=v16#PassionOne",
+          "ttf": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMq007hyJI.ttf",
+          "woff": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMq007hyJE.woff",
+          "woff2": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMq007vyJc.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Passion One Black'",
-          "'PassionOne-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMS0U7hyJA&skey=8340617b2b6408a3&v=v11#PassionOne",
-          "ttf": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJI.ttf",
-          "woff": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJE.woff",
-          "woff2": "https://fonts.gstatic.com/s/passionone/v11/Pby6FmL8HhTPqbjUzux3JEMS0U7vyJc.woff2"
+          "eot": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMS0U7hyJA&skey=8340617b2b6408a3&v=v16#PassionOne",
+          "ttf": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJI.ttf",
+          "woff": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJE.woff",
+          "woff2": "https://fonts.gstatic.com/s/passionone/v16/Pby6FmL8HhTPqbjUzux3JEMS0U7vyJc.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

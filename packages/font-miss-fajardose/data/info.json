@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Miss Fajardose Regular'",
-          "'MissFajardose-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=E21-_dn5gvrawDdPFVl-N0Ajb_qmUvA&skey=60c559edbe368a95&v=v10#MissFajardose",
-          "ttf": "https://fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvI.ttf",
-          "woff": "https://fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvE.woff",
-          "woff2": "https://fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qoUvc.woff2"
+          "eot": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=E21-_dn5gvrawDdPFVl-N0Ajb_qmUvA&skey=60c559edbe368a95&v=v22#MissFajardose",
+          "ttf": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvI.ttf",
+          "woff": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvE.woff",
+          "woff2": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_qoUvc.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

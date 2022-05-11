@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-11-05",
+  "lastModified": "2022-04-27",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'ZCOOL KuaiLe Regular'",
-          "'ZCOOLKuaiLe-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2moYb2.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tssqApdaRQokwFjFJjvM6h2moYb1&skey=4a28408937fb030&v=v5#ZCOOLKuaiLe",
-          "ttf": "https://fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2moYb3.ttf",
-          "woff": "https://fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2moYb0.woff",
-          "woff2": "https://fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2Wo-Tpo2MpsrpYU3EJjXfOiTrBdUtGm0PGsPHkbHZzpr3G.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/zcoolkuaile/v17/tssqApdaRQokwFjFJjvM6h2moYb2.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tssqApdaRQokwFjFJjvM6h2moYb1&skey=4a28408937fb030&v=v17#ZCOOLKuaiLe",
+          "ttf": "https://fonts.gstatic.com/s/zcoolkuaile/v17/tssqApdaRQokwFjFJjvM6h2moYb3.ttf",
+          "woff": "https://fonts.gstatic.com/s/zcoolkuaile/v17/tssqApdaRQokwFjFJjvM6h2moYb0.woff",
+          "woff2": "https://fonts.gstatic.com/s/zcoolkuaile/v17/tssqApdaRQokwFjFJjvM6h2Wo-Tpo2MpsrpYU3EJjXfOiTrBdUtGm0PGsPHkbHZzpr3G.119.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

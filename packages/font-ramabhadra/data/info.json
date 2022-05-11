@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ramabhadra'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LShRMWg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EYq2maBOwqRW9P1SQ83LShRMWQ&skey=e9d5795f78cdacfa&v=v10#Ramabhadra",
-          "ttf": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LShRMWw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LShRMWA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LShRMXg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LShRMWg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EYq2maBOwqRW9P1SQ83LShRMWQ&skey=e9d5795f78cdacfa&v=v15#Ramabhadra",
+          "ttf": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LShRMWw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LShRMWA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LShRMXg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

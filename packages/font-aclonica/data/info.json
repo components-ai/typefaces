@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Aclonica Regular'",
-          "'Aclonica-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAos.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=K2FyfZJVlfNNSEBXGY7UAog&skey=a69e8e3b9073e390&v=v11#Aclonica",
-          "ttf": "https://fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAoo.ttf",
-          "woff": "https://fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAok.woff",
-          "woff2": "https://fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAo8.woff2"
+          "eot": "https://fonts.gstatic.com/s/aclonica/v18/K2FyfZJVlfNNSEBXGY7UAos.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=K2FyfZJVlfNNSEBXGY7UAog&skey=a69e8e3b9073e390&v=v18#Aclonica",
+          "ttf": "https://fonts.gstatic.com/s/aclonica/v18/K2FyfZJVlfNNSEBXGY7UAoo.ttf",
+          "woff": "https://fonts.gstatic.com/s/aclonica/v18/K2FyfZJVlfNNSEBXGY7UAok.woff",
+          "woff2": "https://fonts.gstatic.com/s/aclonica/v18/K2FyfZJVlfNNSEBXGY7UAo8.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

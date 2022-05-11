@@ -1,14 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/faustina/v7/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWm-bU8o.ttf",
-    "500": "https://fonts.gstatic.com/s/faustina/v7/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wm-bU8o.ttf",
-    "600": "https://fonts.gstatic.com/s/faustina/v7/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXW-bU8o.ttf",
-    "700": "https://fonts.gstatic.com/s/faustina/v7/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXW-bU8o.ttf"
+    "300": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsKZWm-bU8o.ttf",
+    "400": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWm-bU8o.ttf",
+    "500": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wm-bU8o.ttf",
+    "600": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXW-bU8o.ttf",
+    "700": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXW-bU8o.ttf",
+    "800": "https://fonts.gstatic.com/s/faustina/v15/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsJHXW-bU8o.ttf"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/faustina/v7/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEfEF-S.ttf",
-    "500": "https://fonts.gstatic.com/s/faustina/v7/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEfEF-S.ttf",
-    "600": "https://fonts.gstatic.com/s/faustina/v7/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYfEF-S.ttf",
-    "700": "https://fonts.gstatic.com/s/faustina/v7/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYfEF-S.ttf"
+    "300": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHls3IEfEF-S.ttf",
+    "400": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEfEF-S.ttf",
+    "500": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEfEF-S.ttf",
+    "600": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYfEF-S.ttf",
+    "700": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYfEF-S.ttf",
+    "800": "https://fonts.gstatic.com/s/faustina/v15/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsAoYfEF-S.ttf"
   }
 }

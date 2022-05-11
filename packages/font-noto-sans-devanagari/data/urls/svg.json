@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=TuGAUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1E1fx4&skey=8cb7aa90db7f8399&v=v16#NotoSansDevanagari",
+    "200": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1GZXjxn&skey=82e7ad0f0186e78a&v=v16#NotoSansDevanagari",
+    "300": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1H9XTxn&skey=9409b0d588fd83e7&v=v16#NotoSansDevanagari",
+    "400": "https://fonts.gstatic.com/l/font?kit=TuGOUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv2lT&skey=c202a598b7d2afc7&v=v16#NotoSansDevanagari",
+    "500": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1GlXDxn&skey=73c8b933a365da93&v=v16#NotoSansDevanagari",
+    "600": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1GJWzxn&skey=9740845b6ad6e49c&v=v16#NotoSansDevanagari",
+    "700": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1HtWjxn&skey=9a9e6c3734aebf82&v=v16#NotoSansDevanagari",
+    "800": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1HxWTxn&skey=e3d5da41bbe2e947&v=v16#NotoSansDevanagari",
+    "900": "https://fonts.gstatic.com/l/font?kit=TuGBUUFzXI5FBtUq5a8bjKYTZjtRU6Sgv1HVWDxn&skey=9fb72214f286493c&v=v16#NotoSansDevanagari"
+  }
+}

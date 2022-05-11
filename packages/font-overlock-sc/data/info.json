@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Overlock SC'",
-          "'OverlockSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGJocE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aUHKGZrstGAY8nwVzEGJocI&skey=6764e36643395bef&v=v9#OverlockSC",
-          "ttf": "https://fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGJocA.ttf",
-          "woff": "https://fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGJocM.woff",
-          "woff2": "https://fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGHocU.woff2"
+          "eot": "https://fonts.gstatic.com/s/overlocksc/v21/1cX3aUHKGZrstGAY8nwVzEGJocE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aUHKGZrstGAY8nwVzEGJocI&skey=6764e36643395bef&v=v21#OverlockSC",
+          "ttf": "https://fonts.gstatic.com/s/overlocksc/v21/1cX3aUHKGZrstGAY8nwVzEGJocA.ttf",
+          "woff": "https://fonts.gstatic.com/s/overlocksc/v21/1cX3aUHKGZrstGAY8nwVzEGJocM.woff",
+          "woff2": "https://fonts.gstatic.com/s/overlocksc/v21/1cX3aUHKGZrstGAY8nwVzEGHocU.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

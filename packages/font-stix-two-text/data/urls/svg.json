@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbYRxkNA&skey=f0fe04ea048f2d0b&v=v9#STIXTwoText",
+    "500": "https://fonts.gstatic.com/l/font?kit=YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbYRxkNA&skey=f0fe04ea048f2d0b&v=v9#STIXTwoText",
+    "600": "https://fonts.gstatic.com/l/font?kit=YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcYRxkNA&skey=f0fe04ea048f2d0b&v=v9#STIXTwoText",
+    "700": "https://fonts.gstatic.com/l/font?kit=YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcYRxkNA&skey=f0fe04ea048f2d0b&v=v9#STIXTwoText"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2RORURc&skey=2dac9efced8f2458&v=v9#STIXTwoText",
+    "500": "https://fonts.gstatic.com/l/font?kit=YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2RORURc&skey=2dac9efced8f2458&v=v9#STIXTwoText",
+    "600": "https://fonts.gstatic.com/l/font?kit=YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3hORURc&skey=2dac9efced8f2458&v=v9#STIXTwoText",
+    "700": "https://fonts.gstatic.com/l/font?kit=YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3hORURc&skey=2dac9efced8f2458&v=v9#STIXTwoText"
+  }
+}

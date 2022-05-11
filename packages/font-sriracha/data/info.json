@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sriracha'",
-          "'Sriracha-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbRTwU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0nkrC9D4IuYBgWcI9NbRTwY&skey=4c47d248b5dc5112&v=v4#Sriracha",
-          "ttf": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbRTwQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbRTwc.woff",
-          "woff2": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbfTwE.woff2"
+          "eot": "https://fonts.gstatic.com/s/sriracha/v10/0nkrC9D4IuYBgWcI9NbRTwU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0nkrC9D4IuYBgWcI9NbRTwY&skey=4c47d248b5dc5112&v=v10#Sriracha",
+          "ttf": "https://fonts.gstatic.com/s/sriracha/v10/0nkrC9D4IuYBgWcI9NbRTwQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/sriracha/v10/0nkrC9D4IuYBgWcI9NbRTwc.woff",
+          "woff2": "https://fonts.gstatic.com/s/sriracha/v10/0nkrC9D4IuYBgWcI9NbfTwE.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

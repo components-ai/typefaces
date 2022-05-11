@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,112 +16,88 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Arima Madurai Thin'",
-          "'ArimaMadurai-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t4IRoeKYORG0WNMgnC3seB1V3_o7uE&skey=57396a7df9c3908f&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uG.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uF.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_rbuD.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t4IRoeKYORG0WNMgnC3seB1V3_o7uE&skey=57396a7df9c3908f&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uG.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uF.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t4IRoeKYORG0WNMgnC3seB1V3_rbuD.woff2"
         }
       },
       "200": {
-        "local": [
-          "'Arima Madurai ExtraLight'",
-          "'ArimaMadurai-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeA&skey=95efad7c6d050c6e&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeA&skey=95efad7c6d050c6e&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1fHuupymfw.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Arima Madurai Light'",
-          "'ArimaMadurai-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeA&skey=818df1b22b4fd8f8&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeA&skey=818df1b22b4fd8f8&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZXtupymfw.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Arima Madurai'",
-          "'ArimaMadurai-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoeKYORG0WNMgnC3seB3TDPqA&skey=ff016238820f95ab&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3T7Prw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5tmIRoeKYORG0WNMgnC3seB3TDPqw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoeKYORG0WNMgnC3seB3TDPqA&skey=ff016238820f95ab&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5tmIRoeKYORG0WNMgnC3seB3TDPqg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5tmIRoeKYORG0WNMgnC3seB3TDPqQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5tmIRoeKYORG0WNMgnC3seB3T7Prw.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Arima Madurai Medium'",
-          "'ArimaMadurai-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1c3supKmeA&skey=7856d3737673f45d&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1c3supKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1c3supKmeA&skey=7856d3737673f45d&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1c3supymfw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arima Madurai Bold'",
-          "'ArimaMadurai-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeA&skey=eebd7aa0e29c4843&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeA&skey=eebd7aa0e29c4843&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1YXqupymfw.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Arima Madurai ExtraBold'",
-          "'ArimaMadurai-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeA&skey=cea65f0bbc3a4136&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1Znpupymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeA&skey=cea65f0bbc3a4136&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1Znpupymfw.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Arima Madurai Black'",
-          "'ArimaMadurai-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmew.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeA&skey=7037dcde24f8c607&v=v6#ArimaMadurai",
-          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeg.ttf",
-          "woff": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupymfw.woff2"
+          "eot": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmew.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeA&skey=7037dcde24f8c607&v=v14#ArimaMadurai",
+          "ttf": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeg.ttf",
+          "woff": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/arimamadurai/v14/t5t7IRoeKYORG0WNMgnC3seB1b3oupymfw.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "100": {
@@ -191,6 +167,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 853,
+            "x_min": 163,
+            "x_max": 853,
+            "o": "m 850 733 q 853 718 853 728 l 853 718 q 840 701 853 704 q 797 697 826 697 l 797 697 l 639 697 l 639 65 q 642 3 639 14 l 642 3 q 621 -7 632 -7 l 621 -7 q 597 17 597 -7 l 597 17 l 597 697 l 204 697 l 204 0 l 163 0 l 163 733 l 850 733 z "
           },
           "A": {
             "ha": 781,
@@ -2765,13 +2747,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Thin"
+            "en": "1.020;NDIS;ArimaMadurai-Thin"
           },
           "fullName": {
-            "en": "ArimaMadurai-Thin"
+            "en": "Arima Madurai Thin"
           },
           "version": {
-            "en": "Version 1.019; ttfautohint (v1.5) -l 7 -r 28 -G 50 -x 13 -D latn -f none -w G -X \"\""
+            "en": "Version 1.020; ttfautohint (v1.5) -l 7 -r 28 -G 50 -x 13 -D latn -f none -w G -X \"\""
           },
           "postScriptName": {
             "en": "ArimaMadurai-Thin"
@@ -2850,6 +2832,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 864,
+            "x_min": 158,
+            "x_max": 864,
+            "o": "m 861 736 q 864 719 864 731 l 864 719 q 850 701 864 706 q 807 697 836 697 l 807 697 l 647 697 l 647 83 q 653 6 647 24 l 653 6 q 621 -7 640 -7 l 621 -7 q 588 31 588 -7 l 588 31 l 588 697 l 204 697 l 204 0 l 158 0 l 158 736 l 861 736 z "
           },
           "A": {
             "ha": 792,
@@ -5424,13 +5412,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-ExtraLight"
+            "en": "1.020;NDIS;ArimaMadurai-ExtraLight"
           },
           "fullName": {
-            "en": "ArimaMadurai-ExtraLight"
+            "en": "Arima Madurai ExtraLight"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-ExtraLight"
@@ -5509,6 +5497,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 881,
+            "x_min": 154,
+            "x_max": 879,
+            "o": "m 875 740 q 879 721 879 731 l 879 721 q 865 700 879 704 q 819 696 850 696 l 819 696 l 660 696 l 660 107 q 668 8 660 38 l 668 8 q 622 -8 647 -8 l 622 -8 q 586 5 597 -8 q 575 47 575 18 l 575 47 l 575 696 l 206 697 l 206 0 l 154 0 l 154 740 l 875 740 z "
           },
           "A": {
             "ha": 806,
@@ -8083,13 +8077,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Light"
+            "en": "1.020;NDIS;ArimaMadurai-Light"
           },
           "fullName": {
-            "en": "ArimaMadurai-Light"
+            "en": "Arima Madurai Light"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-Light"
@@ -8168,6 +8162,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 900,
+            "x_min": 149,
+            "x_max": 897,
+            "o": "m 893 746 q 897 724 897 732 l 897 724 q 883 701 897 706 q 836 696 868 696 l 836 696 l 674 696 l 674 138 q 677 60 674 86 q 688 11 681 33 l 688 11 q 624 -10 658 -10 l 624 -10 q 574 8 590 -10 q 558 69 558 26 l 558 69 l 558 696 l 206 697 l 206 0 l 149 0 l 149 746 l 893 746 z "
           },
           "A": {
             "ha": 822,
@@ -10742,13 +10742,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Regular"
+            "en": "1.020;NDIS;ArimaMadurai-Regular"
           },
           "fullName": {
-            "en": "ArimaMadurai-Regular"
+            "en": "Arima Madurai Regular"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-Regular"
@@ -10827,6 +10827,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 910,
+            "x_min": 146,
+            "x_max": 907,
+            "o": "m 903 749 q 907 724 907 735 l 907 724 q 892 700 907 704 q 844 696 878 696 l 844 696 l 682 696 l 682 153 q 685 67 682 96 q 697 14 689 38 l 697 14 q 624 -10 668 -10 l 624 -10 q 567 10 585 -10 q 550 82 550 31 l 550 82 l 550 696 l 206 696 l 206 0 l 146 0 l 146 749 l 903 749 z "
           },
           "A": {
             "ha": 832,
@@ -13401,13 +13407,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Medium"
+            "en": "1.020;NDIS;ArimaMadurai-Medium"
           },
           "fullName": {
-            "en": "ArimaMadurai-Medium"
+            "en": "Arima Madurai Medium"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-Medium"
@@ -13486,6 +13492,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 928,
+            "x_min": 140,
+            "x_max": 925,
+            "o": "m 919 753 q 925 726 925 731 l 925 726 q 910 701 925 706 q 860 696 894 696 l 860 696 l 696 696 l 696 181 q 701 81 696 114 q 715 17 706 49 l 715 17 q 625 -11 678 -11 l 625 -11 q 557 13 579 -11 q 535 101 535 38 l 535 101 l 535 696 l 206 696 l 206 0 l 140 0 l 140 754 l 919 753 z "
           },
           "A": {
             "ha": 849,
@@ -16060,13 +16072,13 @@
             "en": "Bold"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Bold"
+            "en": "1.020;NDIS;ArimaMadurai-Bold"
           },
           "fullName": {
             "en": "Arima Madurai Bold"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-Bold"
@@ -16145,6 +16157,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 936,
+            "x_min": 138,
+            "x_max": 933,
+            "o": "m 928 756 q 933 728 933 733 l 933 728 q 917 700 933 706 q 867 694 901 694 l 867 694 l 701 694 l 701 193 q 707 88 701 122 q 724 19 713 53 l 724 19 q 625 -11 683 -11 l 625 -11 q 551 15 575 -11 q 528 111 528 42 l 528 111 l 528 694 l 207 696 l 207 0 l 138 0 l 138 756 l 928 756 z "
           },
           "A": {
             "ha": 856,
@@ -18719,13 +18737,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-ExtraBold"
+            "en": "1.020;NDIS;ArimaMadurai-ExtraBold"
           },
           "fullName": {
-            "en": "ArimaMadurai-ExtraBold"
+            "en": "Arima Madurai ExtraBold"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-ExtraBold"
@@ -18804,6 +18822,12 @@
             "x_min": null,
             "x_max": null,
             "o": ""
+          },
+          "ா": {
+            "ha": 946,
+            "x_min": 135,
+            "x_max": 943,
+            "o": "m 938 758 q 943 728 943 733 l 943 728 q 927 700 943 706 q 875 694 911 694 l 875 694 l 710 694 l 710 208 q 715 93 710 131 q 733 21 721 56 l 733 21 q 626 -12 688 -12 l 626 -12 q 546 17 572 -12 q 519 124 519 46 l 519 124 l 519 694 l 207 696 l 207 0 l 135 0 l 135 758 l 938 758 z "
           },
           "A": {
             "ha": 865,
@@ -21378,13 +21402,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.019;NDIS;ArimaMadurai-Black"
+            "en": "1.020;NDIS;ArimaMadurai-Black"
           },
           "fullName": {
-            "en": "ArimaMadurai-Black"
+            "en": "Arima Madurai Black"
           },
           "version": {
-            "en": "Version 1.019"
+            "en": "Version 1.020"
           },
           "postScriptName": {
             "en": "ArimaMadurai-Black"

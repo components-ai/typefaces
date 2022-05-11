@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,62 +12,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Simonetta Italic'",
-          "'Simonetta-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/simonetta/v11/x3dkckHVYrCU5BU15c4xfsoPly8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3dkckHVYrCU5BU15c4xfsoPlyw&skey=112ab40eea09d613&v=v11#Simonetta",
-          "ttf": "https://fonts.gstatic.com/s/simonetta/v11/x3dkckHVYrCU5BU15c4xfsoPly4.ttf",
-          "woff": "https://fonts.gstatic.com/s/simonetta/v11/x3dkckHVYrCU5BU15c4xfsoPly0.woff",
-          "woff2": "https://fonts.gstatic.com/s/simonetta/v11/x3dkckHVYrCU5BU15c4xfsoBlys.woff2"
+          "eot": "https://fonts.gstatic.com/s/simonetta/v23/x3dkckHVYrCU5BU15c4xfsoPly8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3dkckHVYrCU5BU15c4xfsoPlyw&skey=112ab40eea09d613&v=v23#Simonetta",
+          "ttf": "https://fonts.gstatic.com/s/simonetta/v23/x3dkckHVYrCU5BU15c4xfsoPly4.ttf",
+          "woff": "https://fonts.gstatic.com/s/simonetta/v23/x3dkckHVYrCU5BU15c4xfsoPly0.woff",
+          "woff2": "https://fonts.gstatic.com/s/simonetta/v23/x3dkckHVYrCU5BU15c4xfsoBlys.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Simonetta Black Italic'",
-          "'Simonetta-BlackItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/simonetta/v11/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3d5ckHVYrCU5BU15c4xfsKCsD7kJQE&skey=996c5b2a3bf2d674&v=v11#Simonetta",
-          "ttf": "https://fonts.gstatic.com/s/simonetta/v11/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQM.ttf",
-          "woff": "https://fonts.gstatic.com/s/simonetta/v11/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/simonetta/v11/x3d5ckHVYrCU5BU15c4xfsKCsD7qJQY.woff2"
+          "eot": "https://fonts.gstatic.com/s/simonetta/v23/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3d5ckHVYrCU5BU15c4xfsKCsD7kJQE&skey=996c5b2a3bf2d674&v=v23#Simonetta",
+          "ttf": "https://fonts.gstatic.com/s/simonetta/v23/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQM.ttf",
+          "woff": "https://fonts.gstatic.com/s/simonetta/v23/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/simonetta/v23/x3d5ckHVYrCU5BU15c4xfsKCsD7qJQY.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Simonetta Regular'",
-          "'Simonetta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/simonetta/v11/x3dickHVYrCU5BU15c4xdfoH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHVYrCU5BU15c4xdfoE&skey=d750687bc3bb71a&v=v11#Simonetta",
-          "ttf": "https://fonts.gstatic.com/s/simonetta/v11/x3dickHVYrCU5BU15c4xdfoG.ttf",
-          "woff": "https://fonts.gstatic.com/s/simonetta/v11/x3dickHVYrCU5BU15c4xdfoF.woff",
-          "woff2": "https://fonts.gstatic.com/s/simonetta/v11/x3dickHVYrCU5BU15c4xe_oD.woff2"
+          "eot": "https://fonts.gstatic.com/s/simonetta/v23/x3dickHVYrCU5BU15c4xdfoH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHVYrCU5BU15c4xdfoE&skey=d750687bc3bb71a&v=v23#Simonetta",
+          "ttf": "https://fonts.gstatic.com/s/simonetta/v23/x3dickHVYrCU5BU15c4xdfoG.ttf",
+          "woff": "https://fonts.gstatic.com/s/simonetta/v23/x3dickHVYrCU5BU15c4xdfoF.woff",
+          "woff2": "https://fonts.gstatic.com/s/simonetta/v23/x3dickHVYrCU5BU15c4xe_oD.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Simonetta Black'",
-          "'Simonetta-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/simonetta/v11/x3dnckHVYrCU5BU15c45-N0Wvg7s.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3dnckHVYrCU5BU15c45-N0Wvg7v&skey=7fdf994b6f23eb03&v=v11#Simonetta",
-          "ttf": "https://fonts.gstatic.com/s/simonetta/v11/x3dnckHVYrCU5BU15c45-N0Wvg7t.ttf",
-          "woff": "https://fonts.gstatic.com/s/simonetta/v11/x3dnckHVYrCU5BU15c45-N0Wvg7u.woff",
-          "woff2": "https://fonts.gstatic.com/s/simonetta/v11/x3dnckHVYrCU5BU15c45-N0WsA7o.woff2"
+          "eot": "https://fonts.gstatic.com/s/simonetta/v23/x3dnckHVYrCU5BU15c45-N0Wvg7s.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3dnckHVYrCU5BU15c45-N0Wvg7v&skey=7fdf994b6f23eb03&v=v23#Simonetta",
+          "ttf": "https://fonts.gstatic.com/s/simonetta/v23/x3dnckHVYrCU5BU15c45-N0Wvg7t.ttf",
+          "woff": "https://fonts.gstatic.com/s/simonetta/v23/x3dnckHVYrCU5BU15c45-N0Wvg7u.woff",
+          "woff2": "https://fonts.gstatic.com/s/simonetta/v23/x3dnckHVYrCU5BU15c45-N0WsA7o.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "italic": {
       "400": {

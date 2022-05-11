@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,20 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Modak'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMO-hA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EJRYQgs1XtIEskMO-hM&skey=50290ccd34ddc6b5&v=v5#Modak",
-          "ttf": "https://fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMO-hE.ttf",
-          "woff": "https://fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMO-hI.woff",
-          "woff2": "https://fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMA-hQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMO-hA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EJRYQgs1XtIEskMO-hM&skey=50290ccd34ddc6b5&v=v18#Modak",
+          "ttf": "https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMO-hE.ttf",
+          "woff": "https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMO-hI.woff",
+          "woff2": "https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMA-hQ.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {
@@ -91,6 +89,12 @@
             "x_min": 15,
             "x_max": 789,
             "o": "m 394 522 l 394 522 q 434 528 416 522 l 434 528 q 421 567 434 552 q 386 582 408 582 l 386 582 q 351 554 351 582 l 351 554 q 394 522 351 522 z m 415 247 l 415 247 q 412 258 415 254 l 412 258 q 345 253 387 253 l 345 253 q 188 287 264 253 q 63 390 111 321 q 15 558 15 458 l 15 558 q 117 803 15 709 q 395 898 219 898 q 680 775 570 898 q 789 458 789 653 l 789 458 q 668 119 789 250 q 334 -12 547 -12 l 334 -12 q 203 1 271 -12 l 203 1 q 111 26 138 13 l 111 26 q 78 151 78 81 l 78 151 q 90 224 78 189 q 121 286 102 260 l 121 286 q 215 242 152 262 q 346 222 277 222 q 415 247 415 222 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\r": {
             "ha": 347,

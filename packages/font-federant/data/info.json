@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Federant'",
-          "'Federant-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZGNfip_eirT0_X0kT0c&skey=863c14e56a981dc9&v=v13#Federant",
-          "ttf": "https://fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0U.ttf",
-          "woff": "https://fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/federant/v25/2sDdZGNfip_eirT0_X0kT0Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZGNfip_eirT0_X0kT0c&skey=863c14e56a981dc9&v=v25#Federant",
+          "ttf": "https://fonts.gstatic.com/s/federant/v25/2sDdZGNfip_eirT0_X0kT0U.ttf",
+          "woff": "https://fonts.gstatic.com/s/federant/v25/2sDdZGNfip_eirT0_X0kT0Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/federant/v25/2sDdZGNfip_eirT0_X0kT0A.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Yesteryear'",
-          "'Yesteryear-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNSg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dg4g_p78rroaKl8kRKo1n7sNSQ&skey=1784a02b79d76d06&v=v9#Yesteryear",
-          "ttf": "https://fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNSw.ttf",
-          "woff": "https://fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNSA.woff",
-          "woff2": "https://fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNTg.woff2"
+          "eot": "https://fonts.gstatic.com/s/yesteryear/v14/dg4g_p78rroaKl8kRKo1n7sNSg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dg4g_p78rroaKl8kRKo1n7sNSQ&skey=1784a02b79d76d06&v=v14#Yesteryear",
+          "ttf": "https://fonts.gstatic.com/s/yesteryear/v14/dg4g_p78rroaKl8kRKo1n7sNSw.ttf",
+          "woff": "https://fonts.gstatic.com/s/yesteryear/v14/dg4g_p78rroaKl8kRKo1n7sNSA.woff",
+          "woff2": "https://fonts.gstatic.com/s/yesteryear/v14/dg4g_p78rroaKl8kRKo1n7sNTg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Hanalei Fill'",
-          "'HanaleiFill-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8XgjE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=fC1mPYtObGbfyQznIaQzPQi8XgjH&skey=acc33bda7cb3835&v=v9#HanaleiFill",
-          "ttf": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8XgjF.ttf",
-          "woff": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8XgjG.woff",
-          "woff2": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjA.woff2"
+          "eot": "https://fonts.gstatic.com/s/hanaleifill/v21/fC1mPYtObGbfyQznIaQzPQi8XgjE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=fC1mPYtObGbfyQznIaQzPQi8XgjH&skey=acc33bda7cb3835&v=v21#HanaleiFill",
+          "ttf": "https://fonts.gstatic.com/s/hanaleifill/v21/fC1mPYtObGbfyQznIaQzPQi8XgjF.ttf",
+          "woff": "https://fonts.gstatic.com/s/hanaleifill/v21/fC1mPYtObGbfyQznIaQzPQi8XgjG.woff",
+          "woff2": "https://fonts.gstatic.com/s/hanaleifill/v21/fC1mPYtObGbfyQznIaQzPQi8UAjA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

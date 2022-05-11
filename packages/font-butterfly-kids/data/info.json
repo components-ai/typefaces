@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Butterfly Kids Regular'",
-          "'ButterflyKids-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRc&skey=95db184ef744e9e3&v=v9#ButterflyKids",
-          "ttf": "https://fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRU.ttf",
-          "woff": "https://fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRY.woff",
-          "woff2": "https://fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4dpRA.woff2"
+          "eot": "https://fonts.gstatic.com/s/butterflykids/v21/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRc&skey=95db184ef744e9e3&v=v21#ButterflyKids",
+          "ttf": "https://fonts.gstatic.com/s/butterflykids/v21/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRU.ttf",
+          "woff": "https://fonts.gstatic.com/s/butterflykids/v21/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRY.woff",
+          "woff2": "https://fonts.gstatic.com/s/butterflykids/v21/ll8lK2CWTjuqAsXDqlnIbMNs5R4dpRA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

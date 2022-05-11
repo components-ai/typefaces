@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-15",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Felipa'",
-          "'Felipa-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AQd6B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-owz1Eu4F_AQd6C&skey=b63251ce51fb2b06&v=v7#Felipa",
-          "ttf": "https://fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AQd6A.ttf",
-          "woff": "https://fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AQd6D.woff",
-          "woff2": "https://fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AT96F.woff2"
+          "eot": "https://fonts.gstatic.com/s/felipa/v19/FwZa7-owz1Eu4F_AQd6B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-owz1Eu4F_AQd6C&skey=b63251ce51fb2b06&v=v19#Felipa",
+          "ttf": "https://fonts.gstatic.com/s/felipa/v19/FwZa7-owz1Eu4F_AQd6A.ttf",
+          "woff": "https://fonts.gstatic.com/s/felipa/v19/FwZa7-owz1Eu4F_AQd6D.woff",
+          "woff2": "https://fonts.gstatic.com/s/felipa/v19/FwZa7-owz1Eu4F_AT96F.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

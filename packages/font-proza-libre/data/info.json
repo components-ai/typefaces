@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,140 +12,110 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Proza Libre Italic'",
-          "'ProzaLibre-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_WQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjEdGHgj0k1DIQRyUEyyEotRNb_Wg&skey=fae1fb97580e33e&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_WA.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_Ww.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNj_XQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjEdGHgj0k1DIQRyUEyyEotRNb_WQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjEdGHgj0k1DIQRyUEyyEotRNb_Wg&skey=fae1fb97580e33e&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjEdGHgj0k1DIQRyUEyyEotRNb_WA.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjEdGHgj0k1DIQRyUEyyEotRNb_Ww.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjEdGHgj0k1DIQRyUEyyEotRNj_XQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Proza Libre Medium Italic'",
-          "'ProzaLibre-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9Q&skey=1e6900d5acc6e3da&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJOS8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9Q&skey=1e6900d5acc6e3da&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJOS8g.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Proza Libre SemiBold Italic'",
-          "'ProzaLibre-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9Q&skey=d1e5def115019bc3&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJOS8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9Q&skey=d1e5def115019bc3&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJOS8g.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Proza Libre Bold Italic'",
-          "'ProzaLibre-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9Q&skey=34ee315b5aa59352&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJOS8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9Q&skey=34ee315b5aa59352&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJOS8g.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Proza Libre ExtraBold Italic'",
-          "'ProzaLibre-ExtraBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9Q&skey=2422110863a4bf05&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJOS8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9Q&skey=2422110863a4bf05&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJOS8g.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Proza Libre'",
-          "'ProzaLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdN4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjGdGHgj0k1DIQRyUEyyEomdN0&skey=c693a39898a09712&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdN8.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdNw.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEoodNo.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjGdGHgj0k1DIQRyUEyyEomdN4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjGdGHgj0k1DIQRyUEyyEomdN0&skey=c693a39898a09712&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjGdGHgj0k1DIQRyUEyyEomdN8.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjGdGHgj0k1DIQRyUEyyEomdNw.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjGdGHgj0k1DIQRyUEyyEoodNo.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Proza Libre Medium'",
-          "'ProzaLibre-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyELbV8_WeJY&skey=38dc39c2f5396bfb&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJc.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJE.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyELbV8_WeJY&skey=38dc39c2f5396bfb&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJc.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJE.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Proza Libre SemiBold'",
-          "'ProzaLibre-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJY&skey=97497ab1929219aa&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJc.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJE.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJY&skey=97497ab1929219aa&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJc.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJE.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Proza Libre Bold'",
-          "'ProzaLibre-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJY&skey=5843ca80726abaed&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJc.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJE.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJY&skey=5843ca80726abaed&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJc.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJE.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Proza Libre ExtraBold'",
-          "'ProzaLibre-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJY&skey=90b95c3cb918668e&v=v5#ProzaLibre",
-          "ttf": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJc.woff",
-          "woff2": "https://fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_YeJE.woff2"
+          "eot": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJY&skey=90b95c3cb918668e&v=v9#ProzaLibre",
+          "ttf": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJc.woff",
+          "woff2": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_YeJE.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v9",
   "typefaces": {
     "italic": {
       "400": {

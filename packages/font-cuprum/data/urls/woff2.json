@@ -1,10 +1,14 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/cuprum/v12/dg4m_pLmvrkcOkBNI9tAr7k.woff2",
-    "700": "https://fonts.gstatic.com/s/cuprum/v12/dg4h_pLmvrkcOkBNI9P7iqwqawc.woff2"
+    "400": "https://fonts.gstatic.com/s/cuprum/v19/dg47_pLmvrkcOkBNI_FMh0j91rkhli25jn_oJRwn.woff2",
+    "500": "https://fonts.gstatic.com/s/cuprum/v19/dg47_pLmvrkcOkBNI_FMh0j91rkhli25vH_oJRwn.woff2",
+    "600": "https://fonts.gstatic.com/s/cuprum/v19/dg47_pLmvrkcOkBNI_FMh0j91rkhli25UHjoJRwn.woff2",
+    "700": "https://fonts.gstatic.com/s/cuprum/v19/dg47_pLmvrkcOkBNI_FMh0j91rkhli25aXjoJRwn.woff2"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/cuprum/v12/dg4k_pLmvrkcOkBNJutC.woff2",
-    "700": "https://fonts.gstatic.com/s/cuprum/v12/dg4n_pLmvrkcOkBFnc5XiJwo.woff2"
+    "400": "https://fonts.gstatic.com/s/cuprum/v19/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjvYJw.woff2",
+    "500": "https://fonts.gstatic.com/s/cuprum/v19/dg45_pLmvrkcOkBnKsOzXyGWTBcmg9f6VjvYJw.woff2",
+    "600": "https://fonts.gstatic.com/s/cuprum/v19/dg45_pLmvrkcOkBnKsOzXyGWTBcmgzv9VjvYJw.woff2",
+    "700": "https://fonts.gstatic.com/s/cuprum/v19/dg45_pLmvrkcOkBnKsOzXyGWTBcmgwL9VjvYJw.woff2"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rvF2zEGz_k.woff",
+    "200": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rtF2jEGz_k.woff",
+    "300": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rub2jEGz_k.woff",
+    "400": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rvF2jEGz_k.woff",
+    "500": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rv32jEGz_k.woff",
+    "600": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rsb3TEGz_k.woff",
+    "700": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rsi3TEGz_k.woff",
+    "800": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rtF3TEGz_k.woff",
+    "900": "https://fonts.gstatic.com/s/georama/v7/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rts3TEGz_k.woff"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5GvkdkAEM.woff",
+    "200": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5mvgdkAEM.woff",
+    "300": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5RPgdkAEM.woff",
+    "400": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5GvgdkAEM.woff",
+    "500": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5KPgdkAEM.woff",
+    "600": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5xP8dkAEM.woff",
+    "700": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5_f8dkAEM.woff",
+    "800": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5mv8dkAEM.woff",
+    "900": "https://fonts.gstatic.com/s/georama/v7/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5s_8dkAEM.woff"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "greek",
     "latin"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'NovaMono'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2Zd.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZ2Ze&skey=573d932cf583f4f3&v=v11#NovaMono",
-          "ttf": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2Zc.ttf",
-          "woff": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2Zf.woff",
-          "woff2": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2ZZ.woff2"
+          "eot": "https://fonts.gstatic.com/s/novamono/v18/Cn-0JtiGWQ5Ajb--MRKvZ2Zd.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZ2Ze&skey=573d932cf583f4f3&v=v18#NovaMono",
+          "ttf": "https://fonts.gstatic.com/s/novamono/v18/Cn-0JtiGWQ5Ajb--MRKvZ2Zc.ttf",
+          "woff": "https://fonts.gstatic.com/s/novamono/v18/Cn-0JtiGWQ5Ajb--MRKvZ2Zf.woff",
+          "woff2": "https://fonts.gstatic.com/s/novamono/v18/Cn-0JtiGWQ5Ajb--MRKvZ2ZZ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tauri Regular'",
-          "'Tauri-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpcUnA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IISS0AM3LpcUnM&skey=a80ecb7544e95b0b&v=v9#Tauri",
-          "ttf": "https://fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpcUnE.ttf",
-          "woff": "https://fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpcUnI.woff",
-          "woff2": "https://fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpSUnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tauri/v16/TwMA-IISS0AM3LpcUnA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IISS0AM3LpcUnM&skey=a80ecb7544e95b0b&v=v16#Tauri",
+          "ttf": "https://fonts.gstatic.com/s/tauri/v16/TwMA-IISS0AM3LpcUnE.ttf",
+          "woff": "https://fonts.gstatic.com/s/tauri/v16/TwMA-IISS0AM3LpcUnI.woff",
+          "woff2": "https://fonts.gstatic.com/s/tauri/v16/TwMA-IISS0AM3LpSUnQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

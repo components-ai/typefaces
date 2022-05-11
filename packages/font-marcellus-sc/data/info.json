@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Marcellus SC'",
-          "'MarcellusSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marcellussc/v8/ke8iOgUHP1dg-Rmi6RWjbLE_iNaY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke8iOgUHP1dg-Rmi6RWjbLE_iNab&skey=19614411fccd2107&v=v8#MarcellusSC",
-          "ttf": "https://fonts.gstatic.com/s/marcellussc/v8/ke8iOgUHP1dg-Rmi6RWjbLE_iNaZ.ttf",
-          "woff": "https://fonts.gstatic.com/s/marcellussc/v8/ke8iOgUHP1dg-Rmi6RWjbLE_iNaa.woff",
-          "woff2": "https://fonts.gstatic.com/s/marcellussc/v8/ke8iOgUHP1dg-Rmi6RWjbLE_htac.woff2"
+          "eot": "https://fonts.gstatic.com/s/marcellussc/v13/ke8iOgUHP1dg-Rmi6RWjbLE_iNaY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke8iOgUHP1dg-Rmi6RWjbLE_iNab&skey=19614411fccd2107&v=v13#MarcellusSC",
+          "ttf": "https://fonts.gstatic.com/s/marcellussc/v13/ke8iOgUHP1dg-Rmi6RWjbLE_iNaZ.ttf",
+          "woff": "https://fonts.gstatic.com/s/marcellussc/v13/ke8iOgUHP1dg-Rmi6RWjbLE_iNaa.woff",
+          "woff2": "https://fonts.gstatic.com/s/marcellussc/v13/ke8iOgUHP1dg-Rmi6RWjbLE_htac.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

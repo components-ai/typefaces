@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Skranji'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/skranji/v8/OZpDg_dtriVFNerMUzKklw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpDg_dtriVFNerMUzKklA&skey=93fb324a08cd82ec&v=v8#Skranji",
-          "ttf": "https://fonts.gstatic.com/s/skranji/v8/OZpDg_dtriVFNerMUzKklg.ttf",
-          "woff": "https://fonts.gstatic.com/s/skranji/v8/OZpDg_dtriVFNerMUzKklQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/skranji/v8/OZpDg_dtriVFNerMUzykkw.woff2"
+          "eot": "https://fonts.gstatic.com/s/skranji/v13/OZpDg_dtriVFNerMUzKklw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpDg_dtriVFNerMUzKklA&skey=93fb324a08cd82ec&v=v13#Skranji",
+          "ttf": "https://fonts.gstatic.com/s/skranji/v13/OZpDg_dtriVFNerMUzKklg.ttf",
+          "woff": "https://fonts.gstatic.com/s/skranji/v13/OZpDg_dtriVFNerMUzKklQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/skranji/v13/OZpDg_dtriVFNerMUzykkw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Skranji Bold'",
-          "'Skranji-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/skranji/v8/OZpGg_dtriVFNerMW4eBhlXHxQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpGg_dtriVFNerMW4eBhlXHxg&skey=e7889acb326cf602&v=v8#Skranji",
-          "ttf": "https://fonts.gstatic.com/s/skranji/v8/OZpGg_dtriVFNerMW4eBhlXHxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/skranji/v8/OZpGg_dtriVFNerMW4eBhlXHxw.woff",
-          "woff2": "https://fonts.gstatic.com/s/skranji/v8/OZpGg_dtriVFNerMW4eBhlvHwQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/skranji/v13/OZpGg_dtriVFNerMW4eBhlXHxQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpGg_dtriVFNerMW4eBhlXHxg&skey=e7889acb326cf602&v=v13#Skranji",
+          "ttf": "https://fonts.gstatic.com/s/skranji/v13/OZpGg_dtriVFNerMW4eBhlXHxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/skranji/v13/OZpGg_dtriVFNerMW4eBhlXHxw.woff",
+          "woff2": "https://fonts.gstatic.com/s/skranji/v13/OZpGg_dtriVFNerMW4eBhlvHwQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

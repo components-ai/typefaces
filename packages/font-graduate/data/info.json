@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Graduate'",
-          "'Graduate-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cs3o2n15t_2YygW43s&skey=cdf54e0ba4eafcd1&v=v8#Graduate",
-          "ttf": "https://fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43k.ttf",
-          "woff": "https://fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43o.woff",
-          "woff2": "https://fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43w.woff2"
+          "eot": "https://fonts.gstatic.com/s/graduate/v13/C8cg4cs3o2n15t_2YygW43g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cs3o2n15t_2YygW43s&skey=cdf54e0ba4eafcd1&v=v13#Graduate",
+          "ttf": "https://fonts.gstatic.com/s/graduate/v13/C8cg4cs3o2n15t_2YygW43k.ttf",
+          "woff": "https://fonts.gstatic.com/s/graduate/v13/C8cg4cs3o2n15t_2YygW43o.woff",
+          "woff2": "https://fonts.gstatic.com/s/graduate/v13/C8cg4cs3o2n15t_2YygW43w.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

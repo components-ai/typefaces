@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=va9A4kDNxMZdWfMOD5VvkrCqUT7fdg&skey=341ad589036af5f9&v=v10#FiraSans",
-    "200": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrAGQCf2VF4&skey=18decd3d6b316ef7&v=v10#FiraSans",
-    "300": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBiQyf2VF4&skey=981613b1f1c19899&v=v10#FiraSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=va9C4kDNxMZdWfMOD5VvkrjHYTU&skey=5fe19ef9a49b95be&v=v10#FiraSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrA6Qif2VF4&skey=53b79611ec149004&v=v10#FiraSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrAWRSf2VF4&skey=70a0891bcc69a0b2&v=v10#FiraSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrByRCf2VF4&skey=78bc75c716a0540e&v=v10#FiraSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBuRyf2VF4&skey=67b7134ea35f6a8b&v=v10#FiraSans",
-    "900": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBKRif2VF4&skey=20d173b712e1016&v=v10#FiraSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=va9A4kDNxMZdWfMOD5VvkrCqUT7fdg&skey=341ad589036af5f9&v=v16#FiraSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrAGQCf2VF4&skey=18decd3d6b316ef7&v=v16#FiraSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBiQyf2VF4&skey=981613b1f1c19899&v=v16#FiraSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=va9C4kDNxMZdWfMOD5VvkrjHYTU&skey=5fe19ef9a49b95be&v=v16#FiraSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrA6Qif2VF4&skey=53b79611ec149004&v=v16#FiraSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrAWRSf2VF4&skey=70a0891bcc69a0b2&v=v16#FiraSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrByRCf2VF4&skey=78bc75c716a0540e&v=v16#FiraSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBuRyf2VF4&skey=67b7134ea35f6a8b&v=v16#FiraSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=va9f4kDNxMZdWfMOD5VvkrBKRif2VF4&skey=20d173b712e1016&v=v16#FiraSans"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=va9C4kDNxMZdWfMOD5Vn9LjHYTU&skey=64c40d824566239e&v=v10#FiraSans",
-    "200": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnWKneSBf9&skey=7cab1449b43e5b9&v=v10#FiraSans",
-    "300": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnPKreSBf9&skey=29796a61fd9662f4&v=v10#FiraSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=va9E4kDNxMZdWfMOD5VvmYjM&skey=6bde03e5f15b0572&v=v10#FiraSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnZKveSBf9&skey=456b47052756ee1b&v=v10#FiraSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnSKzeSBf9&skey=8920e733a3b00083&v=v10#FiraSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnLK3eSBf9&skey=dba2db2fadc4e190&v=v10#FiraSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnMK7eSBf9&skey=f87360e58d18c0db&v=v10#FiraSans",
-    "900": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnFK_eSBf9&skey=d8950a00edf19f79&v=v10#FiraSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=va9C4kDNxMZdWfMOD5Vn9LjHYTU&skey=64c40d824566239e&v=v16#FiraSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnWKneSBf9&skey=7cab1449b43e5b9&v=v16#FiraSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnPKreSBf9&skey=29796a61fd9662f4&v=v16#FiraSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=va9E4kDNxMZdWfMOD5VvmYjM&skey=6bde03e5f15b0572&v=v16#FiraSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnZKveSBf9&skey=456b47052756ee1b&v=v16#FiraSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnSKzeSBf9&skey=8920e733a3b00083&v=v16#FiraSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnLK3eSBf9&skey=dba2db2fadc4e190&v=v16#FiraSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnMK7eSBf9&skey=f87360e58d18c0db&v=v16#FiraSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=va9B4kDNxMZdWfMOD5VnFK_eSBf9&skey=d8950a00edf19f79&v=v16#FiraSans"
   }
 }

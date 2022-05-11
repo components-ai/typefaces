@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Crete Round Italic'",
-          "'CreteRound-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4bHoKg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4bHoKQ&skey=8176e819c3fe9b&v=v9#CreteRound",
-          "ttf": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4bHoKw.ttf",
-          "woff": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4bHoKA.woff",
-          "woff2": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4b_oLg.woff2"
+          "eot": "https://fonts.gstatic.com/s/creteround/v14/55xqey1sJNPjPiv1ZZZrxK1-4bHoKg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4bHoKQ&skey=8176e819c3fe9b&v=v14#CreteRound",
+          "ttf": "https://fonts.gstatic.com/s/creteround/v14/55xqey1sJNPjPiv1ZZZrxK1-4bHoKw.ttf",
+          "woff": "https://fonts.gstatic.com/s/creteround/v14/55xqey1sJNPjPiv1ZZZrxK1-4bHoKA.woff",
+          "woff2": "https://fonts.gstatic.com/s/creteround/v14/55xqey1sJNPjPiv1ZZZrxK1-4b_oLg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Crete Round'",
-          "'CreteRound-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK110bk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=55xoey1sJNPjPiv1ZZZrxK110bo&skey=d604d2367fd68cff&v=v9#CreteRound",
-          "ttf": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK110bg.ttf",
-          "woff": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK110bs.woff",
-          "woff2": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK170b0.woff2"
+          "eot": "https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK110bk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=55xoey1sJNPjPiv1ZZZrxK110bo&skey=d604d2367fd68cff&v=v14#CreteRound",
+          "ttf": "https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK110bg.ttf",
+          "woff": "https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK110bs.woff",
+          "woff2": "https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK170b0.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "italic": {
       "400": {

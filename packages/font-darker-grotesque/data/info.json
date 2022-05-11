@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Darker Grotesque Light'",
-          "'DarkerGrotesque-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSg&skey=7322dd10650a75d&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSg&skey=7322dd10650a75d&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2MWgrTQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Darker Grotesque Regular'",
-          "'DarkerGrotesque-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIw&skey=659387bbda8b0a64&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MH6cuh-mLQlC4BKCtayOfARkSVq7HUJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIw&skey=659387bbda8b0a64&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MH6cuh-mLQlC4BKCtayOfARkSVq7_UIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MH6cuh-mLQlC4BKCtayOfARkSVq7HUJA.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Darker Grotesque Medium'",
-          "'DarkerGrotesque-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSg&skey=3420f7c90947e830&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSg&skey=3420f7c90947e830&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3MWgrTQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Darker Grotesque SemiBold'",
-          "'DarkerGrotesque-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSg&skey=8c5f4293841e8110&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSg&skey=8c5f4293841e8110&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wMWgrTQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Darker Grotesque Bold'",
-          "'DarkerGrotesque-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSg&skey=c49b3e19337b57d5&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSg&skey=c49b3e19337b57d5&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxMWgrTQ.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Darker Grotesque ExtraBold'",
-          "'DarkerGrotesque-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSg&skey=7da9c9dea05d1a63&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSg&skey=7da9c9dea05d1a63&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyMWgrTQ.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Darker Grotesque Black'",
-          "'DarkerGrotesque-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSg&skey=dab8f490ebcefd9c&v=v2#DarkerGrotesque",
-          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSA.ttf",
-          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v2/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWgrTQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSg&skey=dab8f490ebcefd9c&v=v7#DarkerGrotesque",
+          "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSA.ttf",
+          "woff": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWYrSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v7/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzMWgrTQ.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v7",
   "typefaces": {
     "normal": {
       "300": {

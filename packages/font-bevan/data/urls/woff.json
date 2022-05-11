@@ -1,5 +1,8 @@
 {
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/bevan/v20/4iCt6KZ0a9NXjG8YaCfTtA.woff"
+  },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8TWC0.woff"
+    "400": "https://fonts.gstatic.com/s/bevan/v20/4iCj6KZ0a9NXjG8TWC0.woff"
   }
 }

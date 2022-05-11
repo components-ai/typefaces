@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bungee Inline'",
-          "'BungeeInline-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGt__Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Gg8zN58UcgnlCweMrih332VuPGt__g&skey=ff5b0f9d1988133a&v=v6#BungeeInline",
-          "ttf": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGt__A.ttf",
-          "woff": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGt__w.woff",
-          "woff2": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGV_-Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/bungeeinline/v11/Gg8zN58UcgnlCweMrih332VuPGt__Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Gg8zN58UcgnlCweMrih332VuPGt__g&skey=ff5b0f9d1988133a&v=v11#BungeeInline",
+          "ttf": "https://fonts.gstatic.com/s/bungeeinline/v11/Gg8zN58UcgnlCweMrih332VuPGt__A.ttf",
+          "woff": "https://fonts.gstatic.com/s/bungeeinline/v11/Gg8zN58UcgnlCweMrih332VuPGt__w.woff",
+          "woff2": "https://fonts.gstatic.com/s/bungeeinline/v11/Gg8zN58UcgnlCweMrih332VuPGV_-Q.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

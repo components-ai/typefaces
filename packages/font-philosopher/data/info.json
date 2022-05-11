@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,62 +16,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Philosopher Italic'",
-          "'Philosopher-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/philosopher/v14/vEFX2_5QCwIS4_Dhez5jcWBrf0880w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_5QCwIS4_Dhez5jcWBrf0880A&skey=dffa18171bbee2d1&v=v14#Philosopher",
-          "ttf": "https://fonts.gstatic.com/s/philosopher/v14/vEFX2_5QCwIS4_Dhez5jcWBrf0880g.ttf",
-          "woff": "https://fonts.gstatic.com/s/philosopher/v14/vEFX2_5QCwIS4_Dhez5jcWBrf0880Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/philosopher/v14/vEFX2_5QCwIS4_Dhez5jcWBrf0881w.woff2"
+          "eot": "https://fonts.gstatic.com/s/philosopher/v19/vEFX2_5QCwIS4_Dhez5jcWBrf0880w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_5QCwIS4_Dhez5jcWBrf0880A&skey=dffa18171bbee2d1&v=v19#Philosopher",
+          "ttf": "https://fonts.gstatic.com/s/philosopher/v19/vEFX2_5QCwIS4_Dhez5jcWBrf0880g.ttf",
+          "woff": "https://fonts.gstatic.com/s/philosopher/v19/vEFX2_5QCwIS4_Dhez5jcWBrf0880Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/philosopher/v19/vEFX2_5QCwIS4_Dhez5jcWBrf0881w.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Philosopher Bold Italic'",
-          "'Philosopher-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/philosopher/v14/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_XQ&skey=57b4856315c9ffe2&v=v14#Philosopher",
-          "ttf": "https://fonts.gstatic.com/s/philosopher/v14/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xw.ttf",
-          "woff": "https://fonts.gstatic.com/s/philosopher/v14/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_XA.woff",
-          "woff2": "https://fonts.gstatic.com/s/philosopher/v14/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Wg.woff2"
+          "eot": "https://fonts.gstatic.com/s/philosopher/v19/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_XQ&skey=57b4856315c9ffe2&v=v19#Philosopher",
+          "ttf": "https://fonts.gstatic.com/s/philosopher/v19/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xw.ttf",
+          "woff": "https://fonts.gstatic.com/s/philosopher/v19/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_XA.woff",
+          "woff2": "https://fonts.gstatic.com/s/philosopher/v19/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Wg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Philosopher Regular'",
-          "'Philosopher-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/philosopher/v14/vEFV2_5QCwIS4_Dhez5jcWBuT0k.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vEFV2_5QCwIS4_Dhez5jcWBuT0o&skey=da0a2147adba7eff&v=v14#Philosopher",
-          "ttf": "https://fonts.gstatic.com/s/philosopher/v14/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf",
-          "woff": "https://fonts.gstatic.com/s/philosopher/v14/vEFV2_5QCwIS4_Dhez5jcWBuT0s.woff",
-          "woff2": "https://fonts.gstatic.com/s/philosopher/v14/vEFV2_5QCwIS4_Dhez5jcWBuT00.woff2"
+          "eot": "https://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0k.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vEFV2_5QCwIS4_Dhez5jcWBuT0o&skey=da0a2147adba7eff&v=v19#Philosopher",
+          "ttf": "https://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf",
+          "woff": "https://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0s.woff",
+          "woff2": "https://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT00.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Philosopher Bold'",
-          "'Philosopher-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/philosopher/v14/vEFI2_5QCwIS4_Dhez5jcWjValgb8tM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vEFI2_5QCwIS4_Dhez5jcWjValgb8tA&skey=cbdf56dd530768da&v=v14#Philosopher",
-          "ttf": "https://fonts.gstatic.com/s/philosopher/v14/vEFI2_5QCwIS4_Dhez5jcWjValgb8tI.ttf",
-          "woff": "https://fonts.gstatic.com/s/philosopher/v14/vEFI2_5QCwIS4_Dhez5jcWjValgb8tE.woff",
-          "woff2": "https://fonts.gstatic.com/s/philosopher/v14/vEFI2_5QCwIS4_Dhez5jcWjValgb8tc.woff2"
+          "eot": "https://fonts.gstatic.com/s/philosopher/v19/vEFI2_5QCwIS4_Dhez5jcWjValgb8tM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vEFI2_5QCwIS4_Dhez5jcWjValgb8tA&skey=cbdf56dd530768da&v=v19#Philosopher",
+          "ttf": "https://fonts.gstatic.com/s/philosopher/v19/vEFI2_5QCwIS4_Dhez5jcWjValgb8tI.ttf",
+          "woff": "https://fonts.gstatic.com/s/philosopher/v19/vEFI2_5QCwIS4_Dhez5jcWjValgb8tE.woff",
+          "woff2": "https://fonts.gstatic.com/s/philosopher/v19/vEFI2_5QCwIS4_Dhez5jcWjValgb8tc.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "italic": {
       "400": {

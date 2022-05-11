@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=jizHREVItHgc8qDIbSTKq4XkRiUa41Yjgn7L&skey=85cbbd2a127a037b&v=v5#LibreFranklin",
-    "200": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa4_oym1fpig&skey=6c65792cc3381596&v=v5#LibreFranklin",
-    "300": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa454xm1fpig&skey=65af2f6c14fcda41&v=v5#LibreFranklin",
-    "400": "https://fonts.gstatic.com/l/font?kit=jizBREVItHgc8qDIbSTKq4XkRiUa6zsTiQ&skey=b88eddb8c4de9fa0&v=v5#LibreFranklin",
-    "500": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa48Ywm1fpig&skey=d324207deacd8def&v=v5#LibreFranklin",
-    "600": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa4-o3m1fpig&skey=cd33bfada7e51a9b&v=v5#LibreFranklin",
-    "700": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa4442m1fpig&skey=167dbda82443ca38&v=v5#LibreFranklin",
-    "800": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa45I1m1fpig&skey=6cf67816f4c7f2d6&v=v5#LibreFranklin",
-    "900": "https://fonts.gstatic.com/l/font?kit=jizGREVItHgc8qDIbSTKq4XkRiUa47Y0m1fpig&skey=1baefed97a36429b&v=v5#LibreFranklin"
+    "100": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "200": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "300": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "400": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "500": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "600": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "700": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "800": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin",
+    "900": "https://fonts.gstatic.com/l/font?kit=jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DFR-E&skey=b88eddb8c4de9fa0&v=v12#LibreFranklin"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=jizBREVItHgc8qDIbSTKq4XkRi186zsTiQ&skey=e4d6750d540b853b&v=v5#LibreFranklin",
-    "200": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi3Q-iI6q1w&skey=28b7a260cf22df9d&v=v5#LibreFranklin",
-    "300": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi20-SI6q1w&skey=bf97ce5df7e65102&v=v5#LibreFranklin",
-    "400": "https://fonts.gstatic.com/l/font?kit=jizDREVItHgc8qDIbSTKq4XkRiUR2zA&skey=c27c9a4f66e66f55&v=v5#LibreFranklin",
-    "500": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi3s-CI6q1w&skey=cc26076985c33aee&v=v5#LibreFranklin",
-    "600": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi3A_yI6q1w&skey=89c99f7af1b739b&v=v5#LibreFranklin",
-    "700": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi2k_iI6q1w&skey=881913c6bce4bd4b&v=v5#LibreFranklin",
-    "800": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi24_SI6q1w&skey=47dda1cd5df6f629&v=v5#LibreFranklin",
-    "900": "https://fonts.gstatic.com/l/font?kit=jizAREVItHgc8qDIbSTKq4XkRi2c_CI6q1w&skey=440f3b95c0ab0cf3&v=v5#LibreFranklin"
+    "100": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "200": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "300": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "400": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "500": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "600": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "700": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "800": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin",
+    "900": "https://fonts.gstatic.com/l/font?kit=jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkDtDO&skey=c27c9a4f66e66f55&v=v12#LibreFranklin"
   }
 }

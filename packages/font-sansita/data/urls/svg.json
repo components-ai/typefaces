@@ -1,14 +1,14 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=QldMNTRRphEb_-V7LBuBQFlc&skey=580e6d0c34b62c84&v=v5#Sansita",
-    "700": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJ9XxOz41s&skey=b7fe21a04c6ecba5&v=v5#Sansita",
-    "800": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJ6X9Oz41s&skey=a23594da3a493220&v=v5#Sansita",
-    "900": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJzX5Oz41s&skey=9236236f352dfb8e&v=v5#Sansita"
+    "400": "https://fonts.gstatic.com/l/font?kit=QldMNTRRphEb_-V7LBuBQFlc&skey=580e6d0c34b62c84&v=v10#Sansita",
+    "700": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJ9XxOz41s&skey=b7fe21a04c6ecba5&v=v10#Sansita",
+    "800": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJ6X9Oz41s&skey=a23594da3a493220&v=v10#Sansita",
+    "900": "https://fonts.gstatic.com/l/font?kit=QldJNTRRphEb_-V7LBuJzX5Oz41s&skey=9236236f352dfb8e&v=v10#Sansita"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=QldONTRRphEb_-V7LBCxSw&skey=c3dcc95d08abff1f&v=v5#Sansita",
-    "700": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JKWUWXB-xA&skey=f4348b27675c79ed&v=v5#Sansita",
-    "800": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JLmXWXB-xA&skey=28ffc5074dbc9850&v=v5#Sansita",
-    "900": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JJ2WWXB-xA&skey=a4859099ed9d382d&v=v5#Sansita"
+    "400": "https://fonts.gstatic.com/l/font?kit=QldONTRRphEb_-V7LBCxSw&skey=c3dcc95d08abff1f&v=v10#Sansita",
+    "700": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JKWUWXB-xA&skey=f4348b27675c79ed&v=v10#Sansita",
+    "800": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JLmXWXB-xA&skey=28ffc5074dbc9850&v=v10#Sansita",
+    "900": "https://fonts.gstatic.com/l/font?kit=QldLNTRRphEb_-V7JJ2WWXB-xA&skey=a4859099ed9d382d&v=v10#Sansita"
   }
 }

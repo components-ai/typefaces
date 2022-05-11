@@ -1,8 +1,8 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdIBkWL&skey=9f628b6f0c7fc0ca&v=v13#VesperLibre",
-    "500": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MM&skey=f6552063498231b&v=v13#VesperLibre",
-    "700": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MM&skey=949a5cf42e4608de&v=v13#VesperLibre",
-    "900": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MM&skey=91c6c6ed307f7ed1&v=v13#VesperLibre"
+    "400": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdIBkWL&skey=9f628b6f0c7fc0ca&v=v19#VesperLibre",
+    "500": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MM&skey=f6552063498231b&v=v19#VesperLibre",
+    "700": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MM&skey=949a5cf42e4608de&v=v19#VesperLibre",
+    "900": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MM&skey=91c6c6ed307f7ed1&v=v19#VesperLibre"
   }
 }

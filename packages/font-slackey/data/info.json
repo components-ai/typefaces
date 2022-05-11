@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Slackey Regular'",
-          "'Slackey-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQIA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SdQO-5yM0-dGlNQIw&skey=f1ed241a5e9f6ad9&v=v11#Slackey",
-          "ttf": "https://fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQIQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQIg.woff",
-          "woff2": "https://fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/slackey/v24/N0bV2SdQO-5yM0-dGlNQIA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SdQO-5yM0-dGlNQIw&skey=f1ed241a5e9f6ad9&v=v24#Slackey",
+          "ttf": "https://fonts.gstatic.com/s/slackey/v24/N0bV2SdQO-5yM0-dGlNQIQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/slackey/v24/N0bV2SdQO-5yM0-dGlNQIg.woff",
+          "woff2": "https://fonts.gstatic.com/s/slackey/v24/N0bV2SdQO-5yM0-dGlNQJA.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

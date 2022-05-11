@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJwB4C1M.ttf",
+    "200": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaJgB4C1M.ttf",
+    "300": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8ULEJgB4C1M.ttf",
+    "400": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJgB4C1M.ttf",
+    "500": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKoJgB4C1M.ttf",
+    "600": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJEIQB4C1M.ttf",
+    "700": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJ9IQB4C1M.ttf",
+    "800": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaIQB4C1M.ttf",
+    "900": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIzIQB4C1M.ttf"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQBCbDBx.ttf",
+    "200": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQFCbDBx.ttf",
+    "300": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GZwFCbDBx.ttf",
+    "400": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQFCbDBx.ttf",
+    "500": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GCwFCbDBx.ttf",
+    "600": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G5wZCbDBx.ttf",
+    "700": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G3gZCbDBx.ttf",
+    "800": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQZCbDBx.ttf",
+    "900": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GkAZCbDBx.ttf"
+  }
+}

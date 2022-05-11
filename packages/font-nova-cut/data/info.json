@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Cut'",
-          "'NovaCut'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFOkCnSYu8mL-39LkVxIIzU&skey=818feebe8ec920af&v=v12#NovaCut",
-          "ttf": "https://fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzc.ttf",
-          "woff": "https://fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzI.woff2"
+          "eot": "https://fonts.gstatic.com/s/novacut/v24/KFOkCnSYu8mL-39LkVxIIzY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFOkCnSYu8mL-39LkVxIIzU&skey=818feebe8ec920af&v=v24#NovaCut",
+          "ttf": "https://fonts.gstatic.com/s/novacut/v24/KFOkCnSYu8mL-39LkVxIIzc.ttf",
+          "woff": "https://fonts.gstatic.com/s/novacut/v24/KFOkCnSYu8mL-39LkVxIIzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/novacut/v24/KFOkCnSYu8mL-39LkVxIIzI.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

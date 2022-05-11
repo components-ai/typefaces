@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=esDS311QOP6BJUr4yMKNtb0&skey=1f54382299ea82c0&v=v10#Caudex",
-    "700": "https://fonts.gstatic.com/l/font?kit=esDV311QOP6BJUr4yMo4kK8PMpI&skey=e75cb4af8e8842e6&v=v10#Caudex"
+    "400": "https://fonts.gstatic.com/l/font?kit=esDS311QOP6BJUr4yMKNtb0&skey=1f54382299ea82c0&v=v15#Caudex",
+    "700": "https://fonts.gstatic.com/l/font?kit=esDV311QOP6BJUr4yMo4kK8PMpI&skey=e75cb4af8e8842e6&v=v15#Caudex"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=esDQ311QOP6BJUr4w_KG&skey=89ad97180e9c147c&v=v10#Caudex",
-    "700": "https://fonts.gstatic.com/l/font?kit=esDT311QOP6BJUrwdteUnJ8E&skey=ef9bb145f0aa72ff&v=v10#Caudex"
+    "400": "https://fonts.gstatic.com/l/font?kit=esDQ311QOP6BJUr4w_KG&skey=89ad97180e9c147c&v=v15#Caudex",
+    "700": "https://fonts.gstatic.com/l/font?kit=esDT311QOP6BJUrwdteUnJ8E&skey=ef9bb145f0aa72ff&v=v15#Caudex"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Seaweed Script'",
-          "'SeaweedScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qE&skey=8084f236c925fbcc&v=v8#SeaweedScript",
-          "ttf": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qM.ttf",
-          "woff": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qA.woff",
-          "woff2": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WO8qY.woff2"
+          "eot": "https://fonts.gstatic.com/s/seaweedscript/v13/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qE&skey=8084f236c925fbcc&v=v13#SeaweedScript",
+          "ttf": "https://fonts.gstatic.com/s/seaweedscript/v13/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qM.ttf",
+          "woff": "https://fonts.gstatic.com/s/seaweedscript/v13/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qA.woff",
+          "woff2": "https://fonts.gstatic.com/s/seaweedscript/v13/bx6cNx6Tne2pxOATYE8C_Rsoe3WO8qY.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

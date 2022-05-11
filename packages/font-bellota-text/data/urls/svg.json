@@ -1,12 +1,12 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay0&skey=4309c97d9a339b69&v=v2#BellotaText",
-    "400": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx--kDXS0&skey=682ca6d9c2e26034&v=v2#BellotaText",
-    "700": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay0&skey=ce5a806f7e42e80d&v=v2#BellotaText"
+    "300": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay0&skey=4309c97d9a339b69&v=v16#BellotaText",
+    "400": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx--kDXS0&skey=682ca6d9c2e26034&v=v16#BellotaText",
+    "700": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay0&skey=ce5a806f7e42e80d&v=v16#BellotaText"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_2&skey=2e250e20a246659e&v=v2#BellotaText",
-    "400": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMx8NkI&skey=9a182f307f182cd6&v=v2#BellotaText",
-    "700": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_2&skey=a8661c2b5cebdd15&v=v2#BellotaText"
+    "300": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_2&skey=2e250e20a246659e&v=v16#BellotaText",
+    "400": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMx8NkI&skey=9a182f307f182cd6&v=v16#BellotaText",
+    "700": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_2&skey=a8661c2b5cebdd15&v=v16#BellotaText"
   }
 }

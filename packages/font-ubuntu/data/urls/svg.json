@@ -1,14 +1,14 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyBN4Y&skey=90d99b3fe961a2bb&v=v15#Ubuntu",
-    "400": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej76l04&skey=faa714a35371172&v=v15#Ubuntu",
-    "500": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyBN4Y&skey=c945e28caa1e3826&v=v15#Ubuntu",
-    "700": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyBN4Y&skey=fa49613badbd6dc7&v=v15#Ubuntu"
+    "300": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyBN4Y&skey=90d99b3fe961a2bb&v=v20#Ubuntu",
+    "400": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej76l04&skey=faa714a35371172&v=v20#Ubuntu",
+    "500": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyBN4Y&skey=c945e28caa1e3826&v=v20#Ubuntu",
+    "700": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyBN4Y&skey=fa49613badbd6dc7&v=v20#Ubuntu"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvmyK&skey=c70d0e00360563fb&v=v15#Ubuntu",
-    "400": "https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKcQ7x&skey=7e59fc036a1a8481&v=v15#Ubuntu",
-    "500": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvmyK&skey=d8a1e01f6daf5892&v=v15#Ubuntu",
-    "700": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjvmyK&skey=403363908a1ded4d&v=v15#Ubuntu"
+    "300": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvmyK&skey=c70d0e00360563fb&v=v20#Ubuntu",
+    "400": "https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKcQ7x&skey=7e59fc036a1a8481&v=v20#Ubuntu",
+    "500": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvmyK&skey=d8a1e01f6daf5892&v=v20#Ubuntu",
+    "700": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjvmyK&skey=403363908a1ded4d&v=v20#Ubuntu"
   }
 }

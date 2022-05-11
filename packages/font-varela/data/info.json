@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Varela'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5DR4A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DPEtYwqExx0AWHX5DR4D&skey=e7f38a65469a1a82&v=v11#Varela",
-          "ttf": "https://fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5DR4B.ttf",
-          "woff": "https://fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5DR4C.woff",
-          "woff2": "https://fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5Ax4E.woff2"
+          "eot": "https://fonts.gstatic.com/s/varela/v16/DPEtYwqExx0AWHX5DR4A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DPEtYwqExx0AWHX5DR4D&skey=e7f38a65469a1a82&v=v16#Varela",
+          "ttf": "https://fonts.gstatic.com/s/varela/v16/DPEtYwqExx0AWHX5DR4B.ttf",
+          "woff": "https://fonts.gstatic.com/s/varela/v16/DPEtYwqExx0AWHX5DR4C.woff",
+          "woff2": "https://fonts.gstatic.com/s/varela/v16/DPEtYwqExx0AWHX5Ax4E.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

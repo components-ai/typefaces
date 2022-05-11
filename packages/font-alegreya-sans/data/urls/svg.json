@@ -1,20 +1,20 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=5aUv9_-1phKLFgshYDvh6Vwt7V9V3F1frm0&skey=d17c319c8d33a22d&v=v12#AlegreyaSans",
-    "300": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VFE9Gh09B&skey=e304989c3a7d0d0c&v=v12#AlegreyaSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=5aUt9_-1phKLFgshYDvh6Vwt7V9dsW1U&skey=40e47c41c6236e80&v=v12#AlegreyaSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VTE5Gh09B&skey=bc47a5fb3e95d107&v=v12#AlegreyaSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VBEhGh09B&skey=f8e2c3e66945eca4&v=v12#AlegreyaSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VGEtGh09B&skey=dd8d3088bec4f2ac&v=v12#AlegreyaSans",
-    "900": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VPEpGh09B&skey=109729c659157169&v=v12#AlegreyaSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=5aUv9_-1phKLFgshYDvh6Vwt7V9V3F1frm0&skey=d17c319c8d33a22d&v=v21#AlegreyaSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VFE9Gh09B&skey=e304989c3a7d0d0c&v=v21#AlegreyaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=5aUt9_-1phKLFgshYDvh6Vwt7V9dsW1U&skey=40e47c41c6236e80&v=v21#AlegreyaSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VTE5Gh09B&skey=bc47a5fb3e95d107&v=v21#AlegreyaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VBEhGh09B&skey=f8e2c3e66945eca4&v=v21#AlegreyaSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VGEtGh09B&skey=dd8d3088bec4f2ac&v=v21#AlegreyaSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=5aUo9_-1phKLFgshYDvh6Vwt7V9VPEpGh09B&skey=109729c659157169&v=v21#AlegreyaSans"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=5aUt9_-1phKLFgshYDvh6Vwt5TldsW1U&skey=8dfa542415c8f18&v=v12#AlegreyaSans",
-    "300": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5fFPqER2jA&skey=f97ac2795f49c08c&v=v12#AlegreyaSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=5aUz9_-1phKLFgshYDvh6Vwt7VRtug&skey=4d4d075d48809241&v=v12#AlegreyaSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5alOqER2jA&skey=2fba1343c636ee49&v=v12#AlegreyaSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5eFIqER2jA&skey=c542a612544589f2&v=v12#AlegreyaSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5f1LqER2jA&skey=d3e7009e8a256442&v=v12#AlegreyaSans",
-    "900": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5dlKqER2jA&skey=8820b7058d1ab315&v=v12#AlegreyaSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=5aUt9_-1phKLFgshYDvh6Vwt5TldsW1U&skey=8dfa542415c8f18&v=v21#AlegreyaSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5fFPqER2jA&skey=f97ac2795f49c08c&v=v21#AlegreyaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=5aUz9_-1phKLFgshYDvh6Vwt7VRtug&skey=4d4d075d48809241&v=v21#AlegreyaSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5alOqER2jA&skey=2fba1343c636ee49&v=v21#AlegreyaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5eFIqER2jA&skey=c542a612544589f2&v=v21#AlegreyaSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5f1LqER2jA&skey=d3e7009e8a256442&v=v21#AlegreyaSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=5aUu9_-1phKLFgshYDvh6Vwt5dlKqER2jA&skey=8820b7058d1ab315&v=v21#AlegreyaSans"
   }
 }

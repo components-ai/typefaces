@@ -1,9 +1,9 @@
 {
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ESOjkGJocI&skey=b770df1c76efb37a&v=v5#BioRhyme",
-    "300": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETqjUGJocI&skey=b22aaff48d1f5527&v=v5#BioRhyme",
-    "400": "https://fonts.gstatic.com/l/font?kit=1cXwaULHBpDMsHYW_ExPr1M&skey=5c2e0a2fcee9a1a&v=v5#BioRhyme",
-    "700": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ET6ikGJocI&skey=469c34d0ca09d4cf&v=v5#BioRhyme",
-    "800": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETmiUGJocI&skey=f09fd4818fd3b385&v=v5#BioRhyme"
+    "200": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ESOjkGJocI&skey=b770df1c76efb37a&v=v12#BioRhyme",
+    "300": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETqjUGJocI&skey=b22aaff48d1f5527&v=v12#BioRhyme",
+    "400": "https://fonts.gstatic.com/l/font?kit=1cXwaULHBpDMsHYW_ExPr1M&skey=5c2e0a2fcee9a1a&v=v12#BioRhyme",
+    "700": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ET6ikGJocI&skey=469c34d0ca09d4cf&v=v12#BioRhyme",
+    "800": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETmiUGJocI&skey=f09fd4818fd3b385&v=v12#BioRhyme"
   }
 }

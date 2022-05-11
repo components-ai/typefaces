@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Indie Flower'",
-          "'IndieFlower'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuD.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JVjfNVeKWVnh3QMuKkFcZVaUuA&skey=cdda66716f19c532&v=v12#IndieFlower",
-          "ttf": "https://fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf",
-          "woff": "https://fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuB.woff",
-          "woff2": "https://fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuH.woff2"
+          "eot": "https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZVaUuD.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JVjfNVeKWVnh3QMuKkFcZVaUuA&skey=cdda66716f19c532&v=v17#IndieFlower",
+          "ttf": "https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf",
+          "woff": "https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZVaUuB.woff",
+          "woff2": "https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZVaUuH.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

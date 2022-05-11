@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Medula One'",
-          "'MedulaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgtg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Wr0qb5kjJM6l2V0yuoiYgtQ&skey=c097e94c5d7312b3&v=v10#MedulaOne",
-          "ttf": "https://fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgtw.ttf",
-          "woff": "https://fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgtA.woff",
-          "woff2": "https://fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgsg.woff2"
+          "eot": "https://fonts.gstatic.com/s/medulaone/v19/YA9Wr0qb5kjJM6l2V0yuoiYgtg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Wr0qb5kjJM6l2V0yuoiYgtQ&skey=c097e94c5d7312b3&v=v19#MedulaOne",
+          "ttf": "https://fonts.gstatic.com/s/medulaone/v19/YA9Wr0qb5kjJM6l2V0yuoiYgtw.ttf",
+          "woff": "https://fonts.gstatic.com/s/medulaone/v19/YA9Wr0qb5kjJM6l2V0yuoiYgtA.woff",
+          "woff2": "https://fonts.gstatic.com/s/medulaone/v19/YA9Wr0qb5kjJM6l2V0yuoiYgsg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

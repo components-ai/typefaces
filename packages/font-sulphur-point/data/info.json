@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,47 +12,38 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Sulphur Point Light'",
-          "'SulphurPoint-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5vv8KaycDcazWFPBj2afVU6r6APVg&skey=6a67dd3947058e38&v=v2#SulphurPoint",
-          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVA.ttf",
-          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVw.woff",
-          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afVU6r64PUQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5vv8KaycDcazWFPBj2afVU6r6APVg&skey=6a67dd3947058e38&v=v14#SulphurPoint",
+          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVA.ttf",
+          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afVU6r6APVw.woff",
+          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afVU6r64PUQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Sulphur Point Regular'",
-          "'SulphurPoint-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLp5K5vv8KaycDcazWFPBj2adfAYvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5vv8KaycDcazWFPBj2adfAYvQ&skey=5a80af89daa58b4&v=v2#SulphurPoint",
-          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLp5K5vv8KaycDcazWFPBj2adfAYvw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLp5K5vv8KaycDcazWFPBj2adfAYvA.woff",
-          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLp5K5vv8KaycDcazWFPBj2adf4Yug.woff2"
+          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLp5K5vv8KaycDcazWFPBj2adfAYvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5vv8KaycDcazWFPBj2adfAYvQ&skey=5a80af89daa58b4&v=v14#SulphurPoint",
+          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLp5K5vv8KaycDcazWFPBj2adfAYvw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLp5K5vv8KaycDcazWFPBj2adfAYvA.woff",
+          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLp5K5vv8KaycDcazWFPBj2adf4Yug.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sulphur Point Bold'",
-          "'SulphurPoint-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5vv8KaycDcazWFPBj2afUU9r6APVg&skey=239aee630aba5111&v=v2#SulphurPoint",
-          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVA.ttf",
-          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVw.woff",
-          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v2/RLpkK5vv8KaycDcazWFPBj2afUU9r64PUQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5vv8KaycDcazWFPBj2afUU9r6APVg&skey=239aee630aba5111&v=v14#SulphurPoint",
+          "ttf": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVA.ttf",
+          "woff": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afUU9r6APVw.woff",
+          "woff2": "https://fonts.gstatic.com/s/sulphurpoint/v14/RLpkK5vv8KaycDcazWFPBj2afUU9r64PUQ.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "300": {

@@ -1,6 +1,9 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxQOQ&skey=92f56279027d37f9&v=v14#Nokora",
-    "700": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUrqA&skey=3f98b1bfbe4ceea4&v=v14#Nokora"
+    "100": "https://fonts.gstatic.com/l/font?kit=hYkKPuwgTubzaWxoXwAMivU&skey=5f04af41ffdf75b2&v=v30#Nokora",
+    "300": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxolxIbrdd6&skey=13794d0cea997a0c&v=v30#Nokora",
+    "400": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgPDAJ&skey=92f56279027d37f9&v=v30#Nokora",
+    "700": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUbrdd6&skey=3f98b1bfbe4ceea4&v=v30#Nokora",
+    "900": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxovxcbrdd6&skey=454b7b5707f46063&v=v30#Nokora"
   }
 }

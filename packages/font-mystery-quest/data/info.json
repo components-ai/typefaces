@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mystery Quest'",
-          "'MysteryQuest'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwgvCg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-nF6OG414u0E6k0wynSGlujRLwgvCQ&skey=2d4d7d9bc4911218&v=v8#MysteryQuest",
-          "ttf": "https://fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwgvCw.ttf",
-          "woff": "https://fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwgvCA.woff",
-          "woff2": "https://fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwYvDg.woff2"
+          "eot": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwgvCg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-nF6OG414u0E6k0wynSGlujRLwgvCQ&skey=2d4d7d9bc4911218&v=v20#MysteryQuest",
+          "ttf": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwgvCw.ttf",
+          "woff": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwgvCA.woff",
+          "woff2": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwYvDg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

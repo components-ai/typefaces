@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Barriecito Regular'",
-          "'Barriecito-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdwoZg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WWXXlj-CbBOSLY2QTuY_GdwoZQ&skey=8c7c1a0feef5d3d1&v=v3#Barriecito",
-          "ttf": "https://fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdwoZw.ttf",
-          "woff": "https://fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdwoZA.woff",
-          "woff2": "https://fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdIoYg.woff2"
+          "eot": "https://fonts.gstatic.com/s/barriecito/v17/WWXXlj-CbBOSLY2QTuY_GdwoZg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WWXXlj-CbBOSLY2QTuY_GdwoZQ&skey=8c7c1a0feef5d3d1&v=v17#Barriecito",
+          "ttf": "https://fonts.gstatic.com/s/barriecito/v17/WWXXlj-CbBOSLY2QTuY_GdwoZw.ttf",
+          "woff": "https://fonts.gstatic.com/s/barriecito/v17/WWXXlj-CbBOSLY2QTuY_GdwoZA.woff",
+          "woff2": "https://fonts.gstatic.com/s/barriecito/v17/WWXXlj-CbBOSLY2QTuY_GdIoYg.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

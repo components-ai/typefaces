@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,192 +18,150 @@
   "variants": {
     "italic": {
       "100": {
-        "local": [
-          "'IBM Plex Mono Thin Italic'",
-          "'IBMPlexMono-ThinItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-s.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-g&skey=bdef7e0d8d234066&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-o.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-k.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdip-8.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-s.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-g&skey=bdef7e0d8d234066&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-o.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdsp-k.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdip-8.woff2"
         }
       },
       "200": {
-        "local": [
-          "'IBM Plex Mono ExtraLight Italic'",
-          "'IBMPlexMono-ExtraLightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoX&skey=a4ca622680c01306&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1gMoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoX&skey=a4ca622680c01306&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1jsoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1gMoQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'IBM Plex Mono Light Italic'",
-          "'IBMPlexMono-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoX&skey=eb4f88e13625b245&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1gMoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoX&skey=eb4f88e13625b245&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1jsoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1gMoQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'IBM Plex Mono Italic'",
-          "'IBMPlexMono-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjptAgt5VM-kVkqdyU8n1ioa23dn&skey=55bf1639dd561004&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dl.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dm.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n1ioa1Xdg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjptAgt5VM-kVkqdyU8n1ioa23dn&skey=55bf1639dd561004&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dl.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n1ioa23dm.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n1ioa1Xdg.woff2"
         }
       },
       "500": {
-        "local": [
-          "'IBM Plex Mono Medium Italic'",
-          "'IBMPlexMono-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoX&skey=5f83493eaa121eeb&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1gMoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoX&skey=5f83493eaa121eeb&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1jsoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1gMoQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'IBM Plex Mono SemiBold Italic'",
-          "'IBMPlexMono-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoX&skey=5297e611ab721fb3&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1gMoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoX&skey=5297e611ab721fb3&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1jsoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1gMoQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'IBM Plex Mono Bold Italic'",
-          "'IBMPlexMono-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoX&skey=95d3099d54717a9c&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1gMoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoX&skey=95d3099d54717a9c&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1jsoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1gMoQ.woff2"
         }
       }
     },
     "normal": {
       "100": {
-        "local": [
-          "'IBM Plex Mono Thin'",
-          "'IBMPlexMono-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjptAgt5VM-kVkqdyU8n3kwa23dn&skey=f42408de69b00bc5&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dl.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dm.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6pfjptAgt5VM-kVkqdyU8n3kwa1Xdg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjptAgt5VM-kVkqdyU8n3kwa23dn&skey=f42408de69b00bc5&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dl.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n3kwa23dm.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6pfjptAgt5VM-kVkqdyU8n3kwa1Xdg.woff2"
         }
       },
       "200": {
-        "local": [
-          "'IBM Plex Mono ExtraLight'",
-          "'IBMPlexMono-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3uALwl5FhQ&skey=5566e781ae267163&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5FhA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3uALwlBFgg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3uALwl5FhQ&skey=5566e781ae267163&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5Fhw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3uALwl5FhA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3uALwlBFgg.woff2"
         }
       },
       "300": {
-        "local": [
-          "'IBM Plex Mono Light'",
-          "'IBMPlexMono-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5FhQ&skey=6390758dca949409&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5FhA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3oQIwlBFgg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5FhQ&skey=6390758dca949409&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5Fhw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3oQIwl5FhA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3oQIwlBFgg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'IBM Plex Mono'",
-          "'IBMPlexMono'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1iEq0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F63fjptAgt5VM-kVkqdyU8n1iEq0A&skey=b40c83751ce1954d&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1iEq0g.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1iEq0Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F63fjptAgt5VM-kVkqdyU8n1iEq0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F63fjptAgt5VM-kVkqdyU8n1iEq0A&skey=b40c83751ce1954d&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F63fjptAgt5VM-kVkqdyU8n1iEq0g.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F63fjptAgt5VM-kVkqdyU8n1iEq0Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2"
         }
       },
       "500": {
-        "local": [
-          "'IBM Plex Mono Medium'",
-          "'IBMPlexMono-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3twJwl5FhQ&skey=38b39ff75b2f08ac&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5FhA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3twJwl5FhQ&skey=38b39ff75b2f08ac&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5Fhw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5FhA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgg.woff2"
         }
       },
       "600": {
-        "local": [
-          "'IBM Plex Mono SemiBold'",
-          "'IBMPlexMono-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FhQ&skey=1e39eeb85b51796&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FhA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FhQ&skey=1e39eeb85b51796&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5Fhw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FhA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'IBM Plex Mono Bold'",
-          "'IBMPlexMono-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FhQ&skey=bdce5c587d610a04&v=v6#IBMPlexMono",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FhA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v6/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FhQ&skey=bdce5c587d610a04&v=v12#IBMPlexMono",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5Fhw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FhA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexmono/v12/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v12",
   "typefaces": {
     "italic": {
       "100": {
@@ -2607,13 +2565,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-ThinItalic"
+            "en": "2.1;IBM ;IBMPlexMono-ThinItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono Thin Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-ThinItalic"
@@ -5026,13 +4984,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-ExtraLightItalic"
+            "en": "2.1;IBM ;IBMPlexMono-ExtraLightItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono ExtraLight Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-ExtraLightItalic"
@@ -7445,13 +7403,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-LightItalic"
+            "en": "2.1;IBM ;IBMPlexMono-LightItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono Light Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-LightItalic"
@@ -9864,13 +9822,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-Italic"
+            "en": "2.1;IBM ;IBMPlexMono-Italic"
           },
           "fullName": {
             "en": "IBM Plex Mono Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-Italic"
@@ -12283,13 +12241,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-MediumItalic"
+            "en": "2.1;IBM ;IBMPlexMono-MediumItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono Medium Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-MediumItalic"
@@ -14702,13 +14660,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-SemiBoldItalic"
+            "en": "2.1;IBM ;IBMPlexMono-SemiBoldItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono SemiBold Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-SemiBoldItalic"
@@ -17121,13 +17079,13 @@
             "en": "Bold Italic"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-BoldItalic"
+            "en": "2.1;IBM ;IBMPlexMono-BoldItalic"
           },
           "fullName": {
             "en": "IBM Plex Mono Bold Italic"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-BoldItalic"
@@ -19542,13 +19500,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-Thin"
+            "en": "2.1;IBM ;IBMPlexMono-Thin"
           },
           "fullName": {
             "en": "IBM Plex Mono Thin"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-Thin"
@@ -21961,13 +21919,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-ExtraLight"
+            "en": "2.1;IBM ;IBMPlexMono-ExtraLight"
           },
           "fullName": {
             "en": "IBM Plex Mono ExtraLight"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-ExtraLight"
@@ -24380,13 +24338,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-Light"
+            "en": "2.1;IBM ;IBMPlexMono-Light"
           },
           "fullName": {
             "en": "IBM Plex Mono Light"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-Light"
@@ -26799,16 +26757,16 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono"
+            "en": "2.1;IBM ;IBMPlexMono-Regular"
           },
           "fullName": {
-            "en": "IBM Plex Mono"
+            "en": "IBM Plex Mono Regular"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
-            "en": "IBMPlexMono"
+            "en": "IBMPlexMono-Regular"
           },
           "licenseURL": {
             "en": "http://scripts.sil.org/OFL"
@@ -29218,13 +29176,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-Medium"
+            "en": "2.1;IBM ;IBMPlexMono-Medium"
           },
           "fullName": {
             "en": "IBM Plex Mono Medium"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-Medium"
@@ -31637,13 +31595,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-SemiBold"
+            "en": "2.1;IBM ;IBMPlexMono-SemiBold"
           },
           "fullName": {
             "en": "IBM Plex Mono SemiBold"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-SemiBold"
@@ -34056,13 +34014,13 @@
             "en": "Bold"
           },
           "uniqueID": {
-            "en": "2.000;IBM ;IBMPlexMono-Bold"
+            "en": "2.1;IBM ;IBMPlexMono-Bold"
           },
           "fullName": {
             "en": "IBM Plex Mono Bold"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.1"
           },
           "postScriptName": {
             "en": "IBMPlexMono-Bold"

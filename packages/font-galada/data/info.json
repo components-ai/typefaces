@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "bengali",
     "latin"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Galada Regular'",
-          "'Galada-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO9SY4&skey=de71fa94111f3d7d&v=v6#Galada",
-          "ttf": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY6.ttf",
-          "woff": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY5.woff",
-          "woff2": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY_.woff2"
+          "eot": "https://fonts.gstatic.com/s/galada/v14/H4cmBXyGmcjXlUXO9SY7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO9SY4&skey=de71fa94111f3d7d&v=v14#Galada",
+          "ttf": "https://fonts.gstatic.com/s/galada/v14/H4cmBXyGmcjXlUXO9SY6.ttf",
+          "woff": "https://fonts.gstatic.com/s/galada/v14/H4cmBXyGmcjXlUXO9SY5.woff",
+          "woff2": "https://fonts.gstatic.com/s/galada/v14/H4cmBXyGmcjXlUXO9SY_.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

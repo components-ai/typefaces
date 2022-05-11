@@ -1,86 +1,71 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "hebrew",
     "latin",
     "latin-ext"
   ],
   "unicodeRange": {
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
     "latin-ext": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF"
   },
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Frank Ruhl Libre Light'",
-          "'FrankRuhlLibre-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgw&skey=35ed760dc028c407&v=v6#FrankRuhlLibre",
-          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JfGhA.woff2"
+          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgw&skey=35ed760dc028c407&v=v12#FrankRuhlLibre",
+          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JnGgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUxvH9JfGhA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Frank Ruhl Libre Regular'",
-          "'FrankRuhlLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5g&skey=f32d6e63ec16a834&v=v6#FrankRuhlLibre",
-          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5A.ttf",
-          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5w.woff",
-          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Dl4Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5g&skey=f32d6e63ec16a834&v=v12#FrankRuhlLibre",
+          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5A.ttf",
+          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l5w.woff",
+          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Dl4Q.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Frank Ruhl Libre Medium'",
-          "'FrankRuhlLibre-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgw&skey=d47a1255e88b4349&v=v6#FrankRuhlLibre",
-          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JfGhA.woff2"
+          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgw&skey=d47a1255e88b4349&v=v12#FrankRuhlLibre",
+          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JnGgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPU0PG9JfGhA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Frank Ruhl Libre Bold'",
-          "'FrankRuhlLibre-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgw&skey=ffd72a2cb2718862&v=v6#FrankRuhlLibre",
-          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JfGhA.woff2"
+          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgw&skey=ffd72a2cb2718862&v=v12#FrankRuhlLibre",
+          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JnGgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUwvA9JfGhA.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Frank Ruhl Libre Black'",
-          "'FrankRuhlLibre-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgw&skey=b6e95c684b24b8c4&v=v6#FrankRuhlLibre",
-          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v6/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JfGhA.woff2"
+          "eot": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgw&skey=b6e95c684b24b8c4&v=v12#FrankRuhlLibre",
+          "ttf": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JnGgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/frankruhllibre/v12/j8_36_fAw7jrcalD7oKYNX0QfAnPUzPC9JfGhA.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "300": {

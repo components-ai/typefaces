@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ewert'",
-          "'Ewert-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBmQec.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzO2tFODbBmQeQ&skey=4a41e75919f258a0&v=v8#Ewert",
-          "ttf": "https://fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBmQeY.ttf",
-          "woff": "https://fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBmQeU.woff",
-          "woff2": "https://fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBoQeM.woff2"
+          "eot": "https://fonts.gstatic.com/s/ewert/v21/va9I4kzO2tFODbBmQec.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzO2tFODbBmQeQ&skey=4a41e75919f258a0&v=v21#Ewert",
+          "ttf": "https://fonts.gstatic.com/s/ewert/v21/va9I4kzO2tFODbBmQeY.ttf",
+          "woff": "https://fonts.gstatic.com/s/ewert/v21/va9I4kzO2tFODbBmQeU.woff",
+          "woff2": "https://fonts.gstatic.com/s/ewert/v21/va9I4kzO2tFODbBoQeM.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

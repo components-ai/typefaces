@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jacques Francois'",
-          "'JacquesFrancois-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpw&skey=f331cd55df0362a4&v=v8#JacquesFrancois",
-          "ttf": "https://fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpg.woff",
-          "woff2": "https://fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgoA.woff2"
+          "eot": "https://fonts.gstatic.com/s/jacquesfrancois/v20/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpw&skey=f331cd55df0362a4&v=v20#JacquesFrancois",
+          "ttf": "https://fonts.gstatic.com/s/jacquesfrancois/v20/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/jacquesfrancois/v20/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpg.woff",
+          "woff2": "https://fonts.gstatic.com/s/jacquesfrancois/v20/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgoA.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

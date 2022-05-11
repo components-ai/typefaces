@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Esteban'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/esteban/v9/r05bGLZE-bdGdN-GROKJ4w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=r05bGLZE-bdGdN-GROKJ4A&skey=e121f18102369471&v=v9#Esteban",
-          "ttf": "https://fonts.gstatic.com/s/esteban/v9/r05bGLZE-bdGdN-GROKJ4g.ttf",
-          "woff": "https://fonts.gstatic.com/s/esteban/v9/r05bGLZE-bdGdN-GROKJ4Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/esteban/v9/r05bGLZE-bdGdN-GROyJ5w.woff2"
+          "eot": "https://fonts.gstatic.com/s/esteban/v14/r05bGLZE-bdGdN-GROKJ4w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=r05bGLZE-bdGdN-GROKJ4A&skey=e121f18102369471&v=v14#Esteban",
+          "ttf": "https://fonts.gstatic.com/s/esteban/v14/r05bGLZE-bdGdN-GROKJ4g.ttf",
+          "woff": "https://fonts.gstatic.com/s/esteban/v14/r05bGLZE-bdGdN-GROKJ4Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/esteban/v14/r05bGLZE-bdGdN-GROyJ5w.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Reenie Beanie'",
-          "'ReenieBeanie'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1rw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=z7NSdR76eDkaJKZJFkkjuvWxXPq1rA&skey=f3e3fc232dd85227&v=v11#ReenieBeanie",
-          "ttf": "https://fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1rg.ttf",
-          "woff": "https://fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1rQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1qw.woff2"
+          "eot": "https://fonts.gstatic.com/s/reeniebeanie/v16/z7NSdR76eDkaJKZJFkkjuvWxXPq1rw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=z7NSdR76eDkaJKZJFkkjuvWxXPq1rA&skey=f3e3fc232dd85227&v=v16#ReenieBeanie",
+          "ttf": "https://fonts.gstatic.com/s/reeniebeanie/v16/z7NSdR76eDkaJKZJFkkjuvWxXPq1rg.ttf",
+          "woff": "https://fonts.gstatic.com/s/reeniebeanie/v16/z7NSdR76eDkaJKZJFkkjuvWxXPq1rQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/reeniebeanie/v16/z7NSdR76eDkaJKZJFkkjuvWxXPq1qw.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

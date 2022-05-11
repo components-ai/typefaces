@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,48 +12,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Gudea Italic'",
-          "'Gudea-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neILzCqgsI0mp9CNzoymNA&skey=dba7fb2bf51a5d81&v=v10#Gudea",
-          "ttf": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNg.ttf",
-          "woff": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/gudea/v15/neILzCqgsI0mp9CNzoymNw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neILzCqgsI0mp9CNzoymNA&skey=dba7fb2bf51a5d81&v=v15#Gudea",
+          "ttf": "https://fonts.gstatic.com/s/gudea/v15/neILzCqgsI0mp9CNzoymNg.ttf",
+          "woff": "https://fonts.gstatic.com/s/gudea/v15/neILzCqgsI0mp9CNzoymNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/gudea/v15/neILzCqgsI0mp9CNzoKmMw.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Gudea'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIFzCqgsI0mp9CG_oc&skey=cabc1f7b4ae0fcd9&v=v10#Gudea",
-          "ttf": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oU.ttf",
-          "woff": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oY.woff",
-          "woff2": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oA.woff2"
+          "eot": "https://fonts.gstatic.com/s/gudea/v15/neIFzCqgsI0mp9CG_oQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIFzCqgsI0mp9CG_oc&skey=cabc1f7b4ae0fcd9&v=v15#Gudea",
+          "ttf": "https://fonts.gstatic.com/s/gudea/v15/neIFzCqgsI0mp9CG_oU.ttf",
+          "woff": "https://fonts.gstatic.com/s/gudea/v15/neIFzCqgsI0mp9CG_oY.woff",
+          "woff2": "https://fonts.gstatic.com/s/gudea/v15/neIFzCqgsI0mp9CI_oA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gudea Bold'",
-          "'Gudea-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCqgsI0mp9gz25WPFqs&skey=61f6a66f0762939&v=v10#Gudea",
-          "ttf": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqk.ttf",
-          "woff": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqo.woff",
-          "woff2": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqw.woff2"
+          "eot": "https://fonts.gstatic.com/s/gudea/v15/neIIzCqgsI0mp9gz25WPFqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCqgsI0mp9gz25WPFqs&skey=61f6a66f0762939&v=v15#Gudea",
+          "ttf": "https://fonts.gstatic.com/s/gudea/v15/neIIzCqgsI0mp9gz25WPFqk.ttf",
+          "woff": "https://fonts.gstatic.com/s/gudea/v15/neIIzCqgsI0mp9gz25WPFqo.woff",
+          "woff2": "https://fonts.gstatic.com/s/gudea/v15/neIIzCqgsI0mp9gz25WBFqw.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {
@@ -117,6 +109,12 @@
             "x_min": 78,
             "x_max": 688,
             "o": "m 557 442 l 557 442 q 353 390 463 390 q 182 447 243 390 q 121 610 121 503 l 121 610 q 208 878 121 771 q 443 986 294 986 l 443 986 q 628 908 568 986 q 688 697 688 829 q 665 447 688 565 q 594 224 642 329 q 460 55 546 118 q 260 -8 374 -8 l 260 -8 q 165 3 211 -8 q 78 38 119 14 l 78 38 l 111 121 q 283 83 193 83 l 283 83 q 557 442 488 83 z m 422 896 l 422 896 q 279 816 335 896 q 224 631 224 736 l 224 631 q 375 481 224 481 l 375 481 q 576 544 467 481 l 576 544 l 576 550 q 586 676 586 614 l 586 676 q 422 896 586 896 z "
+          },
+          "\f": {
+            "ha": 579,
+            "x_min": 51,
+            "x_max": 533,
+            "o": "m 533 844 l 403 -86 l 51 381 l 533 844 z "
           },
           " ": {
             "ha": 313,
@@ -1603,6 +1601,12 @@
             "x_max": 699,
             "o": "m 376 390 l 376 390 q 153 463 232 390 q 74 674 74 535 q 156 899 74 813 q 376 986 238 986 l 376 986 q 699 547 699 986 l 699 547 q 511 35 699 142 l 511 35 q 329 -8 436 -8 l 329 -8 q 222 3 275 -8 q 144 25 169 14 l 144 25 l 119 38 l 144 121 q 342 83 242 83 l 342 83 q 590 442 568 83 l 590 442 q 376 390 488 390 z m 369 896 l 369 896 q 230 835 282 896 q 178 682 178 775 l 178 682 q 382 481 178 481 l 382 481 q 594 544 485 481 l 594 544 l 594 550 q 542 808 594 719 q 369 896 489 896 z "
           },
+          "\f": {
+            "ha": 644,
+            "x_min": 28,
+            "x_max": 492,
+            "o": "m 492 844 l 492 -86 l 28 381 l 492 844 z "
+          },
           " ": {
             "ha": 347,
             "x_min": null,
@@ -3085,6 +3089,12 @@
             "x_min": 60,
             "x_max": 713,
             "o": "m 376 363 l 376 363 q 142 442 225 363 q 60 667 60 521 q 145 899 60 813 q 376 986 231 986 l 376 986 q 713 547 713 986 l 713 547 q 518 35 713 142 l 518 35 q 329 -8 440 -8 l 329 -8 q 215 3 271 -8 q 133 25 160 14 l 133 25 l 106 38 l 144 176 q 342 139 242 139 l 342 139 q 549 400 531 139 l 549 400 q 376 363 469 363 z m 369 840 l 369 840 q 260 795 301 840 q 219 682 219 750 l 219 682 q 382 508 219 508 l 382 508 q 553 558 464 508 l 553 558 l 553 564 q 510 771 553 701 q 369 840 468 840 z "
+          },
+          "\f": {
+            "ha": 644,
+            "x_min": 28,
+            "x_max": 533,
+            "o": "m 533 907 l 533 -110 l 28 399 l 533 907 z "
           },
           " ": {
             "ha": 347,

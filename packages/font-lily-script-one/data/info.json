@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lily Script One'",
-          "'LilyScriptOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lilyscriptone/v8/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86m.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86l&skey=2f55726c24b3b131&v=v8#LilyScriptOne",
-          "ttf": "https://fonts.gstatic.com/s/lilyscriptone/v8/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86n.ttf",
-          "woff": "https://fonts.gstatic.com/s/lilyscriptone/v8/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86k.woff",
-          "woff2": "https://fonts.gstatic.com/s/lilyscriptone/v8/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIhc6i.woff2"
+          "eot": "https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86m.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86l&skey=2f55726c24b3b131&v=v15#LilyScriptOne",
+          "ttf": "https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86n.ttf",
+          "woff": "https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIi86k.woff",
+          "woff2": "https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIhc6i.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

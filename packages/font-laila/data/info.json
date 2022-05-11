@@ -1,6 +1,6 @@
 {
-  "category": "serif",
-  "lastModified": "2020-07-23",
+  "category": "sans-serif",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Laila Light'",
-          "'Laila-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNJjVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzxojNJjVg&skey=a7caa4e5e1964b98&v=v7#Laila",
-          "ttf": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNJjVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNJjVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNHjV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzxojNJjVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzxojNJjVg&skey=a7caa4e5e1964b98&v=v13#Laila",
+          "ttf": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzxojNJjVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzxojNJjVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzxojNHjV8.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Laila Regular'",
-          "'Laila-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRUgCI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjMdG_8nE8jDLRUgCE&skey=1dcd754bec11ed63&v=v7#Laila",
-          "ttf": "https://fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRUgCM.ttf",
-          "woff": "https://fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRUgCA.woff",
-          "woff2": "https://fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRagCY.woff2"
+          "eot": "https://fonts.gstatic.com/s/laila/v13/LYjMdG_8nE8jDLRUgCI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjMdG_8nE8jDLRUgCE&skey=1dcd754bec11ed63&v=v13#Laila",
+          "ttf": "https://fonts.gstatic.com/s/laila/v13/LYjMdG_8nE8jDLRUgCM.ttf",
+          "woff": "https://fonts.gstatic.com/s/laila/v13/LYjMdG_8nE8jDLRUgCA.woff",
+          "woff2": "https://fonts.gstatic.com/s/laila/v13/LYjMdG_8nE8jDLRagCY.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Laila Medium'",
-          "'Laila-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNJjVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLypozNJjVg&skey=7be6b5ab3ef2670b&v=v7#Laila",
-          "ttf": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNJjVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNJjVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNHjV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLypozNJjVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLypozNJjVg&skey=7be6b5ab3ef2670b&v=v13#Laila",
+          "ttf": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLypozNJjVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLypozNJjVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLypozNHjV8.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Laila SemiBold'",
-          "'Laila-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNJjVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLyFpDNJjVg&skey=3b8bd068fc8634e8&v=v7#Laila",
-          "ttf": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNJjVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNJjVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNHjV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLyFpDNJjVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLyFpDNJjVg&skey=3b8bd068fc8634e8&v=v13#Laila",
+          "ttf": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLyFpDNJjVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLyFpDNJjVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLyFpDNHjV8.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Laila Bold'",
-          "'Laila-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNJjVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzhpTNJjVg&skey=62e2c4c922e5a90&v=v7#Laila",
-          "ttf": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNJjVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNJjVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNHjV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzhpTNJjVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzhpTNJjVg&skey=62e2c4c922e5a90&v=v13#Laila",
+          "ttf": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzhpTNJjVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzhpTNJjVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/laila/v13/LYjBdG_8nE8jDLzhpTNHjV8.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "300": {

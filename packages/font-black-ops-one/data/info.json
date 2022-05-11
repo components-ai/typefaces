@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Black Ops One Regular'",
-          "'BlackOpsOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDXbsw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qWcsB6-ypo7xBdr6Xshe96H3aDXbsA&skey=66ec0066d463fba3&v=v12#BlackOpsOne",
-          "ttf": "https://fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDXbsg.ttf",
-          "woff": "https://fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDXbsQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDvbtw.woff2"
+          "eot": "https://fonts.gstatic.com/s/blackopsone/v19/qWcsB6-ypo7xBdr6Xshe96H3aDXbsw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qWcsB6-ypo7xBdr6Xshe96H3aDXbsA&skey=66ec0066d463fba3&v=v19#BlackOpsOne",
+          "ttf": "https://fonts.gstatic.com/s/blackopsone/v19/qWcsB6-ypo7xBdr6Xshe96H3aDXbsg.ttf",
+          "woff": "https://fonts.gstatic.com/s/blackopsone/v19/qWcsB6-ypo7xBdr6Xshe96H3aDXbsQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/blackopsone/v19/qWcsB6-ypo7xBdr6Xshe96H3aDvbtw.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 73,
             "x_max": 943,
             "o": "m 644 180 l 644 720 l 531 720 l 531 900 l 764 900 l 943 720 l 943 180 l 764 0 l 531 0 l 531 180 l 644 180 z m 373 517 l 597 517 l 597 336 l 254 336 l 73 517 l 73 720 l 254 900 l 485 900 l 485 720 l 373 720 l 373 517 z m 373 180 l 485 180 l 485 0 l 254 0 l 73 180 l 73 240 l 373 240 l 373 180 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 359,

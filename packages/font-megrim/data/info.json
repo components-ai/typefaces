@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Megrim'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/megrim/v11/46kulbz5WjvLqJZVam_l.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=46kulbz5WjvLqJZVam_m&skey=4589d61c1b6a14ca&v=v11#Megrim",
-          "ttf": "https://fonts.gstatic.com/s/megrim/v11/46kulbz5WjvLqJZVam_k.ttf",
-          "woff": "https://fonts.gstatic.com/s/megrim/v11/46kulbz5WjvLqJZVam_n.woff",
-          "woff2": "https://fonts.gstatic.com/s/megrim/v11/46kulbz5WjvLqJZVam_h.woff2"
+          "eot": "https://fonts.gstatic.com/s/megrim/v16/46kulbz5WjvLqJZVam_l.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=46kulbz5WjvLqJZVam_m&skey=4589d61c1b6a14ca&v=v16#Megrim",
+          "ttf": "https://fonts.gstatic.com/s/megrim/v16/46kulbz5WjvLqJZVam_k.ttf",
+          "woff": "https://fonts.gstatic.com/s/megrim/v16/46kulbz5WjvLqJZVam_n.woff",
+          "woff2": "https://fonts.gstatic.com/s/megrim/v16/46kulbz5WjvLqJZVam_h.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

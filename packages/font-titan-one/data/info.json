@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Titan One'",
-          "'TitanOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/titanone/v8/mFTzWbsGxbbS_J5cQcjCmjgi.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mFTzWbsGxbbS_J5cQcjCmjgh&skey=fec1aaa79fef5720&v=v8#TitanOne",
-          "ttf": "https://fonts.gstatic.com/s/titanone/v8/mFTzWbsGxbbS_J5cQcjCmjgj.ttf",
-          "woff": "https://fonts.gstatic.com/s/titanone/v8/mFTzWbsGxbbS_J5cQcjCmjgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/titanone/v8/mFTzWbsGxbbS_J5cQcjClDgm.woff2"
+          "eot": "https://fonts.gstatic.com/s/titanone/v13/mFTzWbsGxbbS_J5cQcjCmjgi.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mFTzWbsGxbbS_J5cQcjCmjgh&skey=fec1aaa79fef5720&v=v13#TitanOne",
+          "ttf": "https://fonts.gstatic.com/s/titanone/v13/mFTzWbsGxbbS_J5cQcjCmjgj.ttf",
+          "woff": "https://fonts.gstatic.com/s/titanone/v13/mFTzWbsGxbbS_J5cQcjCmjgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/titanone/v13/mFTzWbsGxbbS_J5cQcjClDgm.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

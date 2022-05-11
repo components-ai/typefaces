@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mr Dafoe Regular'",
-          "'MrDafoe-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFijibY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=lJwE-pIzkS5NXuMMrFijibU&skey=1ffc9a6af684f026&v=v9#MrDafoe",
-          "ttf": "https://fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFijibc.ttf",
-          "woff": "https://fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFijibQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFitibI.woff2"
+          "eot": "https://fonts.gstatic.com/s/mrdafoe/v14/lJwE-pIzkS5NXuMMrFijibY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=lJwE-pIzkS5NXuMMrFijibU&skey=1ffc9a6af684f026&v=v14#MrDafoe",
+          "ttf": "https://fonts.gstatic.com/s/mrdafoe/v14/lJwE-pIzkS5NXuMMrFijibc.ttf",
+          "woff": "https://fonts.gstatic.com/s/mrdafoe/v14/lJwE-pIzkS5NXuMMrFijibQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mrdafoe/v14/lJwE-pIzkS5NXuMMrFitibI.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

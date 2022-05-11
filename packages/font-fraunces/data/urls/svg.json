@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1hLTM7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "200": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1jLTc7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "300": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1gVTc7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "400": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1hLTc7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "500": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1h5Tc7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "600": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1iVSs7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "700": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1isSs7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "800": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1jLSs7frUg&skey=a711426ad14db1be&v=v22#Fraunces",
+    "900": "https://fonts.gstatic.com/l/font?kit=6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1jiSs7frUg&skey=a711426ad14db1be&v=v22#Fraunces"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxqTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "200": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcNxuTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "300": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIc6RuTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "400": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxuTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "500": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIchRuTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "600": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcaRyTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "700": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcUByTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "800": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcNxyTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces",
+    "900": "https://fonts.gstatic.com/l/font?kit=6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcHhyTB_7U&skey=2eca4ab215eafb9c&v=v22#Fraunces"
+  }
+}

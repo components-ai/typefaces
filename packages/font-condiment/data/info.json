@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Condiment'",
-          "'Condiment-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6iooP9.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pONk1hggFNmwvXALyH6iooP-&skey=1c5ef97a58cd7226&v=v8#Condiment",
-          "ttf": "https://fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6iooP8.ttf",
-          "woff": "https://fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6iooP_.woff",
-          "woff2": "https://fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6irIP5.woff2"
+          "eot": "https://fonts.gstatic.com/s/condiment/v20/pONk1hggFNmwvXALyH6iooP9.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pONk1hggFNmwvXALyH6iooP-&skey=1c5ef97a58cd7226&v=v20#Condiment",
+          "ttf": "https://fonts.gstatic.com/s/condiment/v20/pONk1hggFNmwvXALyH6iooP8.ttf",
+          "woff": "https://fonts.gstatic.com/s/condiment/v20/pONk1hggFNmwvXALyH6iooP_.woff",
+          "woff2": "https://fonts.gstatic.com/s/condiment/v20/pONk1hggFNmwvXALyH6irIP5.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

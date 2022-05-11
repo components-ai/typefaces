@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,62 +14,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Cambay Italic'",
-          "'Cambay-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6F59I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1rY6H0_ZDs2bI6F59E&skey=e5bd29ad3697f3e&v=v7#Cambay",
-          "ttf": "https://fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6F59M.ttf",
-          "woff": "https://fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6F59A.woff",
-          "woff2": "https://fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6L59Y.woff2"
+          "eot": "https://fonts.gstatic.com/s/cambay/v12/SLXLc1rY6H0_ZDs2bI6F59I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1rY6H0_ZDs2bI6F59E&skey=e5bd29ad3697f3e&v=v12#Cambay",
+          "ttf": "https://fonts.gstatic.com/s/cambay/v12/SLXLc1rY6H0_ZDs2bI6F59M.ttf",
+          "woff": "https://fonts.gstatic.com/s/cambay/v12/SLXLc1rY6H0_ZDs2bI6F59A.woff",
+          "woff2": "https://fonts.gstatic.com/s/cambay/v12/SLXLc1rY6H0_ZDs2bI6L59Y.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cambay Bold Italic'",
-          "'Cambay-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsN9SX8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXMc1rY6H0_ZDs2bIYwwsN9SXw&skey=9075a27258cb299f&v=v7#Cambay",
-          "ttf": "https://fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsN9SX4.ttf",
-          "woff": "https://fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsN9SX0.woff",
-          "woff2": "https://fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsNzSXs.woff2"
+          "eot": "https://fonts.gstatic.com/s/cambay/v12/SLXMc1rY6H0_ZDs2bIYwwsN9SX8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXMc1rY6H0_ZDs2bIYwwsN9SXw&skey=9075a27258cb299f&v=v12#Cambay",
+          "ttf": "https://fonts.gstatic.com/s/cambay/v12/SLXMc1rY6H0_ZDs2bIYwwsN9SX4.ttf",
+          "woff": "https://fonts.gstatic.com/s/cambay/v12/SLXMc1rY6H0_ZDs2bIYwwsN9SX0.woff",
+          "woff2": "https://fonts.gstatic.com/s/cambay/v12/SLXMc1rY6H0_ZDs2bIYwwsNzSXs.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Cambay Regular'",
-          "'Cambay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2Z76N.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXJc1rY6H0_ZDs2Z76O&skey=65e6fec681751af2&v=v7#Cambay",
-          "ttf": "https://fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2Z76M.ttf",
-          "woff": "https://fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2Z76P.woff",
-          "woff2": "https://fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2ab6J.woff2"
+          "eot": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDs2Z76N.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXJc1rY6H0_ZDs2Z76O&skey=65e6fec681751af2&v=v12#Cambay",
+          "ttf": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDs2Z76M.ttf",
+          "woff": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDs2Z76P.woff",
+          "woff2": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDs2ab6J.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cambay Bold'",
-          "'Cambay-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0puczvN1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXKc1rY6H0_ZDs-0puczvN2&skey=9ce85acf2b162d00&v=v7#Cambay",
-          "ttf": "https://fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0puczvN0.ttf",
-          "woff": "https://fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0puczvN3.woff",
-          "woff2": "https://fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0pucwPNx.woff2"
+          "eot": "https://fonts.gstatic.com/s/cambay/v12/SLXKc1rY6H0_ZDs-0puczvN1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXKc1rY6H0_ZDs-0puczvN2&skey=9ce85acf2b162d00&v=v12#Cambay",
+          "ttf": "https://fonts.gstatic.com/s/cambay/v12/SLXKc1rY6H0_ZDs-0puczvN0.ttf",
+          "woff": "https://fonts.gstatic.com/s/cambay/v12/SLXKc1rY6H0_ZDs-0puczvN3.woff",
+          "woff2": "https://fonts.gstatic.com/s/cambay/v12/SLXKc1rY6H0_ZDs-0pucwPNx.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v12",
   "typefaces": {
     "italic": {
       "400": {

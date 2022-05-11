@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Chewy Regular'",
-          "'Chewy-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chewy/v12/uK_94ruUb-k-wn52KjY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruUb-k-wn52KjU&skey=7ed5ab3a634ee0b0&v=v12#Chewy",
-          "ttf": "https://fonts.gstatic.com/s/chewy/v12/uK_94ruUb-k-wn52Kjc.ttf",
-          "woff": "https://fonts.gstatic.com/s/chewy/v12/uK_94ruUb-k-wn52KjQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chewy/v12/uK_94ruUb-k-wn52KjI.woff2"
+          "eot": "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52KjY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruUb-k-wn52KjU&skey=7ed5ab3a634ee0b0&v=v18#Chewy",
+          "ttf": "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52Kjc.ttf",
+          "woff": "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52KjQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52KjI.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

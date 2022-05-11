@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Italiana'",
-          "'Italiana-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/italiana/v9/QldNNTtLsx4E__B0XQmWaXg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QldNNTtLsx4E__B0XQmWaXs&skey=89d51c815117a263&v=v9#Italiana",
-          "ttf": "https://fonts.gstatic.com/s/italiana/v9/QldNNTtLsx4E__B0XQmWaXk.ttf",
-          "woff": "https://fonts.gstatic.com/s/italiana/v9/QldNNTtLsx4E__B0XQmWaXo.woff",
-          "woff2": "https://fonts.gstatic.com/s/italiana/v9/QldNNTtLsx4E__B0XQmWaXw.woff2"
+          "eot": "https://fonts.gstatic.com/s/italiana/v16/QldNNTtLsx4E__B0XQmWaXg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QldNNTtLsx4E__B0XQmWaXs&skey=89d51c815117a263&v=v16#Italiana",
+          "ttf": "https://fonts.gstatic.com/s/italiana/v16/QldNNTtLsx4E__B0XQmWaXk.ttf",
+          "woff": "https://fonts.gstatic.com/s/italiana/v16/QldNNTtLsx4E__B0XQmWaXo.woff",
+          "woff2": "https://fonts.gstatic.com/s/italiana/v16/QldNNTtLsx4E__B0XQmWaXw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

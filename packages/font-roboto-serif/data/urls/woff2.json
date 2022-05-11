@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JuT-VMAtZb.woff2",
+    "200": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-Juz-RMAtZb.woff2",
+    "300": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JuEeRMAtZb.woff2",
+    "400": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JuT-RMAtZb.woff2",
+    "500": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JufeRMAtZb.woff2",
+    "600": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JukeNMAtZb.woff2",
+    "700": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-JuqONMAtZb.woff2",
+    "800": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-Juz-NMAtZb.woff2",
+    "900": "https://fonts.gstatic.com/s/robotoserif/v7/R71XjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbDJ69BcVZxkDg-Ju5uNMAtZb.woff2"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcEliosl6B8AA.woff2",
+    "200": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcElqotl6B8AA.woff2",
+    "300": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcElnQtl6B8AA.woff2",
+    "400": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcEliotl6B8AA.woff2",
+    "500": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcElhgtl6B8AA.woff2",
+    "600": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcElvQql6B8AA.woff2",
+    "700": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcEls0ql6B8AA.woff2",
+    "800": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcElqoql6B8AA.woff2",
+    "900": "https://fonts.gstatic.com/s/robotoserif/v7/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcEloMql6B8AA.woff2"
+  }
+}

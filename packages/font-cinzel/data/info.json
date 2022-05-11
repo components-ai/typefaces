@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-08-20",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -14,66 +14,66 @@
       "400": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lDQ.woff2"
         }
       },
       "500": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lDQ.woff2"
         }
       },
       "600": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lDQ.woff2"
         }
       },
       "700": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lDQ.woff2"
         }
       },
       "800": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lDQ.woff2"
         }
       },
       "900": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCg&skey=f319ae43d1034808&v=v10#Cinzel",
-          "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCg&skey=f319ae43d1034808&v=v17#Cinzel",
+          "ttf": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzel/v17/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lDQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

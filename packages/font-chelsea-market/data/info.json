@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Chelsea Market'",
-          "'ChelseaMarket-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChsJgs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BCawqZsHqfr89WNP_IApC8tzKChsJgg&skey=bc7514ae069c6e6d&v=v8#ChelseaMarket",
-          "ttf": "https://fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChsJgo.ttf",
-          "woff": "https://fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChsJgk.woff",
-          "woff2": "https://fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChiJg8.woff2"
+          "eot": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChsJgs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BCawqZsHqfr89WNP_IApC8tzKChsJgg&skey=bc7514ae069c6e6d&v=v13#ChelseaMarket",
+          "ttf": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChsJgo.ttf",
+          "woff": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChsJgk.woff",
+          "woff2": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChiJg8.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

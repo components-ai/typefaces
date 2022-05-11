@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'La Belle Aurore'",
-          "'LaBelleAurore'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbot8-mNYKnGNDkWlocovHeI4HO2D&skey=598489a1dbeafc2e&v=v11#LaBelleAurore",
-          "ttf": "https://fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2B.ttf",
-          "woff": "https://fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2C.woff",
-          "woff2": "https://fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2E.woff2"
+          "eot": "https://fonts.gstatic.com/s/labelleaurore/v16/RrQIbot8-mNYKnGNDkWlocovHeI4HO2A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbot8-mNYKnGNDkWlocovHeI4HO2D&skey=598489a1dbeafc2e&v=v16#LaBelleAurore",
+          "ttf": "https://fonts.gstatic.com/s/labelleaurore/v16/RrQIbot8-mNYKnGNDkWlocovHeI4HO2B.ttf",
+          "woff": "https://fonts.gstatic.com/s/labelleaurore/v16/RrQIbot8-mNYKnGNDkWlocovHeI4HO2C.woff",
+          "woff2": "https://fonts.gstatic.com/s/labelleaurore/v16/RrQIbot8-mNYKnGNDkWlocovHeI4HO2E.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

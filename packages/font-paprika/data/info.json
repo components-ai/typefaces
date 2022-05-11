@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Paprika'",
-          "'Paprika-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8Erg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIJdijZitv49rDfiI8ErQ&skey=ad69ab6a511ff1bf&v=v8#Paprika",
-          "ttf": "https://fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8Erw.ttf",
-          "woff": "https://fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8ErA.woff",
-          "woff2": "https://fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8Eqg.woff2"
+          "eot": "https://fonts.gstatic.com/s/paprika/v20/8QIJdijZitv49rDfiI8Erg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIJdijZitv49rDfiI8ErQ&skey=ad69ab6a511ff1bf&v=v20#Paprika",
+          "ttf": "https://fonts.gstatic.com/s/paprika/v20/8QIJdijZitv49rDfiI8Erw.ttf",
+          "woff": "https://fonts.gstatic.com/s/paprika/v20/8QIJdijZitv49rDfiI8ErA.woff",
+          "woff2": "https://fonts.gstatic.com/s/paprika/v20/8QIJdijZitv49rDfiI8Eqg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

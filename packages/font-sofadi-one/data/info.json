@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sofadi One Regular'",
-          "'SofadiOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=JIA2UVBxdnVBuElZaMFGQDSCFw&skey=46900f32e5de2be5&v=v9#SofadiOne",
-          "ttf": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFg.woff",
-          "woff2": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2"
+          "eot": "https://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDSCFA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=JIA2UVBxdnVBuElZaMFGQDSCFw&skey=46900f32e5de2be5&v=v21#SofadiOne",
+          "ttf": "https://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDSCFQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDSCFg.woff",
+          "woff2": "https://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

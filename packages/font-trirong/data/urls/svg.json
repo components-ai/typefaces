@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7r3CqXNgp8wxdOdOn44Qub5owus&skey=aed6f5122c0f83c6&v=v6#Trirong",
-    "200": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QFa9x68n9&skey=7b37276d49c74118&v=v6#Trirong",
-    "300": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qcaxx68n9&skey=a1e76fa69d375c30&v=v6#Trirong",
-    "400": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOn44Y1I5j&skey=ac16b8c4afa1f55c&v=v6#Trirong",
-    "500": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QKa1x68n9&skey=ca2fa461eb11668f&v=v6#Trirong",
-    "600": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QBapx68n9&skey=2718570f2d9d89bf&v=v6#Trirong",
-    "700": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QYatx68n9&skey=4c55d42ba1a827db&v=v6#Trirong",
-    "800": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qfahx68n9&skey=c78576fab76bc847&v=v6#Trirong",
-    "900": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QWalx68n9&skey=abffb9c425eb1282&v=v6#Trirong"
+    "100": "https://fonts.gstatic.com/l/font?kit=7r3CqXNgp8wxdOdOn44Qub5owus&skey=aed6f5122c0f83c6&v=v11#Trirong",
+    "200": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QFa9x68n9&skey=7b37276d49c74118&v=v11#Trirong",
+    "300": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qcaxx68n9&skey=a1e76fa69d375c30&v=v11#Trirong",
+    "400": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOn44Y1I5j&skey=ac16b8c4afa1f55c&v=v11#Trirong",
+    "500": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QKa1x68n9&skey=ca2fa461eb11668f&v=v11#Trirong",
+    "600": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QBapx68n9&skey=2718570f2d9d89bf&v=v11#Trirong",
+    "700": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QYatx68n9&skey=4c55d42ba1a827db&v=v11#Trirong",
+    "800": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qfahx68n9&skey=c78576fab76bc847&v=v11#Trirong",
+    "900": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QWalx68n9&skey=abffb9c425eb1282&v=v11#Trirong"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOl-gY1I5j&skey=8b436c76f5b27f54&v=v6#Trirong",
-    "200": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl0QJzadB4A&skey=a08115bad4b92700&v=v6#Trirong",
-    "300": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlyAKzadB4A&skey=86b65b552c2ebbdc&v=v6#Trirong",
-    "400": "https://fonts.gstatic.com/l/font?kit=7r3GqXNgp8wxdOdOn4Uo3w&skey=3c72210defd34244&v=v6#Trirong",
-    "500": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl3gLzadB4A&skey=742796adb5d77e47&v=v6#Trirong",
-    "600": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl1QMzadB4A&skey=c7c232f8893f10a0&v=v6#Trirong",
-    "700": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlzANzadB4A&skey=8b826e9aa425dbd2&v=v6#Trirong",
-    "800": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlywOzadB4A&skey=dd550b405d3cd6e4&v=v6#Trirong",
-    "900": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlwgPzadB4A&skey=769b39092e5dd607&v=v6#Trirong"
+    "100": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOl-gY1I5j&skey=8b436c76f5b27f54&v=v11#Trirong",
+    "200": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl0QJzadB4A&skey=a08115bad4b92700&v=v11#Trirong",
+    "300": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlyAKzadB4A&skey=86b65b552c2ebbdc&v=v11#Trirong",
+    "400": "https://fonts.gstatic.com/l/font?kit=7r3GqXNgp8wxdOdOn4Uo3w&skey=3c72210defd34244&v=v11#Trirong",
+    "500": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl3gLzadB4A&skey=742796adb5d77e47&v=v11#Trirong",
+    "600": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl1QMzadB4A&skey=c7c232f8893f10a0&v=v11#Trirong",
+    "700": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlzANzadB4A&skey=8b826e9aa425dbd2&v=v11#Trirong",
+    "800": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlywOzadB4A&skey=dd550b405d3cd6e4&v=v11#Trirong",
+    "900": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlwgPzadB4A&skey=769b39092e5dd607&v=v11#Trirong"
   }
 }

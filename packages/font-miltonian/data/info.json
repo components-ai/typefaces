@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Miltonian'",
-          "'Miltonian-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbPn6Ne9JqTg9mb7uRG&skey=a486d1edd2958599&v=v14#Miltonian",
-          "ttf": "https://fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRE.ttf",
-          "woff": "https://fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRH.woff",
-          "woff2": "https://fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRB.woff2"
+          "eot": "https://fonts.gstatic.com/s/miltonian/v26/zOL-4pbPn6Ne9JqTg9mb7uRF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbPn6Ne9JqTg9mb7uRG&skey=a486d1edd2958599&v=v26#Miltonian",
+          "ttf": "https://fonts.gstatic.com/s/miltonian/v26/zOL-4pbPn6Ne9JqTg9mb7uRE.ttf",
+          "woff": "https://fonts.gstatic.com/s/miltonian/v26/zOL-4pbPn6Ne9JqTg9mb7uRH.woff",
+          "woff2": "https://fonts.gstatic.com/s/miltonian/v26/zOL-4pbPn6Ne9JqTg9mb7uRB.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v26",
   "typefaces": {
     "normal": {
       "400": {

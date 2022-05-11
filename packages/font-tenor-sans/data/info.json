@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tenor Sans'",
-          "'TenorSans'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3t4Dg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6ANxqUneKx06UkIXISn3t4DQ&skey=9e159c41209dbf49&v=v12#TenorSans",
-          "ttf": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3t4Dw.ttf",
-          "woff": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3t4DA.woff",
-          "woff2": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3V4Cg.woff2"
+          "eot": "https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3t4Dg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6ANxqUneKx06UkIXISn3t4DQ&skey=9e159c41209dbf49&v=v17#TenorSans",
+          "ttf": "https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3t4Dw.ttf",
+          "woff": "https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3t4DA.woff",
+          "woff2": "https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Cg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

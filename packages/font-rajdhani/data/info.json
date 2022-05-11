@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Rajdhani Light'",
-          "'Rajdhani-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOleeM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pasEfOleeA&skey=d525f62b6050085b&v=v10#Rajdhani",
-          "ttf": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOleeI.ttf",
-          "woff": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOleeE.woff",
-          "woff2": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOreec.woff2"
+          "eot": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEfOleeM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pasEfOleeA&skey=d525f62b6050085b&v=v15#Rajdhani",
+          "ttf": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEfOleeI.ttf",
+          "woff": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEfOleeE.woff",
+          "woff2": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEfOreec.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Rajdhani Regular'",
-          "'Rajdhani-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4JM-I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDIxapCSOBg7S-QT7p4JM-E&skey=2a58cb2a05429b83&v=v10#Rajdhani",
-          "ttf": "https://fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4JM-M.ttf",
-          "woff": "https://fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4JM-A.woff",
-          "woff2": "https://fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4HM-Y.woff2"
+          "eot": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7p4JM-I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDIxapCSOBg7S-QT7p4JM-E&skey=2a58cb2a05429b83&v=v15#Rajdhani",
+          "ttf": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7p4JM-M.ttf",
+          "woff": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7p4JM-A.woff",
+          "woff2": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7p4HM-Y.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Rajdhani Medium'",
-          "'Rajdhani-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOleeM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pb0EPOleeA&skey=74a1e835cd8e18f4&v=v10#Rajdhani",
-          "ttf": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOleeI.ttf",
-          "woff": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOleeE.woff",
-          "woff2": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOreec.woff2"
+          "eot": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EPOleeM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pb0EPOleeA&skey=74a1e835cd8e18f4&v=v15#Rajdhani",
+          "ttf": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EPOleeI.ttf",
+          "woff": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EPOleeE.woff",
+          "woff2": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EPOreec.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Rajdhani SemiBold'",
-          "'Rajdhani-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_OleeM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pbYF_OleeA&skey=d9fd2c812bccb92a&v=v10#Rajdhani",
-          "ttf": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_OleeI.ttf",
-          "woff": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_OleeE.woff",
-          "woff2": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2"
+          "eot": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF_OleeM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pbYF_OleeA&skey=d9fd2c812bccb92a&v=v15#Rajdhani",
+          "ttf": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF_OleeI.ttf",
+          "woff": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF_OleeE.woff",
+          "woff2": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Rajdhani Bold'",
-          "'Rajdhani-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOleeM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pa8FvOleeA&skey=62da9ba9ee2528b4&v=v10#Rajdhani",
-          "ttf": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOleeI.ttf",
-          "woff": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOleeE.woff",
-          "woff2": "https://fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOreec.woff2"
+          "eot": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FvOleeM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pa8FvOleeA&skey=62da9ba9ee2528b4&v=v15#Rajdhani",
+          "ttf": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FvOleeI.ttf",
+          "woff": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FvOleeE.woff",
+          "woff2": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FvOreec.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "300": {

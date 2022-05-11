@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Marck Script'",
-          "'MarckScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyxig7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpTtK2oNgBA3Or78gapdwuyxig4&skey=5f8a9188ebf1b8e9&v=v11#MarckScript",
-          "ttf": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyxig6.ttf",
-          "woff": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyxig5.woff",
-          "woff2": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2"
+          "eot": "https://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyxig7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpTtK2oNgBA3Or78gapdwuyxig4&skey=5f8a9188ebf1b8e9&v=v16#MarckScript",
+          "ttf": "https://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyxig6.ttf",
+          "woff": "https://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyxig5.woff",
+          "woff2": "https://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

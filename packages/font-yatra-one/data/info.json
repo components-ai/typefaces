@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Yatra One Regular'",
-          "'YatraOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BylmE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0BylmH&skey=3921a9df435bda23&v=v7#YatraOne",
-          "ttf": "https://fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BylmF.ttf",
-          "woff": "https://fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BylmG.woff",
-          "woff2": "https://fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BxFmA.woff2"
+          "eot": "https://fonts.gstatic.com/s/yatraone/v14/C8ch4copsHzj8p7NaF0BylmE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0BylmH&skey=3921a9df435bda23&v=v14#YatraOne",
+          "ttf": "https://fonts.gstatic.com/s/yatraone/v14/C8ch4copsHzj8p7NaF0BylmF.ttf",
+          "woff": "https://fonts.gstatic.com/s/yatraone/v14/C8ch4copsHzj8p7NaF0BylmG.woff",
+          "woff2": "https://fonts.gstatic.com/s/yatraone/v14/C8ch4copsHzj8p7NaF0BxFmA.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

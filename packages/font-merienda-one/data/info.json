@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Merienda One'",
-          "'MeriendaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYa3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXaMndbflEq6kyZ1ht6ohYa0&skey=f1843075bb93f595&v=v11#MeriendaOne",
-          "ttf": "https://fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYa2.ttf",
-          "woff": "https://fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYa1.woff",
-          "woff2": "https://fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYaz.woff2"
+          "eot": "https://fonts.gstatic.com/s/meriendaone/v16/H4cgBXaMndbflEq6kyZ1ht6ohYa3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXaMndbflEq6kyZ1ht6ohYa0&skey=f1843075bb93f595&v=v16#MeriendaOne",
+          "ttf": "https://fonts.gstatic.com/s/meriendaone/v16/H4cgBXaMndbflEq6kyZ1ht6ohYa2.ttf",
+          "woff": "https://fonts.gstatic.com/s/meriendaone/v16/H4cgBXaMndbflEq6kyZ1ht6ohYa1.woff",
+          "woff2": "https://fonts.gstatic.com/s/meriendaone/v16/H4cgBXaMndbflEq6kyZ1ht6ohYaz.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

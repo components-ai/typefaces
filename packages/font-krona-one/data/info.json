@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Krona One'",
-          "'KronaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdjHcjgfIb1ZcUyOIWn&skey=f76bf6a024f8fca&v=v9#KronaOne",
-          "ttf": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWl.ttf",
-          "woff": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWm.woff",
-          "woff2": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyNoWg.woff2"
+          "eot": "https://fonts.gstatic.com/s/kronaone/v14/jAnEgHdjHcjgfIb1ZcUyOIWk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdjHcjgfIb1ZcUyOIWn&skey=f76bf6a024f8fca&v=v14#KronaOne",
+          "ttf": "https://fonts.gstatic.com/s/kronaone/v14/jAnEgHdjHcjgfIb1ZcUyOIWl.ttf",
+          "woff": "https://fonts.gstatic.com/s/kronaone/v14/jAnEgHdjHcjgfIb1ZcUyOIWm.woff",
+          "woff2": "https://fonts.gstatic.com/s/kronaone/v14/jAnEgHdjHcjgfIb1ZcUyNoWg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

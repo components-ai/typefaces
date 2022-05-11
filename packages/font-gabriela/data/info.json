@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gabriela Regular'",
-          "'Gabriela-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xL8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m5xLw&skey=146d0218141ab9a9&v=v9#Gabriela",
-          "ttf": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xL4.ttf",
-          "woff": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xL0.woff",
-          "woff2": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xLs.woff2"
+          "eot": "https://fonts.gstatic.com/s/gabriela/v14/qkBWXvsO6sreR8E-b8m5xL8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m5xLw&skey=146d0218141ab9a9&v=v14#Gabriela",
+          "ttf": "https://fonts.gstatic.com/s/gabriela/v14/qkBWXvsO6sreR8E-b8m5xL4.ttf",
+          "woff": "https://fonts.gstatic.com/s/gabriela/v14/qkBWXvsO6sreR8E-b8m5xL0.woff",
+          "woff2": "https://fonts.gstatic.com/s/gabriela/v14/qkBWXvsO6sreR8E-b8m5xLs.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

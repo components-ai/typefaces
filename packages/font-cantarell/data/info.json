@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Cantarell Oblique'",
-          "'Cantarell-Oblique'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=B50LF7ZDq37KMUvlO015iZJpNKw&skey=5f16ed9b6a8a2f0d&v=v10#Cantarell",
-          "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK4.ttf",
-          "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK0.woff",
-          "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNKs.woff2"
+          "eot": "https://fonts.gstatic.com/s/cantarell/v15/B50LF7ZDq37KMUvlO015iZJpNK8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=B50LF7ZDq37KMUvlO015iZJpNKw&skey=5f16ed9b6a8a2f0d&v=v15#Cantarell",
+          "ttf": "https://fonts.gstatic.com/s/cantarell/v15/B50LF7ZDq37KMUvlO015iZJpNK4.ttf",
+          "woff": "https://fonts.gstatic.com/s/cantarell/v15/B50LF7ZDq37KMUvlO015iZJpNK0.woff",
+          "woff2": "https://fonts.gstatic.com/s/cantarell/v15/B50LF7ZDq37KMUvlO015iZJpNKs.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cantarell Bold Oblique'",
-          "'Cantarell-BoldOblique'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=B50WF7ZDq37KMUvlO015iZrSEb6dDYw&skey=6a4e6d776759d980&v=v10#Cantarell",
-          "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf",
-          "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY0.woff",
-          "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDYs.woff2"
+          "eot": "https://fonts.gstatic.com/s/cantarell/v15/B50WF7ZDq37KMUvlO015iZrSEb6dDY8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=B50WF7ZDq37KMUvlO015iZrSEb6dDYw&skey=6a4e6d776759d980&v=v15#Cantarell",
+          "ttf": "https://fonts.gstatic.com/s/cantarell/v15/B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf",
+          "woff": "https://fonts.gstatic.com/s/cantarell/v15/B50WF7ZDq37KMUvlO015iZrSEb6dDY0.woff",
+          "woff2": "https://fonts.gstatic.com/s/cantarell/v15/B50WF7ZDq37KMUvlO015iZrSEb6dDYs.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Cantarell Regular'",
-          "'Cantarell-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=B50NF7ZDq37KMUvlO015jKJs&skey=4fa1583b73a857db&v=v10#Cantarell",
-          "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJu.ttf",
-          "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJt.woff",
-          "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJr.woff2"
+          "eot": "https://fonts.gstatic.com/s/cantarell/v15/B50NF7ZDq37KMUvlO015jKJv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=B50NF7ZDq37KMUvlO015jKJs&skey=4fa1583b73a857db&v=v15#Cantarell",
+          "ttf": "https://fonts.gstatic.com/s/cantarell/v15/B50NF7ZDq37KMUvlO015jKJu.ttf",
+          "woff": "https://fonts.gstatic.com/s/cantarell/v15/B50NF7ZDq37KMUvlO015jKJt.woff",
+          "woff2": "https://fonts.gstatic.com/s/cantarell/v15/B50NF7ZDq37KMUvlO015jKJr.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cantarell Bold'",
-          "'Cantarell-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46b.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=B50IF7ZDq37KMUvlO01xN4d-E46Y&skey=4ce757239eccd614&v=v10#Cantarell",
-          "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46a.ttf",
-          "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46Z.woff",
-          "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46f.woff2"
+          "eot": "https://fonts.gstatic.com/s/cantarell/v15/B50IF7ZDq37KMUvlO01xN4d-E46b.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=B50IF7ZDq37KMUvlO01xN4d-E46Y&skey=4ce757239eccd614&v=v15#Cantarell",
+          "ttf": "https://fonts.gstatic.com/s/cantarell/v15/B50IF7ZDq37KMUvlO01xN4d-E46a.ttf",
+          "woff": "https://fonts.gstatic.com/s/cantarell/v15/B50IF7ZDq37KMUvlO01xN4d-E46Z.woff",
+          "woff2": "https://fonts.gstatic.com/s/cantarell/v15/B50IF7ZDq37KMUvlO01xN4d-E46f.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

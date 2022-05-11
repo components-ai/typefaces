@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Flat'",
-          "'NovaFlat'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFh.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTc-JgqpytEbVeb0viFi&skey=e559578af5fcf548&v=v12#NovaFlat",
-          "ttf": "https://fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFg.ttf",
-          "woff": "https://fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFj.woff",
-          "woff2": "https://fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFl.woff2"
+          "eot": "https://fonts.gstatic.com/s/novaflat/v24/QdVUSTc-JgqpytEbVeb0viFh.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTc-JgqpytEbVeb0viFi&skey=e559578af5fcf548&v=v24#NovaFlat",
+          "ttf": "https://fonts.gstatic.com/s/novaflat/v24/QdVUSTc-JgqpytEbVeb0viFg.ttf",
+          "woff": "https://fonts.gstatic.com/s/novaflat/v24/QdVUSTc-JgqpytEbVeb0viFj.woff",
+          "woff2": "https://fonts.gstatic.com/s/novaflat/v24/QdVUSTc-JgqpytEbVeb0viFl.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

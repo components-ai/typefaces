@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'SirinStencil'",
-          "'SirinStencil-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MAw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mem4YaWwznmLx-lzGfN7MdRyRc9MAA&skey=2cb146baaf057619&v=v9#SirinStencil",
-          "ttf": "https://fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MAg.ttf",
-          "woff": "https://fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MAQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MBw.woff2"
+          "eot": "https://fonts.gstatic.com/s/sirinstencil/v21/mem4YaWwznmLx-lzGfN7MdRyRc9MAw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mem4YaWwznmLx-lzGfN7MdRyRc9MAA&skey=2cb146baaf057619&v=v21#SirinStencil",
+          "ttf": "https://fonts.gstatic.com/s/sirinstencil/v21/mem4YaWwznmLx-lzGfN7MdRyRc9MAg.ttf",
+          "woff": "https://fonts.gstatic.com/s/sirinstencil/v21/mem4YaWwznmLx-lzGfN7MdRyRc9MAQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/sirinstencil/v21/mem4YaWwznmLx-lzGfN7MdRyRc9MBw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

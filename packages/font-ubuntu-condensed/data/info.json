@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -20,21 +20,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ubuntu Condensed'",
-          "'UbuntuCondensed-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frA&skey=aeebafbe63d33be9&v=v11#UbuntuCondensed",
-          "ttf": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frg.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfqw.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v16/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frA&skey=aeebafbe63d33be9&v=v16#UbuntuCondensed",
+          "ttf": "https://fonts.gstatic.com/s/ubuntucondensed/v16/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frg.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntucondensed/v16/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntucondensed/v16/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfqw.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -105,7 +102,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 271,
             "x_min": null,
             "x_max": null,

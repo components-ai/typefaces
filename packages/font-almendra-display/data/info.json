@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Almendra Display Regular'",
-          "'AlmendraDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSQ&skey=5188b8576550a0ff&v=v11#AlmendraDisplay",
-          "ttf": "https://fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSw.ttf",
-          "woff": "https://fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSA.woff",
-          "woff2": "https://fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSjUTg.woff2"
+          "eot": "https://fonts.gstatic.com/s/almendradisplay/v25/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSQ&skey=5188b8576550a0ff&v=v25#AlmendraDisplay",
+          "ttf": "https://fonts.gstatic.com/s/almendradisplay/v25/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSw.ttf",
+          "woff": "https://fonts.gstatic.com/s/almendradisplay/v25/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSA.woff",
+          "woff2": "https://fonts.gstatic.com/s/almendradisplay/v25/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSjUTg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

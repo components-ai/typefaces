@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ravi Prakash'",
-          "'RaviPrakash-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3n9xB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6fsDkVrF9Bv9X8SOAK3n9xC&skey=9bf559893359bc97&v=v7#RaviPrakash",
-          "ttf": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3n9xA.ttf",
-          "woff": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3n9xD.woff",
-          "woff2": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3n9xF.woff2"
+          "eot": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3n9xB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6fsDkVrF9Bv9X8SOAK3n9xC&skey=9bf559893359bc97&v=v19#RaviPrakash",
+          "ttf": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3n9xA.ttf",
+          "woff": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3n9xD.woff",
+          "woff2": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3n9xF.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -92,6 +89,12 @@
             "o": "m 430 639 l 430 639 q 347 663 382 663 q 279 654 312 662 l 279 654 q 263 498 263 591 q 279 374 263 404 l 279 374 q 433 582 434 403 l 433 582 q 430 639 433 606 z m 228 293 l 228 293 q 159 305 199 293 l 159 305 q 91 400 114 349 q 68 529 68 452 l 68 529 q 122 688 68 636 q 315 739 176 739 l 315 739 q 457 719 391 739 q 563 666 524 699 l 563 666 q 583 481 582 572 l 583 481 q 502 147 583 300 q 326 -68 420 -5 l 326 -68 l 137 58 q 285 189 216 109 q 400 355 354 269 l 400 355 l 392 359 q 228 293 317 293 z "
           },
           "\u0000": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\f": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-20",
   "subsets": [
     "arabic",
     "latin",
@@ -14,62 +14,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Amiri Italic'",
-          "'Amiri-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhL8Y7w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpd8CGxBHpUrhL8Y7A&skey=6f7852bf6f540377&v=v16#Amiri",
-          "ttf": "https://fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhL8Y7g.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhL8Y7Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhLEY6w.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiri/v24/J7afnpd8CGxBHpUrhL8Y7w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpd8CGxBHpUrhL8Y7A&skey=6f7852bf6f540377&v=v24#Amiri",
+          "ttf": "https://fonts.gstatic.com/s/amiri/v24/J7afnpd8CGxBHpUrhL8Y7g.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiri/v24/J7afnpd8CGxBHpUrhL8Y7Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiri/v24/J7afnpd8CGxBHpUrhLEY6w.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amiri Bold Italic'",
-          "'Amiri-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pJqGw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=J7aanpd8CGxBHpUrjAo9_pJqGA&skey=ccca51069e17c5a2&v=v16#Amiri",
-          "ttf": "https://fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pJqGg.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pJqGQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiri/v24/J7aanpd8CGxBHpUrjAo9_pJqGw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=J7aanpd8CGxBHpUrjAo9_pJqGA&skey=ccca51069e17c5a2&v=v24#Amiri",
+          "ttf": "https://fonts.gstatic.com/s/amiri/v24/J7aanpd8CGxBHpUrjAo9_pJqGg.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiri/v24/J7aanpd8CGxBHpUrjAo9_pJqGQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiri/v24/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Amiri Regular'",
-          "'Amiri-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUgtLc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHpUgtLQ&skey=159039cc026b7e65&v=v16#Amiri",
-          "ttf": "https://fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUgtLY.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUgtLU.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUutLM.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiri/v24/J7aRnpd8CGxBHpUgtLc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHpUgtLQ&skey=159039cc026b7e65&v=v24#Amiri",
+          "ttf": "https://fonts.gstatic.com/s/amiri/v24/J7aRnpd8CGxBHpUgtLY.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiri/v24/J7aRnpd8CGxBHpUgtLU.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiri/v24/J7aRnpd8CGxBHpUutLM.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amiri Bold'",
-          "'Amiri-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaYxzpo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpd8CGxBHp2VkaYxzpk&skey=5c9e4d49faf75fc2&v=v16#Amiri",
-          "ttf": "https://fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaYxzps.ttf",
-          "woff": "https://fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaYxzpg.woff",
-          "woff2": "https://fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaY_zp4.woff2"
+          "eot": "https://fonts.gstatic.com/s/amiri/v24/J7acnpd8CGxBHp2VkaYxzpo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpd8CGxBHp2VkaYxzpk&skey=5c9e4d49faf75fc2&v=v24#Amiri",
+          "ttf": "https://fonts.gstatic.com/s/amiri/v24/J7acnpd8CGxBHp2VkaYxzps.ttf",
+          "woff": "https://fonts.gstatic.com/s/amiri/v24/J7acnpd8CGxBHp2VkaYxzpg.woff",
+          "woff2": "https://fonts.gstatic.com/s/amiri/v24/J7acnpd8CGxBHp2VkaY_zp4.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v24",
   "typefaces": {
     "italic": {
       "400": {

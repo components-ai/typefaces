@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "telugu"
@@ -12,73 +12,58 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Chathura Thin'",
-          "'Chathura-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORSw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP91R7-rzUuVjim42dEm0ORSA&skey=766e61739e22aaba&v=v6#Chathura",
-          "ttf": "https://fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORSg.ttf",
-          "woff": "https://fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORSQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORTw.woff2"
+          "eot": "https://fonts.gstatic.com/s/chathura/v20/_gP91R7-rzUuVjim42dEm0ORSw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP91R7-rzUuVjim42dEm0ORSA&skey=766e61739e22aaba&v=v20#Chathura",
+          "ttf": "https://fonts.gstatic.com/s/chathura/v20/_gP91R7-rzUuVjim42dEm0ORSg.ttf",
+          "woff": "https://fonts.gstatic.com/s/chathura/v20/_gP91R7-rzUuVjim42dEm0ORSQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chathura/v20/_gP91R7-rzUuVjim42dEm0ORTw.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Chathura Light'",
-          "'Chathura-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2av8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eMiVS2avw&skey=a461c7cc6a7ac66&v=v6#Chathura",
-          "ttf": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2av4.ttf",
-          "woff": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2av0.woff",
-          "woff2": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2avs.woff2"
+          "eot": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eMiVS2av8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eMiVS2avw&skey=a461c7cc6a7ac66&v=v20#Chathura",
+          "ttf": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eMiVS2av4.ttf",
+          "woff": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eMiVS2av0.woff",
+          "woff2": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eMiVS2avs.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Chathura Regular'",
-          "'Chathura-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP71R7-rzUuVjim428nq0Y&skey=37a79c74def3fd18&v=v6#Chathura",
-          "ttf": "https://fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0c.woff",
-          "woff2": "https://fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0E.woff2"
+          "eot": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim428nq0U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP71R7-rzUuVjim428nq0Y&skey=37a79c74def3fd18&v=v20#Chathura",
+          "ttf": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim428nq0Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim428nq0c.woff",
+          "woff2": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim428nq0E.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Chathura Bold'",
-          "'Chathura-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2av8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42ecjlS2avw&skey=7435dace61c83230&v=v6#Chathura",
-          "ttf": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2av4.ttf",
-          "woff": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2av0.woff",
-          "woff2": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2avs.woff2"
+          "eot": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42ecjlS2av8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42ecjlS2avw&skey=7435dace61c83230&v=v20#Chathura",
+          "ttf": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42ecjlS2av4.ttf",
+          "woff": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42ecjlS2av0.woff",
+          "woff2": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42ecjlS2avs.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Chathura ExtraBold'",
-          "'Chathura-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2av8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eAjVS2avw&skey=8012a56d8595ebc7&v=v6#Chathura",
-          "ttf": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2av4.ttf",
-          "woff": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2av0.woff",
-          "woff2": "https://fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2avs.woff2"
+          "eot": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eAjVS2av8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eAjVS2avw&skey=8012a56d8595ebc7&v=v20#Chathura",
+          "ttf": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eAjVS2av4.ttf",
+          "woff": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eAjVS2av0.woff",
+          "woff2": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eAjVS2avs.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "100": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sura'",
-          "'Sura-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfdeXg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfdeXQ&skey=ef535c3779017afa&v=v5#Sura",
-          "ttf": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfdeXw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfdeXA.woff",
-          "woff2": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfleWg.woff2"
+          "eot": "https://fonts.gstatic.com/s/sura/v15/SZc23FL5PbyzJfdeXg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfdeXQ&skey=ef535c3779017afa&v=v15#Sura",
+          "ttf": "https://fonts.gstatic.com/s/sura/v15/SZc23FL5PbyzJfdeXw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sura/v15/SZc23FL5PbyzJfdeXA.woff",
+          "woff2": "https://fonts.gstatic.com/s/sura/v15/SZc23FL5PbyzJfleWg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sura Bold'",
-          "'Sura-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzTMlA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzTMlw&skey=ec0c744fd09d77e7&v=v5#Sura",
-          "ttf": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzTMlQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzTMlg.woff",
-          "woff2": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzrMkA.woff2"
+          "eot": "https://fonts.gstatic.com/s/sura/v15/SZc53FL5PbyzLUJ7TzTMlA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzTMlw&skey=ec0c744fd09d77e7&v=v15#Sura",
+          "ttf": "https://fonts.gstatic.com/s/sura/v15/SZc53FL5PbyzLUJ7TzTMlQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/sura/v15/SZc53FL5PbyzLUJ7TzTMlg.woff",
+          "woff2": "https://fonts.gstatic.com/s/sura/v15/SZc53FL5PbyzLUJ7TzrMkA.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

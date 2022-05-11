@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJwB2C1Y.woff2",
+    "200": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaJgB2C1Y.woff2",
+    "300": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8ULEJgB2C1Y.woff2",
+    "400": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJgB2C1Y.woff2",
+    "500": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKoJgB2C1Y.woff2",
+    "600": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJEIQB2C1Y.woff2",
+    "700": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJ9IQB2C1Y.woff2",
+    "800": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaIQB2C1Y.woff2",
+    "900": "https://fonts.gstatic.com/s/tourney/v7/AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIzIQB2C1Y.woff2"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQBCYjB0.woff2",
+    "200": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQFCYjB0.woff2",
+    "300": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GZwFCYjB0.woff2",
+    "400": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQFCYjB0.woff2",
+    "500": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GCwFCYjB0.woff2",
+    "600": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G5wZCYjB0.woff2",
+    "700": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G3gZCYjB0.woff2",
+    "800": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQZCYjB0.woff2",
+    "900": "https://fonts.gstatic.com/s/tourney/v7/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GkAZCYjB0.woff2"
+  }
+}

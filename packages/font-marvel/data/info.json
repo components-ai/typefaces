@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Marvel Italic'",
-          "'Marvel-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ34.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpXtKeoNgBV0qa4k2THJ30&skey=2a8e91ba4420dbf4&v=v10#Marvel",
-          "ttf": "https://fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ38.ttf",
-          "woff": "https://fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ3w.woff",
-          "woff2": "https://fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ3o.woff2"
+          "eot": "https://fonts.gstatic.com/s/marvel/v14/nwpXtKeoNgBV0qa4k2THJ34.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpXtKeoNgBV0qa4k2THJ30&skey=2a8e91ba4420dbf4&v=v14#Marvel",
+          "ttf": "https://fonts.gstatic.com/s/marvel/v14/nwpXtKeoNgBV0qa4k2THJ38.ttf",
+          "woff": "https://fonts.gstatic.com/s/marvel/v14/nwpXtKeoNgBV0qa4k2THJ3w.woff",
+          "woff2": "https://fonts.gstatic.com/s/marvel/v14/nwpXtKeoNgBV0qa4k2THJ3o.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Marvel Bold Italic'",
-          "'Marvel-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7wk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpQtKeoNgBV0qa4k2x8Am-l7wo&skey=5857b1551737f8b5&v=v10#Marvel",
-          "ttf": "https://fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7wg.ttf",
-          "woff": "https://fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7ws.woff",
-          "woff2": "https://fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7w0.woff2"
+          "eot": "https://fonts.gstatic.com/s/marvel/v14/nwpQtKeoNgBV0qa4k2x8Am-l7wk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpQtKeoNgBV0qa4k2x8Am-l7wo&skey=5857b1551737f8b5&v=v14#Marvel",
+          "ttf": "https://fonts.gstatic.com/s/marvel/v14/nwpQtKeoNgBV0qa4k2x8Am-l7wg.ttf",
+          "woff": "https://fonts.gstatic.com/s/marvel/v14/nwpQtKeoNgBV0qa4k2x8Am-l7ws.woff",
+          "woff2": "https://fonts.gstatic.com/s/marvel/v14/nwpQtKeoNgBV0qa4k2x8Am-l7w0.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Marvel'",
-          "'Marvel-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpVtKeoNgBV0qa4llTC&skey=52bf62c6b0bbc269&v=v10#Marvel",
-          "ttf": "https://fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTA.ttf",
-          "woff": "https://fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTD.woff",
-          "woff2": "https://fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTF.woff2"
+          "eot": "https://fonts.gstatic.com/s/marvel/v14/nwpVtKeoNgBV0qa4llTB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpVtKeoNgBV0qa4llTC&skey=52bf62c6b0bbc269&v=v14#Marvel",
+          "ttf": "https://fonts.gstatic.com/s/marvel/v14/nwpVtKeoNgBV0qa4llTA.ttf",
+          "woff": "https://fonts.gstatic.com/s/marvel/v14/nwpVtKeoNgBV0qa4llTD.woff",
+          "woff2": "https://fonts.gstatic.com/s/marvel/v14/nwpVtKeoNgBV0qa4llTF.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Marvel Bold'",
-          "'Marvel-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-j.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nwpWtKeoNgBV0qawLXHQAF-g&skey=552ff73ffe8c31bc&v=v10#Marvel",
-          "ttf": "https://fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-i.ttf",
-          "woff": "https://fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-h.woff",
-          "woff2": "https://fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-n.woff2"
+          "eot": "https://fonts.gstatic.com/s/marvel/v14/nwpWtKeoNgBV0qawLXHQAF-j.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nwpWtKeoNgBV0qawLXHQAF-g&skey=552ff73ffe8c31bc&v=v14#Marvel",
+          "ttf": "https://fonts.gstatic.com/s/marvel/v14/nwpWtKeoNgBV0qawLXHQAF-i.ttf",
+          "woff": "https://fonts.gstatic.com/s/marvel/v14/nwpWtKeoNgBV0qawLXHQAF-h.woff",
+          "woff2": "https://fonts.gstatic.com/s/marvel/v14/nwpWtKeoNgBV0qawLXHQAF-n.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v14",
   "typefaces": {
     "italic": {
       "400": {

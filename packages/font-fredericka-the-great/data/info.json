@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fredericka the Great'",
-          "'FrederickatheGreat'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbA&skey=e76684586970fdda&v=v10#FrederickatheGreat",
-          "ttf": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbI.ttf",
-          "woff": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbE.woff",
-          "woff2": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--Sjxbc.woff2"
+          "eot": "https://fonts.gstatic.com/s/frederickathegreat/v15/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbA&skey=e76684586970fdda&v=v15#FrederickatheGreat",
+          "ttf": "https://fonts.gstatic.com/s/frederickathegreat/v15/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbI.ttf",
+          "woff": "https://fonts.gstatic.com/s/frederickathegreat/v15/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbE.woff",
+          "woff2": "https://fonts.gstatic.com/s/frederickathegreat/v15/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--Sjxbc.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

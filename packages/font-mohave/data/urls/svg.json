@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=7cH2v4ksjJunKqM_CdE36I75AIQkY7G8qLOqr7rR&skey=9dd5af0ea9a472bc&v=v7#Mohave",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cH2v4ksjJunKqM_CdE36I75AIQkY7G89rOqr7rR&skey=9dd5af0ea9a472bc&v=v7#Mohave",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cH2v4ksjJunKqM_CdE36I75AIQkY7G8xLOqr7rR&skey=9dd5af0ea9a472bc&v=v7#Mohave",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cH2v4ksjJunKqM_CdE36I75AIQkY7G8KLSqr7rR&skey=9dd5af0ea9a472bc&v=v7#Mohave",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cH2v4ksjJunKqM_CdE36I75AIQkY7G8EbSqr7rR&skey=9dd5af0ea9a472bc&v=v7#Mohave"
+  },
+  "normal": {
+    "300": "https://fonts.gstatic.com/l/font?kit=7cH0v4ksjJunKqMVAOPIMOeSmiojdif_LvmapA&skey=74abd540a50efa77&v=v7#Mohave",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cH0v4ksjJunKqMVAOPIMOeSmiojdnn_LvmapA&skey=74abd540a50efa77&v=v7#Mohave",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cH0v4ksjJunKqMVAOPIMOeSmiojdkv_LvmapA&skey=74abd540a50efa77&v=v7#Mohave",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cH0v4ksjJunKqMVAOPIMOeSmiojdqf4LvmapA&skey=74abd540a50efa77&v=v7#Mohave",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cH0v4ksjJunKqMVAOPIMOeSmiojdp74LvmapA&skey=74abd540a50efa77&v=v7#Mohave"
+  }
+}

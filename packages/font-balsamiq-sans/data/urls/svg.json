@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v2#BalsamiqSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrG&skey=4ccce8aff5b32d19&v=v2#BalsamiqSans"
+    "400": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v10#BalsamiqSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrG&skey=4ccce8aff5b32d19&v=v10#BalsamiqSans"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7PncwdAXJw&skey=aba016cf33110df9&v=v2#BalsamiqSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBQ&skey=ae14fc485ccc4fa&v=v2#BalsamiqSans"
+    "400": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7PncwdAXJw&skey=aba016cf33110df9&v=v10#BalsamiqSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBQ&skey=ae14fc485ccc4fa&v=v10#BalsamiqSans"
   }
 }

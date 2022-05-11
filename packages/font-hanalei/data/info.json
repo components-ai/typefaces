@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Hanalei'",
-          "'Hanalei-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hanalei/v11/E21n_dD8iufIjBRHbzEsUg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dD8iufIjBRHbzEsUQ&skey=24a8e4e26fbe4a1&v=v11#Hanalei",
-          "ttf": "https://fonts.gstatic.com/s/hanalei/v11/E21n_dD8iufIjBRHbzEsUw.ttf",
-          "woff": "https://fonts.gstatic.com/s/hanalei/v11/E21n_dD8iufIjBRHbzEsUA.woff",
-          "woff2": "https://fonts.gstatic.com/s/hanalei/v11/E21n_dD8iufIjBRHbz8sVg.woff2"
+          "eot": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzEsUg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dD8iufIjBRHbzEsUQ&skey=24a8e4e26fbe4a1&v=v23#Hanalei",
+          "ttf": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzEsUw.ttf",
+          "woff": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzEsUA.woff",
+          "woff2": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbz8sVg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

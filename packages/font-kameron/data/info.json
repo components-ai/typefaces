@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,33 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kameron'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Kg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vm82dR7vXErQxuzngLk6KQ&skey=320070e7b0fe699d&v=v11#Kameron",
-          "ttf": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Kw.ttf",
-          "woff": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6KA.woff",
-          "woff2": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Lg.woff2"
+          "eot": "https://fonts.gstatic.com/s/kameron/v15/vm82dR7vXErQxuzngLk6Kg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vm82dR7vXErQxuzngLk6KQ&skey=320070e7b0fe699d&v=v15#Kameron",
+          "ttf": "https://fonts.gstatic.com/s/kameron/v15/vm82dR7vXErQxuzngLk6Kw.ttf",
+          "woff": "https://fonts.gstatic.com/s/kameron/v15/vm82dR7vXErQxuzngLk6KA.woff",
+          "woff2": "https://fonts.gstatic.com/s/kameron/v15/vm82dR7vXErQxuzngLk6Lg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Kameron Bold'",
-          "'Kameron-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpeQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vm8zdR7vXErQxuzniAIfO-rpeg&skey=36c6c85829f8e05c&v=v11#Kameron",
-          "ttf": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpeA.ttf",
-          "woff": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpew.woff",
-          "woff2": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpfQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/kameron/v15/vm8zdR7vXErQxuzniAIfO-rpeQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vm8zdR7vXErQxuzniAIfO-rpeg&skey=36c6c85829f8e05c&v=v15#Kameron",
+          "ttf": "https://fonts.gstatic.com/s/kameron/v15/vm8zdR7vXErQxuzniAIfO-rpeA.ttf",
+          "woff": "https://fonts.gstatic.com/s/kameron/v15/vm8zdR7vXErQxuzniAIfO-rpew.woff",
+          "woff2": "https://fonts.gstatic.com/s/kameron/v15/vm8zdR7vXErQxuzniAIfO-rpfQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,60 +12,48 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Enriqueta Regular'",
-          "'Enriqueta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjQkqm.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L7AUFrRvV44HVjQkql&skey=dab50c048a056710&v=v10#Enriqueta",
-          "ttf": "https://fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjQkqn.ttf",
-          "woff": "https://fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjQkqk.woff",
-          "woff2": "https://fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjTEqi.woff2"
+          "eot": "https://fonts.gstatic.com/s/enriqueta/v15/goksH6L7AUFrRvV44HVjQkqm.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L7AUFrRvV44HVjQkql&skey=dab50c048a056710&v=v15#Enriqueta",
+          "ttf": "https://fonts.gstatic.com/s/enriqueta/v15/goksH6L7AUFrRvV44HVjQkqn.ttf",
+          "woff": "https://fonts.gstatic.com/s/enriqueta/v15/goksH6L7AUFrRvV44HVjQkqk.woff",
+          "woff2": "https://fonts.gstatic.com/s/enriqueta/v15/goksH6L7AUFrRvV44HVjTEqi.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Enriqueta Medium'",
-          "'Enriqueta-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3kdxB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrv2m3kdxC&skey=11da786e6c231620&v=v10#Enriqueta",
-          "ttf": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3kdxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3kdxD.woff",
-          "woff2": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3n9xF.woff2"
+          "eot": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrv2m3kdxB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrv2m3kdxC&skey=11da786e6c231620&v=v15#Enriqueta",
+          "ttf": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrv2m3kdxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrv2m3kdxD.woff",
+          "woff2": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrv2m3n9xF.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Enriqueta SemiBold'",
-          "'Enriqueta-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263kdxB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrk263kdxC&skey=2c59480ffca4526f&v=v10#Enriqueta",
-          "ttf": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263kdxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263kdxD.woff",
-          "woff2": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263n9xF.woff2"
+          "eot": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrk263kdxB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrk263kdxC&skey=2c59480ffca4526f&v=v15#Enriqueta",
+          "ttf": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrk263kdxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrk263kdxD.woff",
+          "woff2": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVrk263n9xF.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Enriqueta Bold'",
-          "'Enriqueta-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3kdxB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVr92-3kdxC&skey=fc1c760d7345b8dc&v=v10#Enriqueta",
-          "ttf": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3kdxA.ttf",
-          "woff": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3kdxD.woff",
-          "woff2": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3n9xF.woff2"
+          "eot": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVr92-3kdxB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVr92-3kdxC&skey=fc1c760d7345b8dc&v=v15#Enriqueta",
+          "ttf": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVr92-3kdxA.ttf",
+          "woff": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVr92-3kdxD.woff",
+          "woff2": "https://fonts.gstatic.com/s/enriqueta/v15/gokpH6L7AUFrRvV44HVr92-3n9xF.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

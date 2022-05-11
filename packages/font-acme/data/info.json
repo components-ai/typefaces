@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Acme Regular'",
-          "'Acme-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBag.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQfboBx-C5_XxrBaQ&skey=dcf71eb6104dcefb&v=v10#Acme",
-          "ttf": "https://fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBaw.ttf",
-          "woff": "https://fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBaA.woff",
-          "woff2": "https://fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBbg.woff2"
+          "eot": "https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBag.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQfboBx-C5_XxrBaQ&skey=dcf71eb6104dcefb&v=v18#Acme",
+          "ttf": "https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBaw.ttf",
+          "woff": "https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBaA.woff",
+          "woff2": "https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBbg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

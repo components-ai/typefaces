@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Englebert'",
-          "'Englebert-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBRv3d.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn7iYH8w2XGrC8AR4HSBRv3e&skey=3dd5ddabce9dea4&v=v8#Englebert",
-          "ttf": "https://fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBRv3c.ttf",
-          "woff": "https://fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBRv3f.woff",
-          "woff2": "https://fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBSP3Z.woff2"
+          "eot": "https://fonts.gstatic.com/s/englebert/v17/xn7iYH8w2XGrC8AR4HSBRv3d.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn7iYH8w2XGrC8AR4HSBRv3e&skey=3dd5ddabce9dea4&v=v17#Englebert",
+          "ttf": "https://fonts.gstatic.com/s/englebert/v17/xn7iYH8w2XGrC8AR4HSBRv3c.ttf",
+          "woff": "https://fonts.gstatic.com/s/englebert/v17/xn7iYH8w2XGrC8AR4HSBRv3f.woff",
+          "woff2": "https://fonts.gstatic.com/s/englebert/v17/xn7iYH8w2XGrC8AR4HSBSP3Z.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

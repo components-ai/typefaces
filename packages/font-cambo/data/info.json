@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cambo'",
-          "'Cambo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qEs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=IFSqHeNEk8FJk719qEg&skey=fdee44efd5e5393b&v=v9#Cambo",
-          "ttf": "https://fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qEo.ttf",
-          "woff": "https://fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qEk.woff",
-          "woff2": "https://fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qE8.woff2"
+          "eot": "https://fonts.gstatic.com/s/cambo/v14/IFSqHeNEk8FJk719qEs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=IFSqHeNEk8FJk719qEg&skey=fdee44efd5e5393b&v=v14#Cambo",
+          "ttf": "https://fonts.gstatic.com/s/cambo/v14/IFSqHeNEk8FJk719qEo.ttf",
+          "woff": "https://fonts.gstatic.com/s/cambo/v14/IFSqHeNEk8FJk719qEk.woff",
+          "woff2": "https://fonts.gstatic.com/s/cambo/v14/IFSqHeNEk8FJk719qE8.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

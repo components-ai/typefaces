@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Questrial Regular'",
-          "'Questrial-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70sCFh.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTchPBm7nuUeVf70sCFi&skey=52b8dabeb218987d&v=v12#Questrial",
-          "ttf": "https://fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70sCFg.ttf",
-          "woff": "https://fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70sCFj.woff",
-          "woff2": "https://fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70viFl.woff2"
+          "eot": "https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70sCFh.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTchPBm7nuUeVf70sCFi&skey=52b8dabeb218987d&v=v18#Questrial",
+          "ttf": "https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70sCFg.ttf",
+          "woff": "https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70sCFj.woff",
+          "woff2": "https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70viFl.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

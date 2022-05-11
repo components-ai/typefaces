@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Finger Paint Regular'",
-          "'FingerPaint-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fingerpaint/v10/0QInMXVJ-o-oRn_7dron8YW-9JzX.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0QInMXVJ-o-oRn_7dron8YW-9JzU&skey=43e614e9c5adbe1d&v=v10#FingerPaint",
-          "ttf": "https://fonts.gstatic.com/s/fingerpaint/v10/0QInMXVJ-o-oRn_7dron8YW-9JzW.ttf",
-          "woff": "https://fonts.gstatic.com/s/fingerpaint/v10/0QInMXVJ-o-oRn_7dron8YW-9JzV.woff",
-          "woff2": "https://fonts.gstatic.com/s/fingerpaint/v10/0QInMXVJ-o-oRn_7dron8YW-9JzT.woff2"
+          "eot": "https://fonts.gstatic.com/s/fingerpaint/v15/0QInMXVJ-o-oRn_7dron8YW-9JzX.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0QInMXVJ-o-oRn_7dron8YW-9JzU&skey=43e614e9c5adbe1d&v=v15#FingerPaint",
+          "ttf": "https://fonts.gstatic.com/s/fingerpaint/v15/0QInMXVJ-o-oRn_7dron8YW-9JzW.ttf",
+          "woff": "https://fonts.gstatic.com/s/fingerpaint/v15/0QInMXVJ-o-oRn_7dron8YW-9JzV.woff",
+          "woff2": "https://fonts.gstatic.com/s/fingerpaint/v15/0QInMXVJ-o-oRn_7dron8YW-9JzT.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

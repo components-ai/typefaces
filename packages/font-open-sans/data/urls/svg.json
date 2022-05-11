@@ -1,16 +1,18 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=memnYaGs126MiZpBA-UFUKWyV9hlIqQ&skey=78fa527f8e87b8b8&v=v18#OpenSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=mem6YaGs126MiZpBA-UFUK0Xdco&skey=743457fe2cc29280&v=v18#OpenSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=memnYaGs126MiZpBA-UFUKXGUdhlIqQ&skey=5addd15a3a8d014a&v=v18#OpenSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=memnYaGs126MiZpBA-UFUKWiUNhlIqQ&skey=7e5bb13249e84143&v=v18#OpenSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=memnYaGs126MiZpBA-UFUKW-U9hlIqQ&skey=d9bfcfc65fee79b7&v=v18#OpenSans"
+    "300": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exw&skey=743457fe2cc29280&v=v28#OpenSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exw&skey=743457fe2cc29280&v=v28#OpenSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV4exw&skey=743457fe2cc29280&v=v28#OpenSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exw&skey=743457fe2cc29280&v=v28#OpenSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exw&skey=743457fe2cc29280&v=v28#OpenSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exw&skey=743457fe2cc29280&v=v28#OpenSans"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=mem5YaGs126MiZpBA-UN_r8OXOhu&skey=b33cc031a589c168&v=v18#OpenSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=mem8YaGs126MiZpBA-UFW50c&skey=62c1cbfccc78b4b2&v=v18#OpenSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=mem5YaGs126MiZpBA-UNirkOXOhu&skey=a162967ffaa5aa08&v=v18#OpenSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=mem5YaGs126MiZpBA-UN7rgOXOhu&skey=cd9e1a36bb25a3c3&v=v18#OpenSans",
-    "800": "https://fonts.gstatic.com/l/font?kit=mem5YaGs126MiZpBA-UN8rsOXOhu&skey=c27b416055908855&v=v18#OpenSans"
+    "300": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVU&skey=62c1cbfccc78b4b2&v=v28#OpenSans"
   }
 }

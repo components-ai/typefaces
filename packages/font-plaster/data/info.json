@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Plaster'",
-          "'Plaster-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/plaster/v12/DdTm79QatW80eRh4IidDPw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdTm79QatW80eRh4IidDPA&skey=6748ccde38e8a5e5&v=v12#Plaster",
-          "ttf": "https://fonts.gstatic.com/s/plaster/v12/DdTm79QatW80eRh4IidDPg.ttf",
-          "woff": "https://fonts.gstatic.com/s/plaster/v12/DdTm79QatW80eRh4IidDPQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/plaster/v12/DdTm79QatW80eRh4IilDOw.woff2"
+          "eot": "https://fonts.gstatic.com/s/plaster/v24/DdTm79QatW80eRh4IidDPw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdTm79QatW80eRh4IidDPA&skey=6748ccde38e8a5e5&v=v24#Plaster",
+          "ttf": "https://fonts.gstatic.com/s/plaster/v24/DdTm79QatW80eRh4IidDPg.ttf",
+          "woff": "https://fonts.gstatic.com/s/plaster/v24/DdTm79QatW80eRh4IidDPQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/plaster/v24/DdTm79QatW80eRh4IilDOw.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 163,
             "x_max": 1135,
             "o": "m 718 0 l 718 923 l 770 923 q 1114 663 1049 923 l 1114 663 q 1135 455 1135 575 l 1135 455 q 1044 116 1135 233 q 770 0 953 0 l 770 0 l 718 0 z m 258 457 q 186 523 210 479 q 163 643 163 566 q 185 773 163 719 q 254 861 207 828 l 254 861 q 555 923 342 923 l 555 923 l 606 923 l 606 420 l 536 420 q 258 457 334 420 l 258 457 z m 195 268 l 195 317 l 606 317 l 606 0 l 562 0 q 281 62 367 0 l 281 62 q 195 268 195 124 l 195 268 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 695,

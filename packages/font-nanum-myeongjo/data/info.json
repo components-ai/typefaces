@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2019-07-17",
+  "lastModified": "2022-05-10",
   "subsets": [
     "korean",
     "latin"
@@ -102,46 +102,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'NanumMyeongjo'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LscnE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9Btx3DZF0dXLMZlywRbVRNhxy2LscnI&skey=c8f5ea5084209dd&v=v15#NanumMyeongjo",
-          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LscnA.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LscnM.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy1LuEGI-gZ_Ll9dMHVruCTvHYAnNT2g.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Btx3DZF0dXLMZlywRbVRNhxy2LscnE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9Btx3DZF0dXLMZlywRbVRNhxy2LscnI&skey=c8f5ea5084209dd&v=v20#NanumMyeongjo",
+          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Btx3DZF0dXLMZlywRbVRNhxy2LscnA.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Btx3DZF0dXLMZlywRbVRNhxy2LscnM.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Btx3DZF0dXLMZlywRbVRNhxy1LuEGI-gZ_Ll9dMHVruCTvHYAnNT2g.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'NanumMyeongjo Bold'",
-          "'NanumMyeongjoBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_Y&skey=40a011740daa4120&v=v15#NanumMyeongjo",
-          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_c.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1Axzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_Y&skey=40a011740daa4120&v=v20#NanumMyeongjo",
+          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_c.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1Axzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2"
         }
       },
       "800": {
-        "local": [
-          "'NanumMyeongjo ExtraBold'",
-          "'NanumMyeongjoExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_Y&skey=7f88cf83bf337c15&v=v15#NanumMyeongjo",
-          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_c.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFAxzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_Y&skey=7f88cf83bf337c15&v=v20#NanumMyeongjo",
+          "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_c.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v20/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFAxzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

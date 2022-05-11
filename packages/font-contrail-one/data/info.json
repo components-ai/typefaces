@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Contrail One'",
-          "'ContrailOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=eLGbP-j_JA-kG0_Zo51noaftYkHr&skey=7f950c167c59f33&v=v10#ContrailOne",
-          "ttf": "https://fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHp.ttf",
-          "woff": "https://fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHq.woff",
-          "woff2": "https://fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHs.woff2"
+          "eot": "https://fonts.gstatic.com/s/contrailone/v15/eLGbP-j_JA-kG0_Zo51noaftYkHo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=eLGbP-j_JA-kG0_Zo51noaftYkHr&skey=7f950c167c59f33&v=v15#ContrailOne",
+          "ttf": "https://fonts.gstatic.com/s/contrailone/v15/eLGbP-j_JA-kG0_Zo51noaftYkHp.ttf",
+          "woff": "https://fonts.gstatic.com/s/contrailone/v15/eLGbP-j_JA-kG0_Zo51noaftYkHq.woff",
+          "woff2": "https://fonts.gstatic.com/s/contrailone/v15/eLGbP-j_JA-kG0_Zo51noaftYkHs.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

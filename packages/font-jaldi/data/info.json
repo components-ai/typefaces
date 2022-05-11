@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jaldi'",
-          "'Jaldi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NdbJU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=or3sQ67z0_CI33NdbJY&skey=ed4f59c0ba71a113&v=v7#Jaldi",
-          "ttf": "https://fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NdbJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NdbJc.woff",
-          "woff2": "https://fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NTbJE.woff2"
+          "eot": "https://fonts.gstatic.com/s/jaldi/v12/or3sQ67z0_CI33NdbJU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=or3sQ67z0_CI33NdbJY&skey=ed4f59c0ba71a113&v=v12#Jaldi",
+          "ttf": "https://fonts.gstatic.com/s/jaldi/v12/or3sQ67z0_CI33NdbJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/jaldi/v12/or3sQ67z0_CI33NdbJc.woff",
+          "woff2": "https://fonts.gstatic.com/s/jaldi/v12/or3sQ67z0_CI33NTbJE.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Jaldi Bold'",
-          "'Jaldi-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYT-JrE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSYT-JrI&skey=b6fe25580230f49d&v=v7#Jaldi",
-          "ttf": "https://fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYT-JrA.ttf",
-          "woff": "https://fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYT-JrM.woff",
-          "woff2": "https://fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYTwJrU.woff2"
+          "eot": "https://fonts.gstatic.com/s/jaldi/v12/or3hQ67z0_CI33voSYT-JrE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSYT-JrI&skey=b6fe25580230f49d&v=v12#Jaldi",
+          "ttf": "https://fonts.gstatic.com/s/jaldi/v12/or3hQ67z0_CI33voSYT-JrA.ttf",
+          "woff": "https://fonts.gstatic.com/s/jaldi/v12/or3hQ67z0_CI33voSYT-JrM.woff",
+          "woff2": "https://fonts.gstatic.com/s/jaldi/v12/or3hQ67z0_CI33voSYTwJrU.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

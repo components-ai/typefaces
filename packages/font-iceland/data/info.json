@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Iceland'",
-          "'Iceland-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMBQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax9HiuFsdMNOnWPaKtMBg&skey=4b5c1e4c28ff6c1d&v=v9#Iceland",
-          "ttf": "https://fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMBA.ttf",
-          "woff": "https://fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMBw.woff",
-          "woff2": "https://fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMAQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/iceland/v16/rax9HiuFsdMNOnWPaKtMBQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax9HiuFsdMNOnWPaKtMBg&skey=4b5c1e4c28ff6c1d&v=v16#Iceland",
+          "ttf": "https://fonts.gstatic.com/s/iceland/v16/rax9HiuFsdMNOnWPaKtMBA.ttf",
+          "woff": "https://fonts.gstatic.com/s/iceland/v16/rax9HiuFsdMNOnWPaKtMBw.woff",
+          "woff2": "https://fonts.gstatic.com/s/iceland/v16/rax9HiuFsdMNOnWPaKtMAQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

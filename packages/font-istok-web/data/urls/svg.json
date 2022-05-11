@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=3qTpojGmgSyUukBzKslpA1tz3kE&skey=8811c9fe870c01bf&v=v15#IstokWeb",
-    "700": "https://fonts.gstatic.com/l/font?kit=3qT0ojGmgSyUukBzKslpA1PG-1MZSBQ&skey=cacea6fe46cb51d6&v=v15#IstokWeb"
+    "400": "https://fonts.gstatic.com/l/font?kit=3qTpojGmgSyUukBzKslpA1tz3kE&skey=8811c9fe870c01bf&v=v20#IstokWeb",
+    "700": "https://fonts.gstatic.com/l/font?kit=3qT0ojGmgSyUukBzKslpA1PG-1MZSBQ&skey=cacea6fe46cb51d6&v=v20#IstokWeb"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=3qTvojGmgSyUukBzKslpCGt4&skey=79160bf8eb8143d8&v=v15#IstokWeb",
-    "700": "https://fonts.gstatic.com/l/font?kit=3qTqojGmgSyUukBzKslhvU5q92MS&skey=b825e864c348b299&v=v15#IstokWeb"
+    "400": "https://fonts.gstatic.com/l/font?kit=3qTvojGmgSyUukBzKslpCGt4&skey=79160bf8eb8143d8&v=v20#IstokWeb",
+    "700": "https://fonts.gstatic.com/l/font?kit=3qTqojGmgSyUukBzKslhvU5q92MS&skey=b825e864c348b299&v=v20#IstokWeb"
   }
 }

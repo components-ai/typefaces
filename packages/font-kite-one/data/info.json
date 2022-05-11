@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kite One'",
-          "'KiteOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kiteone/v8/70lQu7shLnA_E02vyp1c4nw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=70lQu7shLnA_E02vyp1c4n8&skey=cef6ce79b95626d1&v=v8#KiteOne",
-          "ttf": "https://fonts.gstatic.com/s/kiteone/v8/70lQu7shLnA_E02vyp1c4n0.ttf",
-          "woff": "https://fonts.gstatic.com/s/kiteone/v8/70lQu7shLnA_E02vyp1c4n4.woff",
-          "woff2": "https://fonts.gstatic.com/s/kiteone/v8/70lQu7shLnA_E02vyp1c4ng.woff2"
+          "eot": "https://fonts.gstatic.com/s/kiteone/v20/70lQu7shLnA_E02vyp1c4nw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=70lQu7shLnA_E02vyp1c4n8&skey=cef6ce79b95626d1&v=v20#KiteOne",
+          "ttf": "https://fonts.gstatic.com/s/kiteone/v20/70lQu7shLnA_E02vyp1c4n0.ttf",
+          "woff": "https://fonts.gstatic.com/s/kiteone/v20/70lQu7shLnA_E02vyp1c4n4.woff",
+          "woff2": "https://fonts.gstatic.com/s/kiteone/v20/70lQu7shLnA_E02vyp1c4ng.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

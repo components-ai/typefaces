@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sigmar One Regular'",
-          "'SigmarOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3do6rpog.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=co3DmWZ8kjZuErj9Ta3do6rpoQ&skey=1faaf69a761e7c1&v=v11#SigmarOne",
-          "ttf": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3do6rpow.ttf",
-          "woff": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3do6rpoA.woff",
-          "woff2": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3do6Tppg.woff2"
+          "eot": "https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6rpog.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=co3DmWZ8kjZuErj9Ta3do6rpoQ&skey=1faaf69a761e7c1&v=v16#SigmarOne",
+          "ttf": "https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6rpow.ttf",
+          "woff": "https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6rpoA.woff",
+          "woff2": "https://fonts.gstatic.com/s/sigmarone/v16/co3DmWZ8kjZuErj9Ta3do6Tppg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

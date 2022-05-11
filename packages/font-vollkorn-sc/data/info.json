@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,60 +18,48 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vollkorn SC Regular'",
-          "'VollkornSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViFwPno.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_v6-zQ3rXpceZj9cqnViFwPnk&skey=da610b8dbfbf0570&v=v4#VollkornSC",
-          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViFwPns.ttf",
-          "woff": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViFwPng.woff",
-          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViF-Pn4.woff2"
+          "eot": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_v6-zQ3rXpceZj9cqnViFwPno.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_v6-zQ3rXpceZj9cqnViFwPnk&skey=da610b8dbfbf0570&v=v11#VollkornSC",
+          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_v6-zQ3rXpceZj9cqnViFwPns.ttf",
+          "woff": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_v6-zQ3rXpceZj9cqnViFwPng.woff",
+          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_v6-zQ3rXpceZj9cqnViF-Pn4.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Vollkorn SC SemiBold'",
-          "'VollkornSC-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVimhGmuja7U&skey=b5d9ca42fccc701c&v=v4#VollkornSC",
-          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuja7c.ttf",
-          "woff": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuta7I.woff2"
+          "eot": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVimhGmuja7U&skey=b5d9ca42fccc701c&v=v11#VollkornSC",
+          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVimhGmuja7c.ttf",
+          "woff": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVimhGmuta7I.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Vollkorn SC Bold'",
-          "'VollkornSC-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVinFG2uja7U&skey=d18e281a62eab1e4&v=v4#VollkornSC",
-          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uja7c.ttf",
-          "woff": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uta7I.woff2"
+          "eot": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVinFG2uja7U&skey=d18e281a62eab1e4&v=v11#VollkornSC",
+          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVinFG2uja7c.ttf",
+          "woff": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVinFG2uta7I.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Vollkorn SC Black'",
-          "'VollkornSC-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVin9GWuja7U&skey=a4bb4f23b53b9ad8&v=v4#VollkornSC",
-          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuja7c.ttf",
-          "woff": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuta7I.woff2"
+          "eot": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVin9GWuja7U&skey=a4bb4f23b53b9ad8&v=v11#VollkornSC",
+          "ttf": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVin9GWuja7c.ttf",
+          "woff": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/vollkornsc/v11/j8_y6-zQ3rXpceZj9cqnVin9GWuta7I.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

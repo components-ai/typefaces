@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Paytone One Regular'",
-          "'PaytoneOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTjgP8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0nksC9P7MfYHj2oFtYm2ChTjgPw&skey=f6917b7c19023a20&v=v13#PaytoneOne",
-          "ttf": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTjgP4.ttf",
-          "woff": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTjgP0.woff",
-          "woff2": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTtgPs.woff2"
+          "eot": "https://fonts.gstatic.com/s/paytoneone/v18/0nksC9P7MfYHj2oFtYm2ChTjgP8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0nksC9P7MfYHj2oFtYm2ChTjgPw&skey=f6917b7c19023a20&v=v18#PaytoneOne",
+          "ttf": "https://fonts.gstatic.com/s/paytoneone/v18/0nksC9P7MfYHj2oFtYm2ChTjgP4.ttf",
+          "woff": "https://fonts.gstatic.com/s/paytoneone/v18/0nksC9P7MfYHj2oFtYm2ChTjgP0.woff",
+          "woff2": "https://fonts.gstatic.com/s/paytoneone/v18/0nksC9P7MfYHj2oFtYm2ChTtgPs.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

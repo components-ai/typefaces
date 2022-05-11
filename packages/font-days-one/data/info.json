@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Days One'",
-          "'DaysOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScrw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mem9YaCnxnKRiYZOCIYScr8&skey=1aa007742d6eba3&v=v10#DaysOne",
-          "ttf": "https://fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScr0.ttf",
-          "woff": "https://fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScr4.woff",
-          "woff2": "https://fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScrg.woff2"
+          "eot": "https://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCIYScrw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mem9YaCnxnKRiYZOCIYScr8&skey=1aa007742d6eba3&v=v14#DaysOne",
+          "ttf": "https://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCIYScr0.ttf",
+          "woff": "https://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCIYScr4.woff",
+          "woff2": "https://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCIYScrg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

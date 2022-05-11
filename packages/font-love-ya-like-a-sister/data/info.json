@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Love Ya Like A Sister Regular'",
-          "'LoveYaLikeASister-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxZ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxa&skey=e817d1706a6a9534&v=v11#LoveYaLikeASister",
-          "ttf": "https://fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxY.ttf",
-          "woff": "https://fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxb.woff",
-          "woff2": "https://fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxd.woff2"
+          "eot": "https://fonts.gstatic.com/s/loveyalikeasister/v16/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxZ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxa&skey=e817d1706a6a9534&v=v16#LoveYaLikeASister",
+          "ttf": "https://fonts.gstatic.com/s/loveyalikeasister/v16/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxY.ttf",
+          "woff": "https://fonts.gstatic.com/s/loveyalikeasister/v16/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxb.woff",
+          "woff2": "https://fonts.gstatic.com/s/loveyalikeasister/v16/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxd.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

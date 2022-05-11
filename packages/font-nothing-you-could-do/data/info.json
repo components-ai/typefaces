@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nothing You Could Do'",
-          "'NothingYouCouldDo'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nothingyoucoulddo/v10/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnVw&skey=772542671f40e9f1&v=v10#NothingYouCouldDo",
-          "ttf": "https://fonts.gstatic.com/s/nothingyoucoulddo/v10/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV4.ttf",
-          "woff": "https://fonts.gstatic.com/s/nothingyoucoulddo/v10/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV0.woff",
-          "woff2": "https://fonts.gstatic.com/s/nothingyoucoulddo/v10/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnVs.woff2"
+          "eot": "https://fonts.gstatic.com/s/nothingyoucoulddo/v15/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnVw&skey=772542671f40e9f1&v=v15#NothingYouCouldDo",
+          "ttf": "https://fonts.gstatic.com/s/nothingyoucoulddo/v15/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV4.ttf",
+          "woff": "https://fonts.gstatic.com/s/nothingyoucoulddo/v15/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV0.woff",
+          "woff2": "https://fonts.gstatic.com/s/nothingyoucoulddo/v15/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnVs.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

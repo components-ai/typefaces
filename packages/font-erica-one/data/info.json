@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Erica One'",
-          "'EricaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFUkXJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXccV9VGrOKmGDFUkXK&skey=411c9a24a37316a6&v=v11#EricaOne",
-          "ttf": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFUkXI.ttf",
-          "woff": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFUkXL.woff",
-          "woff2": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXN.woff2"
+          "eot": "https://fonts.gstatic.com/s/ericaone/v23/WBLnrEXccV9VGrOKmGDFUkXJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXccV9VGrOKmGDFUkXK&skey=411c9a24a37316a6&v=v23#EricaOne",
+          "ttf": "https://fonts.gstatic.com/s/ericaone/v23/WBLnrEXccV9VGrOKmGDFUkXI.ttf",
+          "woff": "https://fonts.gstatic.com/s/ericaone/v23/WBLnrEXccV9VGrOKmGDFUkXL.woff",
+          "woff2": "https://fonts.gstatic.com/s/ericaone/v23/WBLnrEXccV9VGrOKmGDFXEXN.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

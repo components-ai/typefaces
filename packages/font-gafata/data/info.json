@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gafata'",
-          "'Gafata-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonIO-aF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Cn0VJKonIO-aG&skey=ac32f67a7703448a&v=v9#Gafata",
-          "ttf": "https://fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonIO-aE.ttf",
-          "woff": "https://fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonIO-aH.woff",
-          "woff2": "https://fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonINeaB.woff2"
+          "eot": "https://fonts.gstatic.com/s/gafata/v16/XRXV3I6Cn0VJKonIO-aF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Cn0VJKonIO-aG&skey=ac32f67a7703448a&v=v16#Gafata",
+          "ttf": "https://fonts.gstatic.com/s/gafata/v16/XRXV3I6Cn0VJKonIO-aE.ttf",
+          "woff": "https://fonts.gstatic.com/s/gafata/v16/XRXV3I6Cn0VJKonIO-aH.woff",
+          "woff2": "https://fonts.gstatic.com/s/gafata/v16/XRXV3I6Cn0VJKonINeaB.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

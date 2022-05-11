@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Griffy'",
-          "'Griffy-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAQd6B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-ox2FQh9kfAQd6C&skey=8bca262f73db85e4&v=v9#Griffy",
-          "ttf": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAQd6A.ttf",
-          "woff": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAQd6D.woff",
-          "woff2": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAT96F.woff2"
+          "eot": "https://fonts.gstatic.com/s/griffy/v21/FwZa7-ox2FQh9kfAQd6B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-ox2FQh9kfAQd6C&skey=8bca262f73db85e4&v=v21#Griffy",
+          "ttf": "https://fonts.gstatic.com/s/griffy/v21/FwZa7-ox2FQh9kfAQd6A.ttf",
+          "woff": "https://fonts.gstatic.com/s/griffy/v21/FwZa7-ox2FQh9kfAQd6D.woff",
+          "woff2": "https://fonts.gstatic.com/s/griffy/v21/FwZa7-ox2FQh9kfAT96F.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "200": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "300": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "400": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "500": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "600": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "700": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "800": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew",
+    "900": "https://fonts.gstatic.com/l/font?kit=k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAG0&skey=401d31a2b3be7104&v=v15#NotoSerifHebrew"
+  }
+}

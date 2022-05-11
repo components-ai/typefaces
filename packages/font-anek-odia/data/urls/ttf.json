@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZf53vV5Q.ttf",
+    "200": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZfp3vV5Q.ttf",
+    "300": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnnHfp3vV5Q.ttf",
+    "400": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfp3vV5Q.ttf",
+    "500": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmrfp3vV5Q.ttf",
+    "600": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnlHeZ3vV5Q.ttf",
+    "700": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnl-eZ3vV5Q.ttf",
+    "800": "https://fonts.gstatic.com/s/anekodia/v2/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZeZ3vV5Q.ttf"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bree Serif Regular'",
-          "'BreeSerif-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJCrhhnVA3DgluA96Tp4A&skey=31c3ad25dd3d74b0&v=v10#BreeSerif",
-          "ttf": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4g.ttf",
-          "woff": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96rp5w.woff2"
+          "eot": "https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96Tp4w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJCrhhnVA3DgluA96Tp4A&skey=31c3ad25dd3d74b0&v=v17#BreeSerif",
+          "ttf": "https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96Tp4g.ttf",
+          "woff": "https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96rp5w.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Satisfy Regular'",
-          "'Satisfy-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIGQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rP2Hp2yn6lkG50LoCZOIGg&skey=b02738efc6e9caf3&v=v11#Satisfy",
-          "ttf": "https://fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIGA.ttf",
-          "woff": "https://fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIGw.woff",
-          "woff2": "https://fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIHQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/satisfy/v17/rP2Hp2yn6lkG50LoCZOIGQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rP2Hp2yn6lkG50LoCZOIGg&skey=b02738efc6e9caf3&v=v17#Satisfy",
+          "ttf": "https://fonts.gstatic.com/s/satisfy/v17/rP2Hp2yn6lkG50LoCZOIGA.ttf",
+          "woff": "https://fonts.gstatic.com/s/satisfy/v17/rP2Hp2yn6lkG50LoCZOIGw.woff",
+          "woff2": "https://fonts.gstatic.com/s/satisfy/v17/rP2Hp2yn6lkG50LoCZOIHQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

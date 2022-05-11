@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Asar Regular'",
-          "'Asar-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbk8aCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIbk8aCg&skey=a29dbc6a54d5d953&v=v8#Asar",
-          "ttf": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbk8aCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbk8aCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbkEaDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbk8aCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIbk8aCg&skey=a29dbc6a54d5d953&v=v22#Asar",
+          "ttf": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbk8aCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbk8aCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbkEaDQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

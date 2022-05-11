@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mallanna'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hv-Vlzx-KEQb84YaDFw0GTI&skey=1cbb48e2a8964ae5&v=v8#Mallanna",
-          "ttf": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTA.ttf",
-          "woff": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTM.woff",
-          "woff2": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTU.woff2"
+          "eot": "https://fonts.gstatic.com/s/mallanna/v13/hv-Vlzx-KEQb84YaDFw0GTE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hv-Vlzx-KEQb84YaDFw0GTI&skey=1cbb48e2a8964ae5&v=v13#Mallanna",
+          "ttf": "https://fonts.gstatic.com/s/mallanna/v13/hv-Vlzx-KEQb84YaDFw0GTA.ttf",
+          "woff": "https://fonts.gstatic.com/s/mallanna/v13/hv-Vlzx-KEQb84YaDFw0GTM.woff",
+          "woff2": "https://fonts.gstatic.com/s/mallanna/v13/hv-Vlzx-KEQb84YaDFw0GTU.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

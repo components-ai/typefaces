@@ -1,71 +1,59 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "greek"
   ],
   "unicodeRange": {
-    "greek": "U+0370-03FF"
+    "greek": "U+0370-03FF, U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'GFS Neohellenic Italic'",
-          "'GFSNeohellenic-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JK.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JJ&skey=f2ba620c81c38934&v=v13#GFSNeohellenic",
-          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JL.ttf",
-          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JI.woff",
-          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL5JPy6EjUw.woff2"
+          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JK.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JJ&skey=f2ba620c81c38934&v=v25#GFSNeohellenic",
+          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JL.ttf",
+          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JI.woff",
+          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL5JPy6E.woff2"
         }
       },
       "700": {
-        "local": [
-          "'GFS Neohellenic Bold Italic'",
-          "'GFSNeohellenic-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQa.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQZ&skey=862dcd242c044705&v=v13#GFSNeohellenic",
-          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQb.ttf",
-          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQY.woff",
-          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37rQfcsBu9w.woff2"
+          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQa.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQZ&skey=862dcd242c044705&v=v25#GFSNeohellenic",
+          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQb.ttf",
+          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQY.woff",
+          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37rQfcsA.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'GFS Neohellenic Regular'",
-          "'GFSNeohellenic-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLw&skey=23c7e23ffcc49e32&v=v13#GFSNeohellenic",
-          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLg.woff",
-          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5jKaJO06U.woff2"
+          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLw&skey=23c7e23ffcc49e32&v=v25#GFSNeohellenic",
+          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLg.woff",
+          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIRdiDOrfiq0b7R8O1Iw9WLcY5jKaJO.woff2"
         }
       },
       "700": {
-        "local": [
-          "'GFS Neohellenic Bold'",
-          "'GFSNeohellenic-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6Q&skey=5d1eabadf3ca5996&v=v13#GFSNeohellenic",
-          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6w.ttf",
-          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6A.woff",
-          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdb74QeasQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6Q&skey=5d1eabadf3ca5996&v=v25#GFSNeohellenic",
+          "ttf": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6w.ttf",
+          "woff": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6A.woff",
+          "woff2": "https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdb74Qe.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v25",
   "typefaces": {
     "italic": {
       "400": {

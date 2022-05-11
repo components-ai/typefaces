@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jomhuria'",
-          "'Jomhuria-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1b8OuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Dxxp8j-TMXf-llKur1b8Ouc&skey=e8318179d6e93cfb&v=v9#Jomhuria",
-          "ttf": "https://fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1b8OuU.ttf",
-          "woff": "https://fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1b8OuY.woff",
-          "woff2": "https://fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1byOuA.woff2"
+          "eot": "https://fonts.gstatic.com/s/jomhuria/v18/Dxxp8j-TMXf-llKur1b8OuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Dxxp8j-TMXf-llKur1b8Ouc&skey=e8318179d6e93cfb&v=v18#Jomhuria",
+          "ttf": "https://fonts.gstatic.com/s/jomhuria/v18/Dxxp8j-TMXf-llKur1b8OuU.ttf",
+          "woff": "https://fonts.gstatic.com/s/jomhuria/v18/Dxxp8j-TMXf-llKur1b8OuY.woff",
+          "woff2": "https://fonts.gstatic.com/s/jomhuria/v18/Dxxp8j-TMXf-llKur1byOuA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

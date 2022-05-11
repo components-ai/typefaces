@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Salsa-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gNMKW3FiRpKj-hmf-HE&skey=985c78b6ec74c6ef&v=v10#Salsa",
-          "ttf": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HM.ttf",
-          "woff": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HA.woff",
-          "woff2": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HY.woff2"
+          "eot": "https://fonts.gstatic.com/s/salsa/v17/gNMKW3FiRpKj-hmf-HI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gNMKW3FiRpKj-hmf-HE&skey=985c78b6ec74c6ef&v=v17#Salsa",
+          "ttf": "https://fonts.gstatic.com/s/salsa/v17/gNMKW3FiRpKj-hmf-HM.ttf",
+          "woff": "https://fonts.gstatic.com/s/salsa/v17/gNMKW3FiRpKj-hmf-HA.woff",
+          "woff2": "https://fonts.gstatic.com/s/salsa/v17/gNMKW3FiRpKj-hmf-HY.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

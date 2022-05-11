@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Oxygen Mono'",
-          "'OxygenMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjWx-o.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGg9FxgDgCjLeAd7hjWx-k&skey=464e9f9167c9e76a&v=v8#OxygenMono",
-          "ttf": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjWx-s.ttf",
-          "woff": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjWx-g.woff",
-          "woff2": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2"
+          "eot": "https://fonts.gstatic.com/s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjWx-o.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGg9FxgDgCjLeAd7hjWx-k&skey=464e9f9167c9e76a&v=v13#OxygenMono",
+          "ttf": "https://fonts.gstatic.com/s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjWx-s.ttf",
+          "woff": "https://fonts.gstatic.com/s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjWx-g.woff",
+          "woff2": "https://fonts.gstatic.com/s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

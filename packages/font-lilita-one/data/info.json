@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lilita One'",
-          "'LilitaOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYE98QQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFZ9Zz-WBtRtedDbYE98Qg&skey=436433a343b15cb9&v=v8#LilitaOne",
-          "ttf": "https://fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYE98QA.ttf",
-          "woff": "https://fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYE98Qw.woff",
-          "woff2": "https://fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbYE98QQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFZ9Zz-WBtRtedDbYE98Qg&skey=436433a343b15cb9&v=v13#LilitaOne",
+          "ttf": "https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbYE98QA.ttf",
+          "woff": "https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbYE98Qw.woff",
+          "woff2": "https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

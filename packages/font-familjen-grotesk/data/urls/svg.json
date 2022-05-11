@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKsSuSVX0Eg&skey=ee3338be1d2d06db&v=v2#FamiljenGrotesk",
+    "500": "https://fonts.gstatic.com/l/font?kit=Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKvauSVX0Eg&skey=ee3338be1d2d06db&v=v2#FamiljenGrotesk",
+    "600": "https://fonts.gstatic.com/l/font?kit=Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKhqpSVX0Eg&skey=ee3338be1d2d06db&v=v2#FamiljenGrotesk",
+    "700": "https://fonts.gstatic.com/l/font?kit=Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKiOpSVX0Eg&skey=ee3338be1d2d06db&v=v2#FamiljenGrotesk"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMGJaRzkeV4&skey=d313b61b400f0258&v=v2#FamiljenGrotesk",
+    "500": "https://fonts.gstatic.com/l/font?kit=Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMG7aRzkeV4&skey=d313b61b400f0258&v=v2#FamiljenGrotesk",
+    "600": "https://fonts.gstatic.com/l/font?kit=Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFXbhzkeV4&skey=d313b61b400f0258&v=v2#FamiljenGrotesk",
+    "700": "https://fonts.gstatic.com/l/font?kit=Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFubhzkeV4&skey=d313b61b400f0258&v=v2#FamiljenGrotesk"
+  }
+}

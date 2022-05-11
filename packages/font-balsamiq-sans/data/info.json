@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,62 +16,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Balsamiq Sans Italic'",
-          "'BalsamiqSans-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9N.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v2#BalsamiqSans",
-          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9M.ttf",
-          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9P.woff",
-          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9J.woff2"
+          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9N.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v10#BalsamiqSans",
+          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9M.ttf",
+          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9P.woff",
+          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9J.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Balsamiq Sans Bold Italic'",
-          "'BalsamiqSans-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrG&skey=4ccce8aff5b32d19&v=v2#BalsamiqSans",
-          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrE.ttf",
-          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrH.woff",
-          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrB.woff2"
+          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrG&skey=4ccce8aff5b32d19&v=v10#BalsamiqSans",
+          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrE.ttf",
+          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrH.woff",
+          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrB.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Balsamiq Sans Regular'",
-          "'BalsamiqSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7PncwdAXJA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7PncwdAXJw&skey=aba016cf33110df9&v=v2#BalsamiqSans",
-          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7PncwdAXJQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7PncwdAXJg.woff",
-          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7Pncwd4XIA.woff2"
+          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sEzZiAbNrN8SB3lQQX7PncwdAXJA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7PncwdAXJw&skey=aba016cf33110df9&v=v10#BalsamiqSans",
+          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sEzZiAbNrN8SB3lQQX7PncwdAXJQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sEzZiAbNrN8SB3lQQX7PncwdAXJg.woff",
+          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sEzZiAbNrN8SB3lQQX7Pncwd4XIA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Balsamiq Sans Bold'",
-          "'BalsamiqSans-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBQ&skey=ae14fc485ccc4fa&v=v2#BalsamiqSans",
-          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBw.ttf",
-          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBA.woff",
-          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYhsAg.woff2"
+          "eot": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBQ&skey=ae14fc485ccc4fa&v=v10#BalsamiqSans",
+          "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBw.ttf",
+          "woff": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBA.woff",
+          "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v10/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYhsAg.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v10",
   "typefaces": {
     "italic": {
       "400": {

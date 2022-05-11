@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "malayalam"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Chilanka Regular'",
-          "'Chilanka-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJXKdc&skey=959ced8e02f09fab&v=v6#Chilanka",
-          "ttf": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdU.ttf",
-          "woff": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdY.woff",
-          "woff2": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdA.woff2"
+          "eot": "https://fonts.gstatic.com/s/chilanka/v18/WWXRlj2DZQiMJYaYRoJXKdQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJXKdc&skey=959ced8e02f09fab&v=v18#Chilanka",
+          "ttf": "https://fonts.gstatic.com/s/chilanka/v18/WWXRlj2DZQiMJYaYRoJXKdU.ttf",
+          "woff": "https://fonts.gstatic.com/s/chilanka/v18/WWXRlj2DZQiMJYaYRoJXKdY.woff",
+          "woff2": "https://fonts.gstatic.com/s/chilanka/v18/WWXRlj2DZQiMJYaYRoJXKdA.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

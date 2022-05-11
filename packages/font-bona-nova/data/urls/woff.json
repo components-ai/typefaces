@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/bonanova/v10/B50LF7ZCpX7fcHfvIUB5iZJnNK0.woff"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/bonanova/v10/B50NF7ZCpX7fcHfvIUB5gqJt.woff",
+    "700": "https://fonts.gstatic.com/s/bonanova/v10/B50IF7ZCpX7fcHfvIUBxN4d-HY6Z.woff"
+  }
+}

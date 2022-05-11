@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pirata One'",
-          "'PirataOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhiGOqg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpiDvgLdLh0fAtofhiGOqQ&skey=13fae7b324dc3d5d&v=v9#PirataOne",
-          "ttf": "https://fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhiGOqw.ttf",
-          "woff": "https://fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhiGOqA.woff",
-          "woff2": "https://fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhi-Org.woff2"
+          "eot": "https://fonts.gstatic.com/s/pirataone/v22/I_urMpiDvgLdLh0fAtofhiGOqg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpiDvgLdLh0fAtofhiGOqQ&skey=13fae7b324dc3d5d&v=v22#PirataOne",
+          "ttf": "https://fonts.gstatic.com/s/pirataone/v22/I_urMpiDvgLdLh0fAtofhiGOqw.ttf",
+          "woff": "https://fonts.gstatic.com/s/pirataone/v22/I_urMpiDvgLdLh0fAtofhiGOqA.woff",
+          "woff2": "https://fonts.gstatic.com/s/pirataone/v22/I_urMpiDvgLdLh0fAtofhi-Org.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

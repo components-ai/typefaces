@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Uncial Antiqua'",
-          "'UncialAntiqua-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/uncialantiqua/v8/N0bM2S5WOex4OUbESzoESK-i-MfWQZA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=N0bM2S5WOex4OUbESzoESK-i-MfWQZM&skey=d5210999b4a28dd7&v=v8#UncialAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/uncialantiqua/v8/N0bM2S5WOex4OUbESzoESK-i-MfWQZE.ttf",
-          "woff": "https://fonts.gstatic.com/s/uncialantiqua/v8/N0bM2S5WOex4OUbESzoESK-i-MfWQZI.woff",
-          "woff2": "https://fonts.gstatic.com/s/uncialantiqua/v8/N0bM2S5WOex4OUbESzoESK-i-MfWQZQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/uncialantiqua/v20/N0bM2S5WOex4OUbESzoESK-i-MfWQZA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=N0bM2S5WOex4OUbESzoESK-i-MfWQZM&skey=d5210999b4a28dd7&v=v20#UncialAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/uncialantiqua/v20/N0bM2S5WOex4OUbESzoESK-i-MfWQZE.ttf",
+          "woff": "https://fonts.gstatic.com/s/uncialantiqua/v20/N0bM2S5WOex4OUbESzoESK-i-MfWQZI.woff",
+          "woff2": "https://fonts.gstatic.com/s/uncialantiqua/v20/N0bM2S5WOex4OUbESzoESK-i-MfWQZQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

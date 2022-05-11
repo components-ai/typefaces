@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Donegal One'",
-          "'DonegalOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRMTmo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRYea-ZnFz6fsK9FaRMTmk&skey=30881e7cfe9fede3&v=v8#DonegalOne",
-          "ttf": "https://fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRMTms.ttf",
-          "woff": "https://fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRMTmg.woff",
-          "woff2": "https://fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRCTm4.woff2"
+          "eot": "https://fonts.gstatic.com/s/donegalone/v20/m8JWjfRYea-ZnFz6fsK9FaRMTmo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRYea-ZnFz6fsK9FaRMTmk&skey=30881e7cfe9fede3&v=v20#DonegalOne",
+          "ttf": "https://fonts.gstatic.com/s/donegalone/v20/m8JWjfRYea-ZnFz6fsK9FaRMTms.ttf",
+          "woff": "https://fonts.gstatic.com/s/donegalone/v20/m8JWjfRYea-ZnFz6fsK9FaRMTmg.woff",
+          "woff2": "https://fonts.gstatic.com/s/donegalone/v20/m8JWjfRYea-ZnFz6fsK9FaRCTm4.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

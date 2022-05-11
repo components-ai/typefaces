@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Corben Regular'",
-          "'Corben-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNqQNB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNqQNC&skey=795061005e976bd6&v=v14#Corben",
-          "ttf": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNqQNA.ttf",
-          "woff": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNqQND.woff",
-          "woff2": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwNF.woff2"
+          "eot": "https://fonts.gstatic.com/s/corben/v19/LYjDdGzzklQtCMpNqQNB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNqQNC&skey=795061005e976bd6&v=v19#Corben",
+          "ttf": "https://fonts.gstatic.com/s/corben/v19/LYjDdGzzklQtCMpNqQNA.ttf",
+          "woff": "https://fonts.gstatic.com/s/corben/v19/LYjDdGzzklQtCMpNqQND.woff",
+          "woff2": "https://fonts.gstatic.com/s/corben/v19/LYjDdGzzklQtCMpNpwNF.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Corben'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQpHou.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQpHot&skey=f18040a69657653b&v=v14#Corben",
-          "ttf": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQpHov.ttf",
-          "woff": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQpHos.woff",
-          "woff2": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnoq.woff2"
+          "eot": "https://fonts.gstatic.com/s/corben/v19/LYjAdGzzklQtCMpFHCZQpHou.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQpHot&skey=f18040a69657653b&v=v19#Corben",
+          "ttf": "https://fonts.gstatic.com/s/corben/v19/LYjAdGzzklQtCMpFHCZQpHov.ttf",
+          "woff": "https://fonts.gstatic.com/s/corben/v19/LYjAdGzzklQtCMpFHCZQpHos.woff",
+          "woff2": "https://fonts.gstatic.com/s/corben/v19/LYjAdGzzklQtCMpFHCZQqnoq.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

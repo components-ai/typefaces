@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Alfa Slab One Regular'",
-          "'AlfaSlabOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alfaslabone/v10/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfA&skey=eb2fdb158beaba49&v=v10#AlfaSlabOne",
-          "ttf": "https://fonts.gstatic.com/s/alfaslabone/v10/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfg.ttf",
-          "woff": "https://fonts.gstatic.com/s/alfaslabone/v10/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/alfaslabone/v10/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhew.woff2"
+          "eot": "https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfA&skey=eb2fdb158beaba49&v=v17#AlfaSlabOne",
+          "ttf": "https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfg.ttf",
+          "woff": "https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dxhfQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhew.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

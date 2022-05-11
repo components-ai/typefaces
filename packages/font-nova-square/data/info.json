@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Square'",
-          "'NovaSquare'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novasquare/v13/RrQUbo9-9DV7b06QHgSWsahHT4Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo9-9DV7b06QHgSWsahHT4U&skey=eda40973f7ff17ba&v=v13#NovaSquare",
-          "ttf": "https://fonts.gstatic.com/s/novasquare/v13/RrQUbo9-9DV7b06QHgSWsahHT4c.ttf",
-          "woff": "https://fonts.gstatic.com/s/novasquare/v13/RrQUbo9-9DV7b06QHgSWsahHT4Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/novasquare/v13/RrQUbo9-9DV7b06QHgSWsahHT4I.woff2"
+          "eot": "https://fonts.gstatic.com/s/novasquare/v20/RrQUbo9-9DV7b06QHgSWsahHT4Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo9-9DV7b06QHgSWsahHT4U&skey=eda40973f7ff17ba&v=v20#NovaSquare",
+          "ttf": "https://fonts.gstatic.com/s/novasquare/v20/RrQUbo9-9DV7b06QHgSWsahHT4c.ttf",
+          "woff": "https://fonts.gstatic.com/s/novasquare/v20/RrQUbo9-9DV7b06QHgSWsahHT4Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/novasquare/v20/RrQUbo9-9DV7b06QHgSWsahHT4I.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

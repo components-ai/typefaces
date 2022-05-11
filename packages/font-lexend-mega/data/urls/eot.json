@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/lexendmega/v3/qFdA35aBi5JtHD41zSTFEs7D4h4.eot"
+    "100": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDL8fiftOan.eot",
+    "200": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLcfmftOan.eot",
+    "300": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLr_mftOan.eot",
+    "400": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDL8fmftOan.eot",
+    "500": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLw_mftOan.eot",
+    "600": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLL_6ftOan.eot",
+    "700": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLFv6ftOan.eot",
+    "800": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLcf6ftOan.eot",
+    "900": "https://fonts.gstatic.com/s/lexendmega/v23/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDLWP6ftOan.eot"
   }
 }

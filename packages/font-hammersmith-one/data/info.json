@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Hammersmith One'",
-          "'HammersmithOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/hammersmithone/v11/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEh.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qWcyB624q4L_C4jGQ9IK0O_dFlnruxEi&skey=5f94f25a102337d5&v=v11#HammersmithOne",
-          "ttf": "https://fonts.gstatic.com/s/hammersmithone/v11/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEg.ttf",
-          "woff": "https://fonts.gstatic.com/s/hammersmithone/v11/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEj.woff",
-          "woff2": "https://fonts.gstatic.com/s/hammersmithone/v11/qWcyB624q4L_C4jGQ9IK0O_dFlnrtREl.woff2"
+          "eot": "https://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEh.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qWcyB624q4L_C4jGQ9IK0O_dFlnruxEi&skey=5f94f25a102337d5&v=v17#HammersmithOne",
+          "ttf": "https://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEg.ttf",
+          "woff": "https://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnruxEj.woff",
+          "woff2": "https://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnrtREl.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 77,
             "x_max": 847,
             "o": "m 163 190 l 165 194 q 385 139 240 139 l 385 139 q 567 207 490 139 l 567 207 q 666 376 641 273 l 666 376 q 459 285 588 304 l 459 285 q 371 279 422 279 q 262 300 320 279 q 164 358 205 320 l 164 358 q 77 574 77 439 l 77 574 q 190 822 77 723 l 190 822 q 457 919 299 919 l 457 919 q 749 794 644 919 l 749 794 q 847 494 847 679 l 847 494 q 734 142 847 283 l 734 142 q 373 -17 606 -17 l 373 -17 q 169 23 254 -17 l 169 23 l 163 190 z m 416 431 l 416 431 q 504 444 462 431 q 579 476 547 456 l 579 476 q 665 587 646 519 l 665 587 q 536 750 633 713 l 536 750 q 461 762 503 762 q 380 750 418 762 q 313 713 341 737 l 313 713 q 251 579 251 663 l 251 579 q 292 475 251 516 l 292 475 q 416 431 336 431 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 460,
@@ -2238,7 +2241,7 @@
             "en": "Copyright (c) 2011, Sorkin Type Co. (www.sorkintype.com)\rwith Reserved Font Name \"Hammersmith\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
           },
           "fontFamily": {
-            "en": "HammersmithOne"
+            "en": "Hammersmith One"
           },
           "fontSubfamily": {
             "en": "Regular"
@@ -2247,7 +2250,7 @@
             "en": "NicoleFally: HammersmithOne Regular: 2011"
           },
           "fullName": {
-            "en": "HammersmithOne Regular"
+            "en": "Hammersmith One Regular"
           },
           "version": {
             "en": "Version 1.003"

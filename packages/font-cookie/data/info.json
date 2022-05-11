@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cookie-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cookie/v12/syky-y18lb0tSbf9kgqW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=syky-y18lb0tSbf9kgqV&skey=94aef82ff911a990&v=v12#Cookie",
-          "ttf": "https://fonts.gstatic.com/s/cookie/v12/syky-y18lb0tSbf9kgqX.ttf",
-          "woff": "https://fonts.gstatic.com/s/cookie/v12/syky-y18lb0tSbf9kgqU.woff",
-          "woff2": "https://fonts.gstatic.com/s/cookie/v12/syky-y18lb0tSbf9kgqS.woff2"
+          "eot": "https://fonts.gstatic.com/s/cookie/v17/syky-y18lb0tSbf9kgqW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=syky-y18lb0tSbf9kgqV&skey=94aef82ff911a990&v=v17#Cookie",
+          "ttf": "https://fonts.gstatic.com/s/cookie/v17/syky-y18lb0tSbf9kgqX.ttf",
+          "woff": "https://fonts.gstatic.com/s/cookie/v17/syky-y18lb0tSbf9kgqU.woff",
+          "woff2": "https://fonts.gstatic.com/s/cookie/v17/syky-y18lb0tSbf9kgqS.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

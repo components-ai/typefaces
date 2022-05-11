@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-26",
   "subsets": [
     "arabic",
     "latin",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lalezar'",
-          "'Lalezar-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lalezar/v8/zrfl0HLVx-HwTP82Yan4Jw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLVx-HwTP82Yan4JA&skey=98b64abaf403d4dc&v=v8#Lalezar",
-          "ttf": "https://fonts.gstatic.com/s/lalezar/v8/zrfl0HLVx-HwTP82Yan4Jg.ttf",
-          "woff": "https://fonts.gstatic.com/s/lalezar/v8/zrfl0HLVx-HwTP82Yan4JQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lalezar/v8/zrfl0HLVx-HwTP82Yaf4Iw.woff2"
+          "eot": "https://fonts.gstatic.com/s/lalezar/v14/zrfl0HLVx-HwTP82Yan4Jw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLVx-HwTP82Yan4JA&skey=98b64abaf403d4dc&v=v14#Lalezar",
+          "ttf": "https://fonts.gstatic.com/s/lalezar/v14/zrfl0HLVx-HwTP82Yan4Jg.ttf",
+          "woff": "https://fonts.gstatic.com/s/lalezar/v14/zrfl0HLVx-HwTP82Yan4JQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lalezar/v14/zrfl0HLVx-HwTP82Yaf4Iw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

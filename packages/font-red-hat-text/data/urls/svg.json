@@ -1,12 +1,16 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=RrQJbohi_ic6B3yVSzGBrMxQbZchO88&skey=f6525de85de2641b&v=v3#RedHatText",
-    "500": "https://fonts.gstatic.com/l/font?kit=RrQKbohi_ic6B3yVSzGBrMxQbZ_cGN2IHVo&skey=7fcb7676b8f1ab0f&v=v3#RedHatText",
-    "700": "https://fonts.gstatic.com/l/font?kit=RrQKbohi_ic6B3yVSzGBrMxQbZ-UHt2IHVo&skey=86ee3701bd66095d&v=v3#RedHatText"
+    "300": "https://fonts.gstatic.com/l/font?kit=RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXgfK1G&skey=f6525de85de2641b&v=v11#RedHatText",
+    "400": "https://fonts.gstatic.com/l/font?kit=RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXgfK1G&skey=f6525de85de2641b&v=v11#RedHatText",
+    "500": "https://fonts.gstatic.com/l/font?kit=RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXgfK1G&skey=f6525de85de2641b&v=v11#RedHatText",
+    "600": "https://fonts.gstatic.com/l/font?kit=RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLgfK1G&skey=f6525de85de2641b&v=v11#RedHatText",
+    "700": "https://fonts.gstatic.com/l/font?kit=RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLgfK1G&skey=f6525de85de2641b&v=v11#RedHatText"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=RrQXbohi_ic6B3yVSzGBrMxQZqcq&skey=a69e06a86684dac1&v=v3#RedHatText",
-    "500": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxYm4Q4Eu2D&skey=615702249843504a&v=v3#RedHatText",
-    "700": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxY04I4Eu2D&skey=4058bf258a8e51b3&v=v3#RedHatText"
+    "300": "https://fonts.gstatic.com/l/font?kit=RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwZr_Qdw&skey=a69e06a86684dac1&v=v11#RedHatText",
+    "400": "https://fonts.gstatic.com/l/font?kit=RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZr_Qdw&skey=a69e06a86684dac1&v=v11#RedHatText",
+    "500": "https://fonts.gstatic.com/l/font?kit=RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwZr_Qdw&skey=a69e06a86684dac1&v=v11#RedHatText",
+    "600": "https://fonts.gstatic.com/l/font?kit=RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3Zr_Qdw&skey=a69e06a86684dac1&v=v11#RedHatText",
+    "700": "https://fonts.gstatic.com/l/font?kit=RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193Zr_Qdw&skey=a69e06a86684dac1&v=v11#RedHatText"
   }
 }

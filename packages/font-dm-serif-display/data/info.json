@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2019-11-19",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'DM Serif Display Italic'",
-          "'DMSerifDisplay-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDy.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDx&skey=9b354e2f4705b58c&v=v4#DMSerifDisplay",
-          "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDz.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDw.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDy.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDx&skey=9b354e2f4705b58c&v=v10#DMSerifDisplay",
+          "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDz.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDw.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'DM Serif Display Regular'",
-          "'DMSerifDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1Q&skey=b35e2c4c711f6b3&v=v4#DMSerifDisplay",
-          "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1w.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1A.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1Q&skey=b35e2c4c711f6b3&v=v10#DMSerifDisplay",
+          "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1w.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1A.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v10",
   "typefaces": {
     "italic": {
       "400": {

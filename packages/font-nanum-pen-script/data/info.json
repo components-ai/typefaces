@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-05-10",
   "subsets": [
     "korean",
     "latin"
@@ -130,21 +130,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nanum Pen'",
-          "'NanumPen'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bg&skey=ec72c2295b136164&v=v15#NanumPenScript",
-          "ttf": "https://fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bA.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bw.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN2zuWfsNNAlvx8XyriiBoA4Qt-85VRg.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumpenscript/v19/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bg&skey=ec72c2295b136164&v=v19#NanumPenScript",
+          "ttf": "https://fonts.gstatic.com/s/nanumpenscript/v19/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bA.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumpenscript/v19/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bw.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumpenscript/v19/daaDSSYiLGqEal3MvdA_FOL_3FkN2zuWfsNNAlvx8XyriiBoA4Qt-85VRg.119.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

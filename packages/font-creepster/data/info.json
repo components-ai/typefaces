@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Creepster'",
-          "'Creepster-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/creepster/v9/AlZy_zVUqJz4yMrniH4Rcn39.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVUqJz4yMrniH4Rcn3-&skey=de4b92872e661f36&v=v9#Creepster",
-          "ttf": "https://fonts.gstatic.com/s/creepster/v9/AlZy_zVUqJz4yMrniH4Rcn38.ttf",
-          "woff": "https://fonts.gstatic.com/s/creepster/v9/AlZy_zVUqJz4yMrniH4Rcn3_.woff",
-          "woff2": "https://fonts.gstatic.com/s/creepster/v9/AlZy_zVUqJz4yMrniH4Rcn35.woff2"
+          "eot": "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn39.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVUqJz4yMrniH4Rcn3-&skey=de4b92872e661f36&v=v13#Creepster",
+          "ttf": "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn38.ttf",
+          "woff": "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn3_.woff",
+          "woff2": "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn35.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

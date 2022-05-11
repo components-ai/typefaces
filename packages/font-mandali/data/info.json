@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mandali'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_YQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LhWlMVbYOfASNfNUZF4_Yg&skey=9c05afd86886abb8&v=v9#Mandali",
-          "ttf": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_YA.ttf",
-          "woff": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_Yw.woff",
-          "woff2": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_ZQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/mandali/v14/LhWlMVbYOfASNfNUZF4_YQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LhWlMVbYOfASNfNUZF4_Yg&skey=9c05afd86886abb8&v=v14#Mandali",
+          "ttf": "https://fonts.gstatic.com/s/mandali/v14/LhWlMVbYOfASNfNUZF4_YA.ttf",
+          "woff": "https://fonts.gstatic.com/s/mandali/v14/LhWlMVbYOfASNfNUZF4_Yw.woff",
+          "woff2": "https://fonts.gstatic.com/s/mandali/v14/LhWlMVbYOfASNfNUZF4_ZQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

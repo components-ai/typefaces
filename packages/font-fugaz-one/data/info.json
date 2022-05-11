@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fugaz One'",
-          "'FugazOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFsl8Axhb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax_HiWKp9EAITukFsl8AxhY&skey=aa70ca3dfc3ffe29&v=v10#FugazOne",
-          "ttf": "https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFsl8Axha.ttf",
-          "woff": "https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFsl8AxhZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFsl8Axhf.woff2"
+          "eot": "https://fonts.gstatic.com/s/fugazone/v15/rax_HiWKp9EAITukFsl8Axhb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax_HiWKp9EAITukFsl8AxhY&skey=aa70ca3dfc3ffe29&v=v15#FugazOne",
+          "ttf": "https://fonts.gstatic.com/s/fugazone/v15/rax_HiWKp9EAITukFsl8Axha.ttf",
+          "woff": "https://fonts.gstatic.com/s/fugazone/v15/rax_HiWKp9EAITukFsl8AxhZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/fugazone/v15/rax_HiWKp9EAITukFsl8Axhf.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

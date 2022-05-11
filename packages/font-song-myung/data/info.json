@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "korean",
     "latin"
@@ -98,21 +98,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Song Myung Regular'",
-          "'SongMyung-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1aggA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX2aUDWAJH5-EIC7DIhn1aggw&skey=efeaf890a052c086&v=v8#SongMyung",
-          "ttf": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1aggQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1aggg.woff",
-          "woff2": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhr1TCk8qivo10xPFih_f6G0tP6mooOg.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/songmyung/v20/1cX2aUDWAJH5-EIC7DIhn1aggA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX2aUDWAJH5-EIC7DIhn1aggw&skey=efeaf890a052c086&v=v20#SongMyung",
+          "ttf": "https://fonts.gstatic.com/s/songmyung/v20/1cX2aUDWAJH5-EIC7DIhn1aggQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/songmyung/v20/1cX2aUDWAJH5-EIC7DIhn1aggg.woff",
+          "woff2": "https://fonts.gstatic.com/s/songmyung/v20/1cX2aUDWAJH5-EIC7DIhr1TCk8qivo10xPFih_f6G0tP6mooOg.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

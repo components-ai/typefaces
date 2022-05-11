@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Libre Barcode 128 Regular'",
-          "'LibreBarcode128-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AU&skey=b4e8c1d4fad3a49&v=v10#LibreBarcode128",
-          "ttf": "https://fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9Ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AI.woff2"
+          "eot": "https://fonts.gstatic.com/s/librebarcode128/v26/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AU&skey=b4e8c1d4fad3a49&v=v26#LibreBarcode128",
+          "ttf": "https://fonts.gstatic.com/s/librebarcode128/v26/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9Ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/librebarcode128/v26/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/librebarcode128/v26/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AI.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v26",
   "typefaces": {
     "normal": {
       "400": {
@@ -103,9 +100,9 @@
           },
           " ": {
             "ha": 458,
-            "x_min": 0,
-            "x_max": 375,
-            "o": "m 83 0 l 0 0 l 0 819 l 83 819 l 83 0 z m 208 0 l 125 0 l 125 819 l 208 819 l 208 0 z m 375 0 l 292 0 l 292 819 l 375 819 l 375 0 z "
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "!": {
             "ha": 458,
@@ -694,6 +691,12 @@
             "x_min": 0,
             "x_max": 542,
             "o": "m 83 0 l 0 0 l 0 819 l 83 819 l 83 0 z m 333 0 l 208 0 l 208 819 l 333 819 l 333 0 z m 417 0 l 375 0 l 375 819 l 417 819 l 417 0 z m 542 0 l 458 0 l 458 819 l 542 819 l 542 0 z "
+          },
+          "​": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           }
         },
         "ascender": 833,
@@ -709,7 +712,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+            "en": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
           },
           "fontFamily": {
             "en": "Libre Barcode 128"
@@ -718,19 +721,19 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.002;GRCR;LibreBarcode128-Regular"
+            "en": "1.005;GRCR;LibreBarcode128-Regular"
           },
           "fullName": {
             "en": "Libre Barcode 128 Regular"
           },
           "version": {
-            "en": "Version 1.002; ttfautohint (v1.6)"
+            "en": "Version 1.005; ttfautohint (v1.8.3)"
           },
           "postScriptName": {
             "en": "LibreBarcode128-Regular"
           },
           "licenseURL": {
-            "en": "http://scripts.sil.org/OFL"
+            "en": "https://scripts.sil.org/OFL"
           }
         },
         "cssFontWeight": "400",

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dawning of a New Day'",
-          "'DawningofaNewDay'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2c.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2Q&skey=84d09e3bb23e13f9&v=v11#DawningofaNewDay",
-          "ttf": "https://fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2Y.ttf",
-          "woff": "https://fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2U.woff",
-          "woff2": "https://fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2M.woff2"
+          "eot": "https://fonts.gstatic.com/s/dawningofanewday/v16/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2c.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2Q&skey=84d09e3bb23e13f9&v=v16#DawningofaNewDay",
+          "ttf": "https://fonts.gstatic.com/s/dawningofanewday/v16/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2Y.ttf",
+          "woff": "https://fonts.gstatic.com/s/dawningofanewday/v16/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2U.woff",
+          "woff2": "https://fonts.gstatic.com/s/dawningofanewday/v16/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2M.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

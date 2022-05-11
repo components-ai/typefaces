@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Libre Caslon Display Regular'",
-          "'LibreCaslonDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx4&skey=a0b25bf0e93098d2&v=v2#LibreCaslonDisplay",
-          "ttf": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxw.ttf",
-          "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx8.woff",
-          "woff2": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2"
+          "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v14/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx4&skey=a0b25bf0e93098d2&v=v14#LibreCaslonDisplay",
+          "ttf": "https://fonts.gstatic.com/s/librecaslondisplay/v14/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxw.ttf",
+          "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v14/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx8.woff",
+          "woff2": "https://fonts.gstatic.com/s/librecaslondisplay/v14/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

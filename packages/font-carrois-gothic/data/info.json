@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Carrois Gothic Regular'",
-          "'CarroisGothic-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cg&skey=9e26ceadcb501f24&v=v11#CarroisGothic",
-          "ttf": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Co.ttf",
-          "woff": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Ck.woff",
-          "woff2": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1C8.woff2"
+          "eot": "https://fonts.gstatic.com/s/carroisgothic/v16/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cg&skey=9e26ceadcb501f24&v=v16#CarroisGothic",
+          "ttf": "https://fonts.gstatic.com/s/carroisgothic/v16/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Co.ttf",
+          "woff": "https://fonts.gstatic.com/s/carroisgothic/v16/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Ck.woff",
+          "woff2": "https://fonts.gstatic.com/s/carroisgothic/v16/Z9XPDmFATg-N1PLtLOOxvIHl9amE1C8.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

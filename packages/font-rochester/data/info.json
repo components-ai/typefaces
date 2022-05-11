@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rochester Regular'",
-          "'Rochester-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHT.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6ae-4KCqVa4Zy6Fif-UC2FHQ&skey=cf592fbfbe520403&v=v11#Rochester",
-          "ttf": "https://fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHS.ttf",
-          "woff": "https://fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHR.woff",
-          "woff2": "https://fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHX.woff2"
+          "eot": "https://fonts.gstatic.com/s/rochester/v18/6ae-4KCqVa4Zy6Fif-UC2FHT.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6ae-4KCqVa4Zy6Fif-UC2FHQ&skey=cf592fbfbe520403&v=v18#Rochester",
+          "ttf": "https://fonts.gstatic.com/s/rochester/v18/6ae-4KCqVa4Zy6Fif-UC2FHS.ttf",
+          "woff": "https://fonts.gstatic.com/s/rochester/v18/6ae-4KCqVa4Zy6Fif-UC2FHR.woff",
+          "woff2": "https://fonts.gstatic.com/s/rochester/v18/6ae-4KCqVa4Zy6Fif-UC2FHX.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

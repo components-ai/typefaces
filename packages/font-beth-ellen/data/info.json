@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Beth Ellen Regular'",
-          "'BethEllen-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoUQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW2BE-3rb_JNT-qIIcoUg&skey=25b69ed324f5791a&v=v3#BethEllen",
-          "ttf": "https://fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoUA.ttf",
-          "woff": "https://fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoUw.woff",
-          "woff2": "https://fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIcoUQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW2BE-3rb_JNT-qIIcoUg&skey=25b69ed324f5791a&v=v17#BethEllen",
+          "ttf": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIcoUA.ttf",
+          "woff": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIcoUw.woff",
+          "woff2": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 53,
             "x_max": 757,
             "o": "m 550 1111 q 585 1105 572 1101 q 621 1131 597 1108 l 621 1131 q 690 1158 656 1165 q 741 1126 725 1150 q 750 1071 757 1101 l 750 1071 q 733 1010 743 1050 l 733 1010 q 715 938 725 971 l 715 938 q 692 879 707 907 l 692 879 q 663 787 663 819 q 650 731 663 754 l 650 731 q 628 611 636 706 l 628 611 q 614 501 625 550 l 614 501 q 590 399 603 450 l 590 399 q 569 285 576 344 l 569 285 q 511 -43 529 -6 l 511 -43 q 466 -65 500 -68 q 414 -37 432 -62 l 414 -37 q 393 65 396 -11 q 406 158 390 142 l 406 158 q 425 265 414 167 l 425 265 q 440 450 436 364 l 440 450 q 436 558 444 535 l 436 558 q 340 543 425 569 l 340 543 q 235 518 278 524 l 235 518 q 158 525 190 514 q 104 563 125 536 q 69 633 83 589 l 69 633 q 67 778 53 686 q 115 921 81 869 l 115 921 q 201 1025 150 976 l 201 1025 q 300 1096 251 1072 l 300 1096 q 426 1123 350 1118 q 550 1111 501 1128 l 550 1111 z m 494 925 l 494 925 q 486 942 490 932 l 486 942 q 436 975 475 976 l 436 975 q 360 955 394 972 q 279 890 326 938 l 279 890 q 210 774 219 831 l 210 774 q 219 698 200 717 q 294 686 239 679 l 294 686 q 390 720 354 696 q 454 796 425 744 l 454 796 q 511 885 490 857 l 511 885 q 515 907 532 907 l 515 907 q 506 912 511 907 q 494 925 500 917 z "
+          },
+          "\n": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\r": {
             "ha": 0,

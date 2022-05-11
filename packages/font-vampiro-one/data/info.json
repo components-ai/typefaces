@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vampiro One'",
-          "'VampiroOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnquuP0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokqH6DoDl5yXvJytFsdLnquuP4&skey=90d3bdbbbf47723f&v=v11#VampiroOne",
-          "ttf": "https://fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnquuPw.ttf",
-          "woff": "https://fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnquuP8.woff",
-          "woff2": "https://fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnqguPk.woff2"
+          "eot": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnquuP0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokqH6DoDl5yXvJytFsdLnquuP4&skey=90d3bdbbbf47723f&v=v18#VampiroOne",
+          "ttf": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnquuPw.ttf",
+          "woff": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnquuP8.woff",
+          "woff2": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnqguPk.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {
@@ -98,6 +95,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
             "ha": 0,
             "x_min": null,
             "x_max": null,
