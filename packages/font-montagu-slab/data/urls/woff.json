@@ -1,0 +1,11 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE0P0HMk.woff",
+    "200": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEkP0HMk.woff",
+    "300": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEkP0HMk.woff",
+    "400": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEkP0HMk.woff",
+    "500": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEkP0HMk.woff",
+    "600": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFUP0HMk.woff",
+    "700": "https://fonts.gstatic.com/s/montaguslab/v5/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FUP0HMk.woff"
+  }
+}

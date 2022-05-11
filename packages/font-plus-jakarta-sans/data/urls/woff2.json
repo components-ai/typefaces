@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCS_XOKw.woff2",
+    "300": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CS_XOKw.woff2",
+    "400": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCS_XOKw.woff2",
+    "500": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCS_XOKw.woff2",
+    "600": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Di_XOKw.woff2",
+    "700": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDi_XOKw.woff2",
+    "800": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDi_XOKw.woff2"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU79TR_V.woff2",
+    "300": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079TR_V.woff2",
+    "400": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79TR_V.woff2",
+    "500": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079TR_V.woff2",
+    "600": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_V.woff2",
+    "700": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9TR_V.woff2",
+    "800": "https://fonts.gstatic.com/s/plusjakartasans/v2/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9TR_V.woff2"
+  }
+}

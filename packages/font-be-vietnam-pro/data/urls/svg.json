@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsibJgh&skey=e961068485420ce5&v=v10#BeVietnamPro",
+    "200": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczdbEDcA&skey=c1148739ad5e0ddb&v=v10#BeVietnamPro",
+    "300": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwdbEDcA&skey=bc9f7078df5d81c8&v=v10#BeVietnamPro",
+    "400": "https://fonts.gstatic.com/l/font?kit=QdVNSTAyLFyeg_IDWvOJmVES_HwyNXYSZw&skey=4516d32673f7fc37&v=v10#BeVietnamPro",
+    "500": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxdbEDcA&skey=b27473fd049d8eb0&v=v10#BeVietnamPro",
+    "600": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2dbEDcA&skey=26f0c3cc77a3890a&v=v10#BeVietnamPro",
+    "700": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3dbEDcA&skey=54fbd5a2fd4c25af&v=v10#BeVietnamPro",
+    "800": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80dbEDcA&skey=fe99720098b7a351&v=v10#BeVietnamPro",
+    "900": "https://fonts.gstatic.com/l/font?kit=QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1dbEDcA&skey=1998aff779d68730&v=v10#BeVietnamPro"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=QdVNSTAyLFyeg_IDWvOJmVES_HRUNXYSZw&skey=e54ca64d1e40cad3&v=v10#BeVietnamPro",
+    "200": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HT4JG87Rbo&skey=d700ab54a6d5b782&v=v10#BeVietnamPro",
+    "300": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HScJ287Rbo&skey=99ba2620daeee6f4&v=v10#BeVietnamPro",
+    "400": "https://fonts.gstatic.com/l/font?kit=QdVPSTAyLFyeg_IDWvOJmVES_Hw5BX0&skey=45de929ac62e9308&v=v10#BeVietnamPro",
+    "500": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HTEJm87Rbo&skey=a969fec73497aecb&v=v10#BeVietnamPro",
+    "600": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HToIW87Rbo&skey=2d53b1de1168eb52&v=v10#BeVietnamPro",
+    "700": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HSMIG87Rbo&skey=b41ffca4b134b0de&v=v10#BeVietnamPro",
+    "800": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HSQI287Rbo&skey=f156344a8c808d06&v=v10#BeVietnamPro",
+    "900": "https://fonts.gstatic.com/l/font?kit=QdVMSTAyLFyeg_IDWvOJmVES_HS0Im87Rbo&skey=2a479cd3bf404621&v=v10#BeVietnamPro"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCS_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CS_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCS_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCS_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Di_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDi_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDi_ZOKs&skey=a46c6b4b1929a4fb&v=v2#PlusJakartaSans"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU79Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9Qx_S&skey=ca4b9e62a7d41df5&v=v2#PlusJakartaSans"
+  }
+}

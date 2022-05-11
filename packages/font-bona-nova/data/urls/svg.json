@@ -1,0 +1,9 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=B50LF7ZCpX7fcHfvIUB5iZJnNKw&skey=8424ed0ca05d51a9&v=v10#BonaNova"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=B50NF7ZCpX7fcHfvIUB5gqJs&skey=d41ce8fab5957d41&v=v10#BonaNova",
+    "700": "https://fonts.gstatic.com/l/font?kit=B50IF7ZCpX7fcHfvIUBxN4d-HY6Y&skey=72dcd20b55bc6029&v=v10#BonaNova"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmoY8A.woff2",
+    "200": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VamoY8A.woff2",
+    "300": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVamoY8A.woff2",
+    "400": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VamoY8A.woff2",
+    "500": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVamoY8A.woff2",
+    "600": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmoY8A.woff2",
+    "700": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmoY8A.woff2",
+    "800": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmoY8A.woff2",
+    "900": "https://fonts.gstatic.com/s/urbanist/v8/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmoY8A.woff2"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vEZmq.woff2",
+    "200": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vEZmq.woff2",
+    "300": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vEZmq.woff2",
+    "400": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmq.woff2",
+    "500": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vEZmq.woff2",
+    "600": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmq.woff2",
+    "700": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmq.woff2",
+    "800": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmq.woff2",
+    "900": "https://fonts.gstatic.com/s/urbanist/v8/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvEZmq.woff2"
+  }
+}

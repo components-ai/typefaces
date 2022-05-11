@@ -1,0 +1,18 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZKMNIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa",
+    "500": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZGsNIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa",
+    "600": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZ9sRIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa",
+    "700": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZz8RIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa",
+    "800": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZqMRIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa",
+    "900": "https://fonts.gstatic.com/l/font?kit=aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZgcRIuHDP&skey=c7d36872348b59ee&v=v17#BodoniModa"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa",
+    "500": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oXza8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa",
+    "600": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oZDd8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa",
+    "700": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oand8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa",
+    "800": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oc7d8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa",
+    "900": "https://fonts.gstatic.com/l/font?kit=aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oefd8Il4sw&skey=f4820fc03b641f99&v=v17#BodoniModa"
+  }
+}

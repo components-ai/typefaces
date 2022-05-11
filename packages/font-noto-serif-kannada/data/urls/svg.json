@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgcYCceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "200": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgUYDceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "300": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgZgDceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "400": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgcYDceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "500": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgfQDceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "600": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgRgEceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "700": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgSEEceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "800": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgUYEceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada",
+    "900": "https://fonts.gstatic.com/l/font?kit=v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgW8EceY&skey=e09a911da607d2f0&v=v16#NotoSerifKannada"
+  }
+}

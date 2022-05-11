@@ -1,0 +1,16 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/andadapro/v10/HhyGU5Qi9-SuOEhPe4LtAIxwRrn9L22O2yYBRmdfLrHHIg.eot",
+    "500": "https://fonts.gstatic.com/s/andadapro/v10/HhyGU5Qi9-SuOEhPe4LtAIxwRrn9L22O2yYBRlVfLrHHIg.eot",
+    "600": "https://fonts.gstatic.com/s/andadapro/v10/HhyGU5Qi9-SuOEhPe4LtAIxwRrn9L22O2yYBRrlYLrHHIg.eot",
+    "700": "https://fonts.gstatic.com/s/andadapro/v10/HhyGU5Qi9-SuOEhPe4LtAIxwRrn9L22O2yYBRoBYLrHHIg.eot",
+    "800": "https://fonts.gstatic.com/s/andadapro/v10/HhyGU5Qi9-SuOEhPe4LtAIxwRrn9L22O2yYBRudYLrHHIg.eot"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/andadapro/v10/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DPJBb8VHrk.eot",
+    "500": "https://fonts.gstatic.com/s/andadapro/v10/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DP7Bb8VHrk.eot",
+    "600": "https://fonts.gstatic.com/s/andadapro/v10/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DMXAr8VHrk.eot",
+    "700": "https://fonts.gstatic.com/s/andadapro/v10/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DMuAr8VHrk.eot",
+    "800": "https://fonts.gstatic.com/s/andadapro/v10/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DNJAr8VHrk.eot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU5RspzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "200": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdUxRtpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "300": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU8ptpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "400": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU5RtpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "500": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU6ZtpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "600": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU0pqpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "700": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU3NqpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "800": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdUxRqpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai",
+    "900": "https://fonts.gstatic.com/l/font?kit=iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdUz1qpzM&skey=7ac9f1f92e52f11b&v=v17#NotoSansThai"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/brygada1918/v18/pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfcERwsuLuz.woff2",
+    "500": "https://fonts.gstatic.com/s/brygada1918/v18/pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfcIxwsuLuz.woff2",
+    "600": "https://fonts.gstatic.com/s/brygada1918/v18/pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfczxssuLuz.woff2",
+    "700": "https://fonts.gstatic.com/s/brygada1918/v18/pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfc9hssuLuz.woff2"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/brygada1918/v18/pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y2-fyVgcug.woff2",
+    "500": "https://fonts.gstatic.com/s/brygada1918/v18/pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y12fyVgcug.woff2",
+    "600": "https://fonts.gstatic.com/s/brygada1918/v18/pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y7GYyVgcug.woff2",
+    "700": "https://fonts.gstatic.com/s/brygada1918/v18/pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y4iYyVgcug.woff2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLaJkIyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "200": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLYJkYyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "300": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLbXkYyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "400": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLaJkYyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "500": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLa7kYyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "600": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLZXloyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLZuloyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "800": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLYJloyX05g&skey=edcb182b9d002803&v=v9#AzeretMono",
+    "900": "https://fonts.gstatic.com/l/font?kit=3XF_ErsiyJsY9O_Gepph-HHkf_fUKCzX1EOKVLYgloyX05g&skey=edcb182b9d002803&v=v9#AzeretMono"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPRR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "200": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfHPVR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "300": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfwvVR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "400": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "500": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfrvVR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "600": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfQvJR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "700": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfe_JR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "800": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfHPJR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono",
+    "900": "https://fonts.gstatic.com/l/font?kit=3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfNfJR27yc&skey=d6d32eeecb56d7bb&v=v9#AzeretMono"
+  }
+}

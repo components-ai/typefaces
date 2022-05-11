@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWR1i4ZfKWQ.woff",
+    "200": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWZ1j4ZfKWQ.woff",
+    "300": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWUNj4ZfKWQ.woff",
+    "400": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWR1j4ZfKWQ.woff",
+    "500": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWS9j4ZfKWQ.woff",
+    "600": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWcNk4ZfKWQ.woff",
+    "700": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWfpk4ZfKWQ.woff",
+    "800": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWZ1k4ZfKWQ.woff",
+    "900": "https://fonts.gstatic.com/s/texturina/v20/c4mO1nxpEtL3pXiAulR5mL129FhZmLj7I4oiSUJyfYDu7sB5zHJQWbRk4ZfKWQ.woff"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2eYG8Up0Z0.woff",
+    "200": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2cYGsUp0Z0.woff",
+    "300": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2fGGsUp0Z0.woff",
+    "400": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2eYGsUp0Z0.woff",
+    "500": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2eqGsUp0Z0.woff",
+    "600": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2dGHcUp0Z0.woff",
+    "700": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2d_HcUp0Z0.woff",
+    "800": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2cYHcUp0Z0.woff",
+    "900": "https://fonts.gstatic.com/s/texturina/v20/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2cxHcUp0Z0.woff"
+  }
+}

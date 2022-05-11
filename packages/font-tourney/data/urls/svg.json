@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJwB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "200": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaJgB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "300": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8ULEJgB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "400": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKaJgB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "500": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UKoJgB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "600": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJEIQB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "700": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UJ9IQB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "800": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIaIQB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney",
+    "900": "https://fonts.gstatic.com/l/font?kit=AlZc_ztDtYzv1tzq_Q47flUUvI2wpXz29ilymEMLMNc3XHnT8UIzIQB4C1E&skey=fd121c6b5a111b38&v=v7#Tourney"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQBCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "200": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQFCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "300": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GZwFCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "400": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQFCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "500": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GCwFCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "600": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G5wZCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "700": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7G3gZCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "800": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GuQZCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney",
+    "900": "https://fonts.gstatic.com/l/font?kit=AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GkAZCbDBz&skey=feb7bc2b0db04955&v=v7#Tourney"
+  }
+}

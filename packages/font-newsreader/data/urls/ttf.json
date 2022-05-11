@@ -1,0 +1,20 @@
+{
+  "italic": {
+    "200": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMyoT9ZJFjE.ttf",
+    "300": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMx2T9ZJFjE.ttf",
+    "400": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMwoT9ZJFjE.ttf",
+    "500": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMwaT9ZJFjE.ttf",
+    "600": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMz2SNZJFjE.ttf",
+    "700": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMzPSNZJFjE.ttf",
+    "800": "https://fonts.gstatic.com/s/newsreader/v18/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMyoSNZJFjE.ttf"
+  },
+  "normal": {
+    "200": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438w-I_wBeZA.ttf",
+    "300": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wJo_wBeZA.ttf",
+    "400": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438weI_wBeZA.ttf",
+    "500": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wSo_wBeZA.ttf",
+    "600": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wpojwBeZA.ttf",
+    "700": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wn4jwBeZA.ttf",
+    "800": "https://fonts.gstatic.com/s/newsreader/v18/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438w-IjwBeZA.ttf"
+  }
+}

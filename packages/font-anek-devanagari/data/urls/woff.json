@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtk99uHEo.woff",
+    "200": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtkt9uHEo.woff",
+    "300": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLCzkt9uHEo.woff",
+    "400": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtkt9uHEo.woff",
+    "500": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDfkt9uHEo.woff",
+    "600": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAzld9uHEo.woff",
+    "700": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAKld9uHEo.woff",
+    "800": "https://fonts.gstatic.com/s/anekdevanagari/v2/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtld9uHEo.woff"
+  }
+}

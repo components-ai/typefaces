@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcKS_jfc70&skey=a47b95c34143db89&v=v2#LibreBodoni",
+    "500": "https://fonts.gstatic.com/l/font?kit=_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcGy_jfc70&skey=a47b95c34143db89&v=v2#LibreBodoni",
+    "600": "https://fonts.gstatic.com/l/font?kit=_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUc9yjjfc70&skey=a47b95c34143db89&v=v2#LibreBodoni",
+    "700": "https://fonts.gstatic.com/l/font?kit=_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUczijjfc70&skey=a47b95c34143db89&v=v2#LibreBodoni"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6I1f8WXTdg&skey=e2985162280c160e&v=v2#LibreBodoni",
+    "500": "https://fonts.gstatic.com/l/font?kit=_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6L9f8WXTdg&skey=e2985162280c160e&v=v2#LibreBodoni",
+    "600": "https://fonts.gstatic.com/l/font?kit=_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6FNY8WXTdg&skey=e2985162280c160e&v=v2#LibreBodoni",
+    "700": "https://fonts.gstatic.com/l/font?kit=_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6GpY8WXTdg&skey=e2985162280c160e&v=v2#LibreBodoni"
+  }
+}

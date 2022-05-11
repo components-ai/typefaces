@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbYRxkNg.ttf",
+    "500": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbYRxkNg.ttf",
+    "600": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcYRxkNg.ttf",
+    "700": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcYRxkNg.ttf"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2RORURU.ttf",
+    "500": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2RORURU.ttf",
+    "600": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3hORURU.ttf",
+    "700": "https://fonts.gstatic.com/s/stixtwotext/v9/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3hORURU.ttf"
+  }
+}

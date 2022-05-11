@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOq1wnp.woff",
+    "200": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKq1wnp.woff",
+    "300": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Kq1wnp.woff",
+    "400": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKq1wnp.woff",
+    "500": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Kq1wnp.woff",
+    "600": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wq1wnp.woff",
+    "700": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWq1wnp.woff",
+    "800": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWq1wnp.woff",
+    "900": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWq1wnp.woff"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLZTia3Q.woff",
+    "200": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKZTia3Q.woff",
+    "300": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKZTia3Q.woff",
+    "400": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTia3Q.woff",
+    "500": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKZTia3Q.woff",
+    "600": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNZTia3Q.woff",
+    "700": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANZTia3Q.woff",
+    "800": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNZTia3Q.woff",
+    "900": "https://fonts.gstatic.com/s/notosansdisplay/v17/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NZTia3Q.woff"
+  }
+}

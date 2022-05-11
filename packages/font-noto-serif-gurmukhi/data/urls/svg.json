@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6-eBTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "200": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr4-eRTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "300": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr7geRTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "400": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6-eRTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "500": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6MeRTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "600": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr5gfhTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "700": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr5ZfhTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "800": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr4-fhTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi",
+    "900": "https://fonts.gstatic.com/l/font?kit=92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr4XfhTP&skey=831efb55099387d1&v=v12#NotoSerifGurmukhi"
+  }
+}

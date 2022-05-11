@@ -1,0 +1,24 @@
+{
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA73i3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "200": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ni3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "300": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ni3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ni3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "500": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ni3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "600": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Xi3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Xi3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "800": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Xi3A7U&skey=68dfc36923e3886&v=v5#Genos",
+    "900": "https://fonts.gstatic.com/l/font?kit=SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Xi3A7U&skey=68dfc36923e3886&v=v5#Genos"
+  },
+  "normal": {
+    "100": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVqknYpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "200": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjYpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "300": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjYpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjYpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "500": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjYpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "600": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_YpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_YpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "800": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_YpEi8&skey=cc0ac242b756e987&v=v5#Genos",
+    "900": "https://fonts.gstatic.com/l/font?kit=SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_YpEi8&skey=cc0ac242b756e987&v=v5#Genos"
+  }
+}

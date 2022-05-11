@@ -1,0 +1,14 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfcERwstru0&skey=1995a14e98adcd84&v=v18#Brygada1918",
+    "500": "https://fonts.gstatic.com/l/font?kit=pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfcIxwstru0&skey=1995a14e98adcd84&v=v18#Brygada1918",
+    "600": "https://fonts.gstatic.com/l/font?kit=pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfczxsstru0&skey=1995a14e98adcd84&v=v18#Brygada1918",
+    "700": "https://fonts.gstatic.com/l/font?kit=pe06MI6eKpdGqlF5LANrM--qAeRhe6D4yip43qfc9hsstru0&skey=1995a14e98adcd84&v=v18#Brygada1918"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y2-fyVYcvQ&skey=edbf04fc8bdf3b30&v=v18#Brygada1918",
+    "500": "https://fonts.gstatic.com/l/font?kit=pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y12fyVYcvQ&skey=edbf04fc8bdf3b30&v=v18#Brygada1918",
+    "600": "https://fonts.gstatic.com/l/font?kit=pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y7GYyVYcvQ&skey=edbf04fc8bdf3b30&v=v18#Brygada1918",
+    "700": "https://fonts.gstatic.com/l/font?kit=pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y4iYyVYcvQ&skey=edbf04fc8bdf3b30&v=v18#Brygada1918"
+  }
+}
