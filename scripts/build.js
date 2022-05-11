@@ -2,8 +2,7 @@ const fs = require("fs");
 const mkdirp = require("mkdirp");
 const opentype = require("opentype.js");
 const { fetch, kebab } = require("@compai/util");
-const { convertGoogleFontToTypeface } = require("@compai/fonts");
-const googleFonts = require("@compai/fonts/src/data/google-fonts.json");
+const googleFonts = require("../data/fonts.json");
 
 const addUrl = (obj, { variant, weight, url }) => {
   const newObj = { ...obj };

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const { kebab } = require("@compai/util");
-const googleFonts = require("@compai/fonts/src/data/google-fonts.json");
+const googleFonts = require("../data/fonts.json");
 
 (async () => {
   const fonts = Object.keys(googleFonts).reduce((acc, curr) => {
