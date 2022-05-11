@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Antic Didone Regular'",
-          "'AnticDidone-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroED.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKKX6u8sp8fIWdnDKqDSroEA&skey=619450f385a83a47&v=v9#AnticDidone",
-          "ttf": "https://fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroEC.ttf",
-          "woff": "https://fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroEB.woff",
-          "woff2": "https://fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroEH.woff2"
+          "eot": "https://fonts.gstatic.com/s/anticdidone/v16/RWmPoKKX6u8sp8fIWdnDKqDSroED.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmPoKKX6u8sp8fIWdnDKqDSroEA&skey=619450f385a83a47&v=v16#AnticDidone",
+          "ttf": "https://fonts.gstatic.com/s/anticdidone/v16/RWmPoKKX6u8sp8fIWdnDKqDSroEC.ttf",
+          "woff": "https://fonts.gstatic.com/s/anticdidone/v16/RWmPoKKX6u8sp8fIWdnDKqDSroEB.woff",
+          "woff2": "https://fonts.gstatic.com/s/anticdidone/v16/RWmPoKKX6u8sp8fIWdnDKqDSroEH.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

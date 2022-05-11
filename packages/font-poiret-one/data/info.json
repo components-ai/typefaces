@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Poiret One'",
-          "'PoiretOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo5BcUw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80NJXN4zfRgbdfbo5BcUA&skey=b92d66791719178&v=v9#PoiretOne",
-          "ttf": "https://fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo5BcUg.ttf",
-          "woff": "https://fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo5BcUQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo55cVw.woff2"
+          "eot": "https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo5BcUw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80NJXN4zfRgbdfbo5BcUA&skey=b92d66791719178&v=v14#PoiretOne",
+          "ttf": "https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo5BcUg.ttf",
+          "woff": "https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo5BcUQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo55cVw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

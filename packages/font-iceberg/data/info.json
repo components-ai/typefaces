@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Iceberg'",
-          "'Iceberg-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8Erg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIJdijAiM7o-qnZiI8ErQ&skey=2d1d29e185cf8c9f&v=v8#Iceberg",
-          "ttf": "https://fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8Erw.ttf",
-          "woff": "https://fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8ErA.woff",
-          "woff2": "https://fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8Eqg.woff2"
+          "eot": "https://fonts.gstatic.com/s/iceberg/v20/8QIJdijAiM7o-qnZiI8Erg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIJdijAiM7o-qnZiI8ErQ&skey=2d1d29e185cf8c9f&v=v20#Iceberg",
+          "ttf": "https://fonts.gstatic.com/s/iceberg/v20/8QIJdijAiM7o-qnZiI8Erw.ttf",
+          "woff": "https://fonts.gstatic.com/s/iceberg/v20/8QIJdijAiM7o-qnZiI8ErA.woff",
+          "woff2": "https://fonts.gstatic.com/s/iceberg/v20/8QIJdijAiM7o-qnZiI8Eqg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

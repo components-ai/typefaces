@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sedgwick Ave Regular'",
-          "'SedgwickAve-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Iw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_04rKEYuguzAcSYRdWTJqMV2Iz&skey=12879115c1ef3a53&v=v6#SedgwickAve",
-          "ttf": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Ix.ttf",
-          "woff": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Iy.woff",
-          "woff2": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMWWI0.woff2"
+          "eot": "https://fonts.gstatic.com/s/sedgwickave/v12/uK_04rKEYuguzAcSYRdWTJqMV2Iw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_04rKEYuguzAcSYRdWTJqMV2Iz&skey=12879115c1ef3a53&v=v12#SedgwickAve",
+          "ttf": "https://fonts.gstatic.com/s/sedgwickave/v12/uK_04rKEYuguzAcSYRdWTJqMV2Ix.ttf",
+          "woff": "https://fonts.gstatic.com/s/sedgwickave/v12/uK_04rKEYuguzAcSYRdWTJqMV2Iy.woff",
+          "woff2": "https://fonts.gstatic.com/s/sedgwickave/v12/uK_04rKEYuguzAcSYRdWTJqMWWI0.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

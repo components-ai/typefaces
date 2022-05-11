@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sofia'",
-          "'Sofia-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uIk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8QIHdirahM3j_su5uIo&skey=6580f885f12e165d&v=v9#Sofia",
-          "ttf": "https://fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uIg.ttf",
-          "woff": "https://fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uIs.woff",
-          "woff2": "https://fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uI0.woff2"
+          "eot": "https://fonts.gstatic.com/s/sofia/v14/8QIHdirahM3j_su5uIk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8QIHdirahM3j_su5uIo&skey=6580f885f12e165d&v=v14#Sofia",
+          "ttf": "https://fonts.gstatic.com/s/sofia/v14/8QIHdirahM3j_su5uIg.ttf",
+          "woff": "https://fonts.gstatic.com/s/sofia/v14/8QIHdirahM3j_su5uIs.woff",
+          "woff2": "https://fonts.gstatic.com/s/sofia/v14/8QIHdirahM3j_su5uI0.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

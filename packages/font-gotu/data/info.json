@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-04-21",
+  "lastModified": "2022-04-21",
   "subsets": [
     "devanagari",
     "latin",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gotu'",
-          "'Gotu-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=o-0FIpksx3QOpHQBjA&skey=444c4bed0798dc3e&v=v1#Gotu",
-          "ttf": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjg.ttf",
-          "woff": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHoBiw.woff2"
+          "eot": "https://fonts.gstatic.com/s/gotu/v14/o-0FIpksx3QOpHQBjw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=o-0FIpksx3QOpHQBjA&skey=444c4bed0798dc3e&v=v14#Gotu",
+          "ttf": "https://fonts.gstatic.com/s/gotu/v14/o-0FIpksx3QOpHQBjg.ttf",
+          "woff": "https://fonts.gstatic.com/s/gotu/v14/o-0FIpksx3QOpHQBjQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/gotu/v14/o-0FIpksx3QOpHoBiw.woff2"
         }
       }
     }
   },
-  "version": "v1",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

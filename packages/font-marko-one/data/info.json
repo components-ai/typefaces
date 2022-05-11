@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Marko One'",
-          "'MarkoOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8a.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9Btq3DFG0cnVM5lw1haqLZ8Z&skey=e278f874a6f63967&v=v10#MarkoOne",
-          "ttf": "https://fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8b.ttf",
-          "woff": "https://fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8e.woff2"
+          "eot": "https://fonts.gstatic.com/s/markoone/v22/9Btq3DFG0cnVM5lw1haqLZ8a.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9Btq3DFG0cnVM5lw1haqLZ8Z&skey=e278f874a6f63967&v=v22#MarkoOne",
+          "ttf": "https://fonts.gstatic.com/s/markoone/v22/9Btq3DFG0cnVM5lw1haqLZ8b.ttf",
+          "woff": "https://fonts.gstatic.com/s/markoone/v22/9Btq3DFG0cnVM5lw1haqLZ8Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/markoone/v22/9Btq3DFG0cnVM5lw1haqLZ8e.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

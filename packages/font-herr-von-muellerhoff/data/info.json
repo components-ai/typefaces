@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Herr Von Muellerhoff Regular'",
-          "'HerrVonMuellerhoff-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9Kc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KQ&skey=6136c26fe1786204&v=v10#HerrVonMuellerhoff",
-          "ttf": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KY.ttf",
-          "woff": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KU.woff",
-          "woff2": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2"
+          "eot": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v15/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9Kc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KQ&skey=6136c26fe1786204&v=v15#HerrVonMuellerhoff",
+          "ttf": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v15/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KY.ttf",
+          "woff": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v15/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KU.woff",
+          "woff2": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v15/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,12 +1,12 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCNF.woff",
-    "400": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5bt3.woff",
-    "700": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCNF.woff"
+    "300": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCNF.woff",
+    "400": "https://fonts.gstatic.com/s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5bt3.woff",
+    "700": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCNF.woff"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxUKA.woff",
-    "400": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp4Q.woff",
-    "700": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxUKA.woff"
+    "300": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxUKA.woff",
+    "400": "https://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp4Q.woff",
+    "700": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxUKA.woff"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tenali Ramakrishna'",
-          "'TenaliRamakrishna'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_v.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_s&skey=4930e67a756ab02f&v=v7#TenaliRamakrishna",
-          "ttf": "https://fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_u.ttf",
-          "woff": "https://fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_t.woff",
-          "woff2": "https://fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_r.woff2"
+          "eot": "https://fonts.gstatic.com/s/tenaliramakrishna/v12/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_v.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_s&skey=4930e67a756ab02f&v=v12#TenaliRamakrishna",
+          "ttf": "https://fonts.gstatic.com/s/tenaliramakrishna/v12/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_u.ttf",
+          "woff": "https://fonts.gstatic.com/s/tenaliramakrishna/v12/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_t.woff",
+          "woff2": "https://fonts.gstatic.com/s/tenaliramakrishna/v12/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_r.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

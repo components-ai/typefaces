@@ -1,14 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWm-bU8g&skey=daecb02da3783719&v=v7#Faustina",
-    "500": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wm-bU8g&skey=daecb02da3783719&v=v7#Faustina",
-    "600": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXW-bU8g&skey=daecb02da3783719&v=v7#Faustina",
-    "700": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXW-bU8g&skey=daecb02da3783719&v=v7#Faustina"
+    "300": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsKZWm-bU8g&skey=daecb02da3783719&v=v15#Faustina",
+    "400": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWm-bU8g&skey=daecb02da3783719&v=v15#Faustina",
+    "500": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wm-bU8g&skey=daecb02da3783719&v=v15#Faustina",
+    "600": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXW-bU8g&skey=daecb02da3783719&v=v15#Faustina",
+    "700": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXW-bU8g&skey=daecb02da3783719&v=v15#Faustina",
+    "800": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsJHXW-bU8g&skey=daecb02da3783719&v=v15#Faustina"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEfEF-Q&skey=e32c128add4269f7&v=v7#Faustina",
-    "500": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEfEF-Q&skey=e32c128add4269f7&v=v7#Faustina",
-    "600": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYfEF-Q&skey=e32c128add4269f7&v=v7#Faustina",
-    "700": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYfEF-Q&skey=e32c128add4269f7&v=v7#Faustina"
+    "300": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHls3IEfEF-Q&skey=e32c128add4269f7&v=v15#Faustina",
+    "400": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEfEF-Q&skey=e32c128add4269f7&v=v15#Faustina",
+    "500": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEfEF-Q&skey=e32c128add4269f7&v=v15#Faustina",
+    "600": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYfEF-Q&skey=e32c128add4269f7&v=v15#Faustina",
+    "700": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYfEF-Q&skey=e32c128add4269f7&v=v15#Faustina",
+    "800": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsAoYfEF-Q&skey=e32c128add4269f7&v=v15#Faustina"
   }
 }

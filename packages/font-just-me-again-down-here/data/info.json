@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Just Me Again Down Here'",
-          "'JustMeAgainDownHere'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/justmeagaindownhere/v12/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKY&skey=85faf6a9cd49f669&v=v12#JustMeAgainDownHere",
-          "ttf": "https://fonts.gstatic.com/s/justmeagaindownhere/v12/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/justmeagaindownhere/v12/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKc.woff",
-          "woff2": "https://fonts.gstatic.com/s/justmeagaindownhere/v12/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwAtKE.woff2"
+          "eot": "https://fonts.gstatic.com/s/justmeagaindownhere/v24/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKY&skey=85faf6a9cd49f669&v=v24#JustMeAgainDownHere",
+          "ttf": "https://fonts.gstatic.com/s/justmeagaindownhere/v24/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/justmeagaindownhere/v24/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwOtKc.woff",
+          "woff2": "https://fonts.gstatic.com/s/justmeagaindownhere/v24/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwAtKE.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

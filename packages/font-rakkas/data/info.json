@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "arabic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rakkas Regular'",
-          "'Rakkas-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPn9FK.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Qw3cZQlNHiblL3jPn9FJ&skey=838fd7946900648&v=v9#Rakkas",
-          "ttf": "https://fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPn9FL.ttf",
-          "woff": "https://fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPn9FI.woff",
-          "woff2": "https://fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPkdFO.woff2"
+          "eot": "https://fonts.gstatic.com/s/rakkas/v17/Qw3cZQlNHiblL3jPn9FK.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Qw3cZQlNHiblL3jPn9FJ&skey=838fd7946900648&v=v17#Rakkas",
+          "ttf": "https://fonts.gstatic.com/s/rakkas/v17/Qw3cZQlNHiblL3jPn9FL.ttf",
+          "woff": "https://fonts.gstatic.com/s/rakkas/v17/Qw3cZQlNHiblL3jPn9FI.woff",
+          "woff2": "https://fonts.gstatic.com/s/rakkas/v17/Qw3cZQlNHiblL3jPkdFO.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

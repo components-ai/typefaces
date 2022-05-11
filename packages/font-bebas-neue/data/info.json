@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bebas Neue Regular'",
-          "'BebasNeue-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wdhzw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=JTUSjIg69CK48gW7PXoo9WdhzA&skey=6bd981f07b300212&v=v2#BebasNeue",
-          "ttf": "https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wdhzg.ttf",
-          "woff": "https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9WdhzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2"
+          "eot": "https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXoo9Wdhzw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=JTUSjIg69CK48gW7PXoo9WdhzA&skey=6bd981f07b300212&v=v9#BebasNeue",
+          "ttf": "https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXoo9Wdhzg.ttf",
+          "woff": "https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXoo9WdhzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v9",
   "typefaces": {
     "normal": {
       "400": {

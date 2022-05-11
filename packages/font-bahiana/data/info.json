@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bahiana Regular'",
-          "'Bahiana-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xrR2w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUV4YenPWJU3xrR2A&skey=3cf698d11caf64aa&v=v5#Bahiana",
-          "ttf": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xrR2g.ttf",
-          "woff": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xrR2Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR3w.woff2"
+          "eot": "https://fonts.gstatic.com/s/bahiana/v19/uU9PCBUV4YenPWJU3xrR2w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUV4YenPWJU3xrR2A&skey=3cf698d11caf64aa&v=v19#Bahiana",
+          "ttf": "https://fonts.gstatic.com/s/bahiana/v19/uU9PCBUV4YenPWJU3xrR2g.ttf",
+          "woff": "https://fonts.gstatic.com/s/bahiana/v19/uU9PCBUV4YenPWJU3xrR2Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/bahiana/v19/uU9PCBUV4YenPWJU3xTR3w.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

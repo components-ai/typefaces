@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Montez Regular'",
-          "'Montez-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=845ZNMk5GoGIX8lW07rY&skey=f103622e34a5cc95&v=v11#Montez",
-          "ttf": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07ra.ttf",
-          "woff": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rf.woff2"
+          "eot": "https://fonts.gstatic.com/s/montez/v18/845ZNMk5GoGIX8lW07rb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=845ZNMk5GoGIX8lW07rY&skey=f103622e34a5cc95&v=v18#Montez",
+          "ttf": "https://fonts.gstatic.com/s/montez/v18/845ZNMk5GoGIX8lW07ra.ttf",
+          "woff": "https://fonts.gstatic.com/s/montez/v18/845ZNMk5GoGIX8lW07rZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/montez/v18/845ZNMk5GoGIX8lW07rf.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

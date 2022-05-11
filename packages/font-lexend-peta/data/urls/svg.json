@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=BXRvvFPGjeLPh0kCfI4OkH_8ecI&skey=8772d77ddd07438b&v=v3#LexendPeta"
+    "100": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgR6SFCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "200": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRaSBCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "300": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRtyBCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "400": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgR6SBCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "500": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgR2yBCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "600": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRNydCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "700": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRDidCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "800": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRaSdCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta",
+    "900": "https://fonts.gstatic.com/l/font?kit=BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgRQCdCUlwo&skey=8772d77ddd07438b&v=v23#LexendPeta"
   }
 }

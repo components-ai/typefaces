@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -97,21 +97,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cute Font Regular'",
-          "'CuteFont-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6fn5lQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Noaw6Uny2oWPbSHMrY6fn5lT&skey=ff5dcd67a08b1822&v=v8#CuteFont",
-          "ttf": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6fn5lR.ttf",
-          "woff": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6fn5lS.woff",
-          "woff2": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6vnftDNiAS_WKVDmHrdR_iLPBq78z4.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/cutefont/v20/Noaw6Uny2oWPbSHMrY6fn5lQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Noaw6Uny2oWPbSHMrY6fn5lT&skey=ff5dcd67a08b1822&v=v20#CuteFont",
+          "ttf": "https://fonts.gstatic.com/s/cutefont/v20/Noaw6Uny2oWPbSHMrY6fn5lR.ttf",
+          "woff": "https://fonts.gstatic.com/s/cutefont/v20/Noaw6Uny2oWPbSHMrY6fn5lS.woff",
+          "woff2": "https://fonts.gstatic.com/s/cutefont/v20/Noaw6Uny2oWPbSHMrY6vnftDNiAS_WKVDmHrdR_iLPBq78z4.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

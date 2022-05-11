@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Archivo Black Regular'",
-          "'ArchivoBlack-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYKF-g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HTxqL289NzCGg4MzN6KJ7eW6CYKF-Q&skey=f0fab067ca5e2347&v=v10#ArchivoBlack",
-          "ttf": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYKF-w.ttf",
-          "woff": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYKF-A.woff",
-          "woff2": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2"
+          "eot": "https://fonts.gstatic.com/s/archivoblack/v17/HTxqL289NzCGg4MzN6KJ7eW6CYKF-g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HTxqL289NzCGg4MzN6KJ7eW6CYKF-Q&skey=f0fab067ca5e2347&v=v17#ArchivoBlack",
+          "ttf": "https://fonts.gstatic.com/s/archivoblack/v17/HTxqL289NzCGg4MzN6KJ7eW6CYKF-w.ttf",
+          "woff": "https://fonts.gstatic.com/s/archivoblack/v17/HTxqL289NzCGg4MzN6KJ7eW6CYKF-A.woff",
+          "woff2": "https://fonts.gstatic.com/s/archivoblack/v17/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Racing Sans One'",
-          "'RacingSansOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDj.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDg&skey=c54fc5912484ccc5&v=v8#RacingSansOne",
-          "ttf": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDi.ttf",
-          "woff": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDh.woff",
-          "woff2": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAKHDn.woff2"
+          "eot": "https://fonts.gstatic.com/s/racingsansone/v13/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDj.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDg&skey=c54fc5912484ccc5&v=v13#RacingSansOne",
+          "ttf": "https://fonts.gstatic.com/s/racingsansone/v13/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDi.ttf",
+          "woff": "https://fonts.gstatic.com/s/racingsansone/v13/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDh.woff",
+          "woff2": "https://fonts.gstatic.com/s/racingsansone/v13/sykr-yRtm7EvTrXNxkv5jfKKyDCAKHDn.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,16 +1,16 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhM.woff2",
-    "400": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
-    "500": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhM.woff2",
-    "600": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhM.woff2",
-    "700": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhM.woff2"
+    "300": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhM.woff2",
+    "400": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+    "500": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhM.woff2",
+    "600": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhM.woff2",
+    "700": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhM.woff2"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-I.woff2",
-    "400": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
-    "500": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-I.woff2",
-    "600": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-I.woff2",
-    "700": "https://fonts.gstatic.com/s/cormorantgaramond/v9/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-I.woff2"
+    "300": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-I.woff2",
+    "400": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+    "500": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-I.woff2",
+    "600": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-I.woff2",
+    "700": "https://fonts.gstatic.com/s/cormorantgaramond/v15/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-I.woff2"
   }
 }

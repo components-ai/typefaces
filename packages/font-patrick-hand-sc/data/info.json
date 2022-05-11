@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Patrick Hand SC'",
-          "'PatrickHandSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873lgCK_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0nkwC9f7MfsBiWcLtY65AWDK873lgCK8&skey=fc81b720009e6c7&v=v8#PatrickHandSC",
-          "ttf": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873lgCK-.ttf",
-          "woff": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873lgCK9.woff",
-          "woff2": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873ljiK7.woff2"
+          "eot": "https://fonts.gstatic.com/s/patrickhandsc/v13/0nkwC9f7MfsBiWcLtY65AWDK873lgCK_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0nkwC9f7MfsBiWcLtY65AWDK873lgCK8&skey=fc81b720009e6c7&v=v13#PatrickHandSC",
+          "ttf": "https://fonts.gstatic.com/s/patrickhandsc/v13/0nkwC9f7MfsBiWcLtY65AWDK873lgCK-.ttf",
+          "woff": "https://fonts.gstatic.com/s/patrickhandsc/v13/0nkwC9f7MfsBiWcLtY65AWDK873lgCK9.woff",
+          "woff2": "https://fonts.gstatic.com/s/patrickhandsc/v13/0nkwC9f7MfsBiWcLtY65AWDK873ljiK7.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

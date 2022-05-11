@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,32 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'MontserratSubrayada-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOE&skey=b9d78a68a81ccefa&v=v10#MontserratSubrayada",
-          "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOM.ttf",
-          "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOA.woff",
-          "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOY.woff2"
+          "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOE&skey=b9d78a68a81ccefa&v=v17#MontserratSubrayada",
+          "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOM.ttf",
+          "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOA.woff",
+          "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOY.woff2"
         }
       },
       "700": {
-        "local": [
-          "'MontserratSubrayada-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX4&skey=cf0011ee8bfb5b92&v=v10#MontserratSubrayada",
-          "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXw.ttf",
-          "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX8.woff",
-          "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXk.woff2"
+          "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX4&skey=cf0011ee8bfb5b92&v=v17#MontserratSubrayada",
+          "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXw.ttf",
+          "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX8.woff",
+          "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v17/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXk.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

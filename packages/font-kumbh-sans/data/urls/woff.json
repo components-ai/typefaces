@@ -1,7 +1,13 @@
 {
   "normal": {
-    "300": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KufWg.woff",
-    "400": "https://fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaio5d_w.woff",
-    "700": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KufWg.woff"
+    "100": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorqSxNBVos.woff",
+    "200": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopqShNBVos.woff",
+    "300": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNoq0ShNBVos.woff",
+    "400": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorqShNBVos.woff",
+    "500": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorYShNBVos.woff",
+    "600": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNoo0TRNBVos.woff",
+    "700": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNooNTRNBVos.woff",
+    "800": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopqTRNBVos.woff",
+    "900": "https://fonts.gstatic.com/s/kumbhsans/v11/c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopDTRNBVos.woff"
   }
 }

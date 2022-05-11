@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7cHtv4kjgoGqM7E_CfNY8HMJnw&skey=c079aaa284cdfedf&v=v5#Barlow",
-    "200": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfP04WogvT0&skey=9a40589dc4645af7&v=v5#Barlow",
-    "300": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOQ4mogvT0&skey=cff9305546dac9b9&v=v5#Barlow",
-    "400": "https://fonts.gstatic.com/l/font?kit=7cHrv4kjgoGqM7E_Cfs1wHg&skey=ae428d300932fbee&v=v5#Barlow",
-    "500": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfPI42ogvT0&skey=989d87b0113009a2&v=v5#Barlow",
-    "600": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfPk5GogvT0&skey=b6fa275773d7d91f&v=v5#Barlow",
-    "700": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOA5WogvT0&skey=25c93348b6ec64d8&v=v5#Barlow",
-    "800": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOc5mogvT0&skey=4f8c1421606143df&v=v5#Barlow",
-    "900": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfO452ogvT0&skey=a17eda9aca9f836a&v=v5#Barlow"
+    "100": "https://fonts.gstatic.com/l/font?kit=7cHtv4kjgoGqM7E_CfNY8HMJnw&skey=c079aaa284cdfedf&v=v12#Barlow",
+    "200": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfP04WogvT0&skey=9a40589dc4645af7&v=v12#Barlow",
+    "300": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOQ4mogvT0&skey=cff9305546dac9b9&v=v12#Barlow",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cHrv4kjgoGqM7E_Cfs1wHg&skey=ae428d300932fbee&v=v12#Barlow",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfPI42ogvT0&skey=989d87b0113009a2&v=v12#Barlow",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfPk5GogvT0&skey=b6fa275773d7d91f&v=v12#Barlow",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOA5WogvT0&skey=25c93348b6ec64d8&v=v12#Barlow",
+    "800": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfOc5mogvT0&skey=4f8c1421606143df&v=v12#Barlow",
+    "900": "https://fonts.gstatic.com/l/font?kit=7cHsv4kjgoGqM7E_CfO452ogvT0&skey=a17eda9aca9f836a&v=v12#Barlow"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7cHrv4kjgoGqM7E3b_s1wHg&skey=ea7542df22f6a953&v=v5#Barlow",
-    "200": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3w-os6Vor&skey=e8c74abecf94633e&v=v5#Barlow",
-    "300": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3p-ks6Vor&skey=5c2bca46e72f5b37&v=v5#Barlow",
-    "400": "https://fonts.gstatic.com/l/font?kit=7cHpv4kjgoGqM7E_Ass-&skey=32d7acf8757dbad0&v=v5#Barlow",
-    "500": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3_-gs6Vor&skey=4c8d0d0b13516148&v=v5#Barlow",
-    "600": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E30-8s6Vor&skey=a9a2225c15335812&v=v5#Barlow",
-    "700": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3t-4s6Vor&skey=f60e73b1bbf362f3&v=v5#Barlow",
-    "800": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3q-0s6Vor&skey=c0113ae012ad56b&v=v5#Barlow",
-    "900": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3j-ws6Vor&skey=ed2d519ec0625a7a&v=v5#Barlow"
+    "100": "https://fonts.gstatic.com/l/font?kit=7cHrv4kjgoGqM7E3b_s1wHg&skey=ea7542df22f6a953&v=v12#Barlow",
+    "200": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3w-os6Vor&skey=e8c74abecf94633e&v=v12#Barlow",
+    "300": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3p-ks6Vor&skey=5c2bca46e72f5b37&v=v12#Barlow",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cHpv4kjgoGqM7E_Ass-&skey=32d7acf8757dbad0&v=v12#Barlow",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3_-gs6Vor&skey=4c8d0d0b13516148&v=v12#Barlow",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E30-8s6Vor&skey=a9a2225c15335812&v=v12#Barlow",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3t-4s6Vor&skey=f60e73b1bbf362f3&v=v12#Barlow",
+    "800": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3q-0s6Vor&skey=c0113ae012ad56b&v=v12#Barlow",
+    "900": "https://fonts.gstatic.com/l/font?kit=7cHqv4kjgoGqM7E3j-ws6Vor&skey=ed2d519ec0625a7a&v=v12#Barlow"
   }
 }

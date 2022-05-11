@@ -1,16 +1,16 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=LYjEdGHgj0k1DIQRyUEyyEotRNb_Wg&skey=fae1fb97580e33e&v=v5#ProzaLibre",
-    "500": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9Q&skey=1e6900d5acc6e3da&v=v5#ProzaLibre",
-    "600": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9Q&skey=d1e5def115019bc3&v=v5#ProzaLibre",
-    "700": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9Q&skey=34ee315b5aa59352&v=v5#ProzaLibre",
-    "800": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9Q&skey=2422110863a4bf05&v=v5#ProzaLibre"
+    "400": "https://fonts.gstatic.com/l/font?kit=LYjEdGHgj0k1DIQRyUEyyEotRNb_Wg&skey=fae1fb97580e33e&v=v9#ProzaLibre",
+    "500": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9Q&skey=1e6900d5acc6e3da&v=v9#ProzaLibre",
+    "600": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9Q&skey=d1e5def115019bc3&v=v9#ProzaLibre",
+    "700": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9Q&skey=34ee315b5aa59352&v=v9#ProzaLibre",
+    "800": "https://fonts.gstatic.com/l/font?kit=LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9Q&skey=2422110863a4bf05&v=v9#ProzaLibre"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=LYjGdGHgj0k1DIQRyUEyyEomdN0&skey=c693a39898a09712&v=v5#ProzaLibre",
-    "500": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyELbV8_WeJY&skey=38dc39c2f5396bfb&v=v5#ProzaLibre",
-    "600": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJY&skey=97497ab1929219aa&v=v5#ProzaLibre",
-    "700": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJY&skey=5843ca80726abaed&v=v5#ProzaLibre",
-    "800": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJY&skey=90b95c3cb918668e&v=v5#ProzaLibre"
+    "400": "https://fonts.gstatic.com/l/font?kit=LYjGdGHgj0k1DIQRyUEyyEomdN0&skey=c693a39898a09712&v=v9#ProzaLibre",
+    "500": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyELbV8_WeJY&skey=38dc39c2f5396bfb&v=v9#ProzaLibre",
+    "600": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJY&skey=97497ab1929219aa&v=v9#ProzaLibre",
+    "700": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJY&skey=5843ca80726abaed&v=v9#ProzaLibre",
+    "800": "https://fonts.gstatic.com/l/font?kit=LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJY&skey=90b95c3cb918668e&v=v9#ProzaLibre"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kurale Regular'",
-          "'Kurale-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKcQ7y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KV9e9dXjhoKcQ7x&skey=fa62c6eb7f6052b&v=v6#Kurale",
-          "ttf": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKcQ7z.ttf",
-          "woff": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKcQ7w.woff",
-          "woff2": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKfw72.woff2"
+          "eot": "https://fonts.gstatic.com/s/kurale/v11/4iCs6KV9e9dXjhoKcQ7y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KV9e9dXjhoKcQ7x&skey=fa62c6eb7f6052b&v=v11#Kurale",
+          "ttf": "https://fonts.gstatic.com/s/kurale/v11/4iCs6KV9e9dXjhoKcQ7z.ttf",
+          "woff": "https://fonts.gstatic.com/s/kurale/v11/4iCs6KV9e9dXjhoKcQ7w.woff",
+          "woff2": "https://fonts.gstatic.com/s/kurale/v11/4iCs6KV9e9dXjhoKfw72.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

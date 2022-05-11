@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Viga-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQspCg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xMQbuFFdSaiXzQspCQ&skey=86c8fd86a8d4871d&v=v9#Viga",
-          "ttf": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQspCw.ttf",
-          "woff": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQspCA.woff",
-          "woff2": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpDg.woff2"
+          "eot": "https://fonts.gstatic.com/s/viga/v14/xMQbuFFdSaiXzQspCg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xMQbuFFdSaiXzQspCQ&skey=86c8fd86a8d4871d&v=v14#Viga",
+          "ttf": "https://fonts.gstatic.com/s/viga/v14/xMQbuFFdSaiXzQspCw.ttf",
+          "woff": "https://fonts.gstatic.com/s/viga/v14/xMQbuFFdSaiXzQspCA.woff",
+          "woff2": "https://fonts.gstatic.com/s/viga/v14/xMQbuFFdSaiXzQUpDg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

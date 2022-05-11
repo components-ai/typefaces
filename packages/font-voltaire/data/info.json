@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Voltaire'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1Pttg8PcRfSblAvGvTovaqM&skey=6dac2ae53f664907&v=v10#Voltaire",
-          "ttf": "https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqE.ttf",
-          "woff": "https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqI.woff",
-          "woff2": "https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/voltaire/v15/1Pttg8PcRfSblAvGvTovaqA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1Pttg8PcRfSblAvGvTovaqM&skey=6dac2ae53f664907&v=v15#Voltaire",
+          "ttf": "https://fonts.gstatic.com/s/voltaire/v15/1Pttg8PcRfSblAvGvTovaqE.ttf",
+          "woff": "https://fonts.gstatic.com/s/voltaire/v15/1Pttg8PcRfSblAvGvTovaqI.woff",
+          "woff2": "https://fonts.gstatic.com/s/voltaire/v15/1Pttg8PcRfSblAvGvTovaqQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Allerta Stencil Regular'",
-          "'AllertaStencil-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Dby.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HTx0L209KT-LmIE9N7OR6eiycOe1_Dbx&skey=8234201ddc67dd0e&v=v11#AllertaStencil",
-          "ttf": "https://fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbz.ttf",
-          "woff": "https://fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbw.woff",
-          "woff2": "https://fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Db2.woff2"
+          "eot": "https://fonts.gstatic.com/s/allertastencil/v18/HTx0L209KT-LmIE9N7OR6eiycOe1_Dby.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HTx0L209KT-LmIE9N7OR6eiycOe1_Dbx&skey=8234201ddc67dd0e&v=v18#AllertaStencil",
+          "ttf": "https://fonts.gstatic.com/s/allertastencil/v18/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbz.ttf",
+          "woff": "https://fonts.gstatic.com/s/allertastencil/v18/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbw.woff",
+          "woff2": "https://fonts.gstatic.com/s/allertastencil/v18/HTx0L209KT-LmIE9N7OR6eiycOe1_Db2.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,22 +1,22 @@
 {
   "italic": {
-    "200": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4Ue6syfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "300": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi7Ke6syfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "400": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi6Ue6syfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "500": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi6me6syfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "600": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5KfKsyfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "700": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5zfKsyfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "800": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4UfKsyfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro",
-    "900": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi49fKsyfNY&skey=929d48ffa46440d3&v=v13#CrimsonPro"
+    "200": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4Ue6syfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "300": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi7Ke6syfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "400": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi6Ue6syfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "500": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi6me6syfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "600": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5KfKsyfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "700": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5zfKsyfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "800": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4UfKsyfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro",
+    "900": "https://fonts.gstatic.com/l/font?kit=q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi49fKsyfNY&skey=929d48ffa46440d3&v=v21#CrimsonPro"
   },
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZTm1MMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "300": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZkG1MMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "400": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZzm1MMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "500": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZ_G1MMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "600": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZEGpMMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "700": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZKWpMMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "800": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZTmpMMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro",
-    "900": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZZ2pMMZs5&skey=ec2e092f18395a78&v=v13#CrimsonPro"
+    "200": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZTm1MMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "300": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZkG1MMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "400": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZzm1MMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "500": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZ_G1MMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "600": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZEGpMMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "700": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZKWpMMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "800": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZTmpMMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro",
+    "900": "https://fonts.gstatic.com/l/font?kit=q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZZ2pMMZs5&skey=ec2e092f18395a78&v=v21#CrimsonPro"
   }
 }

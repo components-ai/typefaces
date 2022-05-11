@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Sanchez Italic'",
-          "'Sanchez-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sanchez/v8/Ycm0sZJORluHnXbIfmxh8TQE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Ycm0sZJORluHnXbIfmxh8TQH&skey=e057493cb287083c&v=v8#Sanchez",
-          "ttf": "https://fonts.gstatic.com/s/sanchez/v8/Ycm0sZJORluHnXbIfmxh8TQF.ttf",
-          "woff": "https://fonts.gstatic.com/s/sanchez/v8/Ycm0sZJORluHnXbIfmxh8TQG.woff",
-          "woff2": "https://fonts.gstatic.com/s/sanchez/v8/Ycm0sZJORluHnXbIfmxh_zQA.woff2"
+          "eot": "https://fonts.gstatic.com/s/sanchez/v13/Ycm0sZJORluHnXbIfmxh8TQE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Ycm0sZJORluHnXbIfmxh8TQH&skey=e057493cb287083c&v=v13#Sanchez",
+          "ttf": "https://fonts.gstatic.com/s/sanchez/v13/Ycm0sZJORluHnXbIfmxh8TQF.ttf",
+          "woff": "https://fonts.gstatic.com/s/sanchez/v13/Ycm0sZJORluHnXbIfmxh8TQG.woff",
+          "woff2": "https://fonts.gstatic.com/s/sanchez/v13/Ycm0sZJORluHnXbIfmxh_zQA.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Sanchez'",
-          "'Sanchez-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sanchez/v8/Ycm2sZJORluHnXbIfmdR-Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Ycm2sZJORluHnXbIfmdR-g&skey=64b13ed5b348e87e&v=v8#Sanchez",
-          "ttf": "https://fonts.gstatic.com/s/sanchez/v8/Ycm2sZJORluHnXbIfmdR-A.ttf",
-          "woff": "https://fonts.gstatic.com/s/sanchez/v8/Ycm2sZJORluHnXbIfmdR-w.woff",
-          "woff2": "https://fonts.gstatic.com/s/sanchez/v8/Ycm2sZJORluHnXbIfmlR_Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/sanchez/v13/Ycm2sZJORluHnXbIfmdR-Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Ycm2sZJORluHnXbIfmdR-g&skey=64b13ed5b348e87e&v=v13#Sanchez",
+          "ttf": "https://fonts.gstatic.com/s/sanchez/v13/Ycm2sZJORluHnXbIfmdR-A.ttf",
+          "woff": "https://fonts.gstatic.com/s/sanchez/v13/Ycm2sZJORluHnXbIfmdR-w.woff",
+          "woff2": "https://fonts.gstatic.com/s/sanchez/v13/Ycm2sZJORluHnXbIfmlR_Q.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "italic": {
       "400": {

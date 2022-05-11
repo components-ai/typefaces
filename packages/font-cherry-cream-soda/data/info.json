@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cherry Cream Soda Regular'",
-          "'CherryCreamSoda-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cherrycreamsoda/v11/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9s.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9g&skey=f8bc88374f2520b0&v=v11#CherryCreamSoda",
-          "ttf": "https://fonts.gstatic.com/s/cherrycreamsoda/v11/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9o.ttf",
-          "woff": "https://fonts.gstatic.com/s/cherrycreamsoda/v11/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9k.woff",
-          "woff2": "https://fonts.gstatic.com/s/cherrycreamsoda/v11/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A98.woff2"
+          "eot": "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9s.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9g&skey=f8bc88374f2520b0&v=v21#CherryCreamSoda",
+          "ttf": "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9o.ttf",
+          "woff": "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9k.woff",
+          "woff2": "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A98.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

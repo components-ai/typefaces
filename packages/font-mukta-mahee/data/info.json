@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-26",
   "subsets": [
     "gurmukhi",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Mukta Mahee ExtraLight'",
-          "'MuktaMahee-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MFcCoOLHE&skey=7a5444129384d98f&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MFcCoOLHE&skey=7a5444129384d98f&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MFcCoALHY.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Mukta Mahee Light'",
-          "'MuktaMahee-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NhcyoOLHE&skey=ffce7cc203bb344a&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NhcyoOLHE&skey=ffce7cc203bb344a&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NhcyoALHY.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Mukta Mahee Regular'",
-          "'MuktaMahee-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vEUTs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3IOIi0hcP8iVU67hA9vEUTg&skey=855bb793d38aa635&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vEUTo.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vEUTk.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vKUT8.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXQ3IOIi0hcP8iVU67hA9vEUTs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3IOIi0hcP8iVU67hA9vEUTg&skey=855bb793d38aa635&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXQ3IOIi0hcP8iVU67hA9vEUTo.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXQ3IOIi0hcP8iVU67hA9vEUTk.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXQ3IOIi0hcP8iVU67hA9vKUT8.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Mukta Mahee Medium'",
-          "'MuktaMahee-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9M5cioOLHE&skey=4ae6321ea858b53e&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9M5cioOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9M5cioOLHE&skey=4ae6321ea858b53e&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9M5cioOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9M5cioOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9M5cioALHY.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Mukta Mahee SemiBold'",
-          "'MuktaMahee-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MVdSoOLHE&skey=6c05d8bd28d2205d&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MVdSoOLHE&skey=6c05d8bd28d2205d&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9MVdSoALHY.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Mukta Mahee Bold'",
-          "'MuktaMahee-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NxdCoOLHE&skey=f27e05420a7299f0&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NxdCoOLHE&skey=f27e05420a7299f0&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NxdCoALHY.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Mukta Mahee ExtraBold'",
-          "'MuktaMahee-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NtdyoOLHE&skey=f19409c4dd733942&v=v7#MuktaMahee",
-          "ttf": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHM.ttf",
-          "woff": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoALHY.woff2"
+          "eot": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NtdyoOLHE&skey=f19409c4dd733942&v=v15#MuktaMahee",
+          "ttf": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHM.ttf",
+          "woff": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/muktamahee/v15/XRXN3IOIi0hcP8iVU67hA9NtdyoALHY.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "200": {

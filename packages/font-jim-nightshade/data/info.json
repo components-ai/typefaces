@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jim Nightshade'",
-          "'JimNightshade-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXXw&skey=a1cdb4741ac7b833&v=v8#JimNightshade",
-          "ttf": "https://fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX4.ttf",
-          "woff": "https://fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX0.woff",
-          "woff2": "https://fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NS_XXs.woff2"
+          "eot": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXXw&skey=a1cdb4741ac7b833&v=v20#JimNightshade",
+          "ttf": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX4.ttf",
+          "woff": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX0.woff",
+          "woff2": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS_XXs.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nixie One'",
-          "'NixieOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nixieone/v11/lW-8wjkKLXjg5y2o2uUYV-t2.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=lW-8wjkKLXjg5y2o2uUYV-t1&skey=8867a65129e19fc&v=v11#NixieOne",
-          "ttf": "https://fonts.gstatic.com/s/nixieone/v11/lW-8wjkKLXjg5y2o2uUYV-t3.ttf",
-          "woff": "https://fonts.gstatic.com/s/nixieone/v11/lW-8wjkKLXjg5y2o2uUYV-t0.woff",
-          "woff2": "https://fonts.gstatic.com/s/nixieone/v11/lW-8wjkKLXjg5y2o2uUYV-ty.woff2"
+          "eot": "https://fonts.gstatic.com/s/nixieone/v16/lW-8wjkKLXjg5y2o2uUYV-t2.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=lW-8wjkKLXjg5y2o2uUYV-t1&skey=8867a65129e19fc&v=v16#NixieOne",
+          "ttf": "https://fonts.gstatic.com/s/nixieone/v16/lW-8wjkKLXjg5y2o2uUYV-t3.ttf",
+          "woff": "https://fonts.gstatic.com/s/nixieone/v16/lW-8wjkKLXjg5y2o2uUYV-t0.woff",
+          "woff2": "https://fonts.gstatic.com/s/nixieone/v16/lW-8wjkKLXjg5y2o2uUYV-ty.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

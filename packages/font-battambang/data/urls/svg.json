@@ -1,6 +1,9 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=uk-mEGe7raEw-HjkzZabDnc&skey=d567eed92f92816&v=v14#Battambang",
-    "700": "https://fonts.gstatic.com/l/font?kit=uk-lEGe7raEw-HjkzZabNsmMxyY&skey=fb8acf0440c31ce9&v=v14#Battambang"
+    "100": "https://fonts.gstatic.com/l/font?kit=uk-kEGe7raEw-HjkzZabNhGZ4ARy&skey=56769c1ebfbacd57&v=v24#Battambang",
+    "300": "https://fonts.gstatic.com/l/font?kit=uk-lEGe7raEw-HjkzZabNtmL9yNQ9A&skey=9f7d157d3957782f&v=v24#Battambang",
+    "400": "https://fonts.gstatic.com/l/font?kit=uk-mEGe7raEw-HjkzZabPnKp5Q&skey=d567eed92f92816&v=v24#Battambang",
+    "700": "https://fonts.gstatic.com/l/font?kit=uk-lEGe7raEw-HjkzZabNsmM9yNQ9A&skey=fb8acf0440c31ce9&v=v24#Battambang",
+    "900": "https://fonts.gstatic.com/l/font?kit=uk-lEGe7raEw-HjkzZabNvGO9yNQ9A&skey=77ae35099c1c1748&v=v24#Battambang"
   }
 }

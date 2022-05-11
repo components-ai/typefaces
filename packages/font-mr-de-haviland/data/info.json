@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mr De Haviland Regular'",
-          "'MrDeHaviland-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3L60c.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNVnooIhJj96FdB73296ksbOg3L60Q&skey=4c1b286187a2a4c2&v=v9#MrDeHaviland",
-          "ttf": "https://fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3L60Y.ttf",
-          "woff": "https://fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3L60U.woff",
-          "woff2": "https://fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3F60M.woff2"
+          "eot": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60c.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNVnooIhJj96FdB73296ksbOg3L60Q&skey=4c1b286187a2a4c2&v=v14#MrDeHaviland",
+          "ttf": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60Y.ttf",
+          "woff": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60U.woff",
+          "woff2": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60M.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

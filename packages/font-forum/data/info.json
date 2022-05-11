@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,20 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Forum'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IfOpY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew8IfOpU&skey=85e1828a547f7984&v=v11#Forum",
-          "ttf": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IfOpc.ttf",
-          "woff": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IfOpQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpI.woff2"
+          "eot": "https://fonts.gstatic.com/s/forum/v16/6aey4Ky-Vb8Ew8IfOpY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew8IfOpU&skey=85e1828a547f7984&v=v16#Forum",
+          "ttf": "https://fonts.gstatic.com/s/forum/v16/6aey4Ky-Vb8Ew8IfOpc.ttf",
+          "woff": "https://fonts.gstatic.com/s/forum/v16/6aey4Ky-Vb8Ew8IfOpQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/forum/v16/6aey4Ky-Vb8Ew8IROpI.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

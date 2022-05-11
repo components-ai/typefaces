@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Homenaje Regular'",
-          "'Homenaje-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6M0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q-xVAi_l-6Le6H6M4&skey=9b887fa224ab3cec&v=v10#Homenaje",
-          "ttf": "https://fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6M8.woff",
-          "woff2": "https://fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6Mk.woff2"
+          "eot": "https://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6M0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q-xVAi_l-6Le6H6M4&skey=9b887fa224ab3cec&v=v16#Homenaje",
+          "ttf": "https://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6M8.woff",
+          "woff2": "https://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mk.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

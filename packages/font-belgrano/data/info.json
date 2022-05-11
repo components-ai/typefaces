@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Belgrano Regular'",
-          "'Belgrano-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgLw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=55xvey5tM9rwKWrJZfMCgL8&skey=f8342c8dd44d2a61&v=v11#Belgrano",
-          "ttf": "https://fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgL0.ttf",
-          "woff": "https://fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgL4.woff",
-          "woff2": "https://fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgLg.woff2"
+          "eot": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMCgLw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=55xvey5tM9rwKWrJZfMCgL8&skey=f8342c8dd44d2a61&v=v18#Belgrano",
+          "ttf": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMCgL0.ttf",
+          "woff": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMCgL4.woff",
+          "woff2": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMCgLg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

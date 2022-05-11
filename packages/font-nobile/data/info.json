@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,88 +12,70 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Nobile Italic'",
-          "'Nobile-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3aULU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JRjflSeaOVl1iGXJ3aULY&skey=9b4ac2b3934f4a6a&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3aULQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3aULc.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3UULE.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JRjflSeaOVl1iGXJ3aULU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JRjflSeaOVl1iGXJ3aULY&skey=9b4ac2b3934f4a6a&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JRjflSeaOVl1iGXJ3aULQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JRjflSeaOVl1iGXJ3aULc.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JRjflSeaOVl1iGXJ3UULE.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Nobile Medium Italic'",
-          "'Nobile-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RMTmo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjflSeaOVl1iGXJUnc6RMTmk&skey=888ec0856a3bdf33&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RMTms.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RMTmg.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RCTm4.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJUnc6RMTmo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjflSeaOVl1iGXJUnc6RMTmk&skey=888ec0856a3bdf33&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJUnc6RMTms.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJUnc6RMTmg.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJUnc6RCTm4.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Nobile Bold Italic'",
-          "'Nobile-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRMTmo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjflSeaOVl1iGXJVvdaRMTmk&skey=e6bc22836875f11a&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRMTms.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRMTmg.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRCTm4.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJVvdaRMTmo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjflSeaOVl1iGXJVvdaRMTmk&skey=e6bc22836875f11a&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJVvdaRMTms.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJVvdaRMTmg.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JWjflSeaOVl1iGXJVvdaRCTm4.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Nobile'",
-          "'Nobile-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGV63S.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjflSeaOVl1iGV63R&skey=75b142b36504709c&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGV63T.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGV63Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGWa3W.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JTjflSeaOVl1iGV63S.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjflSeaOVl1iGV63R&skey=75b142b36504709c&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JTjflSeaOVl1iGV63T.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JTjflSeaOVl1iGV63Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JTjflSeaOVl1iGWa3W.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Nobile Medium'",
-          "'Nobile-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7DeZRE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JQjflSeaOVl1iOqo7DeZRH&skey=8b14303a304f772e&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7DeZRF.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7DeZRG.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7Dd5RA.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iOqo7DeZRE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JQjflSeaOVl1iOqo7DeZRH&skey=8b14303a304f772e&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iOqo7DeZRF.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iOqo7DeZRG.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iOqo7Dd5RA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Nobile Bold'",
-          "'Nobile-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDeZRE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JQjflSeaOVl1iO4ojDeZRH&skey=d7313a94383905e0&v=v12#Nobile",
-          "ttf": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDeZRF.ttf",
-          "woff": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDeZRG.woff",
-          "woff2": "https://fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDd5RA.woff2"
+          "eot": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iO4ojDeZRE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JQjflSeaOVl1iO4ojDeZRH&skey=d7313a94383905e0&v=v17#Nobile",
+          "ttf": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iO4ojDeZRF.ttf",
+          "woff": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iO4ojDeZRG.woff",
+          "woff2": "https://fonts.gstatic.com/s/nobile/v17/m8JQjflSeaOVl1iO4ojDd5RA.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "italic": {
       "400": {

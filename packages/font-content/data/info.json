@@ -1,42 +1,37 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "khmer"
   ],
   "unicodeRange": {
-    "khmer": "U+1780-17FF, U+200C, U+25CC"
+    "khmer": "U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Content'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwUaE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLayePhU_AwUaI&skey=df16c0bda2ebb594&v=v13#Content",
-          "ttf": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwUaA.ttf",
-          "woff": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwUaM.woff",
-          "woff2": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4IxL0.woff2"
+          "eot": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwUaE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLayePhU_AwUaI&skey=df16c0bda2ebb594&v=v24#Content",
+          "ttf": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwUaA.ttf",
+          "woff": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwUaM.woff",
+          "woff2": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwYaz4Iw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Content Bold'",
-          "'Content-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdBis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zrfg0HLayePhU_AwaRzdBig&skey=2cb501a81b30e788&v=v13#Content",
-          "ttf": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdBio.ttf",
-          "woff": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdBik.woff",
-          "woff2": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVWRHv.woff2"
+          "eot": "https://fonts.gstatic.com/s/content/v24/zrfg0HLayePhU_AwaRzdBis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zrfg0HLayePhU_AwaRzdBig&skey=2cb501a81b30e788&v=v24#Content",
+          "ttf": "https://fonts.gstatic.com/s/content/v24/zrfg0HLayePhU_AwaRzdBio.ttf",
+          "woff": "https://fonts.gstatic.com/s/content/v24/zrfg0HLayePhU_AwaRzdBik.woff",
+          "woff2": "https://fonts.gstatic.com/s/content/v24/zrfg0HLayePhU_AwaRzdNibVWQ.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

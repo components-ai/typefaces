@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tulpen One'",
-          "'TulpenOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6-Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa6ZfeC474skLgesc0Cajo6-g&skey=edbfc011ada22e7d&v=v10#TulpenOne",
-          "ttf": "https://fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6-A.ttf",
-          "woff": "https://fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6-w.woff",
-          "woff2": "https://fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6_Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/tulpenone/v21/dFa6ZfeC474skLgesc0Cajo6-Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa6ZfeC474skLgesc0Cajo6-g&skey=edbfc011ada22e7d&v=v21#TulpenOne",
+          "ttf": "https://fonts.gstatic.com/s/tulpenone/v21/dFa6ZfeC474skLgesc0Cajo6-A.ttf",
+          "woff": "https://fonts.gstatic.com/s/tulpenone/v21/dFa6ZfeC474skLgesc0Cajo6-w.woff",
+          "woff2": "https://fonts.gstatic.com/s/tulpenone/v21/dFa6ZfeC474skLgesc0Cajo6_Q.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

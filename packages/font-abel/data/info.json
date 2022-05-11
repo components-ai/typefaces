@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Abel Regular'",
-          "'Abel-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BOQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ5bhbm2POE2V9BOg&skey=bf47258294911e6d&v=v12#Abel",
-          "ttf": "https://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BOA.ttf",
-          "woff": "https://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BOw.woff",
-          "woff2": "https://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BPQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2V9BOQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ5bhbm2POE2V9BOg&skey=bf47258294911e6d&v=v18#Abel",
+          "ttf": "https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2V9BOA.ttf",
+          "woff": "https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2V9BOw.woff",
+          "woff2": "https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2V9BPQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

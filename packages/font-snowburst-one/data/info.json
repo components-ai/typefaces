@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Snowburst One'",
-          "'SnowburstOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZaeOg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezKdujBsXY3B7I-UT7SZaeOQ&skey=aefb557d700ea051&v=v8#SnowburstOne",
-          "ttf": "https://fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZaeOw.ttf",
-          "woff": "https://fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZaeOA.woff",
-          "woff2": "https://fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZiePg.woff2"
+          "eot": "https://fonts.gstatic.com/s/snowburstone/v20/MQpS-WezKdujBsXY3B7I-UT7SZaeOg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezKdujBsXY3B7I-UT7SZaeOQ&skey=aefb557d700ea051&v=v20#SnowburstOne",
+          "ttf": "https://fonts.gstatic.com/s/snowburstone/v20/MQpS-WezKdujBsXY3B7I-UT7SZaeOw.ttf",
+          "woff": "https://fonts.gstatic.com/s/snowburstone/v20/MQpS-WezKdujBsXY3B7I-UT7SZaeOA.woff",
+          "woff2": "https://fonts.gstatic.com/s/snowburstone/v20/MQpS-WezKdujBsXY3B7I-UT7SZiePg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -98,6 +95,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

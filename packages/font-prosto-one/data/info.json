@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Prosto One'",
-          "'ProstoOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxliNVXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4VhNfK-RgpwWWxliNVXA&skey=dd4f849bff091329&v=v9#ProstoOne",
-          "ttf": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxliNVXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxliNVXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/prostoone/v17/OpNJno4VhNfK-RgpwWWxliNVXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4VhNfK-RgpwWWxliNVXA&skey=dd4f849bff091329&v=v17#ProstoOne",
+          "ttf": "https://fonts.gstatic.com/s/prostoone/v17/OpNJno4VhNfK-RgpwWWxliNVXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/prostoone/v17/OpNJno4VhNfK-RgpwWWxliNVXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/prostoone/v17/OpNJno4VhNfK-RgpwWWxli1VWw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

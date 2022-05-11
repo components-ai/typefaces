@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gilda Display'",
-          "'GildaDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoYMoaYG0WEOh7HwMeR3TDPqA&skey=a96c8e607690656f&v=v8#GildaDisplay",
-          "ttf": "https://fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqg.ttf",
-          "woff": "https://fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3T7Prw.woff2"
+          "eot": "https://fonts.gstatic.com/s/gildadisplay/v13/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5tmIRoYMoaYG0WEOh7HwMeR3TDPqA&skey=a96c8e607690656f&v=v13#GildaDisplay",
+          "ttf": "https://fonts.gstatic.com/s/gildadisplay/v13/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqg.ttf",
+          "woff": "https://fonts.gstatic.com/s/gildadisplay/v13/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/gildadisplay/v13/t5tmIRoYMoaYG0WEOh7HwMeR3T7Prw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

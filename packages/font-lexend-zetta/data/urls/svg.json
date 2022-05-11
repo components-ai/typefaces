@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8sYny4Y&skey=4ce78d6ebb21fb74&v=v3#LexendZetta"
+    "100": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy9bH4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "200": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy1bG4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "300": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy4jG4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "400": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy9bG4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "500": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy-TG4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "600": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCywjB4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "700": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCyzHB4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "800": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy1bB4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta",
+    "900": "https://fonts.gstatic.com/l/font?kit=ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy3_B4zdpaA&skey=4ce78d6ebb21fb74&v=v23#LexendZetta"
   }
 }

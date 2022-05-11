@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rhodium Libre'",
-          "'RhodiumLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rhodiumlibre/v5/1q2AY5adA0tn_ukeHcQHqpx6lE3Bfw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1q2AY5adA0tn_ukeHcQHqpx6lE3BfA&skey=3f45cebb6e7f6ae4&v=v5#RhodiumLibre",
-          "ttf": "https://fonts.gstatic.com/s/rhodiumlibre/v5/1q2AY5adA0tn_ukeHcQHqpx6lE3Bfg.ttf",
-          "woff": "https://fonts.gstatic.com/s/rhodiumlibre/v5/1q2AY5adA0tn_ukeHcQHqpx6lE3BfQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/rhodiumlibre/v5/1q2AY5adA0tn_ukeHcQHqpx6lEPBew.woff2"
+          "eot": "https://fonts.gstatic.com/s/rhodiumlibre/v17/1q2AY5adA0tn_ukeHcQHqpx6lE3Bfw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1q2AY5adA0tn_ukeHcQHqpx6lE3BfA&skey=3f45cebb6e7f6ae4&v=v17#RhodiumLibre",
+          "ttf": "https://fonts.gstatic.com/s/rhodiumlibre/v17/1q2AY5adA0tn_ukeHcQHqpx6lE3Bfg.ttf",
+          "woff": "https://fonts.gstatic.com/s/rhodiumlibre/v17/1q2AY5adA0tn_ukeHcQHqpx6lE3BfQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/rhodiumlibre/v17/1q2AY5adA0tn_ukeHcQHqpx6lEPBew.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Trykker Regular'",
-          "'Trykker-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztNDiPA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtktALyWZJXudUPztNDiPw&skey=b133ac152d2ca231&v=v9#Trykker",
-          "ttf": "https://fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztNDiPQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztNDiPg.woff",
-          "woff2": "https://fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztN7iOA.woff2"
+          "eot": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztNDiPA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtktALyWZJXudUPztNDiPw&skey=b133ac152d2ca231&v=v21#Trykker",
+          "ttf": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztNDiPQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztNDiPg.woff",
+          "woff2": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztN7iOA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 76,
             "x_max": 742,
             "o": "m 199 -189 l 199 -189 q 476 -14 362 -141 l 476 -14 q 612 369 612 138 l 612 369 q 544 592 612 511 l 544 592 q 375 669 478 669 l 375 669 q 239 606 294 669 l 239 606 q 188 473 188 546 q 203 354 188 400 q 244 278 218 308 l 244 278 q 390 218 298 218 l 390 218 q 510 290 462 218 l 510 290 q 535 331 524 311 l 535 331 q 572 298 564 331 l 572 298 q 479 179 538 230 l 479 179 q 343 119 410 119 q 229 140 277 119 q 148 200 182 161 l 148 200 q 76 409 76 281 l 76 409 q 170 642 76 545 l 170 642 q 412 743 269 743 l 412 743 q 661 635 571 743 l 661 635 q 742 390 742 539 l 742 390 q 568 -48 742 134 l 568 -48 q 212 -256 415 -208 l 212 -256 q 199 -189 191 -222 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 463,

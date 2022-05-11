@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sniglet Regular'",
-          "'Sniglet-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9CChZQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf9MaFLtkE3UjaJ9CChZg&skey=430260da1e5b7678&v=v12#Sniglet",
-          "ttf": "https://fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9CChZA.ttf",
-          "woff": "https://fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9CChZw.woff",
-          "woff2": "https://fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9C6hYQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/sniglet/v17/cIf9MaFLtkE3UjaJ9CChZQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf9MaFLtkE3UjaJ9CChZg&skey=430260da1e5b7678&v=v17#Sniglet",
+          "ttf": "https://fonts.gstatic.com/s/sniglet/v17/cIf9MaFLtkE3UjaJ9CChZA.ttf",
+          "woff": "https://fonts.gstatic.com/s/sniglet/v17/cIf9MaFLtkE3UjaJ9CChZw.woff",
+          "woff2": "https://fonts.gstatic.com/s/sniglet/v17/cIf9MaFLtkE3UjaJ9C6hYQ.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Sniglet ExtraBold'",
-          "'Sniglet-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGgmmQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFLtkE3UjaJ_ImHdGgmmg&skey=51aeb8b2cd2d30b2&v=v12#Sniglet",
-          "ttf": "https://fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGgmmA.ttf",
-          "woff": "https://fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGgmmw.woff",
-          "woff2": "https://fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGYmnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/sniglet/v17/cIf4MaFLtkE3UjaJ_ImHdGgmmQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFLtkE3UjaJ_ImHdGgmmg&skey=51aeb8b2cd2d30b2&v=v17#Sniglet",
+          "ttf": "https://fonts.gstatic.com/s/sniglet/v17/cIf4MaFLtkE3UjaJ_ImHdGgmmA.ttf",
+          "woff": "https://fonts.gstatic.com/s/sniglet/v17/cIf4MaFLtkE3UjaJ_ImHdGgmmw.woff",
+          "woff2": "https://fonts.gstatic.com/s/sniglet/v17/cIf4MaFLtkE3UjaJ_ImHdGYmnQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

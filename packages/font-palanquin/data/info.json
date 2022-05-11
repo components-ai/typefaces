@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Palanquin Thin'",
-          "'Palanquin-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUhlJ90n1fBFg7ceXwUEmtB5LA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUhlJ90n1fBFg7ceXwUEmtB5LM&skey=17f7639b4e2b92cd&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUhlJ90n1fBFg7ceXwUEmtB5LE.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUhlJ90n1fBFg7ceXwUEmtB5LI.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUhlJ90n1fBFg7ceXwUEmtP5LQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUhlJ90n1fBFg7ceXwUEmtB5LA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUhlJ90n1fBFg7ceXwUEmtB5LM&skey=17f7639b4e2b92cd&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUhlJ90n1fBFg7ceXwUEmtB5LE.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUhlJ90n1fBFg7ceXwUEmtB5LI.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUhlJ90n1fBFg7ceXwUEmtP5LQ.woff2"
         }
       },
       "200": {
-        "local": [
-          "'Palanquin ExtraLight'",
-          "'Palanquin-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUvnpYzZGv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUvnpYzZGs&skey=11e4e6c745cfbbf8&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUvnpYzZGu.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUvnpYzZGt.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUvnpYw5Gr.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUvnpYzZGv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUvnpYzZGs&skey=11e4e6c745cfbbf8&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUvnpYzZGu.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUvnpYzZGt.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUvnpYw5Gr.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Palanquin Light'",
-          "'Palanquin-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwU2nlYzZGv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwU2nlYzZGs&skey=888137ba0a230de&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwU2nlYzZGu.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwU2nlYzZGt.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwU2nlYw5Gr.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwU2nlYzZGv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwU2nlYzZGs&skey=888137ba0a230de&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwU2nlYzZGu.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwU2nlYzZGt.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwU2nlYw5Gr.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Palanquin Regular'",
-          "'Palanquin-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUnlJ90n1fBFg7ceXwcf1tJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUnlJ90n1fBFg7ceXwcf1tK&skey=62bd04c836bb4e3f&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUnlJ90n1fBFg7ceXwcf1tI.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUnlJ90n1fBFg7ceXwcf1tL.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUnlJ90n1fBFg7ceXwccVtN.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUnlJ90n1fBFg7ceXwcf1tJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUnlJ90n1fBFg7ceXwcf1tK&skey=62bd04c836bb4e3f&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUnlJ90n1fBFg7ceXwcf1tI.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUnlJ90n1fBFg7ceXwcf1tL.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUnlJ90n1fBFg7ceXwccVtN.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Palanquin Medium'",
-          "'Palanquin-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUgnhYzZGv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUgnhYzZGs&skey=ae9af869dbfd7ffd&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUgnhYzZGu.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUgnhYzZGt.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUgnhYw5Gr.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUgnhYzZGv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUgnhYzZGs&skey=ae9af869dbfd7ffd&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUgnhYzZGu.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUgnhYzZGt.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUgnhYw5Gr.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Palanquin SemiBold'",
-          "'Palanquin-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUrn9YzZGv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUrn9YzZGs&skey=5dd2bcb5876b1f83&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUrn9YzZGu.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUrn9YzZGt.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUrn9Yw5Gr.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUrn9YzZGv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUrn9YzZGs&skey=5dd2bcb5876b1f83&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUrn9YzZGu.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUrn9YzZGt.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUrn9Yw5Gr.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Palanquin Bold'",
-          "'Palanquin-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUyn5YzZGv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUyn5YzZGs&skey=f0775b749549323e&v=v6#Palanquin",
-          "ttf": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUyn5YzZGu.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUyn5YzZGt.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquin/v6/9XUilJ90n1fBFg7ceXwUyn5Yw5Gr.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUyn5YzZGv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9XUilJ90n1fBFg7ceXwUyn5YzZGs&skey=f0775b749549323e&v=v13#Palanquin",
+          "ttf": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUyn5YzZGu.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUyn5YzZGt.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquin/v13/9XUilJ90n1fBFg7ceXwUyn5Yw5Gr.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "100": {

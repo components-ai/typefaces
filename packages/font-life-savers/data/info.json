@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,47 +12,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Life Savers Regular'",
-          "'LifeSavers-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8liHA8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZXuie1UftKKabUQMgxAal8liHAw&skey=7b619362a46bbd09&v=v11#LifeSavers",
-          "ttf": "https://fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8liHA4.ttf",
-          "woff": "https://fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8liHA0.woff",
-          "woff2": "https://fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8lsHAs.woff2"
+          "eot": "https://fonts.gstatic.com/s/lifesavers/v18/ZXuie1UftKKabUQMgxAal8liHA8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZXuie1UftKKabUQMgxAal8liHAw&skey=7b619362a46bbd09&v=v18#LifeSavers",
+          "ttf": "https://fonts.gstatic.com/s/lifesavers/v18/ZXuie1UftKKabUQMgxAal8liHA4.ttf",
+          "woff": "https://fonts.gstatic.com/s/lifesavers/v18/ZXuie1UftKKabUQMgxAal8liHA0.woff",
+          "woff2": "https://fonts.gstatic.com/s/lifesavers/v18/ZXuie1UftKKabUQMgxAal8lsHAs.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Life Savers Bold'",
-          "'LifeSavers-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5amcI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu_e1UftKKabUQMgxAal8HXOR5amcE&skey=5d3096418c414e64&v=v11#LifeSavers",
-          "ttf": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5amcM.ttf",
-          "woff": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5amcA.woff",
-          "woff2": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5UmcY.woff2"
+          "eot": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HXOR5amcI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu_e1UftKKabUQMgxAal8HXOR5amcE&skey=5d3096418c414e64&v=v18#LifeSavers",
+          "ttf": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HXOR5amcM.ttf",
+          "woff": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HXOR5amcA.woff",
+          "woff2": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HXOR5UmcY.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Life Savers ExtraBold'",
-          "'LifeSavers-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5amcI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu_e1UftKKabUQMgxAal8HLOh5amcE&skey=7b417b40a028d6d7&v=v11#LifeSavers",
-          "ttf": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5amcM.ttf",
-          "woff": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5amcA.woff",
-          "woff2": "https://fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5UmcY.woff2"
+          "eot": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HLOh5amcI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZXu_e1UftKKabUQMgxAal8HLOh5amcE&skey=7b417b40a028d6d7&v=v18#LifeSavers",
+          "ttf": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HLOh5amcM.ttf",
+          "woff": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HLOh5amcA.woff",
+          "woff2": "https://fonts.gstatic.com/s/lifesavers/v18/ZXu_e1UftKKabUQMgxAal8HLOh5UmcY.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

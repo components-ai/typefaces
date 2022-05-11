@@ -89,6 +89,24 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-akaya-kanadaka": {
+    "name": "Akaya Kanadaka",
+    "kebabName": "akaya-kanadaka",
+    "packageName": "@compai/font-akaya-kanadaka",
+    "docs": "https://components.ai/docs/typefaces/akaya-kanadaka",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/akaya-kanadaka",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-akaya-telivigala": {
+    "name": "Akaya Telivigala",
+    "kebabName": "akaya-telivigala",
+    "packageName": "@compai/font-akaya-telivigala",
+    "docs": "https://components.ai/docs/typefaces/akaya-telivigala",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/akaya-telivigala",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-akronim": {
     "name": "Akronim",
     "kebabName": "akronim",
@@ -97,6 +115,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/akronim",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-akshar": {
+    "name": "Akshar",
+    "kebabName": "akshar",
+    "packageName": "@compai/font-akshar",
+    "docs": "https://components.ai/docs/typefaces/akshar",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/akshar",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-aladin": {
     "name": "Aladin",
@@ -260,6 +287,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-allison": {
+    "name": "Allison",
+    "kebabName": "allison",
+    "packageName": "@compai/font-allison",
+    "docs": "https://components.ai/docs/typefaces/allison",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/allison",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-allura": {
     "name": "Allura",
     "kebabName": "allura",
@@ -304,6 +340,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/almendra-sc",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-alumni-sans": {
+    "name": "Alumni Sans",
+    "kebabName": "alumni-sans",
+    "packageName": "@compai/font-alumni-sans",
+    "docs": "https://components.ai/docs/typefaces/alumni-sans",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/alumni-sans",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-alumni-sans-inline-one": {
+    "name": "Alumni Sans Inline One",
+    "kebabName": "alumni-sans-inline-one",
+    "packageName": "@compai/font-alumni-sans-inline-one",
+    "docs": "https://components.ai/docs/typefaces/alumni-sans-inline-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/alumni-sans-inline-one",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-amarante": {
     "name": "Amarante",
@@ -377,14 +431,14 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
-  "@compai/font-andada": {
-    "name": "Andada",
-    "kebabName": "andada",
-    "packageName": "@compai/font-andada",
-    "docs": "https://components.ai/docs/typefaces/andada",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/andada",
+  "@compai/font-andada-pro": {
+    "name": "Andada Pro",
+    "kebabName": "andada-pro",
+    "packageName": "@compai/font-andada-pro",
+    "docs": "https://components.ai/docs/typefaces/andada-pro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/andada-pro",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.0"
   },
   "@compai/font-andika": {
     "name": "Andika",
@@ -394,6 +448,105 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/andika",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-andika-new-basic": {
+    "name": "Andika New Basic",
+    "kebabName": "andika-new-basic",
+    "packageName": "@compai/font-andika-new-basic",
+    "docs": "https://components.ai/docs/typefaces/andika-new-basic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/andika-new-basic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-bangla": {
+    "name": "Anek Bangla",
+    "kebabName": "anek-bangla",
+    "packageName": "@compai/font-anek-bangla",
+    "docs": "https://components.ai/docs/typefaces/anek-bangla",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-bangla",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-devanagari": {
+    "name": "Anek Devanagari",
+    "kebabName": "anek-devanagari",
+    "packageName": "@compai/font-anek-devanagari",
+    "docs": "https://components.ai/docs/typefaces/anek-devanagari",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-devanagari",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-gujarati": {
+    "name": "Anek Gujarati",
+    "kebabName": "anek-gujarati",
+    "packageName": "@compai/font-anek-gujarati",
+    "docs": "https://components.ai/docs/typefaces/anek-gujarati",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-gujarati",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-gurmukhi": {
+    "name": "Anek Gurmukhi",
+    "kebabName": "anek-gurmukhi",
+    "packageName": "@compai/font-anek-gurmukhi",
+    "docs": "https://components.ai/docs/typefaces/anek-gurmukhi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-gurmukhi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-kannada": {
+    "name": "Anek Kannada",
+    "kebabName": "anek-kannada",
+    "packageName": "@compai/font-anek-kannada",
+    "docs": "https://components.ai/docs/typefaces/anek-kannada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-kannada",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-latin": {
+    "name": "Anek Latin",
+    "kebabName": "anek-latin",
+    "packageName": "@compai/font-anek-latin",
+    "docs": "https://components.ai/docs/typefaces/anek-latin",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-latin",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-malayalam": {
+    "name": "Anek Malayalam",
+    "kebabName": "anek-malayalam",
+    "packageName": "@compai/font-anek-malayalam",
+    "docs": "https://components.ai/docs/typefaces/anek-malayalam",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-malayalam",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-odia": {
+    "name": "Anek Odia",
+    "kebabName": "anek-odia",
+    "packageName": "@compai/font-anek-odia",
+    "docs": "https://components.ai/docs/typefaces/anek-odia",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-odia",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-tamil": {
+    "name": "Anek Tamil",
+    "kebabName": "anek-tamil",
+    "packageName": "@compai/font-anek-tamil",
+    "docs": "https://components.ai/docs/typefaces/anek-tamil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-tamil",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anek-telugu": {
+    "name": "Anek Telugu",
+    "kebabName": "anek-telugu",
+    "packageName": "@compai/font-anek-telugu",
+    "docs": "https://components.ai/docs/typefaces/anek-telugu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-telugu",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-angkor": {
     "name": "Angkor",
@@ -458,6 +611,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-antonio": {
+    "name": "Antonio",
+    "kebabName": "antonio",
+    "packageName": "@compai/font-antonio",
+    "docs": "https://components.ai/docs/typefaces/antonio",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/antonio",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-anybody": {
+    "name": "Anybody",
+    "kebabName": "anybody",
+    "packageName": "@compai/font-anybody",
+    "docs": "https://components.ai/docs/typefaces/anybody",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/anybody",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-arapey": {
     "name": "Arapey",
     "kebabName": "arapey",
@@ -520,6 +691,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/archivo-narrow",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-are-you-serious": {
+    "name": "Are You Serious",
+    "kebabName": "are-you-serious",
+    "packageName": "@compai/font-are-you-serious",
+    "docs": "https://components.ai/docs/typefaces/are-you-serious",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/are-you-serious",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-aref-ruqaa": {
     "name": "Aref Ruqaa",
@@ -674,6 +854,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-atkinson-hyperlegible": {
+    "name": "Atkinson Hyperlegible",
+    "kebabName": "atkinson-hyperlegible",
+    "packageName": "@compai/font-atkinson-hyperlegible",
+    "docs": "https://components.ai/docs/typefaces/atkinson-hyperlegible",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/atkinson-hyperlegible",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-atma": {
     "name": "Atma",
     "kebabName": "atma",
@@ -773,6 +962,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-azeret-mono": {
+    "name": "Azeret Mono",
+    "kebabName": "azeret-mono",
+    "packageName": "@compai/font-azeret-mono",
+    "docs": "https://components.ai/docs/typefaces/azeret-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/azeret-mono",
+    "category": "monospace",
+    "version": "0.0.0"
+  },
   "@compai/font-b-612": {
     "name": "B612",
     "kebabName": "b-612",
@@ -790,6 +988,51 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/b-612-mono",
     "category": "monospace",
     "version": "0.0.2"
+  },
+  "@compai/font-biz-ud-gothic": {
+    "name": "BIZ UDGothic",
+    "kebabName": "biz-ud-gothic",
+    "packageName": "@compai/font-biz-ud-gothic",
+    "docs": "https://components.ai/docs/typefaces/biz-ud-gothic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-ud-gothic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-biz-ud-mincho": {
+    "name": "BIZ UDMincho",
+    "kebabName": "biz-ud-mincho",
+    "packageName": "@compai/font-biz-ud-mincho",
+    "docs": "https://components.ai/docs/typefaces/biz-ud-mincho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-ud-mincho",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-biz-udp-gothic": {
+    "name": "BIZ UDPGothic",
+    "kebabName": "biz-udp-gothic",
+    "packageName": "@compai/font-biz-udp-gothic",
+    "docs": "https://components.ai/docs/typefaces/biz-udp-gothic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-udp-gothic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-biz-udp-mincho": {
+    "name": "BIZ UDPMincho",
+    "kebabName": "biz-udp-mincho",
+    "packageName": "@compai/font-biz-udp-mincho",
+    "docs": "https://components.ai/docs/typefaces/biz-udp-mincho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-udp-mincho",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-babylonica": {
+    "name": "Babylonica",
+    "kebabName": "babylonica",
+    "packageName": "@compai/font-babylonica",
+    "docs": "https://components.ai/docs/typefaces/babylonica",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/babylonica",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-bad-script": {
     "name": "Bad Script",
@@ -827,6 +1070,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-bakbak-one": {
+    "name": "Bakbak One",
+    "kebabName": "bakbak-one",
+    "packageName": "@compai/font-bakbak-one",
+    "docs": "https://components.ai/docs/typefaces/bakbak-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/bakbak-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-ballet": {
+    "name": "Ballet",
+    "kebabName": "ballet",
+    "packageName": "@compai/font-ballet",
+    "docs": "https://components.ai/docs/typefaces/ballet",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ballet",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-baloo-2": {
     "name": "Baloo 2",
     "kebabName": "baloo-2",
@@ -844,6 +1105,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-bhai-2",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-baloo-bhaijaan-2": {
+    "name": "Baloo Bhaijaan 2",
+    "kebabName": "baloo-bhaijaan-2",
+    "packageName": "@compai/font-baloo-bhaijaan-2",
+    "docs": "https://components.ai/docs/typefaces/baloo-bhaijaan-2",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-bhaijaan-2",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-baloo-bhaina-2": {
     "name": "Baloo Bhaina 2",
@@ -1022,17 +1292,26 @@ module.exports = {
     "packageName": "@compai/font-bayon",
     "docs": "https://components.ai/docs/typefaces/bayon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bayon",
-    "category": "display",
-    "version": "0.0.2"
-  },
-  "@compai/font-be-vietnam": {
-    "name": "Be Vietnam",
-    "kebabName": "be-vietnam",
-    "packageName": "@compai/font-be-vietnam",
-    "docs": "https://components.ai/docs/typefaces/be-vietnam",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/be-vietnam",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-be-vietnam-pro": {
+    "name": "Be Vietnam Pro",
+    "kebabName": "be-vietnam-pro",
+    "packageName": "@compai/font-be-vietnam-pro",
+    "docs": "https://components.ai/docs/typefaces/be-vietnam-pro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/be-vietnam-pro",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-beau-rivage": {
+    "name": "Beau Rivage",
+    "kebabName": "beau-rivage",
+    "packageName": "@compai/font-beau-rivage",
+    "docs": "https://components.ai/docs/typefaces/beau-rivage",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/beau-rivage",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-bebas-neue": {
     "name": "Bebas Neue",
@@ -1097,6 +1376,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-benne": {
+    "name": "Benne",
+    "kebabName": "benne",
+    "packageName": "@compai/font-benne",
+    "docs": "https://components.ai/docs/typefaces/benne",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/benne",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-bentham": {
     "name": "Bentham",
     "kebabName": "bentham",
@@ -1114,6 +1402,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/berkshire-swash",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-besley": {
+    "name": "Besley",
+    "kebabName": "besley",
+    "packageName": "@compai/font-besley",
+    "docs": "https://components.ai/docs/typefaces/besley",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/besley",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-beth-ellen": {
     "name": "Beth Ellen",
@@ -1133,6 +1430,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-bhu-tuka-expanded-one": {
+    "name": "BhuTuka Expanded One",
+    "kebabName": "bhu-tuka-expanded-one",
+    "packageName": "@compai/font-bhu-tuka-expanded-one",
+    "docs": "https://components.ai/docs/typefaces/bhu-tuka-expanded-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/bhu-tuka-expanded-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-big-shoulders-display": {
     "name": "Big Shoulders Display",
     "kebabName": "big-shoulders-display",
@@ -1141,6 +1447,42 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-display",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-big-shoulders-inline-display": {
+    "name": "Big Shoulders Inline Display",
+    "kebabName": "big-shoulders-inline-display",
+    "packageName": "@compai/font-big-shoulders-inline-display",
+    "docs": "https://components.ai/docs/typefaces/big-shoulders-inline-display",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-inline-display",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-big-shoulders-inline-text": {
+    "name": "Big Shoulders Inline Text",
+    "kebabName": "big-shoulders-inline-text",
+    "packageName": "@compai/font-big-shoulders-inline-text",
+    "docs": "https://components.ai/docs/typefaces/big-shoulders-inline-text",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-inline-text",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-big-shoulders-stencil-display": {
+    "name": "Big Shoulders Stencil Display",
+    "kebabName": "big-shoulders-stencil-display",
+    "packageName": "@compai/font-big-shoulders-stencil-display",
+    "docs": "https://components.ai/docs/typefaces/big-shoulders-stencil-display",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-stencil-display",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-big-shoulders-stencil-text": {
+    "name": "Big Shoulders Stencil Text",
+    "kebabName": "big-shoulders-stencil-text",
+    "packageName": "@compai/font-big-shoulders-stencil-text",
+    "docs": "https://components.ai/docs/typefaces/big-shoulders-stencil-text",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-stencil-text",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-big-shoulders-text": {
     "name": "Big Shoulders Text",
@@ -1205,6 +1547,24 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-birthstone": {
+    "name": "Birthstone",
+    "kebabName": "birthstone",
+    "packageName": "@compai/font-birthstone",
+    "docs": "https://components.ai/docs/typefaces/birthstone",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/birthstone",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-birthstone-bounce": {
+    "name": "Birthstone Bounce",
+    "kebabName": "birthstone-bounce",
+    "packageName": "@compai/font-birthstone-bounce",
+    "docs": "https://components.ai/docs/typefaces/birthstone-bounce",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/birthstone-bounce",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-biryani": {
     "name": "Biryani",
     "kebabName": "biryani",
@@ -1259,6 +1619,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-bodoni-moda": {
+    "name": "Bodoni Moda",
+    "kebabName": "bodoni-moda",
+    "packageName": "@compai/font-bodoni-moda",
+    "docs": "https://components.ai/docs/typefaces/bodoni-moda",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/bodoni-moda",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-bokor": {
     "name": "Bokor",
     "kebabName": "bokor",
@@ -1268,6 +1637,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-bona-nova": {
+    "name": "Bona Nova",
+    "kebabName": "bona-nova",
+    "packageName": "@compai/font-bona-nova",
+    "docs": "https://components.ai/docs/typefaces/bona-nova",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/bona-nova",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-bonbon": {
     "name": "Bonbon",
     "kebabName": "bonbon",
@@ -1276,6 +1654,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bonbon",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-bonheur-royale": {
+    "name": "Bonheur Royale",
+    "kebabName": "bonheur-royale",
+    "packageName": "@compai/font-bonheur-royale",
+    "docs": "https://components.ai/docs/typefaces/bonheur-royale",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/bonheur-royale",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-boogaloo": {
     "name": "Boogaloo",
@@ -1321,6 +1708,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bree-serif",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-brygada-1918": {
+    "name": "Brygada 1918",
+    "kebabName": "brygada-1918",
+    "packageName": "@compai/font-brygada-1918",
+    "docs": "https://components.ai/docs/typefaces/brygada-1918",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/brygada-1918",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-bubblegum-sans": {
     "name": "Bubblegum Sans",
@@ -1565,6 +1961,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-caramel": {
+    "name": "Caramel",
+    "kebabName": "caramel",
+    "packageName": "@compai/font-caramel",
+    "docs": "https://components.ai/docs/typefaces/caramel",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/caramel",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-carattere": {
+    "name": "Carattere",
+    "kebabName": "carattere",
+    "packageName": "@compai/font-carattere",
+    "docs": "https://components.ai/docs/typefaces/carattere",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/carattere",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-cardo": {
     "name": "Cardo",
     "kebabName": "cardo",
@@ -1609,6 +2023,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carter-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-castoro": {
+    "name": "Castoro",
+    "kebabName": "castoro",
+    "packageName": "@compai/font-castoro",
+    "docs": "https://components.ai/docs/typefaces/castoro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/castoro",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-catamaran": {
     "name": "Catamaran",
@@ -1763,6 +2186,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-cherish": {
+    "name": "Cherish",
+    "kebabName": "cherish",
+    "packageName": "@compai/font-cherish",
+    "docs": "https://components.ai/docs/typefaces/cherish",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/cherish",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-cherry-cream-soda": {
     "name": "Cherry Cream Soda",
     "kebabName": "cherry-cream-soda",
@@ -1907,6 +2339,24 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-comforter": {
+    "name": "Comforter",
+    "kebabName": "comforter",
+    "packageName": "@compai/font-comforter",
+    "docs": "https://components.ai/docs/typefaces/comforter",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/comforter",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-comforter-brush": {
+    "name": "Comforter Brush",
+    "kebabName": "comforter-brush",
+    "packageName": "@compai/font-comforter-brush",
+    "docs": "https://components.ai/docs/typefaces/comforter-brush",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/comforter-brush",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-comic-neue": {
     "name": "Comic Neue",
     "kebabName": "comic-neue",
@@ -1924,6 +2374,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coming-soon",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-commissioner": {
+    "name": "Commissioner",
+    "kebabName": "commissioner",
+    "packageName": "@compai/font-commissioner",
+    "docs": "https://components.ai/docs/typefaces/commissioner",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/commissioner",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-concert-one": {
     "name": "Concert One",
@@ -1996,6 +2455,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/corben",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-corinthia": {
+    "name": "Corinthia",
+    "kebabName": "corinthia",
+    "packageName": "@compai/font-corinthia",
+    "docs": "https://components.ai/docs/typefaces/corinthia",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/corinthia",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-cormorant": {
     "name": "Cormorant",
@@ -2129,15 +2597,6 @@ module.exports = {
     "packageName": "@compai/font-crimson-pro",
     "docs": "https://components.ai/docs/typefaces/crimson-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/crimson-pro",
-    "category": "serif",
-    "version": "0.0.2"
-  },
-  "@compai/font-crimson-text": {
-    "name": "Crimson Text",
-    "kebabName": "crimson-text",
-    "packageName": "@compai/font-crimson-text",
-    "docs": "https://components.ai/docs/typefaces/crimson-text",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/crimson-text",
     "category": "serif",
     "version": "0.0.2"
   },
@@ -2303,6 +2762,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-dela-gothic-one": {
+    "name": "Dela Gothic One",
+    "kebabName": "dela-gothic-one",
+    "packageName": "@compai/font-dela-gothic-one",
+    "docs": "https://components.ai/docs/typefaces/dela-gothic-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/dela-gothic-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-delius": {
     "name": "Delius",
     "kebabName": "delius",
@@ -2429,6 +2897,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-dongle": {
+    "name": "Dongle",
+    "kebabName": "dongle",
+    "packageName": "@compai/font-dongle",
+    "docs": "https://components.ai/docs/typefaces/dongle",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/dongle",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-doppio-one": {
     "name": "Doppio One",
     "kebabName": "doppio-one",
@@ -2455,6 +2932,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dosis",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-dot-gothic-16": {
+    "name": "DotGothic16",
+    "kebabName": "dot-gothic-16",
+    "packageName": "@compai/font-dot-gothic-16",
+    "docs": "https://components.ai/docs/typefaces/dot-gothic-16",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/dot-gothic-16",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-dr-sugiyama": {
     "name": "Dr Sugiyama",
@@ -2618,6 +3104,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-encode-sans-sc": {
+    "name": "Encode Sans SC",
+    "kebabName": "encode-sans-sc",
+    "packageName": "@compai/font-encode-sans-sc",
+    "docs": "https://components.ai/docs/typefaces/encode-sans-sc",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-sc",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-encode-sans-semi-condensed": {
     "name": "Encode Sans Semi Condensed",
     "kebabName": "encode-sans-semi-condensed",
@@ -2663,6 +3158,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-ephesis": {
+    "name": "Ephesis",
+    "kebabName": "ephesis",
+    "packageName": "@compai/font-ephesis",
+    "docs": "https://components.ai/docs/typefaces/ephesis",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ephesis",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-epilogue": {
     "name": "Epilogue",
     "kebabName": "epilogue",
@@ -2689,6 +3193,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/esteban",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-estonia": {
+    "name": "Estonia",
+    "kebabName": "estonia",
+    "packageName": "@compai/font-estonia",
+    "docs": "https://components.ai/docs/typefaces/estonia",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/estonia",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-euphoria-script": {
     "name": "Euphoria Script",
@@ -2735,6 +3248,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-explora": {
+    "name": "Explora",
+    "kebabName": "explora",
+    "packageName": "@compai/font-explora",
+    "docs": "https://components.ai/docs/typefaces/explora",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/explora",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-fahkwang": {
     "name": "Fahkwang",
     "kebabName": "fahkwang",
@@ -2743,6 +3265,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fahkwang",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-familjen-grotesk": {
+    "name": "Familjen Grotesk",
+    "kebabName": "familjen-grotesk",
+    "packageName": "@compai/font-familjen-grotesk",
+    "docs": "https://components.ai/docs/typefaces/familjen-grotesk",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/familjen-grotesk",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-fanwood-text": {
     "name": "Fanwood Text",
@@ -2804,7 +3335,7 @@ module.exports = {
     "packageName": "@compai/font-fasthand",
     "docs": "https://components.ai/docs/typefaces/fasthand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fasthand",
-    "category": "serif",
+    "category": "display",
     "version": "0.0.2"
   },
   "@compai/font-fauna-one": {
@@ -2860,6 +3391,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fenix",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-festive": {
+    "name": "Festive",
+    "kebabName": "festive",
+    "packageName": "@compai/font-festive",
+    "docs": "https://components.ai/docs/typefaces/festive",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/festive",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-finger-paint": {
     "name": "Finger Paint",
@@ -2951,6 +3491,42 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-fleur-de-leah": {
+    "name": "Fleur De Leah",
+    "kebabName": "fleur-de-leah",
+    "packageName": "@compai/font-fleur-de-leah",
+    "docs": "https://components.ai/docs/typefaces/fleur-de-leah",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/fleur-de-leah",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-flow-block": {
+    "name": "Flow Block",
+    "kebabName": "flow-block",
+    "packageName": "@compai/font-flow-block",
+    "docs": "https://components.ai/docs/typefaces/flow-block",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-block",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-flow-circular": {
+    "name": "Flow Circular",
+    "kebabName": "flow-circular",
+    "packageName": "@compai/font-flow-circular",
+    "docs": "https://components.ai/docs/typefaces/flow-circular",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-circular",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-flow-rounded": {
+    "name": "Flow Rounded",
+    "kebabName": "flow-rounded",
+    "packageName": "@compai/font-flow-rounded",
+    "docs": "https://components.ai/docs/typefaces/flow-rounded",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-rounded",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-fondamento": {
     "name": "Fondamento",
     "kebabName": "fondamento",
@@ -2996,6 +3572,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-fraunces": {
+    "name": "Fraunces",
+    "kebabName": "fraunces",
+    "packageName": "@compai/font-fraunces",
+    "docs": "https://components.ai/docs/typefaces/fraunces",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/fraunces",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-freckle-face": {
     "name": "Freckle Face",
     "kebabName": "freckle-face",
@@ -3013,6 +3598,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fredericka-the-great",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-fredoka": {
+    "name": "Fredoka",
+    "kebabName": "fredoka",
+    "packageName": "@compai/font-fredoka",
+    "docs": "https://components.ai/docs/typefaces/fredoka",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/fredoka",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-fredoka-one": {
     "name": "Fredoka One",
@@ -3067,6 +3661,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fugaz-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-fuggles": {
+    "name": "Fuggles",
+    "kebabName": "fuggles",
+    "packageName": "@compai/font-fuggles",
+    "docs": "https://components.ai/docs/typefaces/fuggles",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/fuggles",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-fuzzy-bubbles": {
+    "name": "Fuzzy Bubbles",
+    "kebabName": "fuzzy-bubbles",
+    "packageName": "@compai/font-fuzzy-bubbles",
+    "docs": "https://components.ai/docs/typefaces/fuzzy-bubbles",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/fuzzy-bubbles",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-gfs-didot": {
     "name": "GFS Didot",
@@ -3167,6 +3779,24 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-gemunu-libre": {
+    "name": "Gemunu Libre",
+    "kebabName": "gemunu-libre",
+    "packageName": "@compai/font-gemunu-libre",
+    "docs": "https://components.ai/docs/typefaces/gemunu-libre",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gemunu-libre",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-genos": {
+    "name": "Genos",
+    "kebabName": "genos",
+    "packageName": "@compai/font-genos",
+    "docs": "https://components.ai/docs/typefaces/genos",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/genos",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-gentium-basic": {
     "name": "Gentium Basic",
     "kebabName": "gentium-basic",
@@ -3194,6 +3824,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-georama": {
+    "name": "Georama",
+    "kebabName": "georama",
+    "packageName": "@compai/font-georama",
+    "docs": "https://components.ai/docs/typefaces/georama",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/georama",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-geostar": {
     "name": "Geostar",
     "kebabName": "geostar",
@@ -3220,6 +3859,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/germania-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-gideon-roman": {
+    "name": "Gideon Roman",
+    "kebabName": "gideon-roman",
+    "packageName": "@compai/font-gideon-roman",
+    "docs": "https://components.ai/docs/typefaces/gideon-roman",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gideon-roman",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-gidugu": {
     "name": "Gidugu",
@@ -3284,6 +3932,24 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-glory": {
+    "name": "Glory",
+    "kebabName": "glory",
+    "packageName": "@compai/font-glory",
+    "docs": "https://components.ai/docs/typefaces/glory",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/glory",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-gluten": {
+    "name": "Gluten",
+    "kebabName": "gluten",
+    "packageName": "@compai/font-gluten",
+    "docs": "https://components.ai/docs/typefaces/gluten",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gluten",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-goblin-one": {
     "name": "Goblin One",
     "kebabName": "goblin-one",
@@ -3301,6 +3967,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gochi-hand",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-goldman": {
+    "name": "Goldman",
+    "kebabName": "goldman",
+    "packageName": "@compai/font-goldman",
+    "docs": "https://components.ai/docs/typefaces/goldman",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/goldman",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-gorditas": {
     "name": "Gorditas",
@@ -3338,6 +4013,24 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-gowun-batang": {
+    "name": "Gowun Batang",
+    "kebabName": "gowun-batang",
+    "packageName": "@compai/font-gowun-batang",
+    "docs": "https://components.ai/docs/typefaces/gowun-batang",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gowun-batang",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-gowun-dodum": {
+    "name": "Gowun Dodum",
+    "kebabName": "gowun-dodum",
+    "packageName": "@compai/font-gowun-dodum",
+    "docs": "https://components.ai/docs/typefaces/gowun-dodum",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gowun-dodum",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-graduate": {
     "name": "Graduate",
     "kebabName": "graduate",
@@ -3365,6 +4058,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-grape-nuts": {
+    "name": "Grape Nuts",
+    "kebabName": "grape-nuts",
+    "packageName": "@compai/font-grape-nuts",
+    "docs": "https://components.ai/docs/typefaces/grape-nuts",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/grape-nuts",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-gravitas-one": {
     "name": "Gravitas One",
     "kebabName": "gravitas-one",
@@ -3383,6 +4085,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-grechen-fuemen": {
+    "name": "Grechen Fuemen",
+    "kebabName": "grechen-fuemen",
+    "packageName": "@compai/font-grechen-fuemen",
+    "docs": "https://components.ai/docs/typefaces/grechen-fuemen",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/grechen-fuemen",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-grenze": {
     "name": "Grenze",
     "kebabName": "grenze",
@@ -3400,6 +4111,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grenze-gotisch",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-grey-qo": {
+    "name": "Grey Qo",
+    "kebabName": "grey-qo",
+    "packageName": "@compai/font-grey-qo",
+    "docs": "https://components.ai/docs/typefaces/grey-qo",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/grey-qo",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-griffy": {
     "name": "Griffy",
@@ -3455,6 +4175,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-gwendolyn": {
+    "name": "Gwendolyn",
+    "kebabName": "gwendolyn",
+    "packageName": "@compai/font-gwendolyn",
+    "docs": "https://components.ai/docs/typefaces/gwendolyn",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gwendolyn",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-habibi": {
     "name": "Habibi",
     "kebabName": "habibi",
@@ -3463,6 +4192,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/habibi",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-hachi-maru-pop": {
+    "name": "Hachi Maru Pop",
+    "kebabName": "hachi-maru-pop",
+    "packageName": "@compai/font-hachi-maru-pop",
+    "docs": "https://components.ai/docs/typefaces/hachi-maru-pop",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/hachi-maru-pop",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-hahmlet": {
+    "name": "Hahmlet",
+    "kebabName": "hahmlet",
+    "packageName": "@compai/font-hahmlet",
+    "docs": "https://components.ai/docs/typefaces/hahmlet",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/hahmlet",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-halant": {
     "name": "Halant",
@@ -3590,6 +4337,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-hina-mincho": {
+    "name": "Hina Mincho",
+    "kebabName": "hina-mincho",
+    "packageName": "@compai/font-hina-mincho",
+    "docs": "https://components.ai/docs/typefaces/hina-mincho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/hina-mincho",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-hind": {
     "name": "Hind",
     "kebabName": "hind",
@@ -3662,6 +4418,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-hubballi": {
+    "name": "Hubballi",
+    "kebabName": "hubballi",
+    "packageName": "@compai/font-hubballi",
+    "docs": "https://components.ai/docs/typefaces/hubballi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/hubballi",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-hurricane": {
+    "name": "Hurricane",
+    "kebabName": "hurricane",
+    "packageName": "@compai/font-hurricane",
+    "docs": "https://components.ai/docs/typefaces/hurricane",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/hurricane",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-ibm-plex-mono": {
     "name": "IBM Plex Mono",
     "kebabName": "ibm-plex-mono",
@@ -3680,6 +4454,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-ibm-plex-sans-arabic": {
+    "name": "IBM Plex Sans Arabic",
+    "kebabName": "ibm-plex-sans-arabic",
+    "packageName": "@compai/font-ibm-plex-sans-arabic",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-arabic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-arabic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-ibm-plex-sans-condensed": {
     "name": "IBM Plex Sans Condensed",
     "kebabName": "ibm-plex-sans-condensed",
@@ -3688,6 +4471,51 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-condensed",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-ibm-plex-sans-devanagari": {
+    "name": "IBM Plex Sans Devanagari",
+    "kebabName": "ibm-plex-sans-devanagari",
+    "packageName": "@compai/font-ibm-plex-sans-devanagari",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-devanagari",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-devanagari",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-ibm-plex-sans-hebrew": {
+    "name": "IBM Plex Sans Hebrew",
+    "kebabName": "ibm-plex-sans-hebrew",
+    "packageName": "@compai/font-ibm-plex-sans-hebrew",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-hebrew",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-hebrew",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-ibm-plex-sans-kr": {
+    "name": "IBM Plex Sans KR",
+    "kebabName": "ibm-plex-sans-kr",
+    "packageName": "@compai/font-ibm-plex-sans-kr",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-kr",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-kr",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-ibm-plex-sans-thai": {
+    "name": "IBM Plex Sans Thai",
+    "kebabName": "ibm-plex-sans-thai",
+    "packageName": "@compai/font-ibm-plex-sans-thai",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-thai",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-thai",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-ibm-plex-sans-thai-looped": {
+    "name": "IBM Plex Sans Thai Looped",
+    "kebabName": "ibm-plex-sans-thai-looped",
+    "packageName": "@compai/font-ibm-plex-sans-thai-looped",
+    "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-thai-looped",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-thai-looped",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-ibm-plex-serif": {
     "name": "IBM Plex Serif",
@@ -3815,6 +4643,24 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-imbue": {
+    "name": "Imbue",
+    "kebabName": "imbue",
+    "packageName": "@compai/font-imbue",
+    "docs": "https://components.ai/docs/typefaces/imbue",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/imbue",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-imperial-script": {
+    "name": "Imperial Script",
+    "kebabName": "imperial-script",
+    "packageName": "@compai/font-imperial-script",
+    "docs": "https://components.ai/docs/typefaces/imperial-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/imperial-script",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-imprima": {
     "name": "Imprima",
     "kebabName": "imprima",
@@ -3850,6 +4696,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/indie-flower",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-ingrid-darling": {
+    "name": "Ingrid Darling",
+    "kebabName": "ingrid-darling",
+    "packageName": "@compai/font-ingrid-darling",
+    "docs": "https://components.ai/docs/typefaces/ingrid-darling",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ingrid-darling",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-inika": {
     "name": "Inika",
@@ -3887,6 +4742,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-inspiration": {
+    "name": "Inspiration",
+    "kebabName": "inspiration",
+    "packageName": "@compai/font-inspiration",
+    "docs": "https://components.ai/docs/typefaces/inspiration",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/inspiration",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-inter": {
     "name": "Inter",
     "kebabName": "inter",
@@ -3904,6 +4768,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/irish-grover",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-island-moments": {
+    "name": "Island Moments",
+    "kebabName": "island-moments",
+    "packageName": "@compai/font-island-moments",
+    "docs": "https://components.ai/docs/typefaces/island-moments",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/island-moments",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-istok-web": {
     "name": "Istok Web",
@@ -3967,6 +4840,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jaldi",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-jet-brains-mono": {
+    "name": "JetBrains Mono",
+    "kebabName": "jet-brains-mono",
+    "packageName": "@compai/font-jet-brains-mono",
+    "docs": "https://components.ai/docs/typefaces/jet-brains-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/jet-brains-mono",
+    "category": "monospace",
+    "version": "0.0.0"
   },
   "@compai/font-jim-nightshade": {
     "name": "Jim Nightshade",
@@ -4139,6 +5021,42 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-kaisei-decol": {
+    "name": "Kaisei Decol",
+    "kebabName": "kaisei-decol",
+    "packageName": "@compai/font-kaisei-decol",
+    "docs": "https://components.ai/docs/typefaces/kaisei-decol",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-decol",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-kaisei-haruno-umi": {
+    "name": "Kaisei HarunoUmi",
+    "kebabName": "kaisei-haruno-umi",
+    "packageName": "@compai/font-kaisei-haruno-umi",
+    "docs": "https://components.ai/docs/typefaces/kaisei-haruno-umi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-haruno-umi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-kaisei-opti": {
+    "name": "Kaisei Opti",
+    "kebabName": "kaisei-opti",
+    "packageName": "@compai/font-kaisei-opti",
+    "docs": "https://components.ai/docs/typefaces/kaisei-opti",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-opti",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-kaisei-tokumin": {
+    "name": "Kaisei Tokumin",
+    "kebabName": "kaisei-tokumin",
+    "packageName": "@compai/font-kaisei-tokumin",
+    "docs": "https://components.ai/docs/typefaces/kaisei-tokumin",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-tokumin",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-kalam": {
     "name": "Kalam",
     "kebabName": "kalam",
@@ -4174,6 +5092,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kantumruy",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-karantina": {
+    "name": "Karantina",
+    "kebabName": "karantina",
+    "packageName": "@compai/font-karantina",
+    "docs": "https://components.ai/docs/typefaces/karantina",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/karantina",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-karla": {
     "name": "Karla",
@@ -4292,6 +5219,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-kings": {
+    "name": "Kings",
+    "kebabName": "kings",
+    "packageName": "@compai/font-kings",
+    "docs": "https://components.ai/docs/typefaces/kings",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kings",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-kirang-haerang": {
     "name": "Kirang Haerang",
     "kebabName": "kirang-haerang",
@@ -4309,6 +5245,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kite-one",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-kiwi-maru": {
+    "name": "Kiwi Maru",
+    "kebabName": "kiwi-maru",
+    "packageName": "@compai/font-kiwi-maru",
+    "docs": "https://components.ai/docs/typefaces/kiwi-maru",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kiwi-maru",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-klee-one": {
+    "name": "Klee One",
+    "kebabName": "klee-one",
+    "packageName": "@compai/font-klee-one",
+    "docs": "https://components.ai/docs/typefaces/klee-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/klee-one",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-knewave": {
     "name": "Knewave",
@@ -4336,6 +5290,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kodchasan",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-koh-santepheap": {
+    "name": "Koh Santepheap",
+    "kebabName": "koh-santepheap",
+    "packageName": "@compai/font-koh-santepheap",
+    "docs": "https://components.ai/docs/typefaces/koh-santepheap",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/koh-santepheap",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-kolker-brush": {
+    "name": "Kolker Brush",
+    "kebabName": "kolker-brush",
+    "packageName": "@compai/font-kolker-brush",
+    "docs": "https://components.ai/docs/typefaces/kolker-brush",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kolker-brush",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-kosugi": {
     "name": "Kosugi",
@@ -4424,7 +5396,7 @@ module.exports = {
     "packageName": "@compai/font-kufam",
     "docs": "https://components.ai/docs/typefaces/kufam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kufam",
-    "category": "display",
+    "category": "sans-serif",
     "version": "0.0.2"
   },
   "@compai/font-kulim-park": {
@@ -4496,7 +5468,7 @@ module.exports = {
     "packageName": "@compai/font-laila",
     "docs": "https://components.ai/docs/typefaces/laila",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/laila",
-    "category": "serif",
+    "category": "sans-serif",
     "version": "0.0.2"
   },
   "@compai/font-lakki-reddy": {
@@ -4526,6 +5498,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-langar": {
+    "name": "Langar",
+    "kebabName": "langar",
+    "packageName": "@compai/font-langar",
+    "docs": "https://components.ai/docs/typefaces/langar",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/langar",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-lateef": {
     "name": "Lateef",
     "kebabName": "lateef",
@@ -4544,6 +5525,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-lavishly-yours": {
+    "name": "Lavishly Yours",
+    "kebabName": "lavishly-yours",
+    "packageName": "@compai/font-lavishly-yours",
+    "docs": "https://components.ai/docs/typefaces/lavishly-yours",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/lavishly-yours",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-league-gothic": {
+    "name": "League Gothic",
+    "kebabName": "league-gothic",
+    "packageName": "@compai/font-league-gothic",
+    "docs": "https://components.ai/docs/typefaces/league-gothic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/league-gothic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-league-script": {
     "name": "League Script",
     "kebabName": "league-script",
@@ -4552,6 +5551,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/league-script",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-league-spartan": {
+    "name": "League Spartan",
+    "kebabName": "league-spartan",
+    "packageName": "@compai/font-league-spartan",
+    "docs": "https://components.ai/docs/typefaces/league-spartan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/league-spartan",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-leckerli-one": {
     "name": "Leckerli One",
@@ -4597,6 +5605,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lemonada",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-lexend": {
+    "name": "Lexend",
+    "kebabName": "lexend",
+    "packageName": "@compai/font-lexend",
+    "docs": "https://components.ai/docs/typefaces/lexend",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-lexend-deca": {
     "name": "Lexend Deca",
@@ -4715,6 +5732,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-libre-barcode-ean-13-text": {
+    "name": "Libre Barcode EAN13 Text",
+    "kebabName": "libre-barcode-ean-13-text",
+    "packageName": "@compai/font-libre-barcode-ean-13-text",
+    "docs": "https://components.ai/docs/typefaces/libre-barcode-ean-13-text",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-ean-13-text",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-libre-baskerville": {
     "name": "Libre Baskerville",
     "kebabName": "libre-baskerville",
@@ -4723,6 +5749,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-baskerville",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-libre-bodoni": {
+    "name": "Libre Bodoni",
+    "kebabName": "libre-bodoni",
+    "packageName": "@compai/font-libre-bodoni",
+    "docs": "https://components.ai/docs/typefaces/libre-bodoni",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-bodoni",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-libre-caslon-display": {
     "name": "Libre Caslon Display",
@@ -4750,6 +5785,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-franklin",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-licorice": {
+    "name": "Licorice",
+    "kebabName": "licorice",
+    "packageName": "@compai/font-licorice",
+    "docs": "https://components.ai/docs/typefaces/licorice",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/licorice",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-life-savers": {
     "name": "Life Savers",
@@ -4895,6 +5939,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-love-light": {
+    "name": "Love Light",
+    "kebabName": "love-light",
+    "packageName": "@compai/font-love-light",
+    "docs": "https://components.ai/docs/typefaces/love-light",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/love-light",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-love-ya-like-a-sister": {
     "name": "Love Ya Like A Sister",
     "kebabName": "love-ya-like-a-sister",
@@ -4949,6 +6002,42 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-luxurious-roman": {
+    "name": "Luxurious Roman",
+    "kebabName": "luxurious-roman",
+    "packageName": "@compai/font-luxurious-roman",
+    "docs": "https://components.ai/docs/typefaces/luxurious-roman",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/luxurious-roman",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-luxurious-script": {
+    "name": "Luxurious Script",
+    "kebabName": "luxurious-script",
+    "packageName": "@compai/font-luxurious-script",
+    "docs": "https://components.ai/docs/typefaces/luxurious-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/luxurious-script",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-m-plus-1": {
+    "name": "M PLUS 1",
+    "kebabName": "m-plus-1",
+    "packageName": "@compai/font-m-plus-1",
+    "docs": "https://components.ai/docs/typefaces/m-plus-1",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-m-plus-1-code": {
+    "name": "M PLUS 1 Code",
+    "kebabName": "m-plus-1-code",
+    "packageName": "@compai/font-m-plus-1-code",
+    "docs": "https://components.ai/docs/typefaces/m-plus-1-code",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1-code",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-m-plus-1-p": {
     "name": "M PLUS 1p",
     "kebabName": "m-plus-1-p",
@@ -4957,6 +6046,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1-p",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-m-plus-2": {
+    "name": "M PLUS 2",
+    "kebabName": "m-plus-2",
+    "packageName": "@compai/font-m-plus-2",
+    "docs": "https://components.ai/docs/typefaces/m-plus-2",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-2",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-m-plus-code-latin": {
+    "name": "M PLUS Code Latin",
+    "kebabName": "m-plus-code-latin",
+    "packageName": "@compai/font-m-plus-code-latin",
+    "docs": "https://components.ai/docs/typefaces/m-plus-code-latin",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-code-latin",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-m-plus-rounded-1-c": {
     "name": "M PLUS Rounded 1c",
@@ -5246,6 +6353,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-mea-culpa": {
+    "name": "Mea Culpa",
+    "kebabName": "mea-culpa",
+    "packageName": "@compai/font-mea-culpa",
+    "docs": "https://components.ai/docs/typefaces/mea-culpa",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/mea-culpa",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-meddon": {
     "name": "Meddon",
     "kebabName": "meddon",
@@ -5299,6 +6415,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/meie-script",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-meow-script": {
+    "name": "Meow Script",
+    "kebabName": "meow-script",
+    "packageName": "@compai/font-meow-script",
+    "docs": "https://components.ai/docs/typefaces/meow-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/meow-script",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-merienda": {
     "name": "Merienda",
@@ -5462,6 +6587,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-mochiy-pop-one": {
+    "name": "Mochiy Pop One",
+    "kebabName": "mochiy-pop-one",
+    "packageName": "@compai/font-mochiy-pop-one",
+    "docs": "https://components.ai/docs/typefaces/mochiy-pop-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/mochiy-pop-one",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-mochiy-pop-p-one": {
+    "name": "Mochiy Pop P One",
+    "kebabName": "mochiy-pop-p-one",
+    "packageName": "@compai/font-mochiy-pop-p-one",
+    "docs": "https://components.ai/docs/typefaces/mochiy-pop-p-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/mochiy-pop-p-one",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-modak": {
     "name": "Modak",
     "kebabName": "modak",
@@ -5488,6 +6631,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mogra",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-mohave": {
+    "name": "Mohave",
+    "kebabName": "mohave",
+    "packageName": "@compai/font-mohave",
+    "docs": "https://components.ai/docs/typefaces/mohave",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/mohave",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-molengo": {
     "name": "Molengo",
@@ -5552,6 +6704,24 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-montagu-slab": {
+    "name": "Montagu Slab",
+    "kebabName": "montagu-slab",
+    "packageName": "@compai/font-montagu-slab",
+    "docs": "https://components.ai/docs/typefaces/montagu-slab",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/montagu-slab",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-monte-carlo": {
+    "name": "MonteCarlo",
+    "kebabName": "monte-carlo",
+    "packageName": "@compai/font-monte-carlo",
+    "docs": "https://components.ai/docs/typefaces/monte-carlo",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/monte-carlo",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-montez": {
     "name": "Montez",
     "kebabName": "montez",
@@ -5587,6 +6757,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montserrat-subrayada",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-moo-lah-lah": {
+    "name": "Moo Lah Lah",
+    "kebabName": "moo-lah-lah",
+    "packageName": "@compai/font-moo-lah-lah",
+    "docs": "https://components.ai/docs/typefaces/moo-lah-lah",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/moo-lah-lah",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-moon-dance": {
+    "name": "Moon Dance",
+    "kebabName": "moon-dance",
+    "packageName": "@compai/font-moon-dance",
+    "docs": "https://components.ai/docs/typefaces/moon-dance",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/moon-dance",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-moul": {
     "name": "Moul",
@@ -5669,6 +6857,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-ms-madi": {
+    "name": "Ms Madi",
+    "kebabName": "ms-madi",
+    "packageName": "@compai/font-ms-madi",
+    "docs": "https://components.ai/docs/typefaces/ms-madi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ms-madi",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-mukta": {
     "name": "Mukta",
     "kebabName": "mukta",
@@ -5714,6 +6911,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-murecho": {
+    "name": "Murecho",
+    "kebabName": "murecho",
+    "packageName": "@compai/font-murecho",
+    "docs": "https://components.ai/docs/typefaces/murecho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/murecho",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-museo-moderno": {
     "name": "MuseoModerno",
     "kebabName": "museo-moderno",
@@ -5722,6 +6928,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/museo-moderno",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-my-soul": {
+    "name": "My Soul",
+    "kebabName": "my-soul",
+    "packageName": "@compai/font-my-soul",
+    "docs": "https://components.ai/docs/typefaces/my-soul",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/my-soul",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-mystery-quest": {
     "name": "Mystery Quest",
@@ -5786,6 +7001,24 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-neonderthaw": {
+    "name": "Neonderthaw",
+    "kebabName": "neonderthaw",
+    "packageName": "@compai/font-neonderthaw",
+    "docs": "https://components.ai/docs/typefaces/neonderthaw",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/neonderthaw",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-nerko-one": {
+    "name": "Nerko One",
+    "kebabName": "nerko-one",
+    "packageName": "@compai/font-nerko-one",
+    "docs": "https://components.ai/docs/typefaces/nerko-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/nerko-one",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-neucha": {
     "name": "Neucha",
     "kebabName": "neucha",
@@ -5813,6 +7046,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-new-tegomin": {
+    "name": "New Tegomin",
+    "kebabName": "new-tegomin",
+    "packageName": "@compai/font-new-tegomin",
+    "docs": "https://components.ai/docs/typefaces/new-tegomin",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/new-tegomin",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-news-cycle": {
     "name": "News Cycle",
     "kebabName": "news-cycle",
@@ -5821,6 +7063,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/news-cycle",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-newsreader": {
+    "name": "Newsreader",
+    "kebabName": "newsreader",
+    "packageName": "@compai/font-newsreader",
+    "docs": "https://components.ai/docs/typefaces/newsreader",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/newsreader",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-niconne": {
     "name": "Niconne",
@@ -5864,7 +7115,7 @@ module.exports = {
     "packageName": "@compai/font-nokora",
     "docs": "https://components.ai/docs/typefaces/nokora",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nokora",
-    "category": "serif",
+    "category": "sans-serif",
     "version": "0.0.2"
   },
   "@compai/font-norican": {
@@ -5912,6 +7163,60 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-emoji": {
+    "name": "Noto Emoji",
+    "kebabName": "noto-emoji",
+    "packageName": "@compai/font-noto-emoji",
+    "docs": "https://components.ai/docs/typefaces/noto-emoji",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-emoji",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-kufi-arabic": {
+    "name": "Noto Kufi Arabic",
+    "kebabName": "noto-kufi-arabic",
+    "packageName": "@compai/font-noto-kufi-arabic",
+    "docs": "https://components.ai/docs/typefaces/noto-kufi-arabic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-kufi-arabic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-music": {
+    "name": "Noto Music",
+    "kebabName": "noto-music",
+    "packageName": "@compai/font-noto-music",
+    "docs": "https://components.ai/docs/typefaces/noto-music",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-music",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-naskh-arabic": {
+    "name": "Noto Naskh Arabic",
+    "kebabName": "noto-naskh-arabic",
+    "packageName": "@compai/font-noto-naskh-arabic",
+    "docs": "https://components.ai/docs/typefaces/noto-naskh-arabic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-naskh-arabic",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-nastaliq-urdu": {
+    "name": "Noto Nastaliq Urdu",
+    "kebabName": "noto-nastaliq-urdu",
+    "packageName": "@compai/font-noto-nastaliq-urdu",
+    "docs": "https://components.ai/docs/typefaces/noto-nastaliq-urdu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-nastaliq-urdu",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-rashi-hebrew": {
+    "name": "Noto Rashi Hebrew",
+    "kebabName": "noto-rashi-hebrew",
+    "packageName": "@compai/font-noto-rashi-hebrew",
+    "docs": "https://components.ai/docs/typefaces/noto-rashi-hebrew",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-rashi-hebrew",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-sans": {
     "name": "Noto Sans",
     "kebabName": "noto-sans",
@@ -5920,6 +7225,348 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-noto-sans-adlam": {
+    "name": "Noto Sans Adlam",
+    "kebabName": "noto-sans-adlam",
+    "packageName": "@compai/font-noto-sans-adlam",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-adlam",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-adlam",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-adlam-unjoined": {
+    "name": "Noto Sans Adlam Unjoined",
+    "kebabName": "noto-sans-adlam-unjoined",
+    "packageName": "@compai/font-noto-sans-adlam-unjoined",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-adlam-unjoined",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-adlam-unjoined",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-anatolian-hieroglyphs": {
+    "name": "Noto Sans Anatolian Hieroglyphs",
+    "kebabName": "noto-sans-anatolian-hieroglyphs",
+    "packageName": "@compai/font-noto-sans-anatolian-hieroglyphs",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-anatolian-hieroglyphs",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-anatolian-hieroglyphs",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-arabic": {
+    "name": "Noto Sans Arabic",
+    "kebabName": "noto-sans-arabic",
+    "packageName": "@compai/font-noto-sans-arabic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-arabic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-arabic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-armenian": {
+    "name": "Noto Sans Armenian",
+    "kebabName": "noto-sans-armenian",
+    "packageName": "@compai/font-noto-sans-armenian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-armenian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-armenian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-avestan": {
+    "name": "Noto Sans Avestan",
+    "kebabName": "noto-sans-avestan",
+    "packageName": "@compai/font-noto-sans-avestan",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-avestan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-avestan",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-balinese": {
+    "name": "Noto Sans Balinese",
+    "kebabName": "noto-sans-balinese",
+    "packageName": "@compai/font-noto-sans-balinese",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-balinese",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-balinese",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-bamum": {
+    "name": "Noto Sans Bamum",
+    "kebabName": "noto-sans-bamum",
+    "packageName": "@compai/font-noto-sans-bamum",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-bamum",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bamum",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-bassa-vah": {
+    "name": "Noto Sans Bassa Vah",
+    "kebabName": "noto-sans-bassa-vah",
+    "packageName": "@compai/font-noto-sans-bassa-vah",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-bassa-vah",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bassa-vah",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-batak": {
+    "name": "Noto Sans Batak",
+    "kebabName": "noto-sans-batak",
+    "packageName": "@compai/font-noto-sans-batak",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-batak",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-batak",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-bengali": {
+    "name": "Noto Sans Bengali",
+    "kebabName": "noto-sans-bengali",
+    "packageName": "@compai/font-noto-sans-bengali",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-bengali",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bengali",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-bhaiksuki": {
+    "name": "Noto Sans Bhaiksuki",
+    "kebabName": "noto-sans-bhaiksuki",
+    "packageName": "@compai/font-noto-sans-bhaiksuki",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-bhaiksuki",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bhaiksuki",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-brahmi": {
+    "name": "Noto Sans Brahmi",
+    "kebabName": "noto-sans-brahmi",
+    "packageName": "@compai/font-noto-sans-brahmi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-brahmi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-brahmi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-buginese": {
+    "name": "Noto Sans Buginese",
+    "kebabName": "noto-sans-buginese",
+    "packageName": "@compai/font-noto-sans-buginese",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-buginese",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-buginese",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-buhid": {
+    "name": "Noto Sans Buhid",
+    "kebabName": "noto-sans-buhid",
+    "packageName": "@compai/font-noto-sans-buhid",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-buhid",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-buhid",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-canadian-aboriginal": {
+    "name": "Noto Sans Canadian Aboriginal",
+    "kebabName": "noto-sans-canadian-aboriginal",
+    "packageName": "@compai/font-noto-sans-canadian-aboriginal",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-canadian-aboriginal",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-canadian-aboriginal",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-carian": {
+    "name": "Noto Sans Carian",
+    "kebabName": "noto-sans-carian",
+    "packageName": "@compai/font-noto-sans-carian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-carian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-carian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-caucasian-albanian": {
+    "name": "Noto Sans Caucasian Albanian",
+    "kebabName": "noto-sans-caucasian-albanian",
+    "packageName": "@compai/font-noto-sans-caucasian-albanian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-caucasian-albanian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-caucasian-albanian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-chakma": {
+    "name": "Noto Sans Chakma",
+    "kebabName": "noto-sans-chakma",
+    "packageName": "@compai/font-noto-sans-chakma",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-chakma",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-chakma",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-cham": {
+    "name": "Noto Sans Cham",
+    "kebabName": "noto-sans-cham",
+    "packageName": "@compai/font-noto-sans-cham",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-cham",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cham",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-cherokee": {
+    "name": "Noto Sans Cherokee",
+    "kebabName": "noto-sans-cherokee",
+    "packageName": "@compai/font-noto-sans-cherokee",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-cherokee",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cherokee",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-coptic": {
+    "name": "Noto Sans Coptic",
+    "kebabName": "noto-sans-coptic",
+    "packageName": "@compai/font-noto-sans-coptic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-coptic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-coptic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-cuneiform": {
+    "name": "Noto Sans Cuneiform",
+    "kebabName": "noto-sans-cuneiform",
+    "packageName": "@compai/font-noto-sans-cuneiform",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-cuneiform",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cuneiform",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-cypriot": {
+    "name": "Noto Sans Cypriot",
+    "kebabName": "noto-sans-cypriot",
+    "packageName": "@compai/font-noto-sans-cypriot",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-cypriot",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cypriot",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-deseret": {
+    "name": "Noto Sans Deseret",
+    "kebabName": "noto-sans-deseret",
+    "packageName": "@compai/font-noto-sans-deseret",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-deseret",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-deseret",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-devanagari": {
+    "name": "Noto Sans Devanagari",
+    "kebabName": "noto-sans-devanagari",
+    "packageName": "@compai/font-noto-sans-devanagari",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-devanagari",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-devanagari",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-display": {
+    "name": "Noto Sans Display",
+    "kebabName": "noto-sans-display",
+    "packageName": "@compai/font-noto-sans-display",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-display",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-display",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-duployan": {
+    "name": "Noto Sans Duployan",
+    "kebabName": "noto-sans-duployan",
+    "packageName": "@compai/font-noto-sans-duployan",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-duployan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-duployan",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-egyptian-hieroglyphs": {
+    "name": "Noto Sans Egyptian Hieroglyphs",
+    "kebabName": "noto-sans-egyptian-hieroglyphs",
+    "packageName": "@compai/font-noto-sans-egyptian-hieroglyphs",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-egyptian-hieroglyphs",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-egyptian-hieroglyphs",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-elbasan": {
+    "name": "Noto Sans Elbasan",
+    "kebabName": "noto-sans-elbasan",
+    "packageName": "@compai/font-noto-sans-elbasan",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-elbasan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-elbasan",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-elymaic": {
+    "name": "Noto Sans Elymaic",
+    "kebabName": "noto-sans-elymaic",
+    "packageName": "@compai/font-noto-sans-elymaic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-elymaic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-elymaic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-georgian": {
+    "name": "Noto Sans Georgian",
+    "kebabName": "noto-sans-georgian",
+    "packageName": "@compai/font-noto-sans-georgian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-georgian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-georgian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-glagolitic": {
+    "name": "Noto Sans Glagolitic",
+    "kebabName": "noto-sans-glagolitic",
+    "packageName": "@compai/font-noto-sans-glagolitic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-glagolitic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-glagolitic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-gothic": {
+    "name": "Noto Sans Gothic",
+    "kebabName": "noto-sans-gothic",
+    "packageName": "@compai/font-noto-sans-gothic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-gothic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gothic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-grantha": {
+    "name": "Noto Sans Grantha",
+    "kebabName": "noto-sans-grantha",
+    "packageName": "@compai/font-noto-sans-grantha",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-grantha",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-grantha",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-gujarati": {
+    "name": "Noto Sans Gujarati",
+    "kebabName": "noto-sans-gujarati",
+    "packageName": "@compai/font-noto-sans-gujarati",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-gujarati",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gujarati",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-gunjala-gondi": {
+    "name": "Noto Sans Gunjala Gondi",
+    "kebabName": "noto-sans-gunjala-gondi",
+    "packageName": "@compai/font-noto-sans-gunjala-gondi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-gunjala-gondi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gunjala-gondi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-gurmukhi": {
+    "name": "Noto Sans Gurmukhi",
+    "kebabName": "noto-sans-gurmukhi",
+    "packageName": "@compai/font-noto-sans-gurmukhi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-gurmukhi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gurmukhi",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-noto-sans-hk": {
     "name": "Noto Sans HK",
@@ -5930,6 +7577,78 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-sans-hanifi-rohingya": {
+    "name": "Noto Sans Hanifi Rohingya",
+    "kebabName": "noto-sans-hanifi-rohingya",
+    "packageName": "@compai/font-noto-sans-hanifi-rohingya",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-hanifi-rohingya",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hanifi-rohingya",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-hanunoo": {
+    "name": "Noto Sans Hanunoo",
+    "kebabName": "noto-sans-hanunoo",
+    "packageName": "@compai/font-noto-sans-hanunoo",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-hanunoo",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hanunoo",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-hatran": {
+    "name": "Noto Sans Hatran",
+    "kebabName": "noto-sans-hatran",
+    "packageName": "@compai/font-noto-sans-hatran",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-hatran",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hatran",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-hebrew": {
+    "name": "Noto Sans Hebrew",
+    "kebabName": "noto-sans-hebrew",
+    "packageName": "@compai/font-noto-sans-hebrew",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-hebrew",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hebrew",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-imperial-aramaic": {
+    "name": "Noto Sans Imperial Aramaic",
+    "kebabName": "noto-sans-imperial-aramaic",
+    "packageName": "@compai/font-noto-sans-imperial-aramaic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-imperial-aramaic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-imperial-aramaic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-indic-siyaq-numbers": {
+    "name": "Noto Sans Indic Siyaq Numbers",
+    "kebabName": "noto-sans-indic-siyaq-numbers",
+    "packageName": "@compai/font-noto-sans-indic-siyaq-numbers",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-indic-siyaq-numbers",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-indic-siyaq-numbers",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-inscriptional-pahlavi": {
+    "name": "Noto Sans Inscriptional Pahlavi",
+    "kebabName": "noto-sans-inscriptional-pahlavi",
+    "packageName": "@compai/font-noto-sans-inscriptional-pahlavi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-inscriptional-pahlavi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-inscriptional-pahlavi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-inscriptional-parthian": {
+    "name": "Noto Sans Inscriptional Parthian",
+    "kebabName": "noto-sans-inscriptional-parthian",
+    "packageName": "@compai/font-noto-sans-inscriptional-parthian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-inscriptional-parthian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-inscriptional-parthian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-sans-jp": {
     "name": "Noto Sans JP",
     "kebabName": "noto-sans-jp",
@@ -5938,6 +7657,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-jp",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-noto-sans-javanese": {
+    "name": "Noto Sans Javanese",
+    "kebabName": "noto-sans-javanese",
+    "packageName": "@compai/font-noto-sans-javanese",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-javanese",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-javanese",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-noto-sans-kr": {
     "name": "Noto Sans KR",
@@ -5948,6 +7676,537 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-sans-kaithi": {
+    "name": "Noto Sans Kaithi",
+    "kebabName": "noto-sans-kaithi",
+    "packageName": "@compai/font-noto-sans-kaithi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-kaithi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kaithi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-kannada": {
+    "name": "Noto Sans Kannada",
+    "kebabName": "noto-sans-kannada",
+    "packageName": "@compai/font-noto-sans-kannada",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-kannada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kannada",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-kayah-li": {
+    "name": "Noto Sans Kayah Li",
+    "kebabName": "noto-sans-kayah-li",
+    "packageName": "@compai/font-noto-sans-kayah-li",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-kayah-li",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kayah-li",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-kharoshthi": {
+    "name": "Noto Sans Kharoshthi",
+    "kebabName": "noto-sans-kharoshthi",
+    "packageName": "@compai/font-noto-sans-kharoshthi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-kharoshthi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kharoshthi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-khmer": {
+    "name": "Noto Sans Khmer",
+    "kebabName": "noto-sans-khmer",
+    "packageName": "@compai/font-noto-sans-khmer",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-khmer",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khmer",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-khojki": {
+    "name": "Noto Sans Khojki",
+    "kebabName": "noto-sans-khojki",
+    "packageName": "@compai/font-noto-sans-khojki",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-khojki",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khojki",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-khudawadi": {
+    "name": "Noto Sans Khudawadi",
+    "kebabName": "noto-sans-khudawadi",
+    "packageName": "@compai/font-noto-sans-khudawadi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-khudawadi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khudawadi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-lao": {
+    "name": "Noto Sans Lao",
+    "kebabName": "noto-sans-lao",
+    "packageName": "@compai/font-noto-sans-lao",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-lao",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lao",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-lepcha": {
+    "name": "Noto Sans Lepcha",
+    "kebabName": "noto-sans-lepcha",
+    "packageName": "@compai/font-noto-sans-lepcha",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-lepcha",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lepcha",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-limbu": {
+    "name": "Noto Sans Limbu",
+    "kebabName": "noto-sans-limbu",
+    "packageName": "@compai/font-noto-sans-limbu",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-limbu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-limbu",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-linear-a": {
+    "name": "Noto Sans Linear A",
+    "kebabName": "noto-sans-linear-a",
+    "packageName": "@compai/font-noto-sans-linear-a",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-linear-a",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-linear-a",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-linear-b": {
+    "name": "Noto Sans Linear B",
+    "kebabName": "noto-sans-linear-b",
+    "packageName": "@compai/font-noto-sans-linear-b",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-linear-b",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-linear-b",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-lisu": {
+    "name": "Noto Sans Lisu",
+    "kebabName": "noto-sans-lisu",
+    "packageName": "@compai/font-noto-sans-lisu",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-lisu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lisu",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-lycian": {
+    "name": "Noto Sans Lycian",
+    "kebabName": "noto-sans-lycian",
+    "packageName": "@compai/font-noto-sans-lycian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-lycian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lycian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-lydian": {
+    "name": "Noto Sans Lydian",
+    "kebabName": "noto-sans-lydian",
+    "packageName": "@compai/font-noto-sans-lydian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-lydian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lydian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mahajani": {
+    "name": "Noto Sans Mahajani",
+    "kebabName": "noto-sans-mahajani",
+    "packageName": "@compai/font-noto-sans-mahajani",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mahajani",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mahajani",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-malayalam": {
+    "name": "Noto Sans Malayalam",
+    "kebabName": "noto-sans-malayalam",
+    "packageName": "@compai/font-noto-sans-malayalam",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-malayalam",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-malayalam",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mandaic": {
+    "name": "Noto Sans Mandaic",
+    "kebabName": "noto-sans-mandaic",
+    "packageName": "@compai/font-noto-sans-mandaic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mandaic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mandaic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-manichaean": {
+    "name": "Noto Sans Manichaean",
+    "kebabName": "noto-sans-manichaean",
+    "packageName": "@compai/font-noto-sans-manichaean",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-manichaean",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-manichaean",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-marchen": {
+    "name": "Noto Sans Marchen",
+    "kebabName": "noto-sans-marchen",
+    "packageName": "@compai/font-noto-sans-marchen",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-marchen",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-marchen",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-masaram-gondi": {
+    "name": "Noto Sans Masaram Gondi",
+    "kebabName": "noto-sans-masaram-gondi",
+    "packageName": "@compai/font-noto-sans-masaram-gondi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-masaram-gondi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-masaram-gondi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-math": {
+    "name": "Noto Sans Math",
+    "kebabName": "noto-sans-math",
+    "packageName": "@compai/font-noto-sans-math",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-math",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-math",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mayan-numerals": {
+    "name": "Noto Sans Mayan Numerals",
+    "kebabName": "noto-sans-mayan-numerals",
+    "packageName": "@compai/font-noto-sans-mayan-numerals",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mayan-numerals",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mayan-numerals",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-medefaidrin": {
+    "name": "Noto Sans Medefaidrin",
+    "kebabName": "noto-sans-medefaidrin",
+    "packageName": "@compai/font-noto-sans-medefaidrin",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-medefaidrin",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-medefaidrin",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-meetei-mayek": {
+    "name": "Noto Sans Meetei Mayek",
+    "kebabName": "noto-sans-meetei-mayek",
+    "packageName": "@compai/font-noto-sans-meetei-mayek",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-meetei-mayek",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-meetei-mayek",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-meroitic": {
+    "name": "Noto Sans Meroitic",
+    "kebabName": "noto-sans-meroitic",
+    "packageName": "@compai/font-noto-sans-meroitic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-meroitic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-meroitic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-miao": {
+    "name": "Noto Sans Miao",
+    "kebabName": "noto-sans-miao",
+    "packageName": "@compai/font-noto-sans-miao",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-miao",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-miao",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-modi": {
+    "name": "Noto Sans Modi",
+    "kebabName": "noto-sans-modi",
+    "packageName": "@compai/font-noto-sans-modi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-modi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-modi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mongolian": {
+    "name": "Noto Sans Mongolian",
+    "kebabName": "noto-sans-mongolian",
+    "packageName": "@compai/font-noto-sans-mongolian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mongolian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mongolian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mono": {
+    "name": "Noto Sans Mono",
+    "kebabName": "noto-sans-mono",
+    "packageName": "@compai/font-noto-sans-mono",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mono",
+    "category": "monospace",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-mro": {
+    "name": "Noto Sans Mro",
+    "kebabName": "noto-sans-mro",
+    "packageName": "@compai/font-noto-sans-mro",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-mro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mro",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-multani": {
+    "name": "Noto Sans Multani",
+    "kebabName": "noto-sans-multani",
+    "packageName": "@compai/font-noto-sans-multani",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-multani",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-multani",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-myanmar": {
+    "name": "Noto Sans Myanmar",
+    "kebabName": "noto-sans-myanmar",
+    "packageName": "@compai/font-noto-sans-myanmar",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-myanmar",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-myanmar",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-n-ko": {
+    "name": "Noto Sans N Ko",
+    "kebabName": "noto-sans-n-ko",
+    "packageName": "@compai/font-noto-sans-n-ko",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-n-ko",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-n-ko",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-nabataean": {
+    "name": "Noto Sans Nabataean",
+    "kebabName": "noto-sans-nabataean",
+    "packageName": "@compai/font-noto-sans-nabataean",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-nabataean",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-nabataean",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-new-tai-lue": {
+    "name": "Noto Sans New Tai Lue",
+    "kebabName": "noto-sans-new-tai-lue",
+    "packageName": "@compai/font-noto-sans-new-tai-lue",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-new-tai-lue",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-new-tai-lue",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-newa": {
+    "name": "Noto Sans Newa",
+    "kebabName": "noto-sans-newa",
+    "packageName": "@compai/font-noto-sans-newa",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-newa",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-newa",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-nushu": {
+    "name": "Noto Sans Nushu",
+    "kebabName": "noto-sans-nushu",
+    "packageName": "@compai/font-noto-sans-nushu",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-nushu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-nushu",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-ogham": {
+    "name": "Noto Sans Ogham",
+    "kebabName": "noto-sans-ogham",
+    "packageName": "@compai/font-noto-sans-ogham",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-ogham",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ogham",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-ol-chiki": {
+    "name": "Noto Sans Ol Chiki",
+    "kebabName": "noto-sans-ol-chiki",
+    "packageName": "@compai/font-noto-sans-ol-chiki",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-ol-chiki",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ol-chiki",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-hungarian": {
+    "name": "Noto Sans Old Hungarian",
+    "kebabName": "noto-sans-old-hungarian",
+    "packageName": "@compai/font-noto-sans-old-hungarian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-hungarian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-hungarian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-italic": {
+    "name": "Noto Sans Old Italic",
+    "kebabName": "noto-sans-old-italic",
+    "packageName": "@compai/font-noto-sans-old-italic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-italic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-italic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-north-arabian": {
+    "name": "Noto Sans Old North Arabian",
+    "kebabName": "noto-sans-old-north-arabian",
+    "packageName": "@compai/font-noto-sans-old-north-arabian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-north-arabian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-north-arabian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-permic": {
+    "name": "Noto Sans Old Permic",
+    "kebabName": "noto-sans-old-permic",
+    "packageName": "@compai/font-noto-sans-old-permic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-permic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-permic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-persian": {
+    "name": "Noto Sans Old Persian",
+    "kebabName": "noto-sans-old-persian",
+    "packageName": "@compai/font-noto-sans-old-persian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-persian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-persian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-sogdian": {
+    "name": "Noto Sans Old Sogdian",
+    "kebabName": "noto-sans-old-sogdian",
+    "packageName": "@compai/font-noto-sans-old-sogdian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-sogdian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-sogdian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-south-arabian": {
+    "name": "Noto Sans Old South Arabian",
+    "kebabName": "noto-sans-old-south-arabian",
+    "packageName": "@compai/font-noto-sans-old-south-arabian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-south-arabian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-south-arabian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-old-turkic": {
+    "name": "Noto Sans Old Turkic",
+    "kebabName": "noto-sans-old-turkic",
+    "packageName": "@compai/font-noto-sans-old-turkic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-old-turkic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-turkic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-oriya": {
+    "name": "Noto Sans Oriya",
+    "kebabName": "noto-sans-oriya",
+    "packageName": "@compai/font-noto-sans-oriya",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-oriya",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-oriya",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-osage": {
+    "name": "Noto Sans Osage",
+    "kebabName": "noto-sans-osage",
+    "packageName": "@compai/font-noto-sans-osage",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-osage",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-osage",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-osmanya": {
+    "name": "Noto Sans Osmanya",
+    "kebabName": "noto-sans-osmanya",
+    "packageName": "@compai/font-noto-sans-osmanya",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-osmanya",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-osmanya",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-pahawh-hmong": {
+    "name": "Noto Sans Pahawh Hmong",
+    "kebabName": "noto-sans-pahawh-hmong",
+    "packageName": "@compai/font-noto-sans-pahawh-hmong",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-pahawh-hmong",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-pahawh-hmong",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-palmyrene": {
+    "name": "Noto Sans Palmyrene",
+    "kebabName": "noto-sans-palmyrene",
+    "packageName": "@compai/font-noto-sans-palmyrene",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-palmyrene",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-palmyrene",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-pau-cin-hau": {
+    "name": "Noto Sans Pau Cin Hau",
+    "kebabName": "noto-sans-pau-cin-hau",
+    "packageName": "@compai/font-noto-sans-pau-cin-hau",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-pau-cin-hau",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-pau-cin-hau",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-phags-pa": {
+    "name": "Noto Sans Phags Pa",
+    "kebabName": "noto-sans-phags-pa",
+    "packageName": "@compai/font-noto-sans-phags-pa",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-phags-pa",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-phags-pa",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-phoenician": {
+    "name": "Noto Sans Phoenician",
+    "kebabName": "noto-sans-phoenician",
+    "packageName": "@compai/font-noto-sans-phoenician",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-phoenician",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-phoenician",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-psalter-pahlavi": {
+    "name": "Noto Sans Psalter Pahlavi",
+    "kebabName": "noto-sans-psalter-pahlavi",
+    "packageName": "@compai/font-noto-sans-psalter-pahlavi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-psalter-pahlavi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-psalter-pahlavi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-rejang": {
+    "name": "Noto Sans Rejang",
+    "kebabName": "noto-sans-rejang",
+    "packageName": "@compai/font-noto-sans-rejang",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-rejang",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-rejang",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-runic": {
+    "name": "Noto Sans Runic",
+    "kebabName": "noto-sans-runic",
+    "packageName": "@compai/font-noto-sans-runic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-runic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-runic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-sans-sc": {
     "name": "Noto Sans SC",
     "kebabName": "noto-sans-sc",
@@ -5956,6 +8215,132 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sc",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-noto-sans-samaritan": {
+    "name": "Noto Sans Samaritan",
+    "kebabName": "noto-sans-samaritan",
+    "packageName": "@compai/font-noto-sans-samaritan",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-samaritan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-samaritan",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-saurashtra": {
+    "name": "Noto Sans Saurashtra",
+    "kebabName": "noto-sans-saurashtra",
+    "packageName": "@compai/font-noto-sans-saurashtra",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-saurashtra",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-saurashtra",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-sharada": {
+    "name": "Noto Sans Sharada",
+    "kebabName": "noto-sans-sharada",
+    "packageName": "@compai/font-noto-sans-sharada",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-sharada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sharada",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-shavian": {
+    "name": "Noto Sans Shavian",
+    "kebabName": "noto-sans-shavian",
+    "packageName": "@compai/font-noto-sans-shavian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-shavian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-shavian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-siddham": {
+    "name": "Noto Sans Siddham",
+    "kebabName": "noto-sans-siddham",
+    "packageName": "@compai/font-noto-sans-siddham",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-siddham",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-siddham",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-sinhala": {
+    "name": "Noto Sans Sinhala",
+    "kebabName": "noto-sans-sinhala",
+    "packageName": "@compai/font-noto-sans-sinhala",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-sinhala",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sinhala",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-sogdian": {
+    "name": "Noto Sans Sogdian",
+    "kebabName": "noto-sans-sogdian",
+    "packageName": "@compai/font-noto-sans-sogdian",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-sogdian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sogdian",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-sora-sompeng": {
+    "name": "Noto Sans Sora Sompeng",
+    "kebabName": "noto-sans-sora-sompeng",
+    "packageName": "@compai/font-noto-sans-sora-sompeng",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-sora-sompeng",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sora-sompeng",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-soyombo": {
+    "name": "Noto Sans Soyombo",
+    "kebabName": "noto-sans-soyombo",
+    "packageName": "@compai/font-noto-sans-soyombo",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-soyombo",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-soyombo",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-sundanese": {
+    "name": "Noto Sans Sundanese",
+    "kebabName": "noto-sans-sundanese",
+    "packageName": "@compai/font-noto-sans-sundanese",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-sundanese",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sundanese",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-syloti-nagri": {
+    "name": "Noto Sans Syloti Nagri",
+    "kebabName": "noto-sans-syloti-nagri",
+    "packageName": "@compai/font-noto-sans-syloti-nagri",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-syloti-nagri",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-syloti-nagri",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-symbols": {
+    "name": "Noto Sans Symbols",
+    "kebabName": "noto-sans-symbols",
+    "packageName": "@compai/font-noto-sans-symbols",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-symbols",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-symbols",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-symbols-2": {
+    "name": "Noto Sans Symbols 2",
+    "kebabName": "noto-sans-symbols-2",
+    "packageName": "@compai/font-noto-sans-symbols-2",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-symbols-2",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-symbols-2",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-syriac": {
+    "name": "Noto Sans Syriac",
+    "kebabName": "noto-sans-syriac",
+    "packageName": "@compai/font-noto-sans-syriac",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-syriac",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-syriac",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-noto-sans-tc": {
     "name": "Noto Sans TC",
@@ -5966,6 +8351,186 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-sans-tagalog": {
+    "name": "Noto Sans Tagalog",
+    "kebabName": "noto-sans-tagalog",
+    "packageName": "@compai/font-noto-sans-tagalog",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tagalog",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tagalog",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tagbanwa": {
+    "name": "Noto Sans Tagbanwa",
+    "kebabName": "noto-sans-tagbanwa",
+    "packageName": "@compai/font-noto-sans-tagbanwa",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tagbanwa",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tagbanwa",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tai-le": {
+    "name": "Noto Sans Tai Le",
+    "kebabName": "noto-sans-tai-le",
+    "packageName": "@compai/font-noto-sans-tai-le",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tai-le",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-le",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tai-tham": {
+    "name": "Noto Sans Tai Tham",
+    "kebabName": "noto-sans-tai-tham",
+    "packageName": "@compai/font-noto-sans-tai-tham",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tai-tham",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-tham",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tai-viet": {
+    "name": "Noto Sans Tai Viet",
+    "kebabName": "noto-sans-tai-viet",
+    "packageName": "@compai/font-noto-sans-tai-viet",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tai-viet",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-viet",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-takri": {
+    "name": "Noto Sans Takri",
+    "kebabName": "noto-sans-takri",
+    "packageName": "@compai/font-noto-sans-takri",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-takri",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-takri",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tamil": {
+    "name": "Noto Sans Tamil",
+    "kebabName": "noto-sans-tamil",
+    "packageName": "@compai/font-noto-sans-tamil",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tamil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tamil",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tamil-supplement": {
+    "name": "Noto Sans Tamil Supplement",
+    "kebabName": "noto-sans-tamil-supplement",
+    "packageName": "@compai/font-noto-sans-tamil-supplement",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tamil-supplement",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tamil-supplement",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-telugu": {
+    "name": "Noto Sans Telugu",
+    "kebabName": "noto-sans-telugu",
+    "packageName": "@compai/font-noto-sans-telugu",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-telugu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-telugu",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-thaana": {
+    "name": "Noto Sans Thaana",
+    "kebabName": "noto-sans-thaana",
+    "packageName": "@compai/font-noto-sans-thaana",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-thaana",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thaana",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-thai": {
+    "name": "Noto Sans Thai",
+    "kebabName": "noto-sans-thai",
+    "packageName": "@compai/font-noto-sans-thai",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-thai",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thai",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-thai-looped": {
+    "name": "Noto Sans Thai Looped",
+    "kebabName": "noto-sans-thai-looped",
+    "packageName": "@compai/font-noto-sans-thai-looped",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-thai-looped",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thai-looped",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tifinagh": {
+    "name": "Noto Sans Tifinagh",
+    "kebabName": "noto-sans-tifinagh",
+    "packageName": "@compai/font-noto-sans-tifinagh",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tifinagh",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tifinagh",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-tirhuta": {
+    "name": "Noto Sans Tirhuta",
+    "kebabName": "noto-sans-tirhuta",
+    "packageName": "@compai/font-noto-sans-tirhuta",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-tirhuta",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tirhuta",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-ugaritic": {
+    "name": "Noto Sans Ugaritic",
+    "kebabName": "noto-sans-ugaritic",
+    "packageName": "@compai/font-noto-sans-ugaritic",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-ugaritic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ugaritic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-vai": {
+    "name": "Noto Sans Vai",
+    "kebabName": "noto-sans-vai",
+    "packageName": "@compai/font-noto-sans-vai",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-vai",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-vai",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-wancho": {
+    "name": "Noto Sans Wancho",
+    "kebabName": "noto-sans-wancho",
+    "packageName": "@compai/font-noto-sans-wancho",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-wancho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-wancho",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-warang-citi": {
+    "name": "Noto Sans Warang Citi",
+    "kebabName": "noto-sans-warang-citi",
+    "packageName": "@compai/font-noto-sans-warang-citi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-warang-citi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-warang-citi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-yi": {
+    "name": "Noto Sans Yi",
+    "kebabName": "noto-sans-yi",
+    "packageName": "@compai/font-noto-sans-yi",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-yi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-yi",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-sans-zanabazar-square": {
+    "name": "Noto Sans Zanabazar Square",
+    "kebabName": "noto-sans-zanabazar-square",
+    "packageName": "@compai/font-noto-sans-zanabazar-square",
+    "docs": "https://components.ai/docs/typefaces/noto-sans-zanabazar-square",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-zanabazar-square",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-serif": {
     "name": "Noto Serif",
     "kebabName": "noto-serif",
@@ -5974,6 +8539,123 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-noto-serif-ahom": {
+    "name": "Noto Serif Ahom",
+    "kebabName": "noto-serif-ahom",
+    "packageName": "@compai/font-noto-serif-ahom",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-ahom",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-ahom",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-armenian": {
+    "name": "Noto Serif Armenian",
+    "kebabName": "noto-serif-armenian",
+    "packageName": "@compai/font-noto-serif-armenian",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-armenian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-armenian",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-balinese": {
+    "name": "Noto Serif Balinese",
+    "kebabName": "noto-serif-balinese",
+    "packageName": "@compai/font-noto-serif-balinese",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-balinese",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-balinese",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-bengali": {
+    "name": "Noto Serif Bengali",
+    "kebabName": "noto-serif-bengali",
+    "packageName": "@compai/font-noto-serif-bengali",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-bengali",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-bengali",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-devanagari": {
+    "name": "Noto Serif Devanagari",
+    "kebabName": "noto-serif-devanagari",
+    "packageName": "@compai/font-noto-serif-devanagari",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-devanagari",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-devanagari",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-display": {
+    "name": "Noto Serif Display",
+    "kebabName": "noto-serif-display",
+    "packageName": "@compai/font-noto-serif-display",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-display",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-display",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-dogra": {
+    "name": "Noto Serif Dogra",
+    "kebabName": "noto-serif-dogra",
+    "packageName": "@compai/font-noto-serif-dogra",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-dogra",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-dogra",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-ethiopic": {
+    "name": "Noto Serif Ethiopic",
+    "kebabName": "noto-serif-ethiopic",
+    "packageName": "@compai/font-noto-serif-ethiopic",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-ethiopic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-ethiopic",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-georgian": {
+    "name": "Noto Serif Georgian",
+    "kebabName": "noto-serif-georgian",
+    "packageName": "@compai/font-noto-serif-georgian",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-georgian",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-georgian",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-grantha": {
+    "name": "Noto Serif Grantha",
+    "kebabName": "noto-serif-grantha",
+    "packageName": "@compai/font-noto-serif-grantha",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-grantha",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-grantha",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-gujarati": {
+    "name": "Noto Serif Gujarati",
+    "kebabName": "noto-serif-gujarati",
+    "packageName": "@compai/font-noto-serif-gujarati",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-gujarati",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-gujarati",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-gurmukhi": {
+    "name": "Noto Serif Gurmukhi",
+    "kebabName": "noto-serif-gurmukhi",
+    "packageName": "@compai/font-noto-serif-gurmukhi",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-gurmukhi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-gurmukhi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-hebrew": {
+    "name": "Noto Serif Hebrew",
+    "kebabName": "noto-serif-hebrew",
+    "packageName": "@compai/font-noto-serif-hebrew",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-hebrew",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-hebrew",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-noto-serif-jp": {
     "name": "Noto Serif JP",
@@ -5993,6 +8675,60 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-serif-kannada": {
+    "name": "Noto Serif Kannada",
+    "kebabName": "noto-serif-kannada",
+    "packageName": "@compai/font-noto-serif-kannada",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-kannada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-kannada",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-khmer": {
+    "name": "Noto Serif Khmer",
+    "kebabName": "noto-serif-khmer",
+    "packageName": "@compai/font-noto-serif-khmer",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-khmer",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-khmer",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-lao": {
+    "name": "Noto Serif Lao",
+    "kebabName": "noto-serif-lao",
+    "packageName": "@compai/font-noto-serif-lao",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-lao",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-lao",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-malayalam": {
+    "name": "Noto Serif Malayalam",
+    "kebabName": "noto-serif-malayalam",
+    "packageName": "@compai/font-noto-serif-malayalam",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-malayalam",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-malayalam",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-myanmar": {
+    "name": "Noto Serif Myanmar",
+    "kebabName": "noto-serif-myanmar",
+    "packageName": "@compai/font-noto-serif-myanmar",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-myanmar",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-myanmar",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-nyiakeng-puachue-hmong": {
+    "name": "Noto Serif Nyiakeng Puachue Hmong",
+    "kebabName": "noto-serif-nyiakeng-puachue-hmong",
+    "packageName": "@compai/font-noto-serif-nyiakeng-puachue-hmong",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-nyiakeng-puachue-hmong",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-nyiakeng-puachue-hmong",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-serif-sc": {
     "name": "Noto Serif SC",
     "kebabName": "noto-serif-sc",
@@ -6002,6 +8738,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-noto-serif-sinhala": {
+    "name": "Noto Serif Sinhala",
+    "kebabName": "noto-serif-sinhala",
+    "packageName": "@compai/font-noto-serif-sinhala",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-sinhala",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-sinhala",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-noto-serif-tc": {
     "name": "Noto Serif TC",
     "kebabName": "noto-serif-tc",
@@ -6010,6 +8755,69 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tc",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-noto-serif-tamil": {
+    "name": "Noto Serif Tamil",
+    "kebabName": "noto-serif-tamil",
+    "packageName": "@compai/font-noto-serif-tamil",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-tamil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tamil",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-tangut": {
+    "name": "Noto Serif Tangut",
+    "kebabName": "noto-serif-tangut",
+    "packageName": "@compai/font-noto-serif-tangut",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-tangut",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tangut",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-telugu": {
+    "name": "Noto Serif Telugu",
+    "kebabName": "noto-serif-telugu",
+    "packageName": "@compai/font-noto-serif-telugu",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-telugu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-telugu",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-thai": {
+    "name": "Noto Serif Thai",
+    "kebabName": "noto-serif-thai",
+    "packageName": "@compai/font-noto-serif-thai",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-thai",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-thai",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-tibetan": {
+    "name": "Noto Serif Tibetan",
+    "kebabName": "noto-serif-tibetan",
+    "packageName": "@compai/font-noto-serif-tibetan",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-tibetan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tibetan",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-serif-yezidi": {
+    "name": "Noto Serif Yezidi",
+    "kebabName": "noto-serif-yezidi",
+    "packageName": "@compai/font-noto-serif-yezidi",
+    "docs": "https://components.ai/docs/typefaces/noto-serif-yezidi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-yezidi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-noto-traditional-nushu": {
+    "name": "Noto Traditional Nushu",
+    "kebabName": "noto-traditional-nushu",
+    "packageName": "@compai/font-noto-traditional-nushu",
+    "docs": "https://components.ai/docs/typefaces/noto-traditional-nushu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-traditional-nushu",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-nova-cut": {
     "name": "Nova Cut",
@@ -6125,7 +8933,7 @@ module.exports = {
     "packageName": "@compai/font-odor-mean-chey",
     "docs": "https://components.ai/docs/typefaces/odor-mean-chey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/odor-mean-chey",
-    "category": "display",
+    "category": "serif",
     "version": "0.0.2"
   },
   "@compai/font-offside": {
@@ -6136,6 +8944,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/offside",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-oi": {
+    "name": "Oi",
+    "kebabName": "oi",
+    "packageName": "@compai/font-oi",
+    "docs": "https://components.ai/docs/typefaces/oi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/oi",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-old-standard-tt": {
     "name": "Old Standard TT",
@@ -6155,6 +8972,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-ole": {
+    "name": "Ole",
+    "kebabName": "ole",
+    "packageName": "@compai/font-ole",
+    "docs": "https://components.ai/docs/typefaces/ole",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/ole",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-oleo-script": {
     "name": "Oleo Script",
     "kebabName": "oleo-script",
@@ -6173,21 +8999,21 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-oooh-baby": {
+    "name": "Oooh Baby",
+    "kebabName": "oooh-baby",
+    "packageName": "@compai/font-oooh-baby",
+    "docs": "https://components.ai/docs/typefaces/oooh-baby",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/oooh-baby",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-open-sans": {
     "name": "Open Sans",
     "kebabName": "open-sans",
     "packageName": "@compai/font-open-sans",
     "docs": "https://components.ai/docs/typefaces/open-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/open-sans",
-    "category": "sans-serif",
-    "version": "0.0.2"
-  },
-  "@compai/font-open-sans-condensed": {
-    "name": "Open Sans Condensed",
-    "kebabName": "open-sans-condensed",
-    "packageName": "@compai/font-open-sans-condensed",
-    "docs": "https://components.ai/docs/typefaces/open-sans-condensed",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/open-sans-condensed",
     "category": "sans-serif",
     "version": "0.0.2"
   },
@@ -6218,6 +9044,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-orelega-one": {
+    "name": "Orelega One",
+    "kebabName": "orelega-one",
+    "packageName": "@compai/font-orelega-one",
+    "docs": "https://components.ai/docs/typefaces/orelega-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/orelega-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-orienta": {
     "name": "Orienta",
     "kebabName": "orienta",
@@ -6244,6 +9079,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oswald",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-otomanopee-one": {
+    "name": "Otomanopee One",
+    "kebabName": "otomanopee-one",
+    "packageName": "@compai/font-otomanopee-one",
+    "docs": "https://components.ai/docs/typefaces/otomanopee-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/otomanopee-one",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-outfit": {
+    "name": "Outfit",
+    "kebabName": "outfit",
+    "packageName": "@compai/font-outfit",
+    "docs": "https://components.ai/docs/typefaces/outfit",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/outfit",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-over-the-rainbow": {
     "name": "Over the Rainbow",
@@ -6416,6 +9269,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-palette-mosaic": {
+    "name": "Palette Mosaic",
+    "kebabName": "palette-mosaic",
+    "packageName": "@compai/font-palette-mosaic",
+    "docs": "https://components.ai/docs/typefaces/palette-mosaic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/palette-mosaic",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-pangolin": {
     "name": "Pangolin",
     "kebabName": "pangolin",
@@ -6460,6 +9322,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/passion-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-passions-conflict": {
+    "name": "Passions Conflict",
+    "kebabName": "passions-conflict",
+    "packageName": "@compai/font-passions-conflict",
+    "docs": "https://components.ai/docs/typefaces/passions-conflict",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/passions-conflict",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-pathway-gothic-one": {
     "name": "Pathway Gothic One",
@@ -6550,6 +9421,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/permanent-marker",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-petemoss": {
+    "name": "Petemoss",
+    "kebabName": "petemoss",
+    "packageName": "@compai/font-petemoss",
+    "docs": "https://components.ai/docs/typefaces/petemoss",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/petemoss",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-petit-formal-script": {
     "name": "Petit Formal Script",
@@ -6659,6 +9539,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-plus-jakarta-sans": {
+    "name": "Plus Jakarta Sans",
+    "kebabName": "plus-jakarta-sans",
+    "packageName": "@compai/font-plus-jakarta-sans",
+    "docs": "https://components.ai/docs/typefaces/plus-jakarta-sans",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/plus-jakarta-sans",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-podkova": {
     "name": "Podkova",
     "kebabName": "podkova",
@@ -6749,6 +9638,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-potta-one": {
+    "name": "Potta One",
+    "kebabName": "potta-one",
+    "packageName": "@compai/font-potta-one",
+    "docs": "https://components.ai/docs/typefaces/potta-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/potta-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-pragati-narrow": {
     "name": "Pragati Narrow",
     "kebabName": "pragati-narrow",
@@ -6757,6 +9655,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pragati-narrow",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-praise": {
+    "name": "Praise",
+    "kebabName": "praise",
+    "packageName": "@compai/font-praise",
+    "docs": "https://components.ai/docs/typefaces/praise",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/praise",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-prata": {
     "name": "Prata",
@@ -6773,7 +9680,7 @@ module.exports = {
     "packageName": "@compai/font-preahvihear",
     "docs": "https://components.ai/docs/typefaces/preahvihear",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/preahvihear",
-    "category": "display",
+    "category": "sans-serif",
     "version": "0.0.2"
   },
   "@compai/font-press-start-2-p": {
@@ -6848,6 +9755,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-puppies-play": {
+    "name": "Puppies Play",
+    "kebabName": "puppies-play",
+    "packageName": "@compai/font-puppies-play",
+    "docs": "https://components.ai/docs/typefaces/puppies-play",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/puppies-play",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-puritan": {
     "name": "Puritan",
     "kebabName": "puritan",
@@ -6865,6 +9781,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/purple-purse",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-qahiri": {
+    "name": "Qahiri",
+    "kebabName": "qahiri",
+    "packageName": "@compai/font-qahiri",
+    "docs": "https://components.ai/docs/typefaces/qahiri",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/qahiri",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-quando": {
     "name": "Quando",
@@ -6938,6 +9863,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-qwitcher-grypen": {
+    "name": "Qwitcher Grypen",
+    "kebabName": "qwitcher-grypen",
+    "packageName": "@compai/font-qwitcher-grypen",
+    "docs": "https://components.ai/docs/typefaces/qwitcher-grypen",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/qwitcher-grypen",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-racing-sans-one": {
     "name": "Racing Sans One",
     "kebabName": "racing-sans-one",
@@ -6946,6 +9880,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/racing-sans-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-radio-canada": {
+    "name": "Radio Canada",
+    "kebabName": "radio-canada",
+    "packageName": "@compai/font-radio-canada",
+    "docs": "https://components.ai/docs/typefaces/radio-canada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/radio-canada",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-radley": {
     "name": "Radley",
@@ -7028,6 +9971,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-rampart-one": {
+    "name": "Rampart One",
+    "kebabName": "rampart-one",
+    "packageName": "@compai/font-rampart-one",
+    "docs": "https://components.ai/docs/typefaces/rampart-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rampart-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-ranchers": {
     "name": "Ranchers",
     "kebabName": "ranchers",
@@ -7082,6 +10034,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-readex-pro": {
+    "name": "Readex Pro",
+    "kebabName": "readex-pro",
+    "packageName": "@compai/font-readex-pro",
+    "docs": "https://components.ai/docs/typefaces/readex-pro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/readex-pro",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-recursive": {
     "name": "Recursive",
     "kebabName": "recursive",
@@ -7100,6 +10061,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-red-hat-mono": {
+    "name": "Red Hat Mono",
+    "kebabName": "red-hat-mono",
+    "packageName": "@compai/font-red-hat-mono",
+    "docs": "https://components.ai/docs/typefaces/red-hat-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/red-hat-mono",
+    "category": "monospace",
+    "version": "0.0.0"
+  },
   "@compai/font-red-hat-text": {
     "name": "Red Hat Text",
     "kebabName": "red-hat-text",
@@ -7117,6 +10087,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/red-rose",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-redacted": {
+    "name": "Redacted",
+    "kebabName": "redacted",
+    "packageName": "@compai/font-redacted",
+    "docs": "https://components.ai/docs/typefaces/redacted",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/redacted",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-redacted-script": {
+    "name": "Redacted Script",
+    "kebabName": "redacted-script",
+    "packageName": "@compai/font-redacted-script",
+    "docs": "https://components.ai/docs/typefaces/redacted-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/redacted-script",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-redressed": {
     "name": "Redressed",
@@ -7144,6 +10132,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/reenie-beanie",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-reggae-one": {
+    "name": "Reggae One",
+    "kebabName": "reggae-one",
+    "packageName": "@compai/font-reggae-one",
+    "docs": "https://components.ai/docs/typefaces/reggae-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/reggae-one",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-revalia": {
     "name": "Revalia",
@@ -7199,12 +10196,30 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-road-rage": {
+    "name": "Road Rage",
+    "kebabName": "road-rage",
+    "packageName": "@compai/font-road-rage",
+    "docs": "https://components.ai/docs/typefaces/road-rage",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/road-rage",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-roboto": {
     "name": "Roboto",
     "kebabName": "roboto",
     "packageName": "@compai/font-roboto",
     "docs": "https://components.ai/docs/typefaces/roboto",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto",
+    "category": "sans-serif",
+    "version": "0.0.2"
+  },
+  "@compai/font-roboto-condensed": {
+    "name": "Roboto Condensed",
+    "kebabName": "roboto-condensed",
+    "packageName": "@compai/font-roboto-condensed",
+    "docs": "https://components.ai/docs/typefaces/roboto-condensed",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-condensed",
     "category": "sans-serif",
     "version": "0.0.2"
   },
@@ -7217,15 +10232,6 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.0"
   },
-  "@compai/font-roboto-condensed": {
-    "name": "Roboto Condensed",
-    "kebabName": "roboto-condensed",
-    "packageName": "@compai/font-roboto-condensed",
-    "docs": "https://components.ai/docs/typefaces/roboto-condensed",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-condensed",
-    "category": "sans-serif",
-    "version": "0.0.2"
-  },
   "@compai/font-roboto-mono": {
     "name": "Roboto Mono",
     "kebabName": "roboto-mono",
@@ -7234,6 +10240,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-mono",
     "category": "monospace",
     "version": "0.0.2"
+  },
+  "@compai/font-roboto-serif": {
+    "name": "Roboto Serif",
+    "kebabName": "roboto-serif",
+    "packageName": "@compai/font-roboto-serif",
+    "docs": "https://components.ai/docs/typefaces/roboto-serif",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-serif",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-roboto-slab": {
     "name": "Roboto Slab",
@@ -7253,6 +10268,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-rock-3-d": {
+    "name": "Rock 3D",
+    "kebabName": "rock-3-d",
+    "packageName": "@compai/font-rock-3-d",
+    "docs": "https://components.ai/docs/typefaces/rock-3-d",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rock-3-d",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-rock-salt": {
     "name": "Rock Salt",
     "kebabName": "rock-salt",
@@ -7261,6 +10285,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rock-salt",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-rockn-roll-one": {
+    "name": "RocknRoll One",
+    "kebabName": "rockn-roll-one",
+    "packageName": "@compai/font-rockn-roll-one",
+    "docs": "https://components.ai/docs/typefaces/rockn-roll-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rockn-roll-one",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-rokkitt": {
     "name": "Rokkitt",
@@ -7343,6 +10376,42 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-rubik-beastly": {
+    "name": "Rubik Beastly",
+    "kebabName": "rubik-beastly",
+    "packageName": "@compai/font-rubik-beastly",
+    "docs": "https://components.ai/docs/typefaces/rubik-beastly",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-beastly",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-rubik-bubbles": {
+    "name": "Rubik Bubbles",
+    "kebabName": "rubik-bubbles",
+    "packageName": "@compai/font-rubik-bubbles",
+    "docs": "https://components.ai/docs/typefaces/rubik-bubbles",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-bubbles",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-rubik-glitch": {
+    "name": "Rubik Glitch",
+    "kebabName": "rubik-glitch",
+    "packageName": "@compai/font-rubik-glitch",
+    "docs": "https://components.ai/docs/typefaces/rubik-glitch",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-glitch",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-rubik-microbe": {
+    "name": "Rubik Microbe",
+    "kebabName": "rubik-microbe",
+    "packageName": "@compai/font-rubik-microbe",
+    "docs": "https://components.ai/docs/typefaces/rubik-microbe",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-microbe",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-rubik-mono-one": {
     "name": "Rubik Mono One",
     "kebabName": "rubik-mono-one",
@@ -7351,6 +10420,33 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-mono-one",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-rubik-moonrocks": {
+    "name": "Rubik Moonrocks",
+    "kebabName": "rubik-moonrocks",
+    "packageName": "@compai/font-rubik-moonrocks",
+    "docs": "https://components.ai/docs/typefaces/rubik-moonrocks",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-moonrocks",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-rubik-puddles": {
+    "name": "Rubik Puddles",
+    "kebabName": "rubik-puddles",
+    "packageName": "@compai/font-rubik-puddles",
+    "docs": "https://components.ai/docs/typefaces/rubik-puddles",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-puddles",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-rubik-wet-paint": {
+    "name": "Rubik Wet Paint",
+    "kebabName": "rubik-wet-paint",
+    "packageName": "@compai/font-rubik-wet-paint",
+    "docs": "https://components.ai/docs/typefaces/rubik-wet-paint",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-wet-paint",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-ruda": {
     "name": "Ruda",
@@ -7432,6 +10528,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rye",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-stix-two-text": {
+    "name": "STIX Two Text",
+    "kebabName": "stix-two-text",
+    "packageName": "@compai/font-stix-two-text",
+    "docs": "https://components.ai/docs/typefaces/stix-two-text",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/stix-two-text",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-sacramento": {
     "name": "Sacramento",
@@ -7586,6 +10691,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-sassy-frass": {
+    "name": "Sassy Frass",
+    "kebabName": "sassy-frass",
+    "packageName": "@compai/font-sassy-frass",
+    "docs": "https://components.ai/docs/typefaces/sassy-frass",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/sassy-frass",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-satisfy": {
     "name": "Satisfy",
     "kebabName": "satisfy",
@@ -7610,7 +10724,7 @@ module.exports = {
     "packageName": "@compai/font-sawarabi-mincho",
     "docs": "https://components.ai/docs/typefaces/sawarabi-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sawarabi-mincho",
-    "category": "sans-serif",
+    "category": "serif",
     "version": "0.0.2"
   },
   "@compai/font-scada": {
@@ -7622,14 +10736,14 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
-  "@compai/font-scheherazade": {
-    "name": "Scheherazade",
-    "kebabName": "scheherazade",
-    "packageName": "@compai/font-scheherazade",
-    "docs": "https://components.ai/docs/typefaces/scheherazade",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/scheherazade",
+  "@compai/font-scheherazade-new": {
+    "name": "Scheherazade New",
+    "kebabName": "scheherazade-new",
+    "packageName": "@compai/font-scheherazade-new",
+    "docs": "https://components.ai/docs/typefaces/scheherazade-new",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/scheherazade-new",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.0"
   },
   "@compai/font-schoolbell": {
     "name": "Schoolbell",
@@ -7694,6 +10808,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-send-flowers": {
+    "name": "Send Flowers",
+    "kebabName": "send-flowers",
+    "packageName": "@compai/font-send-flowers",
+    "docs": "https://components.ai/docs/typefaces/send-flowers",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/send-flowers",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-sevillana": {
     "name": "Sevillana",
     "kebabName": "sevillana",
@@ -7730,6 +10853,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-shalimar": {
+    "name": "Shalimar",
+    "kebabName": "shalimar",
+    "packageName": "@compai/font-shalimar",
+    "docs": "https://components.ai/docs/typefaces/shalimar",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shalimar",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-shanti": {
     "name": "Shanti",
     "kebabName": "shanti",
@@ -7765,6 +10897,51 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/share-tech-mono",
     "category": "monospace",
     "version": "0.0.2"
+  },
+  "@compai/font-shippori-antique": {
+    "name": "Shippori Antique",
+    "kebabName": "shippori-antique",
+    "packageName": "@compai/font-shippori-antique",
+    "docs": "https://components.ai/docs/typefaces/shippori-antique",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-antique",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-shippori-antique-b-1": {
+    "name": "Shippori Antique B1",
+    "kebabName": "shippori-antique-b-1",
+    "packageName": "@compai/font-shippori-antique-b-1",
+    "docs": "https://components.ai/docs/typefaces/shippori-antique-b-1",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-antique-b-1",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-shippori-mincho": {
+    "name": "Shippori Mincho",
+    "kebabName": "shippori-mincho",
+    "packageName": "@compai/font-shippori-mincho",
+    "docs": "https://components.ai/docs/typefaces/shippori-mincho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-mincho",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-shippori-mincho-b-1": {
+    "name": "Shippori Mincho B1",
+    "kebabName": "shippori-mincho-b-1",
+    "packageName": "@compai/font-shippori-mincho-b-1",
+    "docs": "https://components.ai/docs/typefaces/shippori-mincho-b-1",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-mincho-b-1",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-shizuru": {
+    "name": "Shizuru",
+    "kebabName": "shizuru",
+    "packageName": "@compai/font-shizuru",
+    "docs": "https://components.ai/docs/typefaces/shizuru",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/shizuru",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-shojumaru": {
     "name": "Shojumaru",
@@ -7919,6 +11096,24 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-smooch": {
+    "name": "Smooch",
+    "kebabName": "smooch",
+    "packageName": "@compai/font-smooch",
+    "docs": "https://components.ai/docs/typefaces/smooch",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/smooch",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-smooch-sans": {
+    "name": "Smooch Sans",
+    "kebabName": "smooch-sans",
+    "packageName": "@compai/font-smooch-sans",
+    "docs": "https://components.ai/docs/typefaces/smooch-sans",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/smooch-sans",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-smythe": {
     "name": "Smythe",
     "kebabName": "smythe",
@@ -8027,6 +11222,15 @@ module.exports = {
     "category": "monospace",
     "version": "0.0.2"
   },
+  "@compai/font-source-sans-3": {
+    "name": "Source Sans 3",
+    "kebabName": "source-sans-3",
+    "packageName": "@compai/font-source-sans-3",
+    "docs": "https://components.ai/docs/typefaces/source-sans-3",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/source-sans-3",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-source-sans-pro": {
     "name": "Source Sans Pro",
     "kebabName": "source-sans-pro",
@@ -8035,6 +11239,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-sans-pro",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-source-serif-4": {
+    "name": "Source Serif 4",
+    "kebabName": "source-serif-4",
+    "packageName": "@compai/font-source-serif-4",
+    "docs": "https://components.ai/docs/typefaces/source-serif-4",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/source-serif-4",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-source-serif-pro": {
     "name": "Source Serif Pro",
@@ -8045,6 +11258,15 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-space-grotesk": {
+    "name": "Space Grotesk",
+    "kebabName": "space-grotesk",
+    "packageName": "@compai/font-space-grotesk",
+    "docs": "https://components.ai/docs/typefaces/space-grotesk",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/space-grotesk",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-space-mono": {
     "name": "Space Mono",
     "kebabName": "space-mono",
@@ -8052,15 +11274,6 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/space-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/space-mono",
     "category": "monospace",
-    "version": "0.0.2"
-  },
-  "@compai/font-spartan": {
-    "name": "Spartan",
-    "kebabName": "spartan",
-    "packageName": "@compai/font-spartan",
-    "docs": "https://components.ai/docs/typefaces/spartan",
-    "apiEndpoint": "https://components.ai/api/v1/typefaces/spartan",
-    "category": "sans-serif",
     "version": "0.0.2"
   },
   "@compai/font-special-elite": {
@@ -8117,6 +11330,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-spline-sans": {
+    "name": "Spline Sans",
+    "kebabName": "spline-sans",
+    "packageName": "@compai/font-spline-sans",
+    "docs": "https://components.ai/docs/typefaces/spline-sans",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/spline-sans",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-squada-one": {
     "name": "Squada One",
     "kebabName": "squada-one",
@@ -8125,6 +11347,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/squada-one",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-square-peg": {
+    "name": "Square Peg",
+    "kebabName": "square-peg",
+    "packageName": "@compai/font-square-peg",
+    "docs": "https://components.ai/docs/typefaces/square-peg",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/square-peg",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-sree-krushnadevaraya": {
     "name": "Sree Krushnadevaraya",
@@ -8189,6 +11420,24 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-stick": {
+    "name": "Stick",
+    "kebabName": "stick",
+    "packageName": "@compai/font-stick",
+    "docs": "https://components.ai/docs/typefaces/stick",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/stick",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-stick-no-bills": {
+    "name": "Stick No Bills",
+    "kebabName": "stick-no-bills",
+    "packageName": "@compai/font-stick-no-bills",
+    "docs": "https://components.ai/docs/typefaces/stick-no-bills",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/stick-no-bills",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-stint-ultra-condensed": {
     "name": "Stint Ultra Condensed",
     "kebabName": "stint-ultra-condensed",
@@ -8224,6 +11473,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/strait",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-style-script": {
+    "name": "Style Script",
+    "kebabName": "style-script",
+    "packageName": "@compai/font-style-script",
+    "docs": "https://components.ai/docs/typefaces/style-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/style-script",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-stylish": {
     "name": "Stylish",
@@ -8330,7 +11588,7 @@ module.exports = {
     "packageName": "@compai/font-suwannaphum",
     "docs": "https://components.ai/docs/typefaces/suwannaphum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/suwannaphum",
-    "category": "display",
+    "category": "serif",
     "version": "0.0.2"
   },
   "@compai/font-swanky-and-moo-moo": {
@@ -8360,6 +11618,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-syne-mono": {
+    "name": "Syne Mono",
+    "kebabName": "syne-mono",
+    "packageName": "@compai/font-syne-mono",
+    "docs": "https://components.ai/docs/typefaces/syne-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/syne-mono",
+    "category": "monospace",
+    "version": "0.0.0"
+  },
+  "@compai/font-syne-tactile": {
+    "name": "Syne Tactile",
+    "kebabName": "syne-tactile",
+    "packageName": "@compai/font-syne-tactile",
+    "docs": "https://components.ai/docs/typefaces/syne-tactile",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/syne-tactile",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-tajawal": {
     "name": "Tajawal",
     "kebabName": "tajawal",
@@ -8377,6 +11653,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tangerine",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-tapestry": {
+    "name": "Tapestry",
+    "kebabName": "tapestry",
+    "packageName": "@compai/font-tapestry",
+    "docs": "https://components.ai/docs/typefaces/tapestry",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tapestry",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-taprom": {
     "name": "Taprom",
@@ -8450,6 +11735,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-texturina": {
+    "name": "Texturina",
+    "kebabName": "texturina",
+    "packageName": "@compai/font-texturina",
+    "docs": "https://components.ai/docs/typefaces/texturina",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/texturina",
+    "category": "serif",
+    "version": "0.0.0"
+  },
   "@compai/font-thasadith": {
     "name": "Thasadith",
     "kebabName": "thasadith",
@@ -8467,6 +11761,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/the-girl-next-door",
     "category": "handwriting",
     "version": "0.0.2"
+  },
+  "@compai/font-the-nautigal": {
+    "name": "The Nautigal",
+    "kebabName": "the-nautigal",
+    "packageName": "@compai/font-the-nautigal",
+    "docs": "https://components.ai/docs/typefaces/the-nautigal",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/the-nautigal",
+    "category": "handwriting",
+    "version": "0.0.0"
   },
   "@compai/font-tienne": {
     "name": "Tienne",
@@ -8531,6 +11834,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-tourney": {
+    "name": "Tourney",
+    "kebabName": "tourney",
+    "packageName": "@compai/font-tourney",
+    "docs": "https://components.ai/docs/typefaces/tourney",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tourney",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-trade-winds": {
     "name": "Trade Winds",
     "kebabName": "trade-winds",
@@ -8540,6 +11852,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-train-one": {
+    "name": "Train One",
+    "kebabName": "train-one",
+    "packageName": "@compai/font-train-one",
+    "docs": "https://components.ai/docs/typefaces/train-one",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/train-one",
+    "category": "display",
+    "version": "0.0.0"
+  },
   "@compai/font-trirong": {
     "name": "Trirong",
     "kebabName": "trirong",
@@ -8548,6 +11869,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trirong",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-trispace": {
+    "name": "Trispace",
+    "kebabName": "trispace",
+    "packageName": "@compai/font-trispace",
+    "docs": "https://components.ai/docs/typefaces/trispace",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/trispace",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-trocchi": {
     "name": "Trocchi",
@@ -8566,6 +11896,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trochut",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-truculenta": {
+    "name": "Truculenta",
+    "kebabName": "truculenta",
+    "packageName": "@compai/font-truculenta",
+    "docs": "https://components.ai/docs/typefaces/truculenta",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/truculenta",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-trykker": {
     "name": "Trykker",
@@ -8594,6 +11933,15 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-twinkle-star": {
+    "name": "Twinkle Star",
+    "kebabName": "twinkle-star",
+    "packageName": "@compai/font-twinkle-star",
+    "docs": "https://components.ai/docs/typefaces/twinkle-star",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/twinkle-star",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-ubuntu": {
     "name": "Ubuntu",
     "kebabName": "ubuntu",
@@ -8620,6 +11968,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ubuntu-mono",
     "category": "monospace",
     "version": "0.0.2"
+  },
+  "@compai/font-uchen": {
+    "name": "Uchen",
+    "kebabName": "uchen",
+    "packageName": "@compai/font-uchen",
+    "docs": "https://components.ai/docs/typefaces/uchen",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/uchen",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-ultra": {
     "name": "Ultra",
@@ -8702,6 +12059,24 @@ module.exports = {
     "category": "serif",
     "version": "0.0.2"
   },
+  "@compai/font-updock": {
+    "name": "Updock",
+    "kebabName": "updock",
+    "packageName": "@compai/font-updock",
+    "docs": "https://components.ai/docs/typefaces/updock",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/updock",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-urbanist": {
+    "name": "Urbanist",
+    "kebabName": "urbanist",
+    "packageName": "@compai/font-urbanist",
+    "docs": "https://components.ai/docs/typefaces/urbanist",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/urbanist",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
   "@compai/font-vt-323": {
     "name": "VT323",
     "kebabName": "vt-323",
@@ -8755,6 +12130,15 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vast-shadow",
     "category": "display",
     "version": "0.0.2"
+  },
+  "@compai/font-vazirmatn": {
+    "name": "Vazirmatn",
+    "kebabName": "vazirmatn",
+    "packageName": "@compai/font-vazirmatn",
+    "docs": "https://components.ai/docs/typefaces/vazirmatn",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/vazirmatn",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-vesper-libre": {
     "name": "Vesper Libre",
@@ -8855,6 +12239,15 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-vujahday-script": {
+    "name": "Vujahday Script",
+    "kebabName": "vujahday-script",
+    "packageName": "@compai/font-vujahday-script",
+    "docs": "https://components.ai/docs/typefaces/vujahday-script",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/vujahday-script",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-waiting-for-the-sunrise": {
     "name": "Waiting for the Sunrise",
     "kebabName": "waiting-for-the-sunrise",
@@ -8891,6 +12284,24 @@ module.exports = {
     "category": "display",
     "version": "0.0.2"
   },
+  "@compai/font-water-brush": {
+    "name": "Water Brush",
+    "kebabName": "water-brush",
+    "packageName": "@compai/font-water-brush",
+    "docs": "https://components.ai/docs/typefaces/water-brush",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/water-brush",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-waterfall": {
+    "name": "Waterfall",
+    "kebabName": "waterfall",
+    "packageName": "@compai/font-waterfall",
+    "docs": "https://components.ai/docs/typefaces/waterfall",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/waterfall",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-wellfleet": {
     "name": "Wellfleet",
     "kebabName": "wellfleet",
@@ -8909,6 +12320,24 @@ module.exports = {
     "category": "sans-serif",
     "version": "0.0.2"
   },
+  "@compai/font-whisper": {
+    "name": "Whisper",
+    "kebabName": "whisper",
+    "packageName": "@compai/font-whisper",
+    "docs": "https://components.ai/docs/typefaces/whisper",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/whisper",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-wind-song": {
+    "name": "WindSong",
+    "kebabName": "wind-song",
+    "packageName": "@compai/font-wind-song",
+    "docs": "https://components.ai/docs/typefaces/wind-song",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/wind-song",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-wire-one": {
     "name": "Wire One",
     "kebabName": "wire-one",
@@ -8926,6 +12355,24 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/work-sans",
     "category": "sans-serif",
     "version": "0.0.2"
+  },
+  "@compai/font-xanh-mono": {
+    "name": "Xanh Mono",
+    "kebabName": "xanh-mono",
+    "packageName": "@compai/font-xanh-mono",
+    "docs": "https://components.ai/docs/typefaces/xanh-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/xanh-mono",
+    "category": "monospace",
+    "version": "0.0.0"
+  },
+  "@compai/font-yaldevi": {
+    "name": "Yaldevi",
+    "kebabName": "yaldevi",
+    "packageName": "@compai/font-yaldevi",
+    "docs": "https://components.ai/docs/typefaces/yaldevi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yaldevi",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-yanone-kaffeesatz": {
     "name": "Yanone Kaffeesatz",
@@ -8990,6 +12437,15 @@ module.exports = {
     "category": "handwriting",
     "version": "0.0.2"
   },
+  "@compai/font-yomogi": {
+    "name": "Yomogi",
+    "kebabName": "yomogi",
+    "packageName": "@compai/font-yomogi",
+    "docs": "https://components.ai/docs/typefaces/yomogi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yomogi",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
   "@compai/font-yrsa": {
     "name": "Yrsa",
     "kebabName": "yrsa",
@@ -8998,6 +12454,60 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yrsa",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-yuji-boku": {
+    "name": "Yuji Boku",
+    "kebabName": "yuji-boku",
+    "packageName": "@compai/font-yuji-boku",
+    "docs": "https://components.ai/docs/typefaces/yuji-boku",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-boku",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-yuji-hentaigana-akari": {
+    "name": "Yuji Hentaigana Akari",
+    "kebabName": "yuji-hentaigana-akari",
+    "packageName": "@compai/font-yuji-hentaigana-akari",
+    "docs": "https://components.ai/docs/typefaces/yuji-hentaigana-akari",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-hentaigana-akari",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-yuji-hentaigana-akebono": {
+    "name": "Yuji Hentaigana Akebono",
+    "kebabName": "yuji-hentaigana-akebono",
+    "packageName": "@compai/font-yuji-hentaigana-akebono",
+    "docs": "https://components.ai/docs/typefaces/yuji-hentaigana-akebono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-hentaigana-akebono",
+    "category": "handwriting",
+    "version": "0.0.0"
+  },
+  "@compai/font-yuji-mai": {
+    "name": "Yuji Mai",
+    "kebabName": "yuji-mai",
+    "packageName": "@compai/font-yuji-mai",
+    "docs": "https://components.ai/docs/typefaces/yuji-mai",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-mai",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-yuji-syuku": {
+    "name": "Yuji Syuku",
+    "kebabName": "yuji-syuku",
+    "packageName": "@compai/font-yuji-syuku",
+    "docs": "https://components.ai/docs/typefaces/yuji-syuku",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-syuku",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-yusei-magic": {
+    "name": "Yusei Magic",
+    "kebabName": "yusei-magic",
+    "packageName": "@compai/font-yusei-magic",
+    "docs": "https://components.ai/docs/typefaces/yusei-magic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/yusei-magic",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-zcool-kuai-le": {
     "name": "ZCOOL KuaiLe",
@@ -9025,6 +12535,96 @@ module.exports = {
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zcool-xiao-wei",
     "category": "serif",
     "version": "0.0.2"
+  },
+  "@compai/font-zen-antique": {
+    "name": "Zen Antique",
+    "kebabName": "zen-antique",
+    "packageName": "@compai/font-zen-antique",
+    "docs": "https://components.ai/docs/typefaces/zen-antique",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-antique",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-antique-soft": {
+    "name": "Zen Antique Soft",
+    "kebabName": "zen-antique-soft",
+    "packageName": "@compai/font-zen-antique-soft",
+    "docs": "https://components.ai/docs/typefaces/zen-antique-soft",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-antique-soft",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-dots": {
+    "name": "Zen Dots",
+    "kebabName": "zen-dots",
+    "packageName": "@compai/font-zen-dots",
+    "docs": "https://components.ai/docs/typefaces/zen-dots",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-dots",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-kaku-gothic-antique": {
+    "name": "Zen Kaku Gothic Antique",
+    "kebabName": "zen-kaku-gothic-antique",
+    "packageName": "@compai/font-zen-kaku-gothic-antique",
+    "docs": "https://components.ai/docs/typefaces/zen-kaku-gothic-antique",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kaku-gothic-antique",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-kaku-gothic-new": {
+    "name": "Zen Kaku Gothic New",
+    "kebabName": "zen-kaku-gothic-new",
+    "packageName": "@compai/font-zen-kaku-gothic-new",
+    "docs": "https://components.ai/docs/typefaces/zen-kaku-gothic-new",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kaku-gothic-new",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-kurenaido": {
+    "name": "Zen Kurenaido",
+    "kebabName": "zen-kurenaido",
+    "packageName": "@compai/font-zen-kurenaido",
+    "docs": "https://components.ai/docs/typefaces/zen-kurenaido",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kurenaido",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-loop": {
+    "name": "Zen Loop",
+    "kebabName": "zen-loop",
+    "packageName": "@compai/font-zen-loop",
+    "docs": "https://components.ai/docs/typefaces/zen-loop",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-loop",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-maru-gothic": {
+    "name": "Zen Maru Gothic",
+    "kebabName": "zen-maru-gothic",
+    "packageName": "@compai/font-zen-maru-gothic",
+    "docs": "https://components.ai/docs/typefaces/zen-maru-gothic",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-maru-gothic",
+    "category": "sans-serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-old-mincho": {
+    "name": "Zen Old Mincho",
+    "kebabName": "zen-old-mincho",
+    "packageName": "@compai/font-zen-old-mincho",
+    "docs": "https://components.ai/docs/typefaces/zen-old-mincho",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-old-mincho",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-zen-tokyo-zoo": {
+    "name": "Zen Tokyo Zoo",
+    "kebabName": "zen-tokyo-zoo",
+    "packageName": "@compai/font-zen-tokyo-zoo",
+    "docs": "https://components.ai/docs/typefaces/zen-tokyo-zoo",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-tokyo-zoo",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-zeyada": {
     "name": "Zeyada",

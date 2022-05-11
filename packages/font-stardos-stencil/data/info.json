@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Stardos Stencil Regular'",
-          "'StardosStencil-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5x&skey=d653018719e45253&v=v11#StardosStencil",
-          "ttf": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5z.ttf",
-          "woff": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5w.woff",
-          "woff2": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F52.woff2"
+          "eot": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5x&skey=d653018719e45253&v=v15#StardosStencil",
+          "ttf": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5z.ttf",
+          "woff": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5w.woff",
+          "woff2": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F52.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Stardos Stencil Bold'",
-          "'StardosStencil-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWr&skey=c5b6262b3b6ed380&v=v11#StardosStencil",
-          "ttf": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWp.ttf",
-          "woff": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWq.woff",
-          "woff2": "https://fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWs.woff2"
+          "eot": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWr&skey=c5b6262b3b6ed380&v=v15#StardosStencil",
+          "ttf": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWp.ttf",
+          "woff": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWq.woff",
+          "woff2": "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWs.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

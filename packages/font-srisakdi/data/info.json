@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,34 +16,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Srisakdi Regular'",
-          "'Srisakdi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dyk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq1dyo&skey=788157e0305eddec&v=v4#Srisakdi",
-          "ttf": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dyg.ttf",
-          "woff": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dys.woff",
-          "woff2": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq7dy0.woff2"
+          "eot": "https://fonts.gstatic.com/s/srisakdi/v16/yMJRMIlvdpDbkB0A-gq1dyk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq1dyo&skey=788157e0305eddec&v=v16#Srisakdi",
+          "ttf": "https://fonts.gstatic.com/s/srisakdi/v16/yMJRMIlvdpDbkB0A-gq1dyg.ttf",
+          "woff": "https://fonts.gstatic.com/s/srisakdi/v16/yMJRMIlvdpDbkB0A-gq1dys.woff",
+          "woff2": "https://fonts.gstatic.com/s/srisakdi/v16/yMJRMIlvdpDbkB0A-gq7dy0.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Srisakdi Bold'",
-          "'Srisakdi-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh4qtc&skey=24500905fa98148a&v=v4#Srisakdi",
-          "ttf": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtU.ttf",
-          "woff": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtY.woff",
-          "woff2": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2"
+          "eot": "https://fonts.gstatic.com/s/srisakdi/v16/yMJWMIlvdpDbkB0A-gIAUjh4qtQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh4qtc&skey=24500905fa98148a&v=v16#Srisakdi",
+          "ttf": "https://fonts.gstatic.com/s/srisakdi/v16/yMJWMIlvdpDbkB0A-gIAUjh4qtU.ttf",
+          "woff": "https://fonts.gstatic.com/s/srisakdi/v16/yMJWMIlvdpDbkB0A-gIAUjh4qtY.woff",
+          "woff2": "https://fonts.gstatic.com/s/srisakdi/v16/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

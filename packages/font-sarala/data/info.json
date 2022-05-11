@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sarala'",
-          "'Sarala-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hAxcV&skey=5f92b31c258ef44&v=v4#Sarala",
-          "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcX.ttf",
-          "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcU.woff",
-          "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDRcS.woff2"
+          "eot": "https://fonts.gstatic.com/s/sarala/v10/uK_y4riEZv4o1w9hAxcW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hAxcV&skey=5f92b31c258ef44&v=v10#Sarala",
+          "ttf": "https://fonts.gstatic.com/s/sarala/v10/uK_y4riEZv4o1w9hAxcX.ttf",
+          "woff": "https://fonts.gstatic.com/s/sarala/v10/uK_y4riEZv4o1w9hAxcU.woff",
+          "woff2": "https://fonts.gstatic.com/s/sarala/v10/uK_y4riEZv4o1w9hDRcS.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sarala Bold'",
-          "'Sarala-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-d.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjIHM9-e&skey=e274e9b47540b42e&v=v4#Sarala",
-          "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-c.ttf",
-          "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-f.woff",
-          "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPd-Z.woff2"
+          "eot": "https://fonts.gstatic.com/s/sarala/v10/uK_x4riEZv4o1w9ptjIHM9-d.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjIHM9-e&skey=e274e9b47540b42e&v=v10#Sarala",
+          "ttf": "https://fonts.gstatic.com/s/sarala/v10/uK_x4riEZv4o1w9ptjIHM9-c.ttf",
+          "woff": "https://fonts.gstatic.com/s/sarala/v10/uK_x4riEZv4o1w9ptjIHM9-f.woff",
+          "woff2": "https://fonts.gstatic.com/s/sarala/v10/uK_x4riEZv4o1w9ptjIHPd-Z.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

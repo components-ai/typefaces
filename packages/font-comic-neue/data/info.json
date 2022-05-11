@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,88 +10,70 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Comic Neue Light Italic'",
-          "'ComicNeue-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCNH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaarEJDsxBrF37olUeD96_RTplkLCNE&skey=8745262e68bff52c&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCNG.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCNF.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RTplkLCND.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCNH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaarEJDsxBrF37olUeD96_RTplkLCNE&skey=8745262e68bff52c&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCNG.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCNF.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplkLCND.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Comic Neue Italic'",
-          "'ComicNeue-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5bt1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJDsxBrF37olUeD96_Z5bt2&skey=941d21f9a14a0291&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5bt0.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5bt3.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaFrEJDsxBrF37olUeD96_Z5btx.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5bt1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJDsxBrF37olUeD96_Z5bt2&skey=941d21f9a14a0291&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5bt0.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5bt3.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaFrEJDsxBrF37olUeD96_Z5btx.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Comic Neue Bold Italic'",
-          "'ComicNeue-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCNH.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaarEJDsxBrF37olUeD96_RXp5kLCNE&skey=80524c58a0aa9734&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCNG.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCNF.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaarEJDsxBrF37olUeD96_RXp5kLCND.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCNH.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaarEJDsxBrF37olUeD96_RXp5kLCNE&skey=80524c58a0aa9734&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCNG.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCNF.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5kLCND.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Comic Neue Light'",
-          "'ComicNeue-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxUKg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaErEJDsxBrF37olUeD_wHL8pxUKQ&skey=9302f9486a5d3c95&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxUKw.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxUKA.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_wHL8pxULg.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxUKg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaErEJDsxBrF37olUeD_wHL8pxUKQ&skey=9302f9486a5d3c95&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxUKw.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxUKA.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHL8pxULg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Comic Neue Regular'",
-          "'ComicNeue-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp4w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJDsxBrF37olUeD96rp4A&skey=4de1c6693bf2eab4&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp4g.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp4Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaHrEJDsxBrF37olUeD96rp5w.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp4w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJDsxBrF37olUeD96rp4A&skey=4de1c6693bf2eab4&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp4g.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp4Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeD96rp5w.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Comic Neue Bold'",
-          "'ComicNeue-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxUKg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaErEJDsxBrF37olUeD_xHM8pxUKQ&skey=3d9cfbb321b64fc5&v=v2#ComicNeue",
-          "ttf": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxUKw.ttf",
-          "woff": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxUKA.woff",
-          "woff2": "https://fonts.gstatic.com/s/comicneue/v2/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2"
+          "eot": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxUKg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaErEJDsxBrF37olUeD_xHM8pxUKQ&skey=3d9cfbb321b64fc5&v=v8#ComicNeue",
+          "ttf": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxUKw.ttf",
+          "woff": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxUKA.woff",
+          "woff2": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v8",
   "typefaces": {
     "italic": {
       "300": {

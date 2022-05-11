@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Oval'",
-          "'NovaOval'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdmANHvPenMaswyNoWn&skey=e3610a8d67a56934&v=v12#NovaOval",
-          "ttf": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWl.ttf",
-          "woff": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWm.woff",
-          "woff2": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWg.woff2"
+          "eot": "https://fonts.gstatic.com/s/novaoval/v24/jAnEgHdmANHvPenMaswyNoWk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdmANHvPenMaswyNoWn&skey=e3610a8d67a56934&v=v24#NovaOval",
+          "ttf": "https://fonts.gstatic.com/s/novaoval/v24/jAnEgHdmANHvPenMaswyNoWl.ttf",
+          "woff": "https://fonts.gstatic.com/s/novaoval/v24/jAnEgHdmANHvPenMaswyNoWm.woff",
+          "woff2": "https://fonts.gstatic.com/s/novaoval/v24/jAnEgHdmANHvPenMaswyNoWg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

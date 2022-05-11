@@ -1,18 +1,18 @@
 {
   "italic": {
-    "200": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfD.woff",
-    "300": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
-    "400": "https://fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwit.woff",
-    "500": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
-    "600": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
-    "700": "https://fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfD.woff"
+    "200": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiXim-orfD.woff",
+    "300": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
+    "400": "https://fonts.gstatic.com/s/niramit/v10/I_usMpWdvgLdNxVLXbZqnwit.woff",
+    "500": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
+    "600": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
+    "700": "https://fonts.gstatic.com/s/niramit/v10/I_upMpWdvgLdNxVLXbZiKi2-orfD.woff"
   },
   "normal": {
-    "200": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqA.woff",
-    "300": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
-    "400": "https://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alQ.woff",
-    "500": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
-    "600": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
-    "700": "https://fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqA.woff"
+    "200": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVXx7hiGOqA.woff",
+    "300": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
+    "400": "https://fonts.gstatic.com/s/niramit/v10/I_uuMpWdvgLdNxVLXb1alQ.woff",
+    "500": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
+    "600": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
+    "700": "https://fonts.gstatic.com/s/niramit/v10/I_urMpWdvgLdNxVLVQh_hiGOqA.woff"
   }
 }

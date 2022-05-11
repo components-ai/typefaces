@@ -1,13 +1,24 @@
 {
+  "italic": {
+    "100": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBSooBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "200": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKByosBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "300": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBFIsBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "400": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBSosBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "500": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBeIsBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "600": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBlIwBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "700": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKBrYwBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "800": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKByowBmi4l&skey=b8fbce151ac8355e&v=v13#Saira",
+    "900": "https://fonts.gstatic.com/l/font?kit=memUYa2wxmKQyNkiV50dulWP7s95AqZTzZHcVdxWI9WH-pKB44wBmi4l&skey=b8fbce151ac8355e&v=v13#Saira"
+  },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=mem-Ya2wxmKQyNFEfZ81UA&skey=87c284a65dd86fc7&v=v5#Saira",
-    "200": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNHobIYccr8&skey=797ce383f9406c5d&v=v5#Saira",
-    "300": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNGMb4Yccr8&skey=e07708e3b3759a35&v=v5#Saira",
-    "400": "https://fonts.gstatic.com/l/font?kit=memwYa2wxmKQyNkpTZQ&skey=536864831ea068c7&v=v5#Saira",
-    "500": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNHUboYccr8&skey=a5c5f1f8cc7fbad1&v=v5#Saira",
-    "600": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNH4aYYccr8&skey=6052035d160e3b73&v=v5#Saira",
-    "700": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNGcaIYccr8&skey=81d5c302bf2bbf46&v=v5#Saira",
-    "800": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNGAa4Yccr8&skey=ae536e6f0f6407cf&v=v5#Saira",
-    "900": "https://fonts.gstatic.com/l/font?kit=mem9Ya2wxmKQyNGkaoYccr8&skey=6f28c8be3fca8819&v=v5#Saira"
+    "100": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA71rDksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "200": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA79rCksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "300": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA7wTCksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "400": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA71rCksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "500": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA72jCksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "600": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA74TFksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "700": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA773FksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "800": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA79rFksExkQ&skey=536864831ea068c7&v=v13#Saira",
+    "900": "https://fonts.gstatic.com/l/font?kit=memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA7_PFksExkQ&skey=536864831ea068c7&v=v13#Saira"
   }
 }

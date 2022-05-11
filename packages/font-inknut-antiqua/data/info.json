@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Inknut Antiqua Light'",
-          "'InknutAntiqua-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZhw&skey=46d0e07a86defd0f&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwoj-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZhw&skey=46d0e07a86defd0f&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwojwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwoj-Zhs.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Inknut Antiqua Regular'",
-          "'InknutAntiqua-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jo&skey=a8d718863b929f45&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jg.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Js.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GSYax7VC4ot_qNB4nYpBdaKUUE4J0.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jo&skey=a8d718863b929f45&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Jg.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GSYax7VC4ot_qNB4nYpBdaKUUK4Js.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GSYax7VC4ot_qNB4nYpBdaKUUE4J0.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Inknut Antiqua Medium'",
-          "'InknutAntiqua-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZhw&skey=1e36365059af3854&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4j-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZhw&skey=1e36365059af3854&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4jwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU33w4j-Zhs.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Inknut Antiqua SemiBold'",
-          "'InknutAntiqua-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZhw&skey=dd0df3c8b9ee2475&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIj-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZhw&skey=dd0df3c8b9ee2475&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIjwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxIj-Zhs.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Inknut Antiqua Bold'",
-          "'InknutAntiqua-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZhw&skey=aa11e3ecfa335951&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYj-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZhw&skey=aa11e3ecfa335951&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYjwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xYj-Zhs.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Inknut Antiqua ExtraBold'",
-          "'InknutAntiqua-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZhw&skey=731697920b7c6ec9&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxoj-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZhw&skey=731697920b7c6ec9&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxojwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxoj-Zhs.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Inknut Antiqua Black'",
-          "'InknutAntiqua-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZhw&skey=7b83b759aae0f97&v=v6#InknutAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh4.ttf",
-          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh0.woff",
-          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v6/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4j-Zhs.woff2"
+          "eot": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZhw&skey=7b83b759aae0f97&v=v14#InknutAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh4.ttf",
+          "woff": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4jwZh0.woff",
+          "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v14/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx4j-Zhs.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "300": {
@@ -2180,7 +2159,7 @@
             "en": "Inknut Antiqua Light"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-Light"
@@ -4263,7 +4242,7 @@
             "en": "Inknut Antiqua Regular"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-Regular"
@@ -6346,7 +6325,7 @@
             "en": "Inknut Antiqua Medium"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-Medium"
@@ -8429,7 +8408,7 @@
             "en": "Inknut Antiqua SemiBold"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-SemiBold"
@@ -10512,7 +10491,7 @@
             "en": "Inknut Antiqua Bold"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-Bold"
@@ -12595,7 +12574,7 @@
             "en": "Inknut Antiqua ExtraBold"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-ExtraBold"
@@ -14678,7 +14657,7 @@
             "en": "Inknut Antiqua Black"
           },
           "version": {
-            "en": "Version 1.003"
+            "en": "Version 1.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "InknutAntiqua-Black"

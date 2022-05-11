@@ -1,7 +1,9 @@
 {
   "normal": {
-    "300": "https://fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpIuxFps28.woff",
-    "400": "https://fonts.gstatic.com/s/redrose/v2/QdVVSTYiLBjouPgEUYLtmQI.woff",
-    "700": "https://fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpYvBFps28.woff"
+    "300": "https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_szez6r.woff",
+    "400": "https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfszez6r.woff",
+    "500": "https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_szez6r.woff",
+    "600": "https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wzez6r.woff",
+    "700": "https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwzez6r.woff"
   }
 }

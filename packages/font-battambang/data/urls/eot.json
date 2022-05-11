@@ -1,6 +1,9 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/battambang/v14/uk-mEGe7raEw-HjkzZabDnQ.eot",
-    "700": "https://fonts.gstatic.com/s/battambang/v14/uk-lEGe7raEw-HjkzZabNsmMxyU.eot"
+    "100": "https://fonts.gstatic.com/s/battambang/v24/uk-kEGe7raEw-HjkzZabNhGZ4ARx.eot",
+    "300": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNtmL9yNQ9w.eot",
+    "400": "https://fonts.gstatic.com/s/battambang/v24/uk-mEGe7raEw-HjkzZabPnKp5g.eot",
+    "700": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNsmM9yNQ9w.eot",
+    "900": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNvGO9yNQ9w.eot"
   }
 }

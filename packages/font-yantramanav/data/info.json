@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,86 +14,68 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Yantramanav Thin'",
-          "'Yantramanav-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-Qbep5CQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-Qbep5Cg&skey=4d8237ae265bcb5&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-Qbep5CA.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-Qbep5Cw.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-QbeR5DQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flU-Rqu5zY00QEpyWJYWN5-Qbep5CQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-Qbep5Cg&skey=4d8237ae265bcb5&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flU-Rqu5zY00QEpyWJYWN5-Qbep5CA.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flU-Rqu5zY00QEpyWJYWN5-Qbep5Cw.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flU-Rqu5zY00QEpyWJYWN5-QbeR5DQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Yantramanav Light'",
-          "'Yantramanav-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NQKBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NQKBQ&skey=4fb8a5ec5d9364f0&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NQKBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NQKBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NeKBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59Yf_NQKBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NQKBQ&skey=4fb8a5ec5d9364f0&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59Yf_NQKBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59Yf_NQKBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59Yf_NeKBM.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Yantramanav Regular'",
-          "'Yantramanav-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5f9XeI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flU8Rqu5zY00QEpyWJYWN5f9XeE&skey=d721e4e4fbd1e850&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5f9XeM.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5f9XeA.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5fzXeY.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flU8Rqu5zY00QEpyWJYWN5f9XeI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flU8Rqu5zY00QEpyWJYWN5f9XeE&skey=d721e4e4fbd1e850&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flU8Rqu5zY00QEpyWJYWN5f9XeM.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flU8Rqu5zY00QEpyWJYWN5f9XeA.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flU8Rqu5zY00QEpyWJYWN5fzXeY.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Yantramanav Medium'",
-          "'Yantramanav-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNQKBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN58AfvNQKBQ&skey=ae25c44df595cf2d&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNQKBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNQKBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNeKBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN58AfvNQKBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN58AfvNQKBQ&skey=ae25c44df595cf2d&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN58AfvNQKBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN58AfvNQKBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN58AfvNeKBM.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Yantramanav Bold'",
-          "'Yantramanav-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNQKBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNQKBQ&skey=35b397cfb7a17297&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNQKBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNQKBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNeKBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59IePNQKBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNQKBQ&skey=35b397cfb7a17297&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59IePNQKBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59IePNQKBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59IePNeKBM.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Yantramanav Black'",
-          "'Yantramanav-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNQKBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59wevNQKBQ&skey=6a026953c40595fa&v=v6#Yantramanav",
-          "ttf": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNQKBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNQKBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNeKBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59wevNQKBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59wevNQKBQ&skey=6a026953c40595fa&v=v11#Yantramanav",
+          "ttf": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59wevNQKBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59wevNQKBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/yantramanav/v11/flUhRqu5zY00QEpyWJYWN59wevNeKBM.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "100": {
@@ -157,6 +139,12 @@
             "x_min": 58,
             "x_max": 594,
             "o": "m 131 58 l 132 59 l 132 58 q 131 58 131 58 l 131 58 z m 329 867 q 161 787 226 867 q 96 598 96 707 q 158 415 96 488 q 319 341 220 341 l 319 341 q 468 391 406 341 q 556 518 530 441 l 556 518 l 556 586 q 494 793 556 720 q 329 867 431 867 z m 313 18 l 313 18 q 491 87 426 18 q 556 277 556 156 l 556 277 l 556 450 q 459 346 522 383 q 319 308 397 308 l 319 308 q 132 391 206 308 q 58 599 58 474 q 134 812 58 724 q 328 900 209 900 q 520 818 447 900 q 594 587 594 736 l 594 587 l 594 279 q 518 64 594 142 q 313 -14 441 -14 l 313 -14 q 121 24 218 -14 l 121 24 l 132 58 q 219 27 178 37 q 313 18 260 18 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\r": {
             "ha": 342,
@@ -1989,6 +1977,12 @@
             "x_max": 608,
             "o": "m 125 23 l 138 84 q 315 47 216 47 q 473 116 414 47 q 532 309 532 184 l 532 309 l 532 398 q 446 312 500 342 q 323 281 391 281 l 323 281 q 128 365 202 281 q 54 584 54 448 q 131 809 54 719 q 324 900 209 900 l 324 900 q 532 815 456 900 q 608 572 608 730 l 608 572 l 608 311 q 527 72 608 157 q 311 -14 447 -14 l 311 -14 q 125 23 208 -14 l 125 23 z m 130 583 l 130 583 l 130 583 q 182 411 130 479 q 323 343 235 343 l 323 343 q 454 382 400 343 q 533 484 509 420 l 533 484 l 533 578 q 479 770 533 703 q 328 838 425 838 l 328 838 q 186 764 242 838 q 130 583 130 691 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\r": {
             "ha": 342,
             "x_min": null,
@@ -3819,6 +3813,12 @@
             "x_min": 50,
             "x_max": 625,
             "o": "m 312 80 l 312 80 q 454 148 402 80 q 505 344 505 215 l 505 344 l 505 385 q 330 296 445 296 l 330 296 q 125 376 200 296 q 50 592 50 456 q 129 814 50 728 q 326 900 208 900 l 326 900 q 547 812 468 900 q 625 557 625 725 l 625 557 l 625 345 q 540 80 625 174 q 311 -14 454 -14 l 311 -14 q 130 22 205 -14 l 130 22 l 148 114 q 312 80 211 80 z m 330 806 q 217 746 262 806 q 171 595 171 687 q 214 447 171 503 q 326 391 257 391 q 440 418 395 391 q 505 492 484 446 l 505 492 l 505 569 q 461 746 505 686 q 330 806 416 806 l 330 806 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\r": {
             "ha": 342,
@@ -5651,6 +5651,12 @@
             "x_max": 638,
             "o": "m 314 104 l 314 104 q 444 164 396 104 q 491 335 491 223 l 491 335 l 491 376 q 323 293 429 293 l 323 293 q 122 373 195 293 q 50 590 50 453 q 131 813 50 726 q 336 900 213 900 l 336 900 q 557 808 476 900 q 638 549 638 717 l 638 549 l 638 340 q 549 80 638 174 q 314 -14 460 -14 l 314 -14 q 130 22 212 -14 l 130 22 l 150 136 l 149 136 q 314 104 217 104 z m 339 781 q 239 728 279 781 q 199 591 199 674 q 236 458 199 509 q 338 408 273 408 l 338 408 q 432 430 393 408 q 492 487 471 451 l 492 487 l 492 566 q 452 727 492 672 q 339 781 413 781 l 339 781 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\r": {
             "ha": 342,
             "x_min": null,
@@ -7482,6 +7488,12 @@
             "x_max": 654,
             "o": "m 317 123 l 317 123 q 433 176 390 123 q 476 324 476 229 l 476 324 l 476 368 q 316 291 415 291 l 316 291 q 121 371 192 291 q 50 588 50 452 q 134 812 50 725 q 353 900 218 900 q 571 805 488 900 q 654 543 654 711 l 654 543 l 654 333 q 561 79 654 173 q 317 -14 468 -14 l 317 -14 q 131 23 217 -14 l 131 23 l 151 152 l 152 152 q 317 123 227 123 z m 353 763 q 262 713 296 763 q 228 589 228 664 q 259 468 228 513 q 346 422 290 422 l 346 422 q 476 482 432 422 l 476 482 l 476 564 q 443 712 476 661 q 353 763 409 763 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\r": {
             "ha": 342,
             "x_min": null,
@@ -9312,6 +9324,12 @@
             "x_min": 50,
             "x_max": 669,
             "o": "m 321 144 l 321 144 q 423 189 384 144 q 463 311 463 234 l 463 311 l 463 350 q 309 276 402 276 l 309 276 q 119 358 187 276 q 50 578 50 439 q 137 809 50 718 q 361 900 224 900 q 583 802 497 900 q 669 536 669 704 l 669 536 l 669 325 q 571 79 669 172 q 321 -14 473 -14 l 321 -14 q 132 24 226 -14 l 132 24 l 153 172 l 154 172 q 321 144 235 144 z m 256 583 l 256 583 l 256 583 q 281 466 256 507 q 354 425 306 425 l 354 425 q 462 471 423 425 l 462 471 l 462 562 q 434 694 462 648 q 359 741 406 741 q 284 694 313 741 q 256 583 256 648 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\r": {
             "ha": 342,

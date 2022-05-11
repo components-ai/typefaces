@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bigelow Rules Regular'",
-          "'BigelowRules-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf44IGg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQWboly8iR_I3KWSzeRuN0zf44IGQ&skey=69b430202a6d5e56&v=v9#BigelowRules",
-          "ttf": "https://fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf44IGw.ttf",
-          "woff": "https://fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf44IGA.woff",
-          "woff2": "https://fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf4AIHg.woff2"
+          "eot": "https://fonts.gstatic.com/s/bigelowrules/v23/RrQWboly8iR_I3KWSzeRuN0zf44IGg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQWboly8iR_I3KWSzeRuN0zf44IGQ&skey=69b430202a6d5e56&v=v23#BigelowRules",
+          "ttf": "https://fonts.gstatic.com/s/bigelowrules/v23/RrQWboly8iR_I3KWSzeRuN0zf44IGw.ttf",
+          "woff": "https://fonts.gstatic.com/s/bigelowrules/v23/RrQWboly8iR_I3KWSzeRuN0zf44IGA.woff",
+          "woff2": "https://fonts.gstatic.com/s/bigelowrules/v23/RrQWboly8iR_I3KWSzeRuN0zf4AIHg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

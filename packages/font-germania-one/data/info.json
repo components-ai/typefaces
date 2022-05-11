@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Germania One'",
-          "'GermaniaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhL.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Fh4yPjrqIyv2ucM2qzBjeS3uywhI&skey=e0b4110be5196afe&v=v8#GermaniaOne",
-          "ttf": "https://fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhK.ttf",
-          "woff": "https://fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhJ.woff",
-          "woff2": "https://fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhP.woff2"
+          "eot": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uywhL.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Fh4yPjrqIyv2ucM2qzBjeS3uywhI&skey=e0b4110be5196afe&v=v20#GermaniaOne",
+          "ttf": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uywhK.ttf",
+          "woff": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uywhJ.woff",
+          "woff2": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uywhP.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {
@@ -88,6 +85,12 @@
             "x_min": 51,
             "x_max": 593,
             "o": "m 325 253 q 184 330 265 260 q 77 444 103 400 q 51 583 51 488 q 74 729 51 679 l 74 729 q 185 859 94 779 q 323 939 276 939 q 463 859 369 939 q 578 729 556 779 l 578 729 q 593 578 593 699 q 579 387 593 458 q 542 263 565 315 q 469 162 518 211 q 369 76 419 113 q 232 -17 319 39 l 232 -17 l 85 85 q 325 253 238 143 l 325 253 z m 322 758 q 283 734 306 758 q 249 689 260 710 q 238 586 238 668 q 271 461 238 504 q 396 400 304 418 l 396 400 q 407 548 407 422 q 396 688 407 674 l 396 688 q 360 735 382 711 q 322 758 338 758 z "
+          },
+          "": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 347,

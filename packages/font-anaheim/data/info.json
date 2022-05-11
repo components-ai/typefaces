@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Anaheim'",
-          "'Anaheim-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4U3eFQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vII7w042Wp87g4G4U3eFg&skey=3392fd8e53fdf730&v=v8#Anaheim",
-          "ttf": "https://fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4U3eFA.ttf",
-          "woff": "https://fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4U3eFw.woff",
-          "woff2": "https://fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4UPeEQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/anaheim/v14/8vII7w042Wp87g4G4U3eFQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vII7w042Wp87g4G4U3eFg&skey=3392fd8e53fdf730&v=v14#Anaheim",
+          "ttf": "https://fonts.gstatic.com/s/anaheim/v14/8vII7w042Wp87g4G4U3eFA.ttf",
+          "woff": "https://fonts.gstatic.com/s/anaheim/v14/8vII7w042Wp87g4G4U3eFw.woff",
+          "woff2": "https://fonts.gstatic.com/s/anaheim/v14/8vII7w042Wp87g4G4UPeEQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

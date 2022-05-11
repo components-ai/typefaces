@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0g.woff",
-    "700": "https://fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDM.woff"
+    "400": "https://fonts.gstatic.com/s/noticiatext/v15/VuJodNDF2Yv9qppOePKYRP12YwtUn0g.woff",
+    "700": "https://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDM.woff"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDte.woff",
-    "700": "https://fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvW.woff"
+    "400": "https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP12aDte.woff",
+    "700": "https://fonts.gstatic.com/s/noticiatext/v15/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvW.woff"
   }
 }

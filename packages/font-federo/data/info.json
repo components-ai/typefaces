@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Federo'",
-          "'Federo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/federo/v12/iJWFBX-cbD_ETsbWilmb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=iJWFBX-cbD_ETsbWilmY&skey=47fc219fa617d18a&v=v12#Federo",
-          "ttf": "https://fonts.gstatic.com/s/federo/v12/iJWFBX-cbD_ETsbWilma.ttf",
-          "woff": "https://fonts.gstatic.com/s/federo/v12/iJWFBX-cbD_ETsbWilmZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/federo/v12/iJWFBX-cbD_ETsbWilmf.woff2"
+          "eot": "https://fonts.gstatic.com/s/federo/v19/iJWFBX-cbD_ETsbWilmb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=iJWFBX-cbD_ETsbWilmY&skey=47fc219fa617d18a&v=v19#Federo",
+          "ttf": "https://fonts.gstatic.com/s/federo/v19/iJWFBX-cbD_ETsbWilma.ttf",
+          "woff": "https://fonts.gstatic.com/s/federo/v19/iJWFBX-cbD_ETsbWilmZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/federo/v19/iJWFBX-cbD_ETsbWilmf.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "700": {
-        "local": [
-          "'UnifrakturCook'",
-          "'UnifrakturCook-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oQ&skey=dbbfcd88515615c5&v=v12#UnifrakturCook",
-          "ttf": "https://fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oY.ttf",
-          "woff": "https://fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oU.woff",
-          "woff2": "https://fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oM.woff2"
+          "eot": "https://fonts.gstatic.com/s/unifrakturcook/v19/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oQ&skey=dbbfcd88515615c5&v=v19#UnifrakturCook",
+          "ttf": "https://fonts.gstatic.com/s/unifrakturcook/v19/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oY.ttf",
+          "woff": "https://fonts.gstatic.com/s/unifrakturcook/v19/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oU.woff",
+          "woff2": "https://fonts.gstatic.com/s/unifrakturcook/v19/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oM.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "700": {

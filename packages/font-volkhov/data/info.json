@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Volkhov Italic'",
-          "'Volkhov-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Rz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v12#Volkhov",
-          "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Ry.ttf",
-          "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Rx.woff",
-          "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1R3.woff2"
+          "eot": "https://fonts.gstatic.com/s/volkhov/v17/SlGSmQieoJcKemNecTA0h1Rz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v17#Volkhov",
+          "ttf": "https://fonts.gstatic.com/s/volkhov/v17/SlGSmQieoJcKemNecTA0h1Ry.ttf",
+          "woff": "https://fonts.gstatic.com/s/volkhov/v17/SlGSmQieoJcKemNecTA0h1Rx.woff",
+          "woff2": "https://fonts.gstatic.com/s/volkhov/v17/SlGSmQieoJcKemNecTA0h1R3.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Volkhov Bold Italic'",
-          "'Volkhov-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v12#Volkhov",
-          "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwV.ttf",
-          "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwW.woff",
-          "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/volkhov/v17/SlGXmQieoJcKemNecTA8PHFibxwU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v17#Volkhov",
+          "ttf": "https://fonts.gstatic.com/s/volkhov/v17/SlGXmQieoJcKemNecTA8PHFibxwV.ttf",
+          "woff": "https://fonts.gstatic.com/s/volkhov/v17/SlGXmQieoJcKemNecTA8PHFibxwW.woff",
+          "woff2": "https://fonts.gstatic.com/s/volkhov/v17/SlGXmQieoJcKemNecTA8PHFibxwQ.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Volkhov Regular'",
-          "'Volkhov-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v12#Volkhov",
-          "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgA.ttf",
-          "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgw.woff",
-          "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEhQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/volkhov/v17/SlGQmQieoJcKemNecTUEgQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v17#Volkhov",
+          "ttf": "https://fonts.gstatic.com/s/volkhov/v17/SlGQmQieoJcKemNecTUEgA.ttf",
+          "woff": "https://fonts.gstatic.com/s/volkhov/v17/SlGQmQieoJcKemNecTUEgw.woff",
+          "woff2": "https://fonts.gstatic.com/s/volkhov/v17/SlGQmQieoJcKemNecTUEhQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Volkhov Bold'",
-          "'Volkhov-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v12#Volkhov",
-          "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaA.ttf",
-          "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaw.woff",
-          "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSbQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/volkhov/v17/SlGVmQieoJcKemNeeY4hkHNSaQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v17#Volkhov",
+          "ttf": "https://fonts.gstatic.com/s/volkhov/v17/SlGVmQieoJcKemNeeY4hkHNSaA.ttf",
+          "woff": "https://fonts.gstatic.com/s/volkhov/v17/SlGVmQieoJcKemNeeY4hkHNSaw.woff",
+          "woff2": "https://fonts.gstatic.com/s/volkhov/v17/SlGVmQieoJcKemNeeY4hkHNSbQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "italic": {
       "400": {

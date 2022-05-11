@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kaushan Script'",
-          "'KaushanScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRfvXFLG3OLnsO15WYS5DG72wNU&skey=31e8905c8b129a4e&v=v9#KaushanScript",
-          "ttf": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf",
-          "woff": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2"
+          "eot": "https://fonts.gstatic.com/s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DG72wNY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRfvXFLG3OLnsO15WYS5DG72wNU&skey=31e8905c8b129a4e&v=v14#KaushanScript",
+          "ttf": "https://fonts.gstatic.com/s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf",
+          "woff": "https://fonts.gstatic.com/s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DG72wNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/kaushanscript/v14/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

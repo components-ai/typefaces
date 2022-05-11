@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=Qw3ZZQZaHCLgIWa29ZBbM_INKl4&skey=b1d41ffb59574c9f&v=v8#Economica",
-    "700": "https://fonts.gstatic.com/l/font?kit=Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH8&skey=9f803a65f8e309cb&v=v8#Economica"
+    "400": "https://fonts.gstatic.com/l/font?kit=Qw3ZZQZaHCLgIWa29ZBbM_INKl4&skey=b1d41ffb59574c9f&v=v13#Economica",
+    "700": "https://fonts.gstatic.com/l/font?kit=Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH8&skey=9f803a65f8e309cb&v=v13#Economica"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=Qw3fZQZaHCLgIWa29ZBbOMIG&skey=787fcf9775092ba7&v=v8#Economica",
-    "700": "https://fonts.gstatic.com/l/font?kit=Qw3aZQZaHCLgIWa29ZBTjecUA3x_&skey=c307f37a667ae92d&v=v8#Economica"
+    "400": "https://fonts.gstatic.com/l/font?kit=Qw3fZQZaHCLgIWa29ZBbOMIG&skey=787fcf9775092ba7&v=v13#Economica",
+    "700": "https://fonts.gstatic.com/l/font?kit=Qw3aZQZaHCLgIWa29ZBTjecUA3x_&skey=c307f37a667ae92d&v=v13#Economica"
   }
 }

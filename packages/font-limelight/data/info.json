@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Limelight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoNOlD.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XLYkIZL7aopJVbZJHDuoNOlA&skey=5080ff57360a6ef&v=v11#Limelight",
-          "ttf": "https://fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoNOlC.ttf",
-          "woff": "https://fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoNOlB.woff",
-          "woff2": "https://fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoOulH.woff2"
+          "eot": "https://fonts.gstatic.com/s/limelight/v16/XLYkIZL7aopJVbZJHDuoNOlD.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XLYkIZL7aopJVbZJHDuoNOlA&skey=5080ff57360a6ef&v=v16#Limelight",
+          "ttf": "https://fonts.gstatic.com/s/limelight/v16/XLYkIZL7aopJVbZJHDuoNOlC.ttf",
+          "woff": "https://fonts.gstatic.com/s/limelight/v16/XLYkIZL7aopJVbZJHDuoNOlB.woff",
+          "woff2": "https://fonts.gstatic.com/s/limelight/v16/XLYkIZL7aopJVbZJHDuoOulH.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -89,6 +87,12 @@
             "x_min": 62,
             "x_max": 854,
             "o": "m 493 43 l 493 920 q 453 922 474 922 l 453 922 q 198 831 289 922 l 198 831 q 117 620 117 750 l 117 620 q 186 441 117 505 l 186 441 q 361 377 250 381 l 361 377 q 388 379 374 376 l 388 379 l 408 383 q 456 360 454 393 l 456 360 q 390 329 458 329 l 390 329 q 375 329 382 329 q 337 330 368 329 q 253 347 307 332 q 157 397 200 362 l 157 397 q 62 631 62 475 l 62 631 q 180 883 62 787 l 180 883 q 448 972 290 972 l 448 972 q 734 860 624 972 l 734 860 q 854 502 854 736 l 854 502 q 722 121 854 262 l 722 121 q 404 -13 597 -13 l 404 -13 q 201 37 286 -13 l 201 37 q 138 113 138 73 l 138 113 q 164 135 138 135 l 164 135 q 187 125 178 135 l 187 125 l 203 107 q 408 33 264 33 l 408 33 q 493 43 452 33 l 493 43 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 309,

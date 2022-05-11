@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,140 +12,110 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Zilla Slab Light Italic'",
-          "'ZillaSlab-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CVHaZV3Bw&skey=2edace82e38b93fe&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3By.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bx.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CVHaZV3Bw&skey=2edace82e38b93fe&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CVHaZV3By.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bx.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Zilla Slab Italic'",
-          "'ZillaSlab-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa4ZfeM_74wlPZtksIFaj8K8VSL&skey=9ce6a510b53c4ae1&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSK.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa4ZfeM_74wlPZtksIFaj8K8VSI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa4ZfeM_74wlPZtksIFaj8K8VSL&skey=9ce6a510b53c4ae1&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa4ZfeM_74wlPZtksIFaj8K8VSJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa4ZfeM_74wlPZtksIFaj8K8VSK.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Zilla Slab Medium Italic'",
-          "'ZillaSlab-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CDHeZV3Bw&skey=c3d6da9ec551b3ac&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3By.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bx.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CDHeZV3Bw&skey=c3d6da9ec551b3ac&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CDHeZV3By.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bx.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Zilla Slab SemiBold Italic'",
-          "'ZillaSlab-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CIHCZV3Bw&skey=3a4040de6e68062&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3By.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bx.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CIHCZV3Bw&skey=3a4040de6e68062&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CIHCZV3By.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bx.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Zilla Slab Bold Italic'",
-          "'ZillaSlab-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CRHGZV3Bw&skey=31b1451cc7b95f1d&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3By.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bx.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZWXB3.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CRHGZV3Bw&skey=31b1451cc7b95f1d&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CRHGZV3By.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bx.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFanZfeM_74wlPZtksIFaj8CRHGZWXB3.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Zilla Slab Light'",
-          "'ZillaSlab-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYpEY6H2pXA&skey=ca4b45fc2d8284fd&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6HOpWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYpEY6H2pXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYpEY6H2pXA&skey=ca4b45fc2d8284fd&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYpEY6H2pXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYpEY6H2pXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYpEY6HOpWw.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Zilla Slab'",
-          "'ZillaSlab-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa6ZfeM_74wlPZtksIFajQ6-g&skey=f5798da7f6ea645a&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-A.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-w.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6_Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa6ZfeM_74wlPZtksIFajQ6-Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa6ZfeM_74wlPZtksIFajQ6-g&skey=f5798da7f6ea645a&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa6ZfeM_74wlPZtksIFajQ6-A.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa6ZfeM_74wlPZtksIFajQ6-w.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa6ZfeM_74wlPZtksIFajo6_Q.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Zilla Slab Medium'",
-          "'ZillaSlab-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYskZ6H2pXA&skey=fa8b38d9fb8245bc&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ6H2pXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYskZ6H2pXA&skey=fa8b38d9fb8245bc&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ6H2pXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ6H2pXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Zilla Slab SemiBold'",
-          "'ZillaSlab-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYuUe6H2pXA&skey=b142959be4274cbf&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6HOpWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYuUe6H2pXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYuUe6H2pXA&skey=b142959be4274cbf&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYuUe6H2pXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYuUe6H2pXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYuUe6HOpWw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Zilla Slab Bold'",
-          "'ZillaSlab-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYoEf6H2pXA&skey=fa01195928aed3f7&v=v6#ZillaSlab",
-          "ttf": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXg.ttf",
-          "woff": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2"
+          "eot": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYoEf6H2pXw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYoEf6H2pXA&skey=fa01195928aed3f7&v=v11#ZillaSlab",
+          "ttf": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYoEf6H2pXg.ttf",
+          "woff": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYoEf6H2pXQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "italic": {
       "300": {

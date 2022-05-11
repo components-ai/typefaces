@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kranky Regular'",
-          "'Kranky-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVgJzlPsFn8oR2C&skey=b33cbe2891488b43&v=v11#Kranky",
-          "ttf": "https://fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2A.ttf",
-          "woff": "https://fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2D.woff",
-          "woff2": "https://fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2F.woff2"
+          "eot": "https://fonts.gstatic.com/s/kranky/v24/hESw6XVgJzlPsFn8oR2B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVgJzlPsFn8oR2C&skey=b33cbe2891488b43&v=v24#Kranky",
+          "ttf": "https://fonts.gstatic.com/s/kranky/v24/hESw6XVgJzlPsFn8oR2A.ttf",
+          "woff": "https://fonts.gstatic.com/s/kranky/v24/hESw6XVgJzlPsFn8oR2D.woff",
+          "woff2": "https://fonts.gstatic.com/s/kranky/v24/hESw6XVgJzlPsFn8oR2F.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

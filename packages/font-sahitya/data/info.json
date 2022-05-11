@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sahitya'",
-          "'Sahitya-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v5#Sahitya",
-          "ttf": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOA.woff",
-          "woff2": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPPg.woff2"
+          "eot": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSAPOg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v17#Sahitya",
+          "ttf": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSAPOw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSAPOA.woff",
+          "woff2": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSAPPg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sahitya Bold'",
-          "'Sahitya-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v5#Sahitya",
-          "ttf": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFg.ttf",
-          "woff": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2"
+          "eot": "https://fonts.gstatic.com/s/sahitya/v17/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v17#Sahitya",
+          "ttf": "https://fonts.gstatic.com/s/sahitya/v17/6qLFKZkOuhnuqlJAUZsqKyMlFg.ttf",
+          "woff": "https://fonts.gstatic.com/s/sahitya/v17/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/sahitya/v17/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

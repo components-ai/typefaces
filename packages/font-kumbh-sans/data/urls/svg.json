@@ -1,7 +1,13 @@
 {
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=c4mm1n92AsfhuCq6tVsagit_7KufWw&skey=7bb4b0e0382558ad&v=v1#KumbhSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=c4ml1n92AsfhuCq6tVsaio5d_g&skey=2eab798a80b69c4a&v=v1#KumbhSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=c4mm1n92AsfhuCq6tVsagjt47KufWw&skey=c87e26352e8fb456&v=v1#KumbhSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorqSxNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopqShNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNoq0ShNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorqShNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNorYShNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNoo0TRNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNooNTRNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopqTRNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=c4mw1n92AsfhuCq6tVsaoIx1CHIi4kToNopDTRNBVoo&skey=2eab798a80b69c4a&v=v11#KumbhSans"
   }
 }

@@ -1,8 +1,9 @@
 {
   "normal": {
-    "300": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_CXBg.woff2",
-    "400": "https://fonts.gstatic.com/s/overpassmono/v6/_Xmq-H86tzKDdAPa-KPQZ-AC1i-0tg.woff2",
-    "600": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_CXBg.woff2",
-    "700": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_CXBg.woff2"
+    "300": "https://fonts.gstatic.com/s/overpassmono/v14/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EWKonz0VOs.woff2",
+    "400": "https://fonts.gstatic.com/s/overpassmono/v14/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonz0VOs.woff2",
+    "500": "https://fonts.gstatic.com/s/overpassmono/v14/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXmonz0VOs.woff2",
+    "600": "https://fonts.gstatic.com/s/overpassmono/v14/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUKpXz0VOs.woff2",
+    "700": "https://fonts.gstatic.com/s/overpassmono/v14/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUzpXz0VOs.woff2"
   }
 }

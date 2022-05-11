@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Chau Philomene One Italic'",
-          "'ChauPhilomeneOne-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aME&skey=81aa108e7cdf69f&v=v10#ChauPhilomeneOne",
-          "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMM.ttf",
-          "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMA.woff",
-          "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2"
+          "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aME&skey=81aa108e7cdf69f&v=v15#ChauPhilomeneOne",
+          "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMM.ttf",
+          "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMA.woff",
+          "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Chau Philomene One Regular'",
-          "'ChauPhilomeneOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ9&skey=4c1fda6540b94a11&v=v10#ChauPhilomeneOne",
-          "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ_.ttf",
-          "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ8.woff",
-          "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2"
+          "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ9&skey=4c1fda6540b94a11&v=v15#ChauPhilomeneOne",
+          "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ_.ttf",
+          "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ8.woff",
+          "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

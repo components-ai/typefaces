@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,192 +18,150 @@
   "variants": {
     "italic": {
       "100": {
-        "local": [
-          "'IBM Plex Serif Thin Italic'",
-          "'IBMPlexSerif-ThinItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7L&skey=7c5da64f673ad10c&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7J.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7K.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7M.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7L&skey=7c5da64f673ad10c&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7J.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizHREVNn1dOx-zrZ2X3pZvkTiUa41Yjgn7K.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7M.woff2"
         }
       },
       "200": {
-        "local": [
-          "'IBM Plex Serif ExtraLight Italic'",
-          "'IBMPlexSerif-ExtraLightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpig&skey=c07aecabf4d644a0&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpig&skey=c07aecabf4d644a0&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1fpiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npjQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'IBM Plex Serif Light Italic'",
-          "'IBMPlexSerif-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpig&skey=879b82ed72723260&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpig&skey=879b82ed72723260&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'IBM Plex Serif Italic'",
-          "'IBMPlexSerif-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTig.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiQ&skey=faa87433ca4121a6&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTjg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTig.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiQ&skey=faa87433ca4121a6&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zsTiA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTjg.woff2"
         }
       },
       "500": {
-        "local": [
-          "'IBM Plex Serif Medium Italic'",
-          "'IBMPlexSerif-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpig&skey=7c6e9ca997841831&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpig&skey=7c6e9ca997841831&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1fpiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npjQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'IBM Plex Serif SemiBold Italic'",
-          "'IBMPlexSerif-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpig&skey=8cb82388c877163f&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpig&skey=8cb82388c877163f&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1fpiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npjQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'IBM Plex Serif Bold Italic'",
-          "'IBMPlexSerif-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpig&skey=b4315d3b943b387&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiA.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiw.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npjQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpig&skey=b4315d3b943b387&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiA.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1fpiw.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npjQ.woff2"
         }
       }
     },
     "normal": {
       "100": {
-        "local": [
-          "'IBM Plex Serif Thin'",
-          "'IBMPlexSerif-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTig.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiQ&skey=f66cfd84c49f045b&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiw.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTjg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTig.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiQ&skey=f66cfd84c49f045b&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiw.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTi186zsTiA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTjg.woff2"
         }
       },
       "200": {
-        "local": [
-          "'IBM Plex Serif ExtraLight'",
-          "'IBMPlexSerif-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q18.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q1w&skey=3683aa6b7d63f6d5&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q14.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q10.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q1s.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q18.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q1w&skey=3683aa6b7d63f6d5&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q14.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI6q10.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q1s.woff2"
         }
       },
       "300": {
-        "local": [
-          "'IBM Plex Serif Light'",
-          "'IBMPlexSerif-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q18.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q1w&skey=4df2c396b7c23c2d&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q14.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q10.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q1s.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q18.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q1w&skey=4df2c396b7c23c2d&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q14.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI6q10.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q1s.woff2"
         }
       },
       "400": {
-        "local": [
-          "'IBM Plex Serif'",
-          "'IBMPlexSerif'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizDREVNn1dOx-zrZ2X3pZvkTiUR2zA&skey=63d0238ea700aff8&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zI.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zE.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zc.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizDREVNn1dOx-zrZ2X3pZvkTiUR2zA&skey=63d0238ea700aff8&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zI.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizDREVNn1dOx-zrZ2X3pZvkTiUR2zE.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zc.woff2"
         }
       },
       "500": {
-        "local": [
-          "'IBM Plex Serif Medium'",
-          "'IBMPlexSerif-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q18.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q1w&skey=609cc221679a4d60&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q14.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q10.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q1s.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q18.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q1w&skey=609cc221679a4d60&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q14.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI6q10.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q1s.woff2"
         }
       },
       "600": {
-        "local": [
-          "'IBM Plex Serif SemiBold'",
-          "'IBMPlexSerif-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q18.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q1w&skey=5a16dbf7147b0488&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q14.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q10.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1s.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q18.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q1w&skey=5a16dbf7147b0488&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q14.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI6q10.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1s.woff2"
         }
       },
       "700": {
-        "local": [
-          "'IBM Plex Serif Bold'",
-          "'IBMPlexSerif-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q18.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q1w&skey=c6f3b52e875e2973&v=v9#IBMPlexSerif",
-          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q14.ttf",
-          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q10.woff",
-          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v9/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1s.woff2"
+          "eot": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q18.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q1w&skey=c6f3b52e875e2973&v=v15#IBMPlexSerif",
+          "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q14.ttf",
+          "woff": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI6q10.woff",
+          "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v15/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1s.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "100": {
@@ -2608,7 +2566,7 @@
         "underlinePosition": -172,
         "underlineThickness": 24,
         "boundingBox": {
-          "yMin": -306,
+          "yMin": -296,
           "xMin": -303,
           "yMax": 1501,
           "xMax": 1539
@@ -2616,7 +2574,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Thin"
@@ -2625,13 +2583,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-ThinItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-ThinItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif Thin Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-ThinItalic"
@@ -5053,7 +5011,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif ExtraLight"
@@ -5062,13 +5020,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-ExtraLightItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-ExtraLightItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif ExtraLight Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-ExtraLightItalic"
@@ -7490,7 +7448,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Light"
@@ -7499,13 +7457,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-LightItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-LightItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif Light Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-LightItalic"
@@ -9927,7 +9885,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif"
@@ -9936,13 +9894,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-Italic"
+            "en": "2.6;IBM ;IBMPlexSerif-Italic"
           },
           "fullName": {
             "en": "IBM Plex Serif Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-Italic"
@@ -12364,7 +12322,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Medium"
@@ -12373,13 +12331,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-MediumItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-MediumItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif Medium Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-MediumItalic"
@@ -14801,7 +14759,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif SemiBold"
@@ -14810,13 +14768,13 @@
             "en": "Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-SemiBoldItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-SemiBoldItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif SemiBold Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-SemiBoldItalic"
@@ -17238,7 +17196,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif"
@@ -17247,13 +17205,13 @@
             "en": "Bold Italic"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-BoldItalic"
+            "en": "2.6;IBM ;IBMPlexSerif-BoldItalic"
           },
           "fullName": {
             "en": "IBM Plex Serif Bold Italic"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-BoldItalic"
@@ -19669,7 +19627,7 @@
         "underlinePosition": -172,
         "underlineThickness": 24,
         "boundingBox": {
-          "yMin": -306,
+          "yMin": -296,
           "xMin": -318,
           "yMax": 1515,
           "xMax": 1618
@@ -19677,7 +19635,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Thin"
@@ -19686,13 +19644,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-Thin"
+            "en": "2.6;IBM ;IBMPlexSerif-Thin"
           },
           "fullName": {
             "en": "IBM Plex Serif Thin"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-Thin"
@@ -22114,7 +22072,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif ExtraLight"
@@ -22123,13 +22081,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-ExtraLight"
+            "en": "2.6;IBM ;IBMPlexSerif-ExtraLight"
           },
           "fullName": {
             "en": "IBM Plex Serif ExtraLight"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-ExtraLight"
@@ -24551,7 +24509,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Light"
@@ -24560,13 +24518,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-Light"
+            "en": "2.6;IBM ;IBMPlexSerif-Light"
           },
           "fullName": {
             "en": "IBM Plex Serif Light"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-Light"
@@ -26988,7 +26946,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif"
@@ -26997,16 +26955,16 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif"
+            "en": "2.6;IBM ;IBMPlexSerif-Regular"
           },
           "fullName": {
-            "en": "IBM Plex Serif"
+            "en": "IBM Plex Serif Regular"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
-            "en": "IBMPlexSerif"
+            "en": "IBMPlexSerif-Regular"
           },
           "licenseURL": {
             "en": "http://scripts.sil.org/OFL"
@@ -29425,7 +29383,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif Medium"
@@ -29434,13 +29392,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-Medium"
+            "en": "2.6;IBM ;IBMPlexSerif-Medium"
           },
           "fullName": {
             "en": "IBM Plex Serif Medium"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-Medium"
@@ -31862,7 +31820,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif SemiBold"
@@ -31871,13 +31829,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-SemiBold"
+            "en": "2.6;IBM ;IBMPlexSerif-SemiBold"
           },
           "fullName": {
             "en": "IBM Plex Serif SemiBold"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-SemiBold"
@@ -34299,7 +34257,7 @@
         "resolution": 1000,
         "original_font_information": {
           "copyright": {
-            "en": "Copyright 2018 IBM Corp. All rights reserved."
+            "en": "Copyright 2020 IBM Corp. All rights reserved."
           },
           "fontFamily": {
             "en": "IBM Plex Serif"
@@ -34308,13 +34266,13 @@
             "en": "Bold"
           },
           "uniqueID": {
-            "en": "2.5;IBM ;IBMPlexSerif-Bold"
+            "en": "2.6;IBM ;IBMPlexSerif-Bold"
           },
           "fullName": {
             "en": "IBM Plex Serif Bold"
           },
           "version": {
-            "en": "Version 2.5"
+            "en": "Version 2.6"
           },
           "postScriptName": {
             "en": "IBMPlexSerif-Bold"

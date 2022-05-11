@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,35 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Mate Italic'",
-          "'Mate-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3S.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjftRd7WZ6z-GWa3R&skey=2841edb4ac82bfc&v=v9#Mate",
-          "ttf": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3T.ttf",
-          "woff": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3W.woff2"
+          "eot": "https://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-GWa3S.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjftRd7WZ6z-GWa3R&skey=2841edb4ac82bfc&v=v14#Mate",
+          "ttf": "https://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-GWa3T.ttf",
+          "woff": "https://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-GWa3Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-GWa3W.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Mate-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Xw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JdjftRd7WZ6zq2XA&skey=3809b241213e7468&v=v9#Mate",
-          "ttf": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Xg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2XQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Ww.woff2"
+          "eot": "https://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ6zq2Xw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JdjftRd7WZ6zq2XA&skey=3809b241213e7468&v=v14#Mate",
+          "ttf": "https://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ6zq2Xg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ6zq2XQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ6zq2Ww.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "italic": {
       "400": {

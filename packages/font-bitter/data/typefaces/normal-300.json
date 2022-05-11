@@ -3223,10 +3223,10 @@
     "259": {
       "en": "Light"
     },
-    "277": {
+    "275": {
       "en": "Italic"
     },
-    "278": {
+    "276": {
       "en": "Roman"
     },
     "copyright": {
@@ -3239,13 +3239,13 @@
       "en": "Regular"
     },
     "uniqueID": {
-      "en": "2.001;NONE;BitterThin-Light"
+      "en": "2.002;NONE;BitterThin-Light"
     },
     "fullName": {
       "en": "Bitter Thin Light"
     },
     "version": {
-      "en": "Version 2.001"
+      "en": "Version 2.002"
     },
     "postScriptName": {
       "en": "BitterThin-Light"

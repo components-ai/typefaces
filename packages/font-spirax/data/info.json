@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Spirax-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buE3poKgYNLy0F3sWUFr&skey=6a7f94f6771f7790&v=v9#Spirax",
-          "ttf": "https://fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFp.ttf",
-          "woff": "https://fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFq.woff",
-          "woff2": "https://fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFs.woff2"
+          "eot": "https://fonts.gstatic.com/s/spirax/v21/buE3poKgYNLy0F3sWUFo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buE3poKgYNLy0F3sWUFr&skey=6a7f94f6771f7790&v=v21#Spirax",
+          "ttf": "https://fonts.gstatic.com/s/spirax/v21/buE3poKgYNLy0F3sWUFp.ttf",
+          "woff": "https://fonts.gstatic.com/s/spirax/v21/buE3poKgYNLy0F3sWUFq.woff",
+          "woff2": "https://fonts.gstatic.com/s/spirax/v21/buE3poKgYNLy0F3sWUFs.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

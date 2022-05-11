@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Russo One'",
-          "'RussoOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmN.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOwcmO&skey=5cda4fb5bcbd2a2c&v=v9#RussoOne",
-          "ttf": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmM.ttf",
-          "woff": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmP.woff",
-          "woff2": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2"
+          "eot": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOwcmN.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOwcmO&skey=5cda4fb5bcbd2a2c&v=v14#RussoOne",
+          "ttf": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOwcmM.ttf",
+          "woff": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOwcmP.woff",
+          "woff2": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

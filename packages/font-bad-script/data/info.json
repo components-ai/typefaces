@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "latin"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bad Script Regular'",
-          "'BadScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6NUT8F6PJgbFWQn47_x7pOskyw&skey=bab4df51e3e7f1cf&v=v9#BadScript",
-          "ttf": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyg.woff",
-          "woff2": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskzA.woff2"
+          "eot": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskyA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6NUT8F6PJgbFWQn47_x7pOskyw&skey=bab4df51e3e7f1cf&v=v16#BadScript",
+          "ttf": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskyg.woff",
+          "woff2": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskzA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

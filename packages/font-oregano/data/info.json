@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Oregano Italic'",
-          "'Oregano-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=If2KXTPxciS3H4S2oZXlMhHN&skey=c349953193d858e4&v=v8#Oregano",
-          "ttf": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHP.ttf",
-          "woff": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHM.woff",
-          "woff2": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlPBHK.woff2"
+          "eot": "https://fonts.gstatic.com/s/oregano/v13/If2KXTPxciS3H4S2oZXlMhHO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=If2KXTPxciS3H4S2oZXlMhHN&skey=c349953193d858e4&v=v13#Oregano",
+          "ttf": "https://fonts.gstatic.com/s/oregano/v13/If2KXTPxciS3H4S2oZXlMhHP.ttf",
+          "woff": "https://fonts.gstatic.com/s/oregano/v13/If2KXTPxciS3H4S2oZXlMhHM.woff",
+          "woff2": "https://fonts.gstatic.com/s/oregano/v13/If2KXTPxciS3H4S2oZXlPBHK.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Oregano'",
-          "'Oregano-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZ7VOQ&skey=dd6c9651a76f041a&v=v8#Oregano",
-          "ttf": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOw.ttf",
-          "woff": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOA.woff",
-          "woff2": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZDVPg.woff2"
+          "eot": "https://fonts.gstatic.com/s/oregano/v13/If2IXTPxciS3H4S2oZ7VOg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZ7VOQ&skey=dd6c9651a76f041a&v=v13#Oregano",
+          "ttf": "https://fonts.gstatic.com/s/oregano/v13/If2IXTPxciS3H4S2oZ7VOw.ttf",
+          "woff": "https://fonts.gstatic.com/s/oregano/v13/If2IXTPxciS3H4S2oZ7VOA.woff",
+          "woff2": "https://fonts.gstatic.com/s/oregano/v13/If2IXTPxciS3H4S2oZDVPg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "italic": {
       "400": {

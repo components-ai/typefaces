@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rozha One Regular'",
-          "'RozhaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRfH39.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVFtYP12Zncg2kRfH3-&skey=c32e4a53d412ff83&v=v8#RozhaOne",
-          "ttf": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRfH38.ttf",
-          "woff": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRfH3_.woff",
-          "woff2": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRcn35.woff2"
+          "eot": "https://fonts.gstatic.com/s/rozhaone/v13/AlZy_zVFtYP12Zncg2kRfH39.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVFtYP12Zncg2kRfH3-&skey=c32e4a53d412ff83&v=v13#RozhaOne",
+          "ttf": "https://fonts.gstatic.com/s/rozhaone/v13/AlZy_zVFtYP12Zncg2kRfH38.ttf",
+          "woff": "https://fonts.gstatic.com/s/rozhaone/v13/AlZy_zVFtYP12Zncg2kRfH3_.woff",
+          "woff2": "https://fonts.gstatic.com/s/rozhaone/v13/AlZy_zVFtYP12Zncg2kRcn35.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

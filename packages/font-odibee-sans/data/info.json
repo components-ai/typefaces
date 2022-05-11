@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Odibee Sans Regular'",
-          "'OdibeeSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/odibeesans/v2/neIPzCSooYAho6WvjeToRbk1cJQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIPzCSooYAho6WvjeToRbk1cJc&skey=16669c8a95815614&v=v2#OdibeeSans",
-          "ttf": "https://fonts.gstatic.com/s/odibeesans/v2/neIPzCSooYAho6WvjeToRbk1cJU.ttf",
-          "woff": "https://fonts.gstatic.com/s/odibeesans/v2/neIPzCSooYAho6WvjeToRbk1cJY.woff",
-          "woff2": "https://fonts.gstatic.com/s/odibeesans/v2/neIPzCSooYAho6WvjeToRbk1cJA.woff2"
+          "eot": "https://fonts.gstatic.com/s/odibeesans/v14/neIPzCSooYAho6WvjeToRbk1cJQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIPzCSooYAho6WvjeToRbk1cJc&skey=16669c8a95815614&v=v14#OdibeeSans",
+          "ttf": "https://fonts.gstatic.com/s/odibeesans/v14/neIPzCSooYAho6WvjeToRbk1cJU.ttf",
+          "woff": "https://fonts.gstatic.com/s/odibeesans/v14/neIPzCSooYAho6WvjeToRbk1cJY.woff",
+          "woff2": "https://fonts.gstatic.com/s/odibeesans/v14/neIPzCSooYAho6WvjeToRbk1cJA.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

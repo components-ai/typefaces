@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,73 +10,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Solway Light'",
-          "'Solway-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuLlgpnccW&skey=699ff1493c0cc76d&v=v3#Solway",
-          "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccU.ttf",
-          "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccX.woff",
-          "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccR.woff2"
+          "eot": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuLlgpnccV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuLlgpnccW&skey=699ff1493c0cc76d&v=v15#Solway",
+          "ttf": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuLlgpnccU.ttf",
+          "woff": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuLlgpnccX.woff",
+          "woff2": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuLlgpnccR.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Solway Regular'",
-          "'Solway-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOQz46Cs2uTAOCmhXo7&skey=9b82410785867af3&v=v3#Solway",
-          "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo5.ttf",
-          "woff": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo6.woff",
-          "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo8.woff2"
+          "eot": "https://fonts.gstatic.com/s/solway/v15/AMOQz46Cs2uTAOCmhXo4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOQz46Cs2uTAOCmhXo7&skey=9b82410785867af3&v=v15#Solway",
+          "ttf": "https://fonts.gstatic.com/s/solway/v15/AMOQz46Cs2uTAOCmhXo5.ttf",
+          "woff": "https://fonts.gstatic.com/s/solway/v15/AMOQz46Cs2uTAOCmhXo6.woff",
+          "woff2": "https://fonts.gstatic.com/s/solway/v15/AMOQz46Cs2uTAOCmhXo8.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Solway Medium'",
-          "'Solway-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCudlkpnccW&skey=4afff9406d2ebaaf&v=v3#Solway",
-          "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccU.ttf",
-          "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccX.woff",
-          "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccR.woff2"
+          "eot": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCudlkpnccV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCudlkpnccW&skey=4afff9406d2ebaaf&v=v15#Solway",
+          "ttf": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCudlkpnccU.ttf",
+          "woff": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCudlkpnccX.woff",
+          "woff2": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCudlkpnccR.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Solway Bold'",
-          "'Solway-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuPl8pnccW&skey=69a1c210b4b90aa3&v=v3#Solway",
-          "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccU.ttf",
-          "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccX.woff",
-          "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccR.woff2"
+          "eot": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuPl8pnccV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuPl8pnccW&skey=69a1c210b4b90aa3&v=v15#Solway",
+          "ttf": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuPl8pnccU.ttf",
+          "woff": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuPl8pnccX.woff",
+          "woff2": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuPl8pnccR.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Solway ExtraBold'",
-          "'Solway-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuIlwpnccW&skey=e07086c127243f5d&v=v3#Solway",
-          "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccU.ttf",
-          "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccX.woff",
-          "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccR.woff2"
+          "eot": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuIlwpnccV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuIlwpnccW&skey=e07086c127243f5d&v=v15#Solway",
+          "ttf": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuIlwpnccU.ttf",
+          "woff": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuIlwpnccX.woff",
+          "woff2": "https://fonts.gstatic.com/s/solway/v15/AMOTz46Cs2uTAOCuIlwpnccR.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "300": {

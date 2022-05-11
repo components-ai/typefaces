@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Copse'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFE0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=11hPGpDKz1rGb3dkFE4&skey=7baf73252a4811d6&v=v10#Copse",
-          "ttf": "https://fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFEw.ttf",
-          "woff": "https://fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFE8.woff",
-          "woff2": "https://fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFEk.woff2"
+          "eot": "https://fonts.gstatic.com/s/copse/v15/11hPGpDKz1rGb3dkFE0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=11hPGpDKz1rGb3dkFE4&skey=7baf73252a4811d6&v=v15#Copse",
+          "ttf": "https://fonts.gstatic.com/s/copse/v15/11hPGpDKz1rGb3dkFEw.ttf",
+          "woff": "https://fonts.gstatic.com/s/copse/v15/11hPGpDKz1rGb3dkFE8.woff",
+          "woff2": "https://fonts.gstatic.com/s/copse/v15/11hPGpDKz1rGb3dkFEk.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

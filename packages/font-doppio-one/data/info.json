@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Doppio One Regular'",
-          "'DoppioOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/doppioone/v8/Gg8wN5gSaBfyBw2MqCh-pgIrLQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Gg8wN5gSaBfyBw2MqCh-pgIrLg&skey=a75d92ab7a6e70f5&v=v8#DoppioOne",
-          "ttf": "https://fonts.gstatic.com/s/doppioone/v8/Gg8wN5gSaBfyBw2MqCh-pgIrLA.ttf",
-          "woff": "https://fonts.gstatic.com/s/doppioone/v8/Gg8wN5gSaBfyBw2MqCh-pgIrLw.woff",
-          "woff2": "https://fonts.gstatic.com/s/doppioone/v8/Gg8wN5gSaBfyBw2MqCh-pgwrKQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/doppioone/v13/Gg8wN5gSaBfyBw2MqCh-pgIrLQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Gg8wN5gSaBfyBw2MqCh-pgIrLg&skey=a75d92ab7a6e70f5&v=v13#DoppioOne",
+          "ttf": "https://fonts.gstatic.com/s/doppioone/v13/Gg8wN5gSaBfyBw2MqCh-pgIrLA.ttf",
+          "woff": "https://fonts.gstatic.com/s/doppioone/v13/Gg8wN5gSaBfyBw2MqCh-pgIrLw.woff",
+          "woff2": "https://fonts.gstatic.com/s/doppioone/v13/Gg8wN5gSaBfyBw2MqCh-pgwrKQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

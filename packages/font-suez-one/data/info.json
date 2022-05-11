@@ -1,34 +1,31 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "hebrew",
     "latin",
     "latin-ext"
   ],
   "unicodeRange": {
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
     "latin-ext": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Suez One'",
-          "'SuezOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFAmo8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=taiJGmd_EZ6rqscQgOFAmow&skey=a3d33a5913ab03db&v=v5#SuezOne",
-          "ttf": "https://fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFAmo4.ttf",
-          "woff": "https://fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFAmo0.woff",
-          "woff2": "https://fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFOmos.woff2"
+          "eot": "https://fonts.gstatic.com/s/suezone/v11/taiJGmd_EZ6rqscQgOFAmo8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=taiJGmd_EZ6rqscQgOFAmow&skey=a3d33a5913ab03db&v=v11#SuezOne",
+          "ttf": "https://fonts.gstatic.com/s/suezone/v11/taiJGmd_EZ6rqscQgOFAmo4.ttf",
+          "woff": "https://fonts.gstatic.com/s/suezone/v11/taiJGmd_EZ6rqscQgOFAmo0.woff",
+          "woff2": "https://fonts.gstatic.com/s/suezone/v11/taiJGmd_EZ6rqscQgOFOmos.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

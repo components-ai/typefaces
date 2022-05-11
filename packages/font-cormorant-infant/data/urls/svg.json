@@ -1,16 +1,16 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERT48e&skey=5a222cc4df1e5ad3&v=v10#CormorantInfant",
-    "400": "https://fonts.gstatic.com/l/font?kit=HhyJU44g9vKiM1sORYSiWeAsLN997_Il1RMD&skey=2e9662bb641ae17d&v=v10#CormorantInfant",
-    "500": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDART48e&skey=3a86116fb43424ce&v=v10#CormorantInfant",
-    "600": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRT48e&skey=57e45992617c5d88&v=v10#CormorantInfant",
-    "700": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRT48e&skey=b08a1c81931048ec&v=v10#CormorantInfant"
+    "300": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERT48e&skey=5a222cc4df1e5ad3&v=v16#CormorantInfant",
+    "400": "https://fonts.gstatic.com/l/font?kit=HhyJU44g9vKiM1sORYSiWeAsLN997_Il1RMD&skey=2e9662bb641ae17d&v=v16#CormorantInfant",
+    "500": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDART48e&skey=3a86116fb43424ce&v=v16#CormorantInfant",
+    "600": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRT48e&skey=57e45992617c5d88&v=v16#CormorantInfant",
+    "700": "https://fonts.gstatic.com/l/font?kit=HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRT48e&skey=b08a1c81931048ec&v=v16#CormorantInfant"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDohRA&skey=5f109f4d358767e3&v=v10#CormorantInfant",
-    "400": "https://fonts.gstatic.com/l/font?kit=HhyPU44g9vKiM1sORYSiWeAsLN997_kV3g&skey=191b710ab676f949&v=v10#CormorantInfant",
-    "500": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDohRA&skey=9c07b366853033e1&v=v10#CormorantInfant",
-    "600": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDohRA&skey=4daaa67c23ef9ea3&v=v10#CormorantInfant",
-    "700": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDohRA&skey=b80b86fd334527b0&v=v10#CormorantInfant"
+    "300": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDohRA&skey=5f109f4d358767e3&v=v16#CormorantInfant",
+    "400": "https://fonts.gstatic.com/l/font?kit=HhyPU44g9vKiM1sORYSiWeAsLN997_kV3g&skey=191b710ab676f949&v=v16#CormorantInfant",
+    "500": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDohRA&skey=9c07b366853033e1&v=v16#CormorantInfant",
+    "600": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDohRA&skey=4daaa67c23ef9ea3&v=v16#CormorantInfant",
+    "700": "https://fonts.gstatic.com/l/font?kit=HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDohRA&skey=b80b86fd334527b0&v=v16#CormorantInfant"
   }
 }

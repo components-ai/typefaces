@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Warnes'",
-          "'Warnes-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqz.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pONn1hc0GsW6sW5-ryqw&skey=86cbc7a7f35f6c3e&v=v10#Warnes",
-          "ttf": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqy.ttf",
-          "woff": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqx.woff",
-          "woff2": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-oSq3.woff2"
+          "eot": "https://fonts.gstatic.com/s/warnes/v22/pONn1hc0GsW6sW5-ryqz.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pONn1hc0GsW6sW5-ryqw&skey=86cbc7a7f35f6c3e&v=v22#Warnes",
+          "ttf": "https://fonts.gstatic.com/s/warnes/v22/pONn1hc0GsW6sW5-ryqy.ttf",
+          "woff": "https://fonts.gstatic.com/s/warnes/v22/pONn1hc0GsW6sW5-ryqx.woff",
+          "woff2": "https://fonts.gstatic.com/s/warnes/v22/pONn1hc0GsW6sW5-oSq3.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

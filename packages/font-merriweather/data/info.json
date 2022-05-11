@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,114 +18,90 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Merriweather Light Italic'",
-          "'Merriweather-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvs&skey=2127cbbec4112664&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvk.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvo.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvw.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvs&skey=2127cbbec4112664&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvk.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvo.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvw.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Merriweather Italic'",
-          "'Merriweather-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4m0qyriQwlOrhSvowK_l5-eRZAf-Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4m0qyriQwlOrhSvowK_l5-eRZAf-U&skey=899922b35e8afa66&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4m0qyriQwlOrhSvowK_l5-eRZAf-c.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4m0qyriQwlOrhSvowK_l5-eRZAf-Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4m0qyriQwlOrhSvowK_l5-eRZOf-I.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZAf-Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4m0qyriQwlOrhSvowK_l5-eRZAf-U&skey=899922b35e8afa66&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZAf-c.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZAf-Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-I.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Merriweather Bold Italic'",
-          "'Merriweather-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvs&skey=a01d7ebb04b59d3d&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvk.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvo.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvw.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvs&skey=a01d7ebb04b59d3d&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvk.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvo.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvw.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Merriweather Black Italic'",
-          "'Merriweather-BlackItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvs&skey=6fbe01ac2b2dd35b&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvk.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvo.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvw.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvs&skey=6fbe01ac2b2dd35b&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvk.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvo.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvw.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Merriweather Light'",
-          "'Merriweather-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l521wRZVsf-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l521wRZVsf9&skey=c2b76fd8ebf2629b&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l521wRZVsf_.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l521wRZVsf8.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZVsf-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l521wRZVsf9&skey=c2b76fd8ebf2629b&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZVsf_.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZVsf8.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Merriweather Regular'",
-          "'Merriweather-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-ciZI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-440qyriQwlOrhSvowK_l5-ciZL&skey=379c1eccf863c625&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-ciZJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-ciZK.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-fCZM.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-ciZI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-440qyriQwlOrhSvowK_l5-ciZL&skey=379c1eccf863c625&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-ciZJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-ciZK.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Merriweather Bold'",
-          "'Merriweather-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZVsf-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52xwNZVsf9&skey=76f88370d7055e09&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZVsf_.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZVsf8.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZVsf-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52xwNZVsf9&skey=76f88370d7055e09&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZVsf_.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZVsf8.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Merriweather Black'",
-          "'Merriweather-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52_wFZVsf-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52_wFZVsf9&skey=879600b205c1760&v=v22#Merriweather",
-          "ttf": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52_wFZVsf_.ttf",
-          "woff": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52_wFZVsf8.woff",
-          "woff2": "https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52_wFZWMf6.woff2"
+          "eot": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZVsf-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0qyriQwlOrhSvowK_l52_wFZVsf9&skey=879600b205c1760&v=v30#Merriweather",
+          "ttf": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZVsf_.ttf",
+          "woff": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZVsf8.woff",
+          "woff2": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf6.woff2"
         }
       }
     }
   },
-  "version": "v22",
+  "version": "v30",
   "typefaces": {
     "italic": {
       "300": {

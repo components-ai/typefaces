@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sue Ellen Francisco '",
-          "'SueEllenFrancisco'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3A&skey=979fc875265e243a&v=v11#SueEllenFrancisco",
-          "ttf": "https://fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3g.ttf",
-          "woff": "https://fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P2w.woff2"
+          "eot": "https://fonts.gstatic.com/s/sueellenfrancisco/v16/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3A&skey=979fc875265e243a&v=v16#SueEllenFrancisco",
+          "ttf": "https://fonts.gstatic.com/s/sueellenfrancisco/v16/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3g.ttf",
+          "woff": "https://fonts.gstatic.com/s/sueellenfrancisco/v16/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/sueellenfrancisco/v16/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P2w.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

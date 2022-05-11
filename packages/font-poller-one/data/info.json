@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Poller One'",
-          "'PollerOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5RhA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ahccv82n0TN3gia5E4BuR-5Rhw&skey=162ae295d5a6092f&v=v10#PollerOne",
-          "ttf": "https://fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5RhQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5Rhg.woff",
-          "woff2": "https://fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5RgA.woff2"
+          "eot": "https://fonts.gstatic.com/s/pollerone/v19/ahccv82n0TN3gia5E4BuR-5RhA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ahccv82n0TN3gia5E4BuR-5Rhw&skey=162ae295d5a6092f&v=v19#PollerOne",
+          "ttf": "https://fonts.gstatic.com/s/pollerone/v19/ahccv82n0TN3gia5E4BuR-5RhQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/pollerone/v19/ahccv82n0TN3gia5E4BuR-5Rhg.woff",
+          "woff2": "https://fonts.gstatic.com/s/pollerone/v19/ahccv82n0TN3gia5E4BuR-5RgA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

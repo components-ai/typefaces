@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Stint Ultra Expanded'",
-          "'StintUltraExpanded-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzI&skey=52d609829581e7a9&v=v8#StintUltraExpanded",
-          "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzA.ttf",
-          "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzM.woff",
-          "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2"
+          "eot": "https://fonts.gstatic.com/s/stintultraexpanded/v20/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzI&skey=52d609829581e7a9&v=v20#StintUltraExpanded",
+          "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v20/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzA.ttf",
+          "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v20/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzM.woff",
+          "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v20/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

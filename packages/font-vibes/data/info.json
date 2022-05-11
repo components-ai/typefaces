@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-08-24",
+  "lastModified": "2022-04-27",
   "subsets": [
     "arabic",
     "latin"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vibes Regular'",
-          "'Vibes-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QdVYSTsmIB6tmYdwFJA&skey=4912d45c76bf9864&v=v3#Vibes",
-          "ttf": "https://fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJI.ttf",
-          "woff": "https://fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJE.woff",
-          "woff2": "https://fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJc.woff2"
+          "eot": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYdwFJM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QdVYSTsmIB6tmYdwFJA&skey=4912d45c76bf9864&v=v14#Vibes",
+          "ttf": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYdwFJI.ttf",
+          "woff": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYdwFJE.woff",
+          "woff2": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYdwFJc.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

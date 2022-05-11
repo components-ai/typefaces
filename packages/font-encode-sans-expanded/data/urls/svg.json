@@ -1,13 +1,13 @@
 {
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=c4mx1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpJGGQpodA&skey=f2397b998d80d86f&v=v5#EncodeSansExpanded",
-    "200": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLqCBNBVoo&skey=1dc2e694c92340ec&v=v5#EncodeSansExpanded",
-    "300": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKOCxNBVoo&skey=bc2e342d33b0726f&v=v5#EncodeSansExpanded",
-    "400": "https://fonts.gstatic.com/l/font?kit=c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUporKQE&skey=268644c845c7c420&v=v5#EncodeSansExpanded",
-    "500": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLWChNBVoo&skey=307b8a85c9990850&v=v5#EncodeSansExpanded",
-    "600": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpL6DRNBVoo&skey=20abd694f3cb9946&v=v5#EncodeSansExpanded",
-    "700": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKeDBNBVoo&skey=39725db681433b77&v=v5#EncodeSansExpanded",
-    "800": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKCDxNBVoo&skey=cd002979eca68c8c&v=v5#EncodeSansExpanded",
-    "900": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKmDhNBVoo&skey=e223aeb8ad7c4ad&v=v5#EncodeSansExpanded"
+    "100": "https://fonts.gstatic.com/l/font?kit=c4mx1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpJGGQpodA&skey=f2397b998d80d86f&v=v10#EncodeSansExpanded",
+    "200": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLqCBNBVoo&skey=1dc2e694c92340ec&v=v10#EncodeSansExpanded",
+    "300": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKOCxNBVoo&skey=bc2e342d33b0726f&v=v10#EncodeSansExpanded",
+    "400": "https://fonts.gstatic.com/l/font?kit=c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUporKQE&skey=268644c845c7c420&v=v10#EncodeSansExpanded",
+    "500": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLWChNBVoo&skey=307b8a85c9990850&v=v10#EncodeSansExpanded",
+    "600": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpL6DRNBVoo&skey=20abd694f3cb9946&v=v10#EncodeSansExpanded",
+    "700": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKeDBNBVoo&skey=39725db681433b77&v=v10#EncodeSansExpanded",
+    "800": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKCDxNBVoo&skey=cd002979eca68c8c&v=v10#EncodeSansExpanded",
+    "900": "https://fonts.gstatic.com/l/font?kit=c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKmDhNBVoo&skey=e223aeb8ad7c4ad&v=v10#EncodeSansExpanded"
   }
 }

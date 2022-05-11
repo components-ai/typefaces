@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL French Canon SC'",
-          "'IM_FELL_French_Canon_SC'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhY&skey=7645169d46c73af7&v=v10#IMFellFrenchCanonSC",
-          "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhc.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhE.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v22/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhY&skey=7645169d46c73af7&v=v22#IMFellFrenchCanonSC",
+          "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v22/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v22/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhc.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v22/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhE.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

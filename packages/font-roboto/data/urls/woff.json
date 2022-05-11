@@ -1,18 +1,18 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz4dKQ.woff",
-    "300": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc0CsI.woff",
-    "400": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xGIzQ.woff",
-    "500": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc0CsI.woff",
-    "700": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic0CsI.woff",
-    "900": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc0CsI.woff"
+    "100": "https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEz4dKQ.woff",
+    "300": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc0CsI.woff",
+    "400": "https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xGIzQ.woff",
+    "500": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc0CsI.woff",
+    "700": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic0CsI.woff",
+    "900": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc0CsI.woff"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxGIzQ.woff",
-    "300": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc-.woff",
-    "400": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxM.woff",
-    "500": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc-.woff",
-    "700": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc-.woff",
-    "900": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfChc-.woff"
+    "100": "https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxGIzQ.woff",
+    "300": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fChc-.woff",
+    "400": "https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7GxM.woff",
+    "500": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fChc-.woff",
+    "700": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfChc-.woff",
+    "900": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfChc-.woff"
   }
 }

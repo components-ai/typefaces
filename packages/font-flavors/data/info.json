@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Flavors Regular'",
-          "'Flavors-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkXvMw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkXvMA&skey=21678b8931efff73&v=v10#Flavors",
-          "ttf": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkXvMg.ttf",
-          "woff": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkXvMQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvNw.woff2"
+          "eot": "https://fonts.gstatic.com/s/flavors/v22/FBV2dDrhxqmveJTpXkXvMw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkXvMA&skey=21678b8931efff73&v=v22#Flavors",
+          "ttf": "https://fonts.gstatic.com/s/flavors/v22/FBV2dDrhxqmveJTpXkXvMg.ttf",
+          "woff": "https://fonts.gstatic.com/s/flavors/v22/FBV2dDrhxqmveJTpXkXvMQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/flavors/v22/FBV2dDrhxqmveJTpXkvvNw.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lemon Regular'",
-          "'Lemon-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HI_EiYEVKqRMq3jGQ5M&skey=5c2dd175e2a15bb6&v=v9#Lemon",
-          "ttf": "https://fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5E.ttf",
-          "woff": "https://fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5I.woff",
-          "woff2": "https://fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/lemon/v14/HI_EiYEVKqRMq3jGQ5A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HI_EiYEVKqRMq3jGQ5M&skey=5c2dd175e2a15bb6&v=v14#Lemon",
+          "ttf": "https://fonts.gstatic.com/s/lemon/v14/HI_EiYEVKqRMq3jGQ5E.ttf",
+          "woff": "https://fonts.gstatic.com/s/lemon/v14/HI_EiYEVKqRMq3jGQ5I.woff",
+          "woff2": "https://fonts.gstatic.com/s/lemon/v14/HI_EiYEVKqRMq3jGQ5Q.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

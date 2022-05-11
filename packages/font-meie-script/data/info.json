@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Meie Script'",
-          "'MeieScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxu7oA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_LOImzDK7erRjhunIspaMgxu7oM&skey=297719404a9b8887&v=v8#MeieScript",
-          "ttf": "https://fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxu7oE.ttf",
-          "woff": "https://fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxu7oI.woff",
-          "woff2": "https://fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxg7oQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxu7oA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_LOImzDK7erRjhunIspaMgxu7oM&skey=297719404a9b8887&v=v21#MeieScript",
+          "ttf": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxu7oE.ttf",
+          "woff": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxu7oI.woff",
+          "woff2": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxg7oQ.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

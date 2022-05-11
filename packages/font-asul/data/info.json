@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Asul Regular'",
-          "'Asul-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPWQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ-dNjKxYr42fQPWg&skey=6f7d33b53db17df6&v=v10#Asul",
-          "ttf": "https://fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPWA.ttf",
-          "woff": "https://fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPWw.woff",
-          "woff2": "https://fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPXQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/asul/v19/VuJ-dNjKxYr42fQPWQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ-dNjKxYr42fQPWg&skey=6f7d33b53db17df6&v=v19#Asul",
+          "ttf": "https://fonts.gstatic.com/s/asul/v19/VuJ-dNjKxYr42fQPWA.ttf",
+          "woff": "https://fonts.gstatic.com/s/asul/v19/VuJ-dNjKxYr42fQPWw.woff",
+          "woff2": "https://fonts.gstatic.com/s/asul/v19/VuJ-dNjKxYr42fQPXQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Asul Bold'",
-          "'Asul-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdPQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNjKxYr40U8qSKHdPg&skey=349ae3cc10487adc&v=v10#Asul",
-          "ttf": "https://fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdPA.ttf",
-          "woff": "https://fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdPw.woff",
-          "woff2": "https://fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdOQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/asul/v19/VuJxdNjKxYr40U8qSKHdPQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNjKxYr40U8qSKHdPg&skey=349ae3cc10487adc&v=v19#Asul",
+          "ttf": "https://fonts.gstatic.com/s/asul/v19/VuJxdNjKxYr40U8qSKHdPA.ttf",
+          "woff": "https://fonts.gstatic.com/s/asul/v19/VuJxdNjKxYr40U8qSKHdPw.woff",
+          "woff2": "https://fonts.gstatic.com/s/asul/v19/VuJxdNjKxYr40U8qSKHdOQ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

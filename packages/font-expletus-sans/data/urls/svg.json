@@ -1,14 +1,14 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=RLpnK5v5_bqufTYdnhFzDj2ddfsouIkt&skey=d5ae864298e8569a&v=v14#ExpletusSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vL&skey=9ad64cdf57f1f1c5&v=v14#ExpletusSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vL&skey=a77bcd933cd47c0c&v=v14#ExpletusSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vL&skey=9087fec68755ac7b&v=v14#ExpletusSans"
+    "400": "https://fonts.gstatic.com/l/font?kit=RLpoK5v5_bqufTYdnhFzDj2ddfsCtKHbhOZyCrFQmSUrLwn0Xg&skey=d5ae864298e8569a&v=v22#ExpletusSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=RLpoK5v5_bqufTYdnhFzDj2ddfsCtKHbhOZyCrFQmRcrLwn0Xg&skey=d5ae864298e8569a&v=v22#ExpletusSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=RLpoK5v5_bqufTYdnhFzDj2ddfsCtKHbhOZyCrFQmfssLwn0Xg&skey=d5ae864298e8569a&v=v22#ExpletusSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=RLpoK5v5_bqufTYdnhFzDj2ddfsCtKHbhOZyCrFQmcIsLwn0Xg&skey=d5ae864298e8569a&v=v22#ExpletusSans"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=RLp5K5v5_bqufTYdnhFzDj2ddf4YvQ&skey=543c118cee2614c3&v=v14#ExpletusSans",
-    "500": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVg&skey=f593aff44da560da&v=v14#ExpletusSans",
-    "600": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVg&skey=d5a36fc4a374b26b&v=v14#ExpletusSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVg&skey=b82fb81e32c901d9&v=v14#ExpletusSans"
+    "400": "https://fonts.gstatic.com/l/font?kit=RLpqK5v5_bqufTYdnhFzDj2dX_IwS3my73zcDaSY2v1hHwI&skey=543c118cee2614c3&v=v22#ExpletusSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=RLpqK5v5_bqufTYdnhFzDj2dX_IwS3my73zcDaSq2v1hHwI&skey=543c118cee2614c3&v=v22#ExpletusSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=RLpqK5v5_bqufTYdnhFzDj2dX_IwS3my73zcDaRG3f1hHwI&skey=543c118cee2614c3&v=v22#ExpletusSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=RLpqK5v5_bqufTYdnhFzDj2dX_IwS3my73zcDaR_3f1hHwI&skey=543c118cee2614c3&v=v22#ExpletusSans"
   }
 }

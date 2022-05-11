@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lustria'",
-          "'Lustria-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zNw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYodvDEyjuhOnC8zNA&skey=96618de0c5a22579&v=v8#Lustria",
-          "ttf": "https://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zNg.ttf",
-          "woff": "https://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/lustria/v13/9oRONYodvDEyjuhOnC8zNw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYodvDEyjuhOnC8zNA&skey=96618de0c5a22579&v=v13#Lustria",
+          "ttf": "https://fonts.gstatic.com/s/lustria/v13/9oRONYodvDEyjuhOnC8zNg.ttf",
+          "woff": "https://fonts.gstatic.com/s/lustria/v13/9oRONYodvDEyjuhOnC8zNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lustria/v13/9oRONYodvDEyjuhOnC8zMw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

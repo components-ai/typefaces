@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kotta One'",
-          "'KottaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kottaone/v8/S6u_w41LXzPc_jlfNWq_FQfp.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=S6u_w41LXzPc_jlfNWq_FQfq&skey=4bd1f31c7ad64301&v=v8#KottaOne",
-          "ttf": "https://fonts.gstatic.com/s/kottaone/v8/S6u_w41LXzPc_jlfNWq_FQfo.ttf",
-          "woff": "https://fonts.gstatic.com/s/kottaone/v8/S6u_w41LXzPc_jlfNWq_FQfr.woff",
-          "woff2": "https://fonts.gstatic.com/s/kottaone/v8/S6u_w41LXzPc_jlfNWq_Gwft.woff2"
+          "eot": "https://fonts.gstatic.com/s/kottaone/v20/S6u_w41LXzPc_jlfNWq_FQfp.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=S6u_w41LXzPc_jlfNWq_FQfq&skey=4bd1f31c7ad64301&v=v20#KottaOne",
+          "ttf": "https://fonts.gstatic.com/s/kottaone/v20/S6u_w41LXzPc_jlfNWq_FQfo.ttf",
+          "woff": "https://fonts.gstatic.com/s/kottaone/v20/S6u_w41LXzPc_jlfNWq_FQfr.woff",
+          "woff2": "https://fonts.gstatic.com/s/kottaone/v20/S6u_w41LXzPc_jlfNWq_Gwft.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

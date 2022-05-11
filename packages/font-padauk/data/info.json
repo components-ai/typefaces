@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "myanmar"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "''",
-          "'Padauk-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXl.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQRboJg-id7OnbxbEXm&skey=432b8f321c2c2942&v=v6#Padauk",
-          "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXk.ttf",
-          "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXn.woff",
-          "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXh.woff2"
+          "eot": "https://fonts.gstatic.com/s/padauk/v13/RrQRboJg-id7OnbxbEXl.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQRboJg-id7OnbxbEXm&skey=432b8f321c2c2942&v=v13#Padauk",
+          "ttf": "https://fonts.gstatic.com/s/padauk/v13/RrQRboJg-id7OnbxbEXk.ttf",
+          "woff": "https://fonts.gstatic.com/s/padauk/v13/RrQRboJg-id7OnbxbEXn.woff",
+          "woff2": "https://fonts.gstatic.com/s/padauk/v13/RrQRboJg-id7OnbxbEXh.woff2"
         }
       },
       "700": {
-        "local": [
-          "' '",
-          "'Padauk-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RrQSboJg-id7Onb512D005hC&skey=87ced0acc31e145d&v=v6#Padauk",
-          "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hA.ttf",
-          "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hD.woff",
-          "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hF.woff2"
+          "eot": "https://fonts.gstatic.com/s/padauk/v13/RrQSboJg-id7Onb512D005hB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RrQSboJg-id7Onb512D005hC&skey=87ced0acc31e145d&v=v13#Padauk",
+          "ttf": "https://fonts.gstatic.com/s/padauk/v13/RrQSboJg-id7Onb512D005hA.ttf",
+          "woff": "https://fonts.gstatic.com/s/padauk/v13/RrQSboJg-id7Onb512D005hD.woff",
+          "woff2": "https://fonts.gstatic.com/s/padauk/v13/RrQSboJg-id7Onb512D005hF.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {
@@ -694,10 +688,10 @@
             "en": "SILPadauk:2016-06-07"
           },
           "fullName": {
-            "en": "Padauk"
+            "en": "Padauk Regular"
           },
           "version": {
-            "en": "Version 3.002"
+            "en": "Version 3.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D mymr -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Padauk-Regular"
@@ -1370,7 +1364,7 @@
             "en": "Padauk Bold"
           },
           "version": {
-            "en": "Version 3.002"
+            "en": "Version 3.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D mymr -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Padauk-Bold"

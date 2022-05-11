@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Emblema One'",
-          "'EmblemaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRIFFs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=nKKT-GQ0F5dSY8vzG0rOELRIFFg&skey=3ab2041ef8263932&v=v9#EmblemaOne",
-          "ttf": "https://fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRIFFo.ttf",
-          "woff": "https://fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRIFFk.woff",
-          "woff2": "https://fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRGFF8.woff2"
+          "eot": "https://fonts.gstatic.com/s/emblemaone/v21/nKKT-GQ0F5dSY8vzG0rOELRIFFs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=nKKT-GQ0F5dSY8vzG0rOELRIFFg&skey=3ab2041ef8263932&v=v21#EmblemaOne",
+          "ttf": "https://fonts.gstatic.com/s/emblemaone/v21/nKKT-GQ0F5dSY8vzG0rOELRIFFo.ttf",
+          "woff": "https://fonts.gstatic.com/s/emblemaone/v21/nKKT-GQ0F5dSY8vzG0rOELRIFFk.woff",
+          "woff2": "https://fonts.gstatic.com/s/emblemaone/v21/nKKT-GQ0F5dSY8vzG0rOELRGFF8.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

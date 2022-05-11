@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sail'",
-          "'Sail-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DPEjYwiBxwYJJB3JBg&skey=8b8d2acf792d1a65&v=v11#Sail",
-          "ttf": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBA.ttf",
-          "woff": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBw.woff",
-          "woff2": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJBPJAQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/sail/v16/DPEjYwiBxwYJJB3JBQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DPEjYwiBxwYJJB3JBg&skey=8b8d2acf792d1a65&v=v16#Sail",
+          "ttf": "https://fonts.gstatic.com/s/sail/v16/DPEjYwiBxwYJJB3JBA.ttf",
+          "woff": "https://fonts.gstatic.com/s/sail/v16/DPEjYwiBxwYJJB3JBw.woff",
+          "woff2": "https://fonts.gstatic.com/s/sail/v16/DPEjYwiBxwYJJBPJAQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

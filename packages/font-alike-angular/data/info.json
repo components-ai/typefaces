@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Alike Angular Regular'",
-          "'AlikeAngular-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwaQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3qTrojWunjGQtEBlIcwMbSoI7kQwag&skey=bd21f13e6cde9ea2&v=v11#AlikeAngular",
-          "ttf": "https://fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwaA.ttf",
-          "woff": "https://fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwaw.woff",
-          "woff2": "https://fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwbQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/alikeangular/v20/3qTrojWunjGQtEBlIcwMbSoI7kQwaQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3qTrojWunjGQtEBlIcwMbSoI7kQwag&skey=bd21f13e6cde9ea2&v=v20#AlikeAngular",
+          "ttf": "https://fonts.gstatic.com/s/alikeangular/v20/3qTrojWunjGQtEBlIcwMbSoI7kQwaA.ttf",
+          "woff": "https://fonts.gstatic.com/s/alikeangular/v20/3qTrojWunjGQtEBlIcwMbSoI7kQwaw.woff",
+          "woff2": "https://fonts.gstatic.com/s/alikeangular/v20/3qTrojWunjGQtEBlIcwMbSoI7kQwbQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

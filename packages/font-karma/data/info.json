@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Karma Light'",
-          "'Karma-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z2sKk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjDY_Z2sKo&skey=301d02d70f3f6693&v=v11#Karma",
-          "ttf": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z2sKg.ttf",
-          "woff": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z2sKs.woff",
-          "woff2": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z4sK0.woff2"
+          "eot": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjDY_Z2sKk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjDY_Z2sKo&skey=301d02d70f3f6693&v=v16#Karma",
+          "ttf": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjDY_Z2sKg.ttf",
+          "woff": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjDY_Z2sKs.woff",
+          "woff2": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjDY_Z4sK0.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Karma Regular'",
-          "'Karma-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBmQec.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzAzMZRGLBmQeQ&skey=96e02c8687f4e117&v=v11#Karma",
-          "ttf": "https://fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBmQeY.ttf",
-          "woff": "https://fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBmQeU.woff",
-          "woff2": "https://fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBoQeM.woff2"
+          "eot": "https://fonts.gstatic.com/s/karma/v16/va9I4kzAzMZRGLBmQec.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzAzMZRGLBmQeQ&skey=96e02c8687f4e117&v=v16#Karma",
+          "ttf": "https://fonts.gstatic.com/s/karma/v16/va9I4kzAzMZRGLBmQeY.ttf",
+          "woff": "https://fonts.gstatic.com/s/karma/v16/va9I4kzAzMZRGLBmQeU.woff",
+          "woff2": "https://fonts.gstatic.com/s/karma/v16/va9I4kzAzMZRGLBoQeM.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Karma Medium'",
-          "'Karma-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ2sKk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLibYvZ2sKo&skey=6d66610cba92ba2d&v=v11#Karma",
-          "ttf": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ2sKg.ttf",
-          "woff": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ2sKs.woff",
-          "woff2": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ4sK0.woff2"
+          "eot": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLibYvZ2sKk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLibYvZ2sKo&skey=6d66610cba92ba2d&v=v16#Karma",
+          "ttf": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLibYvZ2sKg.ttf",
+          "woff": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLibYvZ2sKs.woff",
+          "woff2": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLibYvZ4sK0.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Karma SemiBold'",
-          "'Karma-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ2sKk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLi3ZfZ2sKo&skey=7f473d7381c31a0&v=v11#Karma",
-          "ttf": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ2sKg.ttf",
-          "woff": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ2sKs.woff",
-          "woff2": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ4sK0.woff2"
+          "eot": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLi3ZfZ2sKk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLi3ZfZ2sKo&skey=7f473d7381c31a0&v=v16#Karma",
+          "ttf": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLi3ZfZ2sKg.ttf",
+          "woff": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLi3ZfZ2sKs.woff",
+          "woff2": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLi3ZfZ4sK0.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Karma Bold'",
-          "'Karma-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ2sKk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjTZPZ2sKo&skey=3ea0640c64504210&v=v11#Karma",
-          "ttf": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ2sKg.ttf",
-          "woff": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ2sKs.woff",
-          "woff2": "https://fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ4sK0.woff2"
+          "eot": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjTZPZ2sKk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjTZPZ2sKo&skey=3ea0640c64504210&v=v16#Karma",
+          "ttf": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjTZPZ2sKg.ttf",
+          "woff": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjTZPZ2sKs.woff",
+          "woff2": "https://fonts.gstatic.com/s/karma/v16/va9F4kzAzMZRGLjTZPZ4sK0.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "300": {

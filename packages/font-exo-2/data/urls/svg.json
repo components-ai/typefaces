@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fOCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "200": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0feCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "300": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfeCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "400": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0feCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "500": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfeCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "600": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqeuCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "700": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTeuCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "800": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0euCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2",
-    "900": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdeuCzhpg&skey=5ebaaa86d2ddd87&v=v9#Exo2"
+    "100": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fOCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "200": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0feCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "300": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfeCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0feCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfeCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqeuCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTeuCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "800": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0euCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2",
+    "900": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdeuCzhpg&skey=5ebaaa86d2ddd87&v=v19#Exo2"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "200": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "300": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "400": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "500": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "600": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "700": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "800": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2",
-    "900": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WsN9C4&skey=1b9a3dc5c6de9cce&v=v9#Exo2"
+    "100": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "200": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "300": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "400": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "500": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "600": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "700": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "800": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2",
+    "900": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WsN9C4&skey=1b9a3dc5c6de9cce&v=v19#Exo2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-01-30",
+  "lastModified": "2022-05-10",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -107,99 +107,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Noto Serif SC ExtraLight'",
-          "'NotoSerifSC-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFA&skey=ed1d703a47426543&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFA&skey=ed1d703a47426543&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mm63SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Noto Serif SC Light'",
-          "'NotoSerifSC-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFA&skey=5ac3311bdc44bf05&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFA&skey=5ac3311bdc44bf05&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Noto Serif SC'",
-          "'NotoSerifSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7kqGWag.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4chBXePl9DZ0Xe7gG9cyOj7kqGWaQ&skey=37fe335b8fd815cc&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7kqGWbQ.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7kqGWaA.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7oqP0dTpxZbB9E9gjjmzKvaeKHUTtJDWv3z-us4bxD8F5og.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4chBXePl9DZ0Xe7gG9cyOj7kqGWag.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4chBXePl9DZ0Xe7gG9cyOj7kqGWaQ&skey=37fe335b8fd815cc&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4chBXePl9DZ0Xe7gG9cyOj7kqGWbQ.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4chBXePl9DZ0Xe7gG9cyOj7kqGWaA.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4chBXePl9DZ0Xe7gG9cyOj7oqP0dTpxZbB9E9gjjmzKvaeKHUTtJDWv3z-us4bxD8F5og.119.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Noto Serif SC Medium'",
-          "'NotoSerifSC-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFA&skey=87bb14d8b216d1de&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFA&skey=87bb14d8b216d1de&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Noto Serif SC SemiBold'",
-          "'NotoSerifSC-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFA&skey=f6b5c3e144565643&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6ySzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFA&skey=f6b5c3e144565643&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6ySzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Noto Serif SC Bold'",
-          "'NotoSerifSC-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFA&skey=7cc3e195f647f266&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFA&skey=7cc3e195f647f266&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Noto Serif SC Black'",
-          "'NotoSerifSC-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFA&skey=eae19a675dacf32a&v=v7#NotoSerifSC",
-          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLEA.otf",
-          "woff": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFA&skey=eae19a675dacf32a&v=v22#NotoSerifSC",
+          "ttf": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLEA.otf",
+          "woff": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "200": {

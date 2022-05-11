@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "korean",
     "latin"
@@ -96,21 +96,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jua Regular'",
-          "'Jua-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATdOrc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=co3KmW9ljjATdOrf&skey=95a5f5d34191ae20&v=v8#Jua",
-          "ttf": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATdOrd.ttf",
-          "woff": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATdOre.woff",
-          "woff2": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjAjdojPCM3T3NGswha8jSmuzy4jzT-N.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/jua/v13/co3KmW9ljjATdOrc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=co3KmW9ljjATdOrf&skey=95a5f5d34191ae20&v=v13#Jua",
+          "ttf": "https://fonts.gstatic.com/s/jua/v13/co3KmW9ljjATdOrd.ttf",
+          "woff": "https://fonts.gstatic.com/s/jua/v13/co3KmW9ljjATdOre.woff",
+          "woff2": "https://fonts.gstatic.com/s/jua/v13/co3KmW9ljjAjdojPCM3T3NGswha8jSmuzy4jzT-N.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

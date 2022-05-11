@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Suranna'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokuH6ztGkFjWe58hBNTSQ&skey=a531c6ebfddfa1a3&v=v8#Suranna",
-          "ttf": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSw.ttf",
-          "woff": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSA.woff",
-          "woff2": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTTg.woff2"
+          "eot": "https://fonts.gstatic.com/s/suranna/v13/gokuH6ztGkFjWe58hBNTSg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokuH6ztGkFjWe58hBNTSQ&skey=a531c6ebfddfa1a3&v=v13#Suranna",
+          "ttf": "https://fonts.gstatic.com/s/suranna/v13/gokuH6ztGkFjWe58hBNTSw.ttf",
+          "woff": "https://fonts.gstatic.com/s/suranna/v13/gokuH6ztGkFjWe58hBNTSA.woff",
+          "woff2": "https://fonts.gstatic.com/s/suranna/v13/gokuH6ztGkFjWe58hBNTTg.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Quattrocento'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3zWj-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpEg_xvsDZQL_LKIF7q4jP3zWj9&skey=b064ec65918f184&v=v12#Quattrocento",
-          "ttf": "https://fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3zWj_.ttf",
-          "woff": "https://fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3zWj8.woff",
-          "woff2": "https://fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2"
+          "eot": "https://fonts.gstatic.com/s/quattrocento/v17/OZpEg_xvsDZQL_LKIF7q4jP3zWj-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpEg_xvsDZQL_LKIF7q4jP3zWj9&skey=b064ec65918f184&v=v17#Quattrocento",
+          "ttf": "https://fonts.gstatic.com/s/quattrocento/v17/OZpEg_xvsDZQL_LKIF7q4jP3zWj_.ttf",
+          "woff": "https://fonts.gstatic.com/s/quattrocento/v17/OZpEg_xvsDZQL_LKIF7q4jP3zWj8.woff",
+          "woff2": "https://fonts.gstatic.com/s/quattrocento/v17/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Quattrocento Bold'",
-          "'Quattrocento-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnf&skey=c1bc25b9907ab4a8&v=v12#Quattrocento",
-          "ttf": "https://fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnd.ttf",
-          "woff": "https://fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqne.woff",
-          "woff2": "https://fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnY.woff2"
+          "eot": "https://fonts.gstatic.com/s/quattrocento/v17/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnf&skey=c1bc25b9907ab4a8&v=v17#Quattrocento",
+          "ttf": "https://fonts.gstatic.com/s/quattrocento/v17/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnd.ttf",
+          "woff": "https://fonts.gstatic.com/s/quattrocento/v17/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqne.woff",
+          "woff2": "https://fonts.gstatic.com/s/quattrocento/v17/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnY.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,49 +14,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Judson Italic'",
-          "'Judson-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl5_bU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDYl5_bY&skey=d937ef2f415e3371&v=v13#Judson",
-          "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl5_bQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl5_bc.woff",
-          "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl3_bE.woff2"
+          "eot": "https://fonts.gstatic.com/s/judson/v18/FeVTS0Fbvbc14VxhDYl5_bU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDYl5_bY&skey=d937ef2f415e3371&v=v18#Judson",
+          "ttf": "https://fonts.gstatic.com/s/judson/v18/FeVTS0Fbvbc14VxhDYl5_bQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/judson/v18/FeVTS0Fbvbc14VxhDYl5_bc.woff",
+          "woff2": "https://fonts.gstatic.com/s/judson/v18/FeVTS0Fbvbc14VxhDYl3_bE.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Judson Regular'",
-          "'Judson-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhBrlx.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxhBrly&skey=5e4bbbcb41f6cd25&v=v13#Judson",
-          "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhBrlw.ttf",
-          "woff": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhBrlz.woff",
-          "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhCLl1.woff2"
+          "eot": "https://fonts.gstatic.com/s/judson/v18/FeVRS0Fbvbc14VxhBrlx.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxhBrly&skey=5e4bbbcb41f6cd25&v=v18#Judson",
+          "ttf": "https://fonts.gstatic.com/s/judson/v18/FeVRS0Fbvbc14VxhBrlw.ttf",
+          "woff": "https://fonts.gstatic.com/s/judson/v18/FeVRS0Fbvbc14VxhBrlz.woff",
+          "woff2": "https://fonts.gstatic.com/s/judson/v18/FeVRS0Fbvbc14VxhCLl1.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Judson Bold'",
-          "'Judson-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1JRi.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xg1JRh&skey=2a4e7d9700bda035&v=v13#Judson",
-          "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1JRj.ttf",
-          "woff": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1JRg.woff",
-          "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg2pRm.woff2"
+          "eot": "https://fonts.gstatic.com/s/judson/v18/FeVSS0Fbvbc14Vxps5xg1JRi.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xg1JRh&skey=2a4e7d9700bda035&v=v18#Judson",
+          "ttf": "https://fonts.gstatic.com/s/judson/v18/FeVSS0Fbvbc14Vxps5xg1JRj.ttf",
+          "woff": "https://fonts.gstatic.com/s/judson/v18/FeVSS0Fbvbc14Vxps5xg1JRg.woff",
+          "woff2": "https://fonts.gstatic.com/s/judson/v18/FeVSS0Fbvbc14Vxps5xg2pRm.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

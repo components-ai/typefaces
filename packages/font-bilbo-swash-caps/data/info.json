@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bilbo Swash Caps Regular'",
-          "'BilboSwashCaps-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmAriow.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmArioA&skey=4b5cb4349bc795ce&v=v13#BilboSwashCaps",
-          "ttf": "https://fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmAriog.ttf",
-          "woff": "https://fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmArioQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATipw.woff2"
+          "eot": "https://fonts.gstatic.com/s/bilboswashcaps/v22/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmAriow.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmArioA&skey=4b5cb4349bc795ce&v=v22#BilboSwashCaps",
+          "ttf": "https://fonts.gstatic.com/s/bilboswashcaps/v22/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmAriog.ttf",
+          "woff": "https://fonts.gstatic.com/s/bilboswashcaps/v22/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmArioQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/bilboswashcaps/v22/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATipw.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

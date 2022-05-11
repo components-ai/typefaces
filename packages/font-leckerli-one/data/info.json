@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Leckerli One'",
-          "'LeckerliOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZZ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=V8mCoQH8VCsNttEnxnGQ-1idKpZa&skey=6384c587add2bb80&v=v11#LeckerliOne",
-          "ttf": "https://fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZY.ttf",
-          "woff": "https://fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZb.woff",
-          "woff2": "https://fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZd.woff2"
+          "eot": "https://fonts.gstatic.com/s/leckerlione/v16/V8mCoQH8VCsNttEnxnGQ-1idKpZZ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=V8mCoQH8VCsNttEnxnGQ-1idKpZa&skey=6384c587add2bb80&v=v16#LeckerliOne",
+          "ttf": "https://fonts.gstatic.com/s/leckerlione/v16/V8mCoQH8VCsNttEnxnGQ-1idKpZY.ttf",
+          "woff": "https://fonts.gstatic.com/s/leckerlione/v16/V8mCoQH8VCsNttEnxnGQ-1idKpZb.woff",
+          "woff2": "https://fonts.gstatic.com/s/leckerlione/v16/V8mCoQH8VCsNttEnxnGQ-1idKpZd.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

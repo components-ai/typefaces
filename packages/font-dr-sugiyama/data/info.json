@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dr Sugiyama Regular'",
-          "'DrSugiyama-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbYOYo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HTxoL2k4N3O9n5I1boGI7ZbYOYk&skey=a252917f5c79a4bd&v=v10#DrSugiyama",
-          "ttf": "https://fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbYOYs.ttf",
-          "woff": "https://fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbYOYg.woff",
-          "woff2": "https://fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbWOY4.woff2"
+          "eot": "https://fonts.gstatic.com/s/drsugiyama/v22/HTxoL2k4N3O9n5I1boGI7ZbYOYo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HTxoL2k4N3O9n5I1boGI7ZbYOYk&skey=a252917f5c79a4bd&v=v22#DrSugiyama",
+          "ttf": "https://fonts.gstatic.com/s/drsugiyama/v22/HTxoL2k4N3O9n5I1boGI7ZbYOYs.ttf",
+          "woff": "https://fonts.gstatic.com/s/drsugiyama/v22/HTxoL2k4N3O9n5I1boGI7ZbYOYg.woff",
+          "woff2": "https://fonts.gstatic.com/s/drsugiyama/v22/HTxoL2k4N3O9n5I1boGI7ZbWOY4.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

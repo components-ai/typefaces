@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fresca-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGE7cT.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6ae94K--SKgCzbMGE7cQ&skey=3ce39b8c0a3206e0&v=v9#Fresca",
-          "ttf": "https://fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGE7cS.ttf",
-          "woff": "https://fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGE7cR.woff",
-          "woff2": "https://fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGHbcX.woff2"
+          "eot": "https://fonts.gstatic.com/s/fresca/v18/6ae94K--SKgCzbMGE7cT.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6ae94K--SKgCzbMGE7cQ&skey=3ce39b8c0a3206e0&v=v18#Fresca",
+          "ttf": "https://fonts.gstatic.com/s/fresca/v18/6ae94K--SKgCzbMGE7cS.ttf",
+          "woff": "https://fonts.gstatic.com/s/fresca/v18/6ae94K--SKgCzbMGE7cR.woff",
+          "woff2": "https://fonts.gstatic.com/s/fresca/v18/6ae94K--SKgCzbMGHbcX.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

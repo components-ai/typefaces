@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-26",
   "subsets": [
     "korean",
     "latin"
@@ -102,21 +102,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kirang Haerang Regular'",
-          "'KirangHaerang-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqoUvM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=E21-_dn_gvvIjhYON1lpIU4-bfqoUvA&skey=1bd15a4b6f98a28a&v=v8#KirangHaerang",
-          "ttf": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqoUvI.ttf",
-          "woff": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqoUvE.woff",
-          "woff2": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bcqqMOCLpPqGnVKCKlULbfuN6LAeqVI.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/kiranghaerang/v20/E21-_dn_gvvIjhYON1lpIU4-bfqoUvM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=E21-_dn_gvvIjhYON1lpIU4-bfqoUvA&skey=1bd15a4b6f98a28a&v=v20#KirangHaerang",
+          "ttf": "https://fonts.gstatic.com/s/kiranghaerang/v20/E21-_dn_gvvIjhYON1lpIU4-bfqoUvI.ttf",
+          "woff": "https://fonts.gstatic.com/s/kiranghaerang/v20/E21-_dn_gvvIjhYON1lpIU4-bfqoUvE.woff",
+          "woff2": "https://fonts.gstatic.com/s/kiranghaerang/v20/E21-_dn_gvvIjhYON1lpIU4-bcqqMOCLpPqGnVKCKlULbfuN6LAeqVI.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Viaoda Libre Regular'",
-          "'ViaodaLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5Zmgd.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=vEFW2_lWCgoR6OKuRz9kcRV5Zmge&skey=8cf4790983ec0afc&v=v3#ViaodaLibre",
-          "ttf": "https://fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5Zmgc.ttf",
-          "woff": "https://fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5Zmgf.woff",
-          "woff2": "https://fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2"
+          "eot": "https://fonts.gstatic.com/s/viaodalibre/v15/vEFW2_lWCgoR6OKuRz9kcRV5Zmgd.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=vEFW2_lWCgoR6OKuRz9kcRV5Zmge&skey=8cf4790983ec0afc&v=v15#ViaodaLibre",
+          "ttf": "https://fonts.gstatic.com/s/viaodalibre/v15/vEFW2_lWCgoR6OKuRz9kcRV5Zmgc.ttf",
+          "woff": "https://fonts.gstatic.com/s/viaodalibre/v15/vEFW2_lWCgoR6OKuRz9kcRV5Zmgf.woff",
+          "woff2": "https://fonts.gstatic.com/s/viaodalibre/v15/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

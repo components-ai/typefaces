@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ceviche One'",
-          "'CevicheOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zUbY4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gyB4hws1IcA6JzR-GB_JX5zUbY0&skey=c523f0ea346a3458&v=v11#CevicheOne",
-          "ttf": "https://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zUbY8.ttf",
-          "woff": "https://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zUbYw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zabYo.woff2"
+          "eot": "https://fonts.gstatic.com/s/cevicheone/v16/gyB4hws1IcA6JzR-GB_JX5zUbY4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gyB4hws1IcA6JzR-GB_JX5zUbY0&skey=c523f0ea346a3458&v=v16#CevicheOne",
+          "ttf": "https://fonts.gstatic.com/s/cevicheone/v16/gyB4hws1IcA6JzR-GB_JX5zUbY8.ttf",
+          "woff": "https://fonts.gstatic.com/s/cevicheone/v16/gyB4hws1IcA6JzR-GB_JX5zUbYw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cevicheone/v16/gyB4hws1IcA6JzR-GB_JX5zabYo.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

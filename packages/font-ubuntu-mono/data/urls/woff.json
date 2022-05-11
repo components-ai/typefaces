@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlg.woff",
-    "700": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueA.woff"
+    "400": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOhCneDtsqEr0keqCMhbCc_OsjSlg.woff",
+    "700": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueA.woff"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsI.woff",
-    "700": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYs.woff"
+    "400": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc0CsI.woff",
+    "700": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H7tYs.woff"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'B612 Italic'",
-          "'B612-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn8SDDxiSz36juCGxCj&skey=7c24412daec30087&v=v5#B612",
-          "ttf": "https://fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCh.ttf",
-          "woff": "https://fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCi.woff",
-          "woff2": "https://fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCk.woff2"
+          "eot": "https://fonts.gstatic.com/s/b612/v12/3Jn8SDDxiSz36juCGxCg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn8SDDxiSz36juCGxCj&skey=7c24412daec30087&v=v12#B612",
+          "ttf": "https://fonts.gstatic.com/s/b612/v12/3Jn8SDDxiSz36juCGxCh.ttf",
+          "woff": "https://fonts.gstatic.com/s/b612/v12/3Jn8SDDxiSz36juCGxCi.woff",
+          "woff2": "https://fonts.gstatic.com/s/b612/v12/3Jn8SDDxiSz36juCGxCk.woff2"
         }
       },
       "700": {
-        "local": [
-          "'B612 Bold Italic'",
-          "'B612-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn_SDDxiSz36juKoDWxTl0H&skey=d3f841602bb4d082&v=v5#B612",
-          "ttf": "https://fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0F.ttf",
-          "woff": "https://fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0G.woff",
-          "woff2": "https://fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0A.woff2"
+          "eot": "https://fonts.gstatic.com/s/b612/v12/3Jn_SDDxiSz36juKoDWxTl0E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn_SDDxiSz36juKoDWxTl0H&skey=d3f841602bb4d082&v=v12#B612",
+          "ttf": "https://fonts.gstatic.com/s/b612/v12/3Jn_SDDxiSz36juKoDWxTl0F.ttf",
+          "woff": "https://fonts.gstatic.com/s/b612/v12/3Jn_SDDxiSz36juKoDWxTl0G.woff",
+          "woff2": "https://fonts.gstatic.com/s/b612/v12/3Jn_SDDxiSz36juKoDWxTl0A.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'B612 Regular'",
-          "'B612-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yHQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3JnySDDxiSz36j6yHg&skey=ea1643f62a9c2f46&v=v5#B612",
-          "ttf": "https://fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yHA.ttf",
-          "woff": "https://fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yHw.woff",
-          "woff2": "https://fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yGQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/b612/v12/3JnySDDxiSz36j6yHQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3JnySDDxiSz36j6yHg&skey=ea1643f62a9c2f46&v=v12#B612",
+          "ttf": "https://fonts.gstatic.com/s/b612/v12/3JnySDDxiSz36j6yHA.ttf",
+          "woff": "https://fonts.gstatic.com/s/b612/v12/3JnySDDxiSz36j6yHw.woff",
+          "woff2": "https://fonts.gstatic.com/s/b612/v12/3JnySDDxiSz36j6yGQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'B612 Bold'",
-          "'B612-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBSA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn9SDDxiSz34oWXDDeBSw&skey=5458749603704b62&v=v5#B612",
-          "ttf": "https://fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBSQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBSg.woff",
-          "woff2": "https://fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBTA.woff2"
+          "eot": "https://fonts.gstatic.com/s/b612/v12/3Jn9SDDxiSz34oWXDDeBSA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3Jn9SDDxiSz34oWXDDeBSw&skey=5458749603704b62&v=v12#B612",
+          "ttf": "https://fonts.gstatic.com/s/b612/v12/3Jn9SDDxiSz34oWXDDeBSQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/b612/v12/3Jn9SDDxiSz34oWXDDeBSg.woff",
+          "woff2": "https://fonts.gstatic.com/s/b612/v12/3Jn9SDDxiSz34oWXDDeBTA.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "italic": {
       "400": {

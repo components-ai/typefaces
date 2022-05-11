@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Margarine'",
-          "'Margarine-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu7Z5O.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qkBXXvoE6trLT9Y7YLyu7Z5N&skey=8251c55bcd200727&v=v9#Margarine",
-          "ttf": "https://fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu7Z5P.ttf",
-          "woff": "https://fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu7Z5M.woff",
-          "woff2": "https://fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu455K.woff2"
+          "eot": "https://fonts.gstatic.com/s/margarine/v21/qkBXXvoE6trLT9Y7YLyu7Z5O.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qkBXXvoE6trLT9Y7YLyu7Z5N&skey=8251c55bcd200727&v=v21#Margarine",
+          "ttf": "https://fonts.gstatic.com/s/margarine/v21/qkBXXvoE6trLT9Y7YLyu7Z5P.ttf",
+          "woff": "https://fonts.gstatic.com/s/margarine/v21/qkBXXvoE6trLT9Y7YLyu7Z5M.woff",
+          "woff2": "https://fonts.gstatic.com/s/margarine/v21/qkBXXvoE6trLT9Y7YLyu455K.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

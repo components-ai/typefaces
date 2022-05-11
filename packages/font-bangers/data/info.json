@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bangers Regular'",
-          "'Bangers-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH5BQ3A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0BTqb0h60ACH5BQ3w&skey=80f504448509eaf7&v=v13#Bangers",
-          "ttf": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH5BQ3Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH5BQ3g.woff",
-          "woff2": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q2A.woff2"
+          "eot": "https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACH5BQ3A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0BTqb0h60ACH5BQ3w&skey=80f504448509eaf7&v=v20#Bangers",
+          "ttf": "https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACH5BQ3Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACH5BQ3g.woff",
+          "woff2": "https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACH55Q2A.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

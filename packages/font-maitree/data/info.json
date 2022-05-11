@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,85 +16,68 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Maitree ExtraLight'",
-          "'Maitree-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklhGNaJiiug&skey=3038b1c661a551ae&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklhGNaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklhGNaJiiug&skey=3038b1c661a551ae&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklhGNaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklhGNaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklhGNaJaivQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Maitree Light'",
-          "'Maitree-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklnWOaJiiug&skey=734bb18926fba8dc&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklnWOaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklnWOaJiiug&skey=734bb18926fba8dc&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklnWOaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklnWOaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklnWOaJaivQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Maitree'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrkntCseQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQGmil5tffhpBrkntCseg&skey=762eb1b170e72cb3&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrkntCseA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrkntCsew.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrknt6sfQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQGmil5tffhpBrkntCseQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQGmil5tffhpBrkntCseg&skey=762eb1b170e72cb3&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQGmil5tffhpBrkntCseA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQGmil5tffhpBrkntCsew.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQGmil5tffhpBrknt6sfQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Maitree Medium'",
-          "'Maitree-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrkli2PaJiiug&skey=33968a24a966ef28&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrkli2PaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrkli2PaJiiug&skey=33968a24a966ef28&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrkli2PaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrkli2PaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrkli2PaJaivQ.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Maitree SemiBold'",
-          "'Maitree-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklgGIaJiiug&skey=7218daf92f402559&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklgGIaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklgGIaJiiug&skey=7218daf92f402559&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklgGIaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklgGIaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklgGIaJaivQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Maitree Bold'",
-          "'Maitree-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJiiuQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklmWJaJiiug&skey=8ce5182ec735cec5&v=v5#Maitree",
-          "ttf": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJiiuA.ttf",
-          "woff": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJiiuw.woff",
-          "woff2": "https://fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJaivQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklmWJaJiiuQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklmWJaJiiug&skey=8ce5182ec735cec5&v=v10#Maitree",
+          "ttf": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklmWJaJiiuA.ttf",
+          "woff": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklmWJaJiiuw.woff",
+          "woff2": "https://fonts.gstatic.com/s/maitree/v10/MjQDmil5tffhpBrklmWJaJaivQ.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "200": {

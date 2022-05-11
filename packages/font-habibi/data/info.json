@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Habibi'",
-          "'Habibi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyQxhb.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR-4zFWkuqcTTNyQxhY&skey=5a046df8998f6a05&v=v9#Habibi",
-          "ttf": "https://fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyQxha.ttf",
-          "woff": "https://fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyQxhZ.woff",
-          "woff2": "https://fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyTRhf.woff2"
+          "eot": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNyQxhb.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR-4zFWkuqcTTNyQxhY&skey=5a046df8998f6a05&v=v21#Habibi",
+          "ttf": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNyQxha.ttf",
+          "woff": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNyQxhZ.woff",
+          "woff2": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNyTRhf.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {
@@ -99,6 +96,12 @@
           },
           "\r": {
             "ha": 447,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
+            "ha": 0,
             "x_min": null,
             "x_max": null,
             "o": ""

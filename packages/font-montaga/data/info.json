@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Montaga'",
-          "'Montaga-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa6Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4cnBX2Ml8rCkEO_4gEa6g&skey=5a46396085681233&v=v8#Montaga",
-          "ttf": "https://fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa6A.ttf",
-          "woff": "https://fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa6w.woff",
-          "woff2": "https://fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa7Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/montaga/v13/H4cnBX2Ml8rCkEO_4gEa6Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4cnBX2Ml8rCkEO_4gEa6g&skey=5a46396085681233&v=v13#Montaga",
+          "ttf": "https://fonts.gstatic.com/s/montaga/v13/H4cnBX2Ml8rCkEO_4gEa6A.ttf",
+          "woff": "https://fonts.gstatic.com/s/montaga/v13/H4cnBX2Ml8rCkEO_4gEa6w.woff",
+          "woff2": "https://fonts.gstatic.com/s/montaga/v13/H4cnBX2Ml8rCkEO_4gEa7Q.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -3223,10 +3223,10 @@
     "257": {
       "en": "Thin"
     },
-    "277": {
+    "275": {
       "en": "Italic"
     },
-    "278": {
+    "276": {
       "en": "Roman"
     },
     "copyright": {
@@ -3239,13 +3239,13 @@
       "en": "Regular"
     },
     "uniqueID": {
-      "en": "2.001;NONE;BitterThin-Thin"
+      "en": "2.002;NONE;BitterThin-Thin"
     },
     "fullName": {
       "en": "Bitter Thin Thin"
     },
     "version": {
-      "en": "Version 2.001"
+      "en": "Version 2.002"
     },
     "postScriptName": {
       "en": "BitterThin-Thin"

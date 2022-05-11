@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Prata Regular'",
-          "'Prata-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCmo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpbNNCT-sWPCmk&skey=3b0c7d1d6e89685d&v=v13#Prata",
-          "ttf": "https://fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCms.ttf",
-          "woff": "https://fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCmg.woff",
-          "woff2": "https://fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCm4.woff2"
+          "eot": "https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWPCmo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpbNNCT-sWPCmk&skey=3b0c7d1d6e89685d&v=v18#Prata",
+          "ttf": "https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWPCms.ttf",
+          "woff": "https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWPCmg.woff",
+          "woff2": "https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWPCm4.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

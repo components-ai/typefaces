@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vast Shadow Regular'",
-          "'VastShadow-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vastshadow/v10/pe0qMImKOZ1V62ZwbVY9dce9I98.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0qMImKOZ1V62ZwbVY9dce9I9w&skey=397c50e068ae5b86&v=v10#VastShadow",
-          "ttf": "https://fonts.gstatic.com/s/vastshadow/v10/pe0qMImKOZ1V62ZwbVY9dce9I94.ttf",
-          "woff": "https://fonts.gstatic.com/s/vastshadow/v10/pe0qMImKOZ1V62ZwbVY9dce9I90.woff",
-          "woff2": "https://fonts.gstatic.com/s/vastshadow/v10/pe0qMImKOZ1V62ZwbVY9dce9I9s.woff2"
+          "eot": "https://fonts.gstatic.com/s/vastshadow/v15/pe0qMImKOZ1V62ZwbVY9dce9I98.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0qMImKOZ1V62ZwbVY9dce9I9w&skey=397c50e068ae5b86&v=v15#VastShadow",
+          "ttf": "https://fonts.gstatic.com/s/vastshadow/v15/pe0qMImKOZ1V62ZwbVY9dce9I94.ttf",
+          "woff": "https://fonts.gstatic.com/s/vastshadow/v15/pe0qMImKOZ1V62ZwbVY9dce9I90.woff",
+          "woff2": "https://fonts.gstatic.com/s/vastshadow/v15/pe0qMImKOZ1V62ZwbVY9dce9I9s.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fjord One'",
-          "'Fjord-One'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbEnKBY_9S1jNKb7uRG&skey=224c2a5a687d4c50&v=v9#FjordOne",
-          "ttf": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRE.ttf",
-          "woff": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRH.woff",
-          "woff2": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRB.woff2"
+          "eot": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb7uRF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbEnKBY_9S1jNKb7uRG&skey=224c2a5a687d4c50&v=v21#FjordOne",
+          "ttf": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb7uRE.ttf",
+          "woff": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb7uRH.woff",
+          "woff2": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb7uRB.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

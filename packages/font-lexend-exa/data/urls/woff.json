@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/lexendexa/v3/UMBXrPdOoHOnxExyjdBeaiPdBQ.woff"
+    "100": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9r7T5bOFpg.woff",
+    "200": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9p7TpbOFpg.woff",
+    "300": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9qlTpbOFpg.woff",
+    "400": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9r7TpbOFpg.woff",
+    "500": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9rJTpbOFpg.woff",
+    "600": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9olSZbOFpg.woff",
+    "700": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9ocSZbOFpg.woff",
+    "800": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9p7SZbOFpg.woff",
+    "900": "https://fonts.gstatic.com/s/lexendexa/v23/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9pSSZbOFpg.woff"
   }
 }

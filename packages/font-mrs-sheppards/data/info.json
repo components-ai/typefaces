@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mrs Sheppards Regular'",
-          "'MrsSheppards-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7vH7zw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_2Rfm9snC0XUGoEZhb91ig7vH7zA&skey=e03a0d98536a56e9&v=v9#MrsSheppards",
-          "ttf": "https://fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7vH7zg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7vH7zQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7v_7yw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig7vH7zw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_2Rfm9snC0XUGoEZhb91ig7vH7zA&skey=e03a0d98536a56e9&v=v21#MrsSheppards",
+          "ttf": "https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig7vH7zg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig7vH7zQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig7v_7yw.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

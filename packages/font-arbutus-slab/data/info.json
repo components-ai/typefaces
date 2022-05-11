@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Arbutus Slab Regular'",
-          "'ArbutusSlab-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=oY1Z8e7OuLXkJGbXtr5ba7ZlYqUb&skey=4b2cc8691b01771f&v=v9#ArbutusSlab",
-          "ttf": "https://fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUZ.ttf",
-          "woff": "https://fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUa.woff",
-          "woff2": "https://fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2"
+          "eot": "https://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=oY1Z8e7OuLXkJGbXtr5ba7ZlYqUb&skey=4b2cc8691b01771f&v=v16#ArbutusSlab",
+          "ttf": "https://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUZ.ttf",
+          "woff": "https://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUa.woff",
+          "woff2": "https://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -98,6 +95,12 @@
             "o": ""
           },
           "\r": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
             "ha": 0,
             "x_min": null,
             "x_max": null,

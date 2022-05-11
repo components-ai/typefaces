@@ -1,29 +1,27 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "khmer"
   ],
   "unicodeRange": {
-    "khmer": "U+1780-17FF, U+200C, U+25CC"
+    "khmer": "U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Khmer'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpF-A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpF-D&skey=6527b71fcb030ef0&v=v13#Khmer",
-          "ttf": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpF-B.ttf",
-          "woff": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpF-C.woff",
-          "woff2": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpG-Nrty0eQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/khmer/v25/MjQImit_vPPwpF-A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpF-D&skey=6527b71fcb030ef0&v=v25#Khmer",
+          "ttf": "https://fonts.gstatic.com/s/khmer/v25/MjQImit_vPPwpF-B.ttf",
+          "woff": "https://fonts.gstatic.com/s/khmer/v25/MjQImit_vPPwpF-C.woff",
+          "woff2": "https://fonts.gstatic.com/s/khmer/v25/MjQImit_vPPwpG-Nrtw.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

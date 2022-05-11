@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "tibetan"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jomolhari Regular'",
-          "'Jomolhari-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFgc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EvONzA1M1Iw_CBd2hsQyEFgf&skey=ae86d8ac84d344a9&v=v2#Jomolhari",
-          "ttf": "https://fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFgd.ttf",
-          "woff": "https://fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFge.woff",
-          "woff2": "https://fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFgY.woff2"
+          "eot": "https://fonts.gstatic.com/s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQyEFgc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EvONzA1M1Iw_CBd2hsQyEFgf&skey=ae86d8ac84d344a9&v=v14#Jomolhari",
+          "ttf": "https://fonts.gstatic.com/s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQyEFgd.ttf",
+          "woff": "https://fonts.gstatic.com/s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQyEFge.woff",
+          "woff2": "https://fonts.gstatic.com/s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQyEFgY.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Eater'",
-          "'Eater-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvqu_sXQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mtG04_FCK7bOvqu_sXc&skey=540b4f9359cd7531&v=v9#Eater",
-          "ttf": "https://fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvqu_sXU.ttf",
-          "woff": "https://fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvqu_sXY.woff",
-          "woff2": "https://fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvquxsXA.woff2"
+          "eot": "https://fonts.gstatic.com/s/eater/v21/mtG04_FCK7bOvqu_sXQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mtG04_FCK7bOvqu_sXc&skey=540b4f9359cd7531&v=v21#Eater",
+          "ttf": "https://fonts.gstatic.com/s/eater/v21/mtG04_FCK7bOvqu_sXU.ttf",
+          "woff": "https://fonts.gstatic.com/s/eater/v21/mtG04_FCK7bOvqu_sXY.woff",
+          "woff2": "https://fonts.gstatic.com/s/eater/v21/mtG04_FCK7bOvquxsXA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

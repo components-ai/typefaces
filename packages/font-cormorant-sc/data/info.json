@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,73 +18,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Cormorant SC Light'",
-          "'CormorantSC-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf0&skey=739b51737c4e164&v=v10#CormorantSC",
-          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf2.ttf",
-          "woff": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf1.woff",
-          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk-hfz.woff2"
+          "eot": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf0&skey=739b51737c4e164&v=v16#CormorantSC",
+          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf2.ttf",
+          "woff": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf1.woff",
+          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmABIk-hfz.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Cormorant SC Regular'",
-          "'CormorantSC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsupTA1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0yb5GD4kxqXBmOVLG30OGwsupTA2&skey=82bbbf476a8d515d&v=v10#CormorantSC",
-          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsupTA0.ttf",
-          "woff": "https://fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsupTA3.woff",
-          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsuqzAx.woff2"
+          "eot": "https://fonts.gstatic.com/s/cormorantsc/v16/0yb5GD4kxqXBmOVLG30OGwsupTA1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0yb5GD4kxqXBmOVLG30OGwsupTA2&skey=82bbbf476a8d515d&v=v16#CormorantSC",
+          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v16/0yb5GD4kxqXBmOVLG30OGwsupTA0.ttf",
+          "woff": "https://fonts.gstatic.com/s/cormorantsc/v16/0yb5GD4kxqXBmOVLG30OGwsupTA3.woff",
+          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v16/0yb5GD4kxqXBmOVLG30OGwsuqzAx.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Cormorant SC Medium'",
-          "'CormorantSC-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf0&skey=8f4513ca99abc97a&v=v10#CormorantSC",
-          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf2.ttf",
-          "woff": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf1.woff",
-          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk-hfz.woff2"
+          "eot": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf0&skey=8f4513ca99abc97a&v=v16#CormorantSC",
+          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf2.ttf",
+          "woff": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf1.woff",
+          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmWBMk-hfz.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Cormorant SC SemiBold'",
-          "'CormorantSC-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf0&skey=1809bdbff8003e75&v=v10#CormorantSC",
-          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf2.ttf",
-          "woff": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf1.woff",
-          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk-hfz.woff2"
+          "eot": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf0&skey=1809bdbff8003e75&v=v16#CormorantSC",
+          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf2.ttf",
+          "woff": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf1.woff",
+          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmdBQk-hfz.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cormorant SC Bold'",
-          "'CormorantSC-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf0&skey=70405b16820408e1&v=v10#CormorantSC",
-          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf2.ttf",
-          "woff": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf1.woff",
-          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk-hfz.woff2"
+          "eot": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf0&skey=70405b16820408e1&v=v16#CormorantSC",
+          "ttf": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf2.ttf",
+          "woff": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf1.woff",
+          "woff2": "https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmEBUk-hfz.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "300": {

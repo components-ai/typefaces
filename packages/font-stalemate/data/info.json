@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Stalemate'",
-          "'Stalemate-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZs66p.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=taiIGmZ_EJq97-UfkZRZs66q&skey=8fcf95dc0a2fdfbe&v=v8#Stalemate",
-          "ttf": "https://fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZs66o.ttf",
-          "woff": "https://fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZs66r.woff",
-          "woff2": "https://fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZva6t.woff2"
+          "eot": "https://fonts.gstatic.com/s/stalemate/v20/taiIGmZ_EJq97-UfkZRZs66p.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=taiIGmZ_EJq97-UfkZRZs66q&skey=8fcf95dc0a2fdfbe&v=v20#Stalemate",
+          "ttf": "https://fonts.gstatic.com/s/stalemate/v20/taiIGmZ_EJq97-UfkZRZs66o.ttf",
+          "woff": "https://fonts.gstatic.com/s/stalemate/v20/taiIGmZ_EJq97-UfkZRZs66r.woff",
+          "woff2": "https://fonts.gstatic.com/s/stalemate/v20/taiIGmZ_EJq97-UfkZRZva6t.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

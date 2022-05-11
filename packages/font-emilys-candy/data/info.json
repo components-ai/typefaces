@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Emilys Candy'",
-          "'EmilysCandy-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJptZu.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2EbgL-1mD1Rnb0OGKudbk0yJptZt&skey=d5187bca1158b982&v=v8#EmilysCandy",
-          "ttf": "https://fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJptZv.ttf",
-          "woff": "https://fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJptZs.woff",
-          "woff2": "https://fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJqNZq.woff2"
+          "eot": "https://fonts.gstatic.com/s/emilyscandy/v13/2EbgL-1mD1Rnb0OGKudbk0yJptZu.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2EbgL-1mD1Rnb0OGKudbk0yJptZt&skey=d5187bca1158b982&v=v13#EmilysCandy",
+          "ttf": "https://fonts.gstatic.com/s/emilyscandy/v13/2EbgL-1mD1Rnb0OGKudbk0yJptZv.ttf",
+          "woff": "https://fonts.gstatic.com/s/emilyscandy/v13/2EbgL-1mD1Rnb0OGKudbk0yJptZs.woff",
+          "woff2": "https://fonts.gstatic.com/s/emilyscandy/v13/2EbgL-1mD1Rnb0OGKudbk0yJqNZq.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

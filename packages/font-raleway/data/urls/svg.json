@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "200": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "300": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "400": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "500": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "600": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "700": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "800": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway",
-    "900": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDr0fJw&skey=bf44ee29381a37b0&v=v18#Raleway"
+    "100": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "200": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "300": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "400": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "500": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "600": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "700": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "800": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway",
+    "900": "https://fonts.gstatic.com/l/font?kit=1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDr0fJw&skey=bf44ee29381a37b0&v=v27#Raleway"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "200": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "300": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "400": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "500": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "600": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "700": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "800": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCGPrY&skey=30a27f2564731c64&v=v18#Raleway",
-    "900": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCGPrY&skey=30a27f2564731c64&v=v18#Raleway"
+    "100": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "200": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "300": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "400": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "500": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "600": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "700": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "800": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCGPrY&skey=30a27f2564731c64&v=v27#Raleway",
+    "900": "https://fonts.gstatic.com/l/font?kit=1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCGPrY&skey=30a27f2564731c64&v=v27#Raleway"
   }
 }

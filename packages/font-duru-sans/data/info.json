@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Duru Sans'",
-          "'DuruSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBRv3d.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn7iYH8xwmSyTvEV_HOBRv3e&skey=f2c24e33dd79a23&v=v14#DuruSans",
-          "ttf": "https://fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBRv3c.ttf",
-          "woff": "https://fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBRv3f.woff",
-          "woff2": "https://fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBSP3Z.woff2"
+          "eot": "https://fonts.gstatic.com/s/durusans/v19/xn7iYH8xwmSyTvEV_HOBRv3d.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn7iYH8xwmSyTvEV_HOBRv3e&skey=f2c24e33dd79a23&v=v19#DuruSans",
+          "ttf": "https://fonts.gstatic.com/s/durusans/v19/xn7iYH8xwmSyTvEV_HOBRv3c.ttf",
+          "woff": "https://fonts.gstatic.com/s/durusans/v19/xn7iYH8xwmSyTvEV_HOBRv3f.woff",
+          "woff2": "https://fonts.gstatic.com/s/durusans/v19/xn7iYH8xwmSyTvEV_HOBSP3Z.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 77,
             "x_max": 733,
             "o": "m 173 -16 l 147 87 q 530 290 422 121 l 530 290 q 590 435 569 351 l 590 435 q 405 398 513 399 l 405 398 q 77 728 92 390 l 77 728 q 176 981 77 889 l 176 981 q 393 1063 264 1062 l 393 1063 q 708 842 635 1065 l 708 842 q 733 635 733 765 q 698 386 733 505 q 593 182 663 267 l 593 182 q 173 -16 449 9 l 173 -16 z m 614 653 l 614 653 q 393 961 614 961 l 393 961 q 252 900 307 962 l 252 900 q 197 732 194 835 l 197 732 q 306 513 199 564 l 306 513 q 386 495 345 495 q 454 497 427 494 q 509 503 481 499 l 509 503 q 607 528 566 513 l 607 528 q 614 653 614 587 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 465,

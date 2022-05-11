@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,49 +12,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Libre Caslon Text Italic'",
-          "'LibreCaslonText-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHQ&skey=48d008fc585a2f90&v=v2#LibreCaslonText",
-          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHw.ttf",
-          "woff": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHA.woff",
-          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2"
+          "eot": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHQ&skey=48d008fc585a2f90&v=v3#LibreCaslonText",
+          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHw.ttf",
+          "woff": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHA.woff",
+          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Libre Caslon Text Regular'",
-          "'LibreCaslonText-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-U&skey=850d8a6ff860349c&v=v2#LibreCaslonText",
-          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-c.ttf",
-          "woff": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2"
+          "eot": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-U&skey=850d8a6ff860349c&v=v3#LibreCaslonText",
+          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-c.ttf",
+          "woff": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Libre Caslon Text Bold'",
-          "'LibreCaslonText-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxk&skey=361ca5e8b4952fa5&v=v2#LibreCaslonText",
-          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxs.ttf",
-          "woff": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxg.woff",
-          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v2/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdkPx4.woff2"
+          "eot": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxk&skey=361ca5e8b4952fa5&v=v3#LibreCaslonText",
+          "ttf": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxs.ttf",
+          "woff": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxg.woff",
+          "woff2": "https://fonts.gstatic.com/s/librecaslontext/v3/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdkPx4.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v3",
   "typefaces": {
     "italic": {
       "400": {

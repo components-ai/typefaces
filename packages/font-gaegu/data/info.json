@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -98,47 +98,38 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Gaegu Light'",
-          "'Gaegu-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU57nicw86ME&skey=6cca7b9737cd8f26&v=v8#Gaegu",
-          "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MM.ttf",
-          "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MA.woff",
-          "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nifw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU57nicw86MI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU57nicw86ME&skey=6cca7b9737cd8f26&v=v15#Gaegu",
+          "ttf": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU57nicw86MM.ttf",
+          "woff": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU57nicw86MA.woff",
+          "woff2": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU57nifw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Gaegu Regular'",
-          "'Gaegu-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZMq90.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB6Up9NU5ZMq94&skey=1d4d96d85924742b&v=v8#Gaegu",
-          "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZMq9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZMq98.woff",
-          "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU6ZOyc4xxqgKdTBRWpq2sy8wKnARGTY.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gaegu/v15/TuGfUVB6Up9NU5ZMq90.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB6Up9NU5ZMq94&skey=1d4d96d85924742b&v=v15#Gaegu",
+          "ttf": "https://fonts.gstatic.com/s/gaegu/v15/TuGfUVB6Up9NU5ZMq9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/gaegu/v15/TuGfUVB6Up9NU5ZMq98.woff",
+          "woff2": "https://fonts.gstatic.com/s/gaegu/v15/TuGfUVB6Up9NU6ZOyc4xxqgKdTBRWpq2sy8wKnARGTY.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gaegu Bold'",
-          "'Gaegu-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw86MI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU573jsw86ME&skey=daec53040a5bfd39&v=v8#Gaegu",
-          "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw86MM.ttf",
-          "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw86MA.woff",
-          "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jvw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU573jsw86MI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU573jsw86ME&skey=daec53040a5bfd39&v=v15#Gaegu",
+          "ttf": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU573jsw86MM.ttf",
+          "woff": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU573jsw86MA.woff",
+          "woff2": "https://fonts.gstatic.com/s/gaegu/v15/TuGSUVB6Up9NU573jvw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "300": {

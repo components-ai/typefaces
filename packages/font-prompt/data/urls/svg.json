@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=-W_7XJnvUD7dzB2KZeJ8fkoLeQ&skey=37416102cb8ab106&v=v4#Prompt",
-    "200": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLQb1MiW5c&skey=271ca1f82792226f&v=v4#Prompt",
-    "300": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK0bFMiW5c&skey=383f8026ad773f01&v=v4#Prompt",
-    "400": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2KZeoRTkE&skey=c812e5a91ed9cc28&v=v4#Prompt",
-    "500": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLsbVMiW5c&skey=e5dd666eeb5984f&v=v4#Prompt",
-    "600": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLAalMiW5c&skey=8ec6bb139abdbb14&v=v4#Prompt",
-    "700": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKka1MiW5c&skey=6109a8e24f8df185&v=v4#Prompt",
-    "800": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK4aFMiW5c&skey=25ecab79d81e4108&v=v4#Prompt",
-    "900": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKcaVMiW5c&skey=cc86e5fc7dbe738c&v=v4#Prompt"
+    "100": "https://fonts.gstatic.com/l/font?kit=-W_7XJnvUD7dzB2KZeJ8fkoLeQ&skey=37416102cb8ab106&v=v10#Prompt",
+    "200": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLQb1MiW5c&skey=271ca1f82792226f&v=v10#Prompt",
+    "300": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK0bFMiW5c&skey=383f8026ad773f01&v=v10#Prompt",
+    "400": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2KZeoRTkE&skey=c812e5a91ed9cc28&v=v10#Prompt",
+    "500": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLsbVMiW5c&skey=e5dd666eeb5984f&v=v10#Prompt",
+    "600": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLAalMiW5c&skey=8ec6bb139abdbb14&v=v10#Prompt",
+    "700": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKka1MiW5c&skey=6109a8e24f8df185&v=v10#Prompt",
+    "800": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK4aFMiW5c&skey=25ecab79d81e4108&v=v10#Prompt",
+    "900": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKcaVMiW5c&skey=cc86e5fc7dbe738c&v=v10#Prompt"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2CA-oRTkE&skey=87a9015b8e2ec7c6&v=v4#Prompt",
-    "200": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cr_sIZ2Mp&skey=bdc4992fb1501f41&v=v4#Prompt",
-    "300": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cy_gIZ2Mp&skey=53742a87441f856d&v=v4#Prompt",
-    "400": "https://fonts.gstatic.com/l/font?kit=-W__XJnvUD7dzB2Kbtoa&skey=154c4e4e997e9cb&v=v4#Prompt",
-    "500": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Ck_kIZ2Mp&skey=f0c9516055d2392&v=v4#Prompt",
-    "600": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cv_4IZ2Mp&skey=acece2c1335dc049&v=v4#Prompt",
-    "700": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C2_8IZ2Mp&skey=4e01753041c32f26&v=v4#Prompt",
-    "800": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cx_wIZ2Mp&skey=89ea937e03323c30&v=v4#Prompt",
-    "900": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C4_0IZ2Mp&skey=13e0e7d3a96dd4a2&v=v4#Prompt"
+    "100": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2CA-oRTkE&skey=87a9015b8e2ec7c6&v=v10#Prompt",
+    "200": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cr_sIZ2Mp&skey=bdc4992fb1501f41&v=v10#Prompt",
+    "300": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cy_gIZ2Mp&skey=53742a87441f856d&v=v10#Prompt",
+    "400": "https://fonts.gstatic.com/l/font?kit=-W__XJnvUD7dzB2Kbtoa&skey=154c4e4e997e9cb&v=v10#Prompt",
+    "500": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Ck_kIZ2Mp&skey=f0c9516055d2392&v=v10#Prompt",
+    "600": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cv_4IZ2Mp&skey=acece2c1335dc049&v=v10#Prompt",
+    "700": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C2_8IZ2Mp&skey=4e01753041c32f26&v=v10#Prompt",
+    "800": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cx_wIZ2Mp&skey=89ea937e03323c30&v=v10#Prompt",
+    "900": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C4_0IZ2Mp&skey=13e0e7d3a96dd4a2&v=v10#Prompt"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "gujarati",
     "latin",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Farsan Regular'",
-          "'Farsan-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK06Ws.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VEMwRoJ0vY_zsyzK06Wv&skey=e4c5cdf64e1df983&v=v6#Farsan",
-          "ttf": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK06Wt.ttf",
-          "woff": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK06Wu.woff",
-          "woff2": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK3aWo.woff2"
+          "eot": "https://fonts.gstatic.com/s/farsan/v18/VEMwRoJ0vY_zsyzK06Ws.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VEMwRoJ0vY_zsyzK06Wv&skey=e4c5cdf64e1df983&v=v18#Farsan",
+          "ttf": "https://fonts.gstatic.com/s/farsan/v18/VEMwRoJ0vY_zsyzK06Wt.ttf",
+          "woff": "https://fonts.gstatic.com/s/farsan/v18/VEMwRoJ0vY_zsyzK06Wu.woff",
+          "woff2": "https://fonts.gstatic.com/s/farsan/v18/VEMwRoJ0vY_zsyzK3aWo.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vidaloka '",
-          "'Vidaloka-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wHs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4c3ipenMKlEavs7wHg&skey=329f175c9b769a6a&v=v13#Vidaloka",
-          "ttf": "https://fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wHo.ttf",
-          "woff": "https://fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wHk.woff",
-          "woff2": "https://fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wH8.woff2"
+          "eot": "https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wHs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4c3ipenMKlEavs7wHg&skey=329f175c9b769a6a&v=v18#Vidaloka",
+          "ttf": "https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wHo.ttf",
+          "woff": "https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wHk.woff",
+          "woff2": "https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wH8.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

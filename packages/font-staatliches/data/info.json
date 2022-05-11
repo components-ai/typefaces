@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Staatliches Regular'",
-          "'Staatliches-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/staatliches/v5/HI_OiY8KO6hCsQSoAPmtMYeVvpQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HI_OiY8KO6hCsQSoAPmtMYeVvpc&skey=ebd2c3b134676d19&v=v5#Staatliches",
-          "ttf": "https://fonts.gstatic.com/s/staatliches/v5/HI_OiY8KO6hCsQSoAPmtMYeVvpU.ttf",
-          "woff": "https://fonts.gstatic.com/s/staatliches/v5/HI_OiY8KO6hCsQSoAPmtMYeVvpY.woff",
-          "woff2": "https://fonts.gstatic.com/s/staatliches/v5/HI_OiY8KO6hCsQSoAPmtMYebvpA.woff2"
+          "eot": "https://fonts.gstatic.com/s/staatliches/v11/HI_OiY8KO6hCsQSoAPmtMYeVvpQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HI_OiY8KO6hCsQSoAPmtMYeVvpc&skey=ebd2c3b134676d19&v=v11#Staatliches",
+          "ttf": "https://fonts.gstatic.com/s/staatliches/v11/HI_OiY8KO6hCsQSoAPmtMYeVvpU.ttf",
+          "woff": "https://fonts.gstatic.com/s/staatliches/v11/HI_OiY8KO6hCsQSoAPmtMYeVvpY.woff",
+          "woff2": "https://fonts.gstatic.com/s/staatliches/v11/HI_OiY8KO6hCsQSoAPmtMYebvpA.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

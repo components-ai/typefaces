@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "korean",
     "latin"
@@ -102,21 +102,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Yeon Sung Regular'",
-          "'YeonSung-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BTllf.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QldMNTpbohAGtsJvUn6BTllc&skey=68a34c5973f160f9&v=v8#YeonSung",
-          "ttf": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BTlle.ttf",
-          "woff": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BTlld.woff",
-          "woff2": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6xTDtMzKMFqIuVbfp5ryWEr_gQfipm.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/yeonsung/v20/QldMNTpbohAGtsJvUn6BTllf.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QldMNTpbohAGtsJvUn6BTllc&skey=68a34c5973f160f9&v=v20#YeonSung",
+          "ttf": "https://fonts.gstatic.com/s/yeonsung/v20/QldMNTpbohAGtsJvUn6BTlle.ttf",
+          "woff": "https://fonts.gstatic.com/s/yeonsung/v20/QldMNTpbohAGtsJvUn6BTlld.woff",
+          "woff2": "https://fonts.gstatic.com/s/yeonsung/v20/QldMNTpbohAGtsJvUn6xTDtMzKMFqIuVbfp5ryWEr_gQfipm.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

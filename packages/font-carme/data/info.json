@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Carme Regular'",
-          "'Carme'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ptRHTiWdbvZIDNjBzrU&skey=67078b6e1e53721e&v=v11#Carme",
-          "ttf": "https://fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrc.ttf",
-          "woff": "https://fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrI.woff2"
+          "eot": "https://fonts.gstatic.com/s/carme/v16/ptRHTiWdbvZIDNjBzrY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ptRHTiWdbvZIDNjBzrU&skey=67078b6e1e53721e&v=v16#Carme",
+          "ttf": "https://fonts.gstatic.com/s/carme/v16/ptRHTiWdbvZIDNjBzrc.ttf",
+          "woff": "https://fonts.gstatic.com/s/carme/v16/ptRHTiWdbvZIDNjBzrQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/carme/v16/ptRHTiWdbvZIDNjBzrI.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

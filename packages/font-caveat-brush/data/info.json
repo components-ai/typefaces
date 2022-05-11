@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Caveat Brush'",
-          "'CaveatBrush-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8UrOW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EYq0maZfwr9S9-ETZc3fKXt8UrOV&skey=fac58a4d598f3b27&v=v6#CaveatBrush",
-          "ttf": "https://fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8UrOX.ttf",
-          "woff": "https://fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8UrOU.woff",
-          "woff2": "https://fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8XLOS.woff2"
+          "eot": "https://fonts.gstatic.com/s/caveatbrush/v11/EYq0maZfwr9S9-ETZc3fKXt8UrOW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EYq0maZfwr9S9-ETZc3fKXt8UrOV&skey=fac58a4d598f3b27&v=v11#CaveatBrush",
+          "ttf": "https://fonts.gstatic.com/s/caveatbrush/v11/EYq0maZfwr9S9-ETZc3fKXt8UrOX.ttf",
+          "woff": "https://fonts.gstatic.com/s/caveatbrush/v11/EYq0maZfwr9S9-ETZc3fKXt8UrOU.woff",
+          "woff2": "https://fonts.gstatic.com/s/caveatbrush/v11/EYq0maZfwr9S9-ETZc3fKXt8XLOS.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,18 @@
             "x_min": 17,
             "x_max": 599,
             "o": "m 418 672 l 418 672 l 417 690 q 404 751 417 719 q 382 785 392 783 l 382 785 q 349 781 353 792 l 349 781 q 281 678 297 714 l 281 678 l 260 638 q 238 585 253 617 q 215 535 222 554 l 215 535 q 208 482 207 485 l 208 482 q 208 463 210 472 l 208 463 q 231 428 210 442 l 231 428 q 274 425 251 407 l 274 425 q 358 510 311 451 l 358 510 q 413 607 397 551 l 413 607 q 418 672 424 669 z m 343 247 l 344 265 l 378 390 l 375 392 q 361 378 369 386 l 361 378 q 321 340 336 356 l 321 340 q 256 286 299 304 l 256 286 q 183 303 228 278 l 183 303 q 56 399 115 338 l 56 399 q 26 475 35 418 l 26 475 q 26 544 17 517 q 36 576 36 571 l 36 576 q 147 782 31 600 l 147 782 q 244 865 214 849 l 244 865 q 374 904 319 907 l 374 904 q 431 904 403 904 l 431 904 q 444 901 439 907 l 444 901 l 463 899 q 501 883 471 903 q 543 849 532 863 l 543 849 q 586 697 581 800 l 586 697 q 583 521 599 593 l 583 521 l 583 490 q 578 476 583 488 l 578 476 q 571 442 579 464 q 564 411 563 421 l 564 411 l 553 331 q 535 258 535 261 l 535 258 l 525 229 q 510 183 513 204 l 510 183 q 506 165 506 181 l 506 165 q 501 147 503 160 q 493 126 499 135 q 485 103 488 118 q 457 45 482 89 q 426 -3 432 1 l 426 -3 l 411 -17 l 378 -32 q 249 -32 325 -43 l 249 -32 q 239 -6 236 -25 l 239 -6 q 262 47 242 17 q 294 107 282 78 q 312 149 307 136 q 330 204 317 163 q 343 247 343 246 l 343 247 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,

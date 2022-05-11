@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,88 +12,70 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'DM Mono Light Italic'",
-          "'DMMono-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-orYadYY39.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTT7PB1QTsUX8KYth-orYadYY3-&skey=adfe8cf4b5bc144d&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-orYadYY38.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-orYadYY3_.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-orYadb435.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-orYadYY39.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTT7PB1QTsUX8KYth-orYadYY3-&skey=adfe8cf4b5bc144d&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-orYadYY38.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-orYadYY3_.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-orYadb435.woff2"
         }
       },
       "400": {
-        "local": [
-          "'DM Mono Italic'",
-          "'DMMono-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTW7PB1QTsUX8KYth-gCKSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTW7PB1QTsUX8KYth-gCKSP&skey=ddea0452ad7481a5&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTW7PB1QTsUX8KYth-gCKSN.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTW7PB1QTsUX8KYth-gCKSO.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTW7PB1QTsUX8KYth-gBqSI.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTW7PB1QTsUX8KYth-gCKSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTW7PB1QTsUX8KYth-gCKSP&skey=ddea0452ad7481a5&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTW7PB1QTsUX8KYth-gCKSN.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTW7PB1QTsUX8KYth-gCKSO.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTW7PB1QTsUX8KYth-gBqSI.woff2"
         }
       },
       "500": {
-        "local": [
-          "'DM Mono Medium Italic'",
-          "'DMMono-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-o9YedYY39.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTT7PB1QTsUX8KYth-o9YedYY3-&skey=494350715e8f7f61&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-o9YedYY38.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-o9YedYY3_.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-o9Yedb435.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-o9YedYY39.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTT7PB1QTsUX8KYth-o9YedYY3-&skey=494350715e8f7f61&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-o9YedYY38.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-o9YedYY3_.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-o9Yedb435.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'DM Mono Light'",
-          "'DMMono-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvrGyEY2taQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTR7PB1QTsUX8KYvrGyEY2tag&skey=d4f206f6aecab2b9&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvrGyEY2taA.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvrGyEY2taw.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvrGyEYOtbQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvrGyEY2taQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTR7PB1QTsUX8KYvrGyEY2tag&skey=d4f206f6aecab2b9&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvrGyEY2taA.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvrGyEY2taw.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvrGyEYOtbQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'DM Mono Regular'",
-          "'DMMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTU7PB1QTsUX8KYthSQAA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PB1QTsUX8KYthSQAw&skey=7fffa551dba78cac&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTU7PB1QTsUX8KYthSQAQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTU7PB1QTsUX8KYthSQAg.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTU7PB1QTsUX8KYthqQBA.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTU7PB1QTsUX8KYthSQAA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PB1QTsUX8KYthSQAw&skey=7fffa551dba78cac&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTU7PB1QTsUX8KYthSQAQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTU7PB1QTsUX8KYthSQAg.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTU7PB1QTsUX8KYthqQBA.woff2"
         }
       },
       "500": {
-        "local": [
-          "'DM Mono Medium'",
-          "'DMMono-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvumzEY2taQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTR7PB1QTsUX8KYvumzEY2tag&skey=e96fea085afb5a8a&v=v2#DMMono",
-          "ttf": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvumzEY2taA.ttf",
-          "woff": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvumzEY2taw.woff",
-          "woff2": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvumzEY2taQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTR7PB1QTsUX8KYvumzEY2tag&skey=e96fea085afb5a8a&v=v10#DMMono",
+          "ttf": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvumzEY2taA.ttf",
+          "woff": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvumzEY2taw.woff",
+          "woff2": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v10",
   "typefaces": {
     "italic": {
       "300": {

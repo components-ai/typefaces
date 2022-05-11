@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cabin Sketch Regular'",
-          "'CabinSketch-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabinsketch/v14/QGYpz_kZZAGCONcK2A4bGOj8mNhJ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QGYpz_kZZAGCONcK2A4bGOj8mNhK&skey=64590cfdee656fb9&v=v14#CabinSketch",
-          "ttf": "https://fonts.gstatic.com/s/cabinsketch/v14/QGYpz_kZZAGCONcK2A4bGOj8mNhI.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabinsketch/v14/QGYpz_kZZAGCONcK2A4bGOj8mNhL.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabinsketch/v14/QGYpz_kZZAGCONcK2A4bGOj8mNhN.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabinsketch/v19/QGYpz_kZZAGCONcK2A4bGOj8mNhJ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QGYpz_kZZAGCONcK2A4bGOj8mNhK&skey=64590cfdee656fb9&v=v19#CabinSketch",
+          "ttf": "https://fonts.gstatic.com/s/cabinsketch/v19/QGYpz_kZZAGCONcK2A4bGOj8mNhI.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabinsketch/v19/QGYpz_kZZAGCONcK2A4bGOj8mNhL.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabinsketch/v19/QGYpz_kZZAGCONcK2A4bGOj8mNhN.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cabin Sketch Bold'",
-          "'CabinSketch-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cabinsketch/v14/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj0&skey=ed1957a6296b121e&v=v14#CabinSketch",
-          "ttf": "https://fonts.gstatic.com/s/cabinsketch/v14/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj2.ttf",
-          "woff": "https://fonts.gstatic.com/s/cabinsketch/v14/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj1.woff",
-          "woff2": "https://fonts.gstatic.com/s/cabinsketch/v14/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tjz.woff2"
+          "eot": "https://fonts.gstatic.com/s/cabinsketch/v19/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj0&skey=ed1957a6296b121e&v=v19#CabinSketch",
+          "ttf": "https://fonts.gstatic.com/s/cabinsketch/v19/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj2.ttf",
+          "woff": "https://fonts.gstatic.com/s/cabinsketch/v19/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj1.woff",
+          "woff2": "https://fonts.gstatic.com/s/cabinsketch/v19/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tjz.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

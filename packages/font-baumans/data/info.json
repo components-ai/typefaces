@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Baumans Regular'",
-          "'Baumans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04bw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-W_-XJj9QyTd3Qfpd_04bA&skey=34ab2ddaf19de28&v=v10#Baumans",
-          "ttf": "https://fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04bg.ttf",
-          "woff": "https://fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04bQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04aw.woff2"
+          "eot": "https://fonts.gstatic.com/s/baumans/v17/-W_-XJj9QyTd3Qfpd_04bw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-W_-XJj9QyTd3Qfpd_04bA&skey=34ab2ddaf19de28&v=v17#Baumans",
+          "ttf": "https://fonts.gstatic.com/s/baumans/v17/-W_-XJj9QyTd3Qfpd_04bg.ttf",
+          "woff": "https://fonts.gstatic.com/s/baumans/v17/-W_-XJj9QyTd3Qfpd_04bQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/baumans/v17/-W_-XJj9QyTd3Qfpd_04aw.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

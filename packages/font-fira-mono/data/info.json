@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -20,47 +20,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fira Mono Regular'",
-          "'FiraMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgKP7W.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SlFPv1weGeLZDtgKP7V&skey=bb26c8d476ab3f05&v=v9#FiraMono",
-          "ttf": "https://fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgKP7X.ttf",
-          "woff": "https://fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgKP7U.woff",
-          "woff2": "https://fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgJv7S.woff2"
+          "eot": "https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgKP7W.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SlFPv1weGeLZDtgKP7V&skey=bb26c8d476ab3f05&v=v14#FiraMono",
+          "ttf": "https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgKP7X.ttf",
+          "woff": "https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgKP7U.woff",
+          "woff2": "https://fonts.gstatic.com/s/firamono/v14/N0bX2SlFPv1weGeLZDtgJv7S.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Fira Mono Medium'",
-          "'FiraMono-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HkPfQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDto1d3HkPfT&skey=9ab5808f9463dfb5&v=v9#FiraMono",
-          "ttf": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HkPfR.ttf",
-          "woff": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HkPfS.woff",
-          "woff2": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HnvfU.woff2"
+          "eot": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDto1d3HkPfQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDto1d3HkPfT&skey=9ab5808f9463dfb5&v=v14#FiraMono",
+          "ttf": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDto1d3HkPfR.ttf",
+          "woff": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDto1d3HkPfS.woff",
+          "woff2": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDto1d3HnvfU.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Fira Mono Bold'",
-          "'FiraMono-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHkPfQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDtondvHkPfT&skey=3313aa7e4518a10&v=v9#FiraMono",
-          "ttf": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHkPfR.ttf",
-          "woff": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHkPfS.woff",
-          "woff2": "https://fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHnvfU.woff2"
+          "eot": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDtondvHkPfQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDtondvHkPfT&skey=3313aa7e4518a10&v=v14#FiraMono",
+          "ttf": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDtondvHkPfR.ttf",
+          "woff": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDtondvHkPfS.woff",
+          "woff2": "https://fonts.gstatic.com/s/firamono/v14/N0bS2SlFPv1weGeLZDtondvHnvfU.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

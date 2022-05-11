@@ -659,7 +659,7 @@
       "en": "Padauk Bold"
     },
     "version": {
-      "en": "Version 3.002"
+      "en": "Version 3.003; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D mymr -f latn -a qsq -W -X \"\""
     },
     "postScriptName": {
       "en": "Padauk-Bold"

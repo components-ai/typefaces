@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Glass Antiqua'",
-          "'GlassAntiqua-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/glassantiqua/v8/xfu30Wr0Wn3NOQM2piC0uXOjrLb6Mg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xfu30Wr0Wn3NOQM2piC0uXOjrLb6MQ&skey=546960b56752cfa5&v=v8#GlassAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/glassantiqua/v8/xfu30Wr0Wn3NOQM2piC0uXOjrLb6Mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/glassantiqua/v8/xfu30Wr0Wn3NOQM2piC0uXOjrLb6MA.woff",
-          "woff2": "https://fonts.gstatic.com/s/glassantiqua/v8/xfu30Wr0Wn3NOQM2piC0uXOjrLj6Ng.woff2"
+          "eot": "https://fonts.gstatic.com/s/glassantiqua/v20/xfu30Wr0Wn3NOQM2piC0uXOjrLb6Mg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xfu30Wr0Wn3NOQM2piC0uXOjrLb6MQ&skey=546960b56752cfa5&v=v20#GlassAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/glassantiqua/v20/xfu30Wr0Wn3NOQM2piC0uXOjrLb6Mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/glassantiqua/v20/xfu30Wr0Wn3NOQM2piC0uXOjrLb6MA.woff",
+          "woff2": "https://fonts.gstatic.com/s/glassantiqua/v20/xfu30Wr0Wn3NOQM2piC0uXOjrLj6Ng.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

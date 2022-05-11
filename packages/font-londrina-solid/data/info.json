@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,60 +10,48 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Londrina Solid Thin'",
-          "'LondrinaSolid-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtw&skey=91d88a75af341b60&v=v10#LondrinaSolid",
-          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtg.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUsA.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinasolid/v15/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtw&skey=91d88a75af341b60&v=v15#LondrinaSolid",
+          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v15/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinasolid/v15/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtg.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v15/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUsA.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Londrina Solid Light'",
-          "'LondrinaSolid-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZs&skey=88df0a883ee1eca7&v=v10#LondrinaSolid",
-          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZk.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZo.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZw.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZs&skey=88df0a883ee1eca7&v=v15#LondrinaSolid",
+          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZk.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZo.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZw.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Londrina Solid Regular'",
-          "'LondrinaSolid-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRq6sw40kQEJxWNgkLuudGfNeKBQ&skey=326ae8157bfb39d5&v=v10#LondrinaSolid",
-          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinasolid/v15/flUhRq6sw40kQEJxWNgkLuudGfNeKBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUhRq6sw40kQEJxWNgkLuudGfNeKBQ&skey=326ae8157bfb39d5&v=v15#LondrinaSolid",
+          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v15/flUhRq6sw40kQEJxWNgkLuudGfNeKBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinasolid/v15/flUhRq6sw40kQEJxWNgkLuudGfNeKBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v15/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Londrina Solid Black'",
-          "'LondrinaSolid-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZs&skey=bd32d771db6c96a5&v=v10#LondrinaSolid",
-          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZk.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZo.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZw.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZs&skey=bd32d771db6c96a5&v=v15#LondrinaSolid",
+          "ttf": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZk.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZo.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinasolid/v15/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZw.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "100": {

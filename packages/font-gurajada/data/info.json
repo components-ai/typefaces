@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gurajada'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6M0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qx308m-l-0Ke6H6M4&skey=6cdaef1bf910cd15&v=v9#Gurajada",
-          "ttf": "https://fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6Mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6M8.woff",
-          "woff2": "https://fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6Mk.woff2"
+          "eot": "https://fonts.gstatic.com/s/gurajada/v15/FwZY7-Qx308m-l-0Ke6H6M0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qx308m-l-0Ke6H6M4&skey=6cdaef1bf910cd15&v=v15#Gurajada",
+          "ttf": "https://fonts.gstatic.com/s/gurajada/v15/FwZY7-Qx308m-l-0Ke6H6Mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/gurajada/v15/FwZY7-Qx308m-l-0Ke6H6M8.woff",
+          "woff2": "https://fonts.gstatic.com/s/gurajada/v15/FwZY7-Qx308m-l-0Ke6H6Mk.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

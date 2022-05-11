@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Fauna One'",
-          "'FaunaOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wlpzgwTPBVpjpCuwkuEB0EZN&skey=3137b8e8ee7f1c9e&v=v8#FaunaOne",
-          "ttf": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZP.ttf",
-          "woff": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZM.woff",
-          "woff2": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB3kZK.woff2"
+          "eot": "https://fonts.gstatic.com/s/faunaone/v13/wlpzgwTPBVpjpCuwkuEB0EZO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wlpzgwTPBVpjpCuwkuEB0EZN&skey=3137b8e8ee7f1c9e&v=v13#FaunaOne",
+          "ttf": "https://fonts.gstatic.com/s/faunaone/v13/wlpzgwTPBVpjpCuwkuEB0EZP.ttf",
+          "woff": "https://fonts.gstatic.com/s/faunaone/v13/wlpzgwTPBVpjpCuwkuEB0EZM.woff",
+          "woff2": "https://fonts.gstatic.com/s/faunaone/v13/wlpzgwTPBVpjpCuwkuEB3kZK.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

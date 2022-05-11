@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Astloch Regular'",
-          "'Astloch-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbyQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGRUVJ8QI5GSeUjm9sbyg&skey=30fe264da3626cbd&v=v12#Astloch",
-          "ttf": "https://fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbyA.ttf",
-          "woff": "https://fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbyw.woff",
-          "woff2": "https://fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbzQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm9sbyQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGRUVJ8QI5GSeUjm9sbyg&skey=30fe264da3626cbd&v=v26#Astloch",
+          "ttf": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm9sbyA.ttf",
+          "woff": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm9sbyw.woff",
+          "woff2": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm9sbzQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Astloch Bold'",
-          "'Astloch-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFBg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGUUVJ8QI5GSeUjk2A-2MRFBQ&skey=969de94cc0591ce8&v=v12#Astloch",
-          "ttf": "https://fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFBw.ttf",
-          "woff": "https://fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFBA.woff",
-          "woff2": "https://fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFAg.woff2"
+          "eot": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-2MRFBg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGUUVJ8QI5GSeUjk2A-2MRFBQ&skey=969de94cc0591ce8&v=v26#Astloch",
+          "ttf": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-2MRFBw.ttf",
+          "woff": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-2MRFBA.woff",
+          "woff2": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-2MRFAg.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v26",
   "typefaces": {
     "normal": {
       "400": {

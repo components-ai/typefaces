@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ledger'",
-          "'Ledger-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBksr1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sBksr2&skey=6e1b03f801dd56e8&v=v9#Ledger",
-          "ttf": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBksr0.ttf",
-          "woff": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBksr3.woff",
-          "woff2": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBnMrx.woff2"
+          "eot": "https://fonts.gstatic.com/s/ledger/v16/j8_q6-HK1L3if_sBksr1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sBksr2&skey=6e1b03f801dd56e8&v=v16#Ledger",
+          "ttf": "https://fonts.gstatic.com/s/ledger/v16/j8_q6-HK1L3if_sBksr0.ttf",
+          "woff": "https://fonts.gstatic.com/s/ledger/v16/j8_q6-HK1L3if_sBksr3.woff",
+          "woff2": "https://fonts.gstatic.com/s/ledger/v16/j8_q6-HK1L3if_sBnMrx.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

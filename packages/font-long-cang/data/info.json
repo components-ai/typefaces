@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-11-05",
+  "lastModified": "2022-04-26",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Long Cang Regular'",
-          "'LongCang-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnou.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQqnot&skey=429db178d90bd0ed&v=v5#LongCang",
-          "ttf": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnov.ttf",
-          "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff",
-          "woff2": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRgqBgxXsWsMfnCm1_q1j3gcsptb8OMg_Z2HVZhDbPBCIyx.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRQqnou.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQqnot&skey=429db178d90bd0ed&v=v17#LongCang",
+          "ttf": "https://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRQqnov.ttf",
+          "woff": "https://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRQqnos.woff",
+          "woff2": "https://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRgqBgxXsWsMfnCm1_q1j3gcsptb8OMg_Z2HVZhDbPBCIyx.119.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

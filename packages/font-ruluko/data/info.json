@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ruluko'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZAq-2.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xMQVuFNZVaODtm0ZAq-1&skey=85a667c45721b299&v=v8#Ruluko",
-          "ttf": "https://fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZAq-3.ttf",
-          "woff": "https://fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZAq-0.woff",
-          "woff2": "https://fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZDK-y.woff2"
+          "eot": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZAq-2.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xMQVuFNZVaODtm0ZAq-1&skey=85a667c45721b299&v=v21#Ruluko",
+          "ttf": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZAq-3.ttf",
+          "woff": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZAq-0.woff",
+          "woff2": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZDK-y.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

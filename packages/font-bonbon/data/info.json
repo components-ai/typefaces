@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bonbon Regular'",
-          "'Bonbon-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsF.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlVVPeVlFec4eePdzsG&skey=794577c46d82d6ca&v=v12#Bonbon",
-          "ttf": "https://fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsE.ttf",
-          "woff": "https://fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsH.woff",
-          "woff2": "https://fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsB.woff2"
+          "eot": "https://fonts.gstatic.com/s/bonbon/v26/0FlVVPeVlFec4eePdzsF.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlVVPeVlFec4eePdzsG&skey=794577c46d82d6ca&v=v26#Bonbon",
+          "ttf": "https://fonts.gstatic.com/s/bonbon/v26/0FlVVPeVlFec4eePdzsE.ttf",
+          "woff": "https://fonts.gstatic.com/s/bonbon/v26/0FlVVPeVlFec4eePdzsH.woff",
+          "woff2": "https://fonts.gstatic.com/s/bonbon/v26/0FlVVPeVlFec4eePdzsB.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v26",
   "typefaces": {
     "normal": {
       "400": {

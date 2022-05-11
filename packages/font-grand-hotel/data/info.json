@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Grand Hotel'",
-          "'GrandHotel-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/grandhotel/v8/7Au7p_IgjDKdCRWuR1azplQEGFg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au7p_IgjDKdCRWuR1azplQEGFs&skey=3d5373e9fc70eefe&v=v8#GrandHotel",
-          "ttf": "https://fonts.gstatic.com/s/grandhotel/v8/7Au7p_IgjDKdCRWuR1azplQEGFk.ttf",
-          "woff": "https://fonts.gstatic.com/s/grandhotel/v8/7Au7p_IgjDKdCRWuR1azplQEGFo.woff",
-          "woff2": "https://fonts.gstatic.com/s/grandhotel/v8/7Au7p_IgjDKdCRWuR1azplQKGFw.woff2"
+          "eot": "https://fonts.gstatic.com/s/grandhotel/v13/7Au7p_IgjDKdCRWuR1azplQEGFg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au7p_IgjDKdCRWuR1azplQEGFs&skey=3d5373e9fc70eefe&v=v13#GrandHotel",
+          "ttf": "https://fonts.gstatic.com/s/grandhotel/v13/7Au7p_IgjDKdCRWuR1azplQEGFk.ttf",
+          "woff": "https://fonts.gstatic.com/s/grandhotel/v13/7Au7p_IgjDKdCRWuR1azplQEGFo.woff",
+          "woff2": "https://fonts.gstatic.com/s/grandhotel/v13/7Au7p_IgjDKdCRWuR1azplQKGFw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

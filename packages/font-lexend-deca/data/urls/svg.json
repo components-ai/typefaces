@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=K2F1fZFYk-dHSE0UPPuwQ5qpJyg&skey=885fac1a2cdd625a&v=v3#LexendDeca"
+    "100": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48MxwpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "200": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cM1wpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "300": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4rs1wpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "400": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "500": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1wpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "600": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspwpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "700": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4F8pwpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "800": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cMpwpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca",
+    "900": "https://fonts.gstatic.com/l/font?kit=K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4WcpwpRnE&skey=885fac1a2cdd625a&v=v16#LexendDeca"
   }
 }

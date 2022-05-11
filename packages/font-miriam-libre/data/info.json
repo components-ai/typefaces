@@ -1,47 +1,41 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "hebrew",
     "latin",
     "latin-ext"
   ],
   "unicodeRange": {
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
     "latin-ext": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Miriam Libre Regular'",
-          "'MiriamLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_faZP6.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdTh798HsHwubBAqfkcBTL_faZP5&skey=136d3f8b2b10bd59&v=v7#MiriamLibre",
-          "ttf": "https://fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_faZP7.ttf",
-          "woff": "https://fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_faZP4.woff",
-          "woff2": "https://fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2"
+          "eot": "https://fonts.gstatic.com/s/miriamlibre/v13/DdTh798HsHwubBAqfkcBTL_faZP6.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdTh798HsHwubBAqfkcBTL_faZP5&skey=136d3f8b2b10bd59&v=v13#MiriamLibre",
+          "ttf": "https://fonts.gstatic.com/s/miriamlibre/v13/DdTh798HsHwubBAqfkcBTL_faZP7.ttf",
+          "woff": "https://fonts.gstatic.com/s/miriamlibre/v13/DdTh798HsHwubBAqfkcBTL_faZP4.woff",
+          "woff2": "https://fonts.gstatic.com/s/miriamlibre/v13/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Miriam Libre Bold'",
-          "'MiriamLibre-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrTMq-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=DdT-798HsHwubBAqfkcBTL_X3LbrTMq9&skey=9a42f8a998b69846&v=v7#MiriamLibre",
-          "ttf": "https://fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrTMq_.ttf",
-          "woff": "https://fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrTMq8.woff",
-          "woff2": "https://fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrQsq6.woff2"
+          "eot": "https://fonts.gstatic.com/s/miriamlibre/v13/DdT-798HsHwubBAqfkcBTL_X3LbrTMq-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=DdT-798HsHwubBAqfkcBTL_X3LbrTMq9&skey=9a42f8a998b69846&v=v13#MiriamLibre",
+          "ttf": "https://fonts.gstatic.com/s/miriamlibre/v13/DdT-798HsHwubBAqfkcBTL_X3LbrTMq_.ttf",
+          "woff": "https://fonts.gstatic.com/s/miriamlibre/v13/DdT-798HsHwubBAqfkcBTL_X3LbrTMq8.woff",
+          "woff2": "https://fonts.gstatic.com/s/miriamlibre/v13/DdT-798HsHwubBAqfkcBTL_X3LbrQsq6.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

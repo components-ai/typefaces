@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sintony'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUET0tvg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XoHm2YDqR7-98cVUET0tvQ&skey=426d22ccedcca3b&v=v8#Sintony",
-          "ttf": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUET0tvw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUET0tvA.woff",
-          "woff2": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtug.woff2"
+          "eot": "https://fonts.gstatic.com/s/sintony/v13/XoHm2YDqR7-98cVUET0tvg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XoHm2YDqR7-98cVUET0tvQ&skey=426d22ccedcca3b&v=v13#Sintony",
+          "ttf": "https://fonts.gstatic.com/s/sintony/v13/XoHm2YDqR7-98cVUET0tvw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sintony/v13/XoHm2YDqR7-98cVUET0tvA.woff",
+          "woff2": "https://fonts.gstatic.com/s/sintony/v13/XoHm2YDqR7-98cVUETMtug.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sintony Bold'",
-          "'Sintony-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr94Jlw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=XoHj2YDqR7-98cVUGYgIr94JlA&skey=902240db7073dc70&v=v8#Sintony",
-          "ttf": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr94Jlg.ttf",
-          "woff": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr94JlQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2"
+          "eot": "https://fonts.gstatic.com/s/sintony/v13/XoHj2YDqR7-98cVUGYgIr94Jlw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=XoHj2YDqR7-98cVUGYgIr94JlA&skey=902240db7073dc70&v=v13#Sintony",
+          "ttf": "https://fonts.gstatic.com/s/sintony/v13/XoHj2YDqR7-98cVUGYgIr94Jlg.ttf",
+          "woff": "https://fonts.gstatic.com/s/sintony/v13/XoHj2YDqR7-98cVUGYgIr94JlQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/sintony/v13/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

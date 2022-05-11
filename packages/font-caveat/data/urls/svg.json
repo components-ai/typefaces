@@ -1,6 +1,8 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7aDYf&skey=7833cd5b856b60c9&v=v8#Caveat",
-    "700": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNqy7W&skey=23f4c72b4f49a52d&v=v8#Caveat"
+    "400": "https://fonts.gstatic.com/l/font?kit=WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIupZg&skey=7833cd5b856b60c9&v=v15#Caveat",
+    "500": "https://fonts.gstatic.com/l/font?kit=WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9eIupZg&skey=7833cd5b856b60c9&v=v15#Caveat",
+    "600": "https://fonts.gstatic.com/l/font?kit=WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6eIupZg&skey=7833cd5b856b60c9&v=v15#Caveat",
+    "700": "https://fonts.gstatic.com/l/font?kit=WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIupZg&skey=7833cd5b856b60c9&v=v15#Caveat"
   }
 }

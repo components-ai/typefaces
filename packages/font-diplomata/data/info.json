@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Diplomata'",
-          "'Diplomata-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvaWZd.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiMXwhNwp-wKxyvaWZe&skey=226c83f2711f8678&v=v12#Diplomata",
-          "ttf": "https://fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvaWZc.ttf",
-          "woff": "https://fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvaWZf.woff",
-          "woff2": "https://fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvZ2ZZ.woff2"
+          "eot": "https://fonts.gstatic.com/s/diplomata/v24/Cn-0JtiMXwhNwp-wKxyvaWZd.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiMXwhNwp-wKxyvaWZe&skey=226c83f2711f8678&v=v24#Diplomata",
+          "ttf": "https://fonts.gstatic.com/s/diplomata/v24/Cn-0JtiMXwhNwp-wKxyvaWZc.ttf",
+          "woff": "https://fonts.gstatic.com/s/diplomata/v24/Cn-0JtiMXwhNwp-wKxyvaWZf.woff",
+          "woff2": "https://fonts.gstatic.com/s/diplomata/v24/Cn-0JtiMXwhNwp-wKxyvZ2ZZ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {

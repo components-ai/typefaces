@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pangolin Regular'",
-          "'Pangolin-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfD79g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cY9GfjGcW0FPpi-tWMfD79s&skey=3db57adcfc639c2d&v=v6#Pangolin",
-          "ttf": "https://fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfD79k.ttf",
-          "woff": "https://fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfD79o.woff",
-          "woff2": "https://fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfN79w.woff2"
+          "eot": "https://fonts.gstatic.com/s/pangolin/v11/cY9GfjGcW0FPpi-tWMfD79g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cY9GfjGcW0FPpi-tWMfD79s&skey=3db57adcfc639c2d&v=v11#Pangolin",
+          "ttf": "https://fonts.gstatic.com/s/pangolin/v11/cY9GfjGcW0FPpi-tWMfD79k.ttf",
+          "woff": "https://fonts.gstatic.com/s/pangolin/v11/cY9GfjGcW0FPpi-tWMfD79o.woff",
+          "woff2": "https://fonts.gstatic.com/s/pangolin/v11/cY9GfjGcW0FPpi-tWMfN79w.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {

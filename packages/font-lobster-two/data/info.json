@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Lobster Two Italic'",
-          "'LobsterTwo-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZGTXPUvIoyV6yN5-fI1qeh4w&skey=12d377d29068b9b1&v=v13#LobsterTwo",
-          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4g.woff",
-          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh5A.woff2"
+          "eot": "https://fonts.gstatic.com/s/lobstertwo/v18/BngOUXZGTXPUvIoyV6yN5-fI1qeh4A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZGTXPUvIoyV6yN5-fI1qeh4w&skey=12d377d29068b9b1&v=v18#LobsterTwo",
+          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v18/BngOUXZGTXPUvIoyV6yN5-fI1qeh4Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/lobstertwo/v18/BngOUXZGTXPUvIoyV6yN5-fI1qeh4g.woff",
+          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v18/BngOUXZGTXPUvIoyV6yN5-fI1qeh5A.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Lobster Two Bold Italic'",
-          "'LobsterTwo-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieQ&skey=eef0fabb91ce4c60&v=v13#LobsterTwo",
-          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-iew.ttf",
-          "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieA.woff",
-          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ifg.woff2"
+          "eot": "https://fonts.gstatic.com/s/lobstertwo/v18/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieQ&skey=eef0fabb91ce4c60&v=v18#LobsterTwo",
+          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v18/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-iew.ttf",
+          "woff": "https://fonts.gstatic.com/s/lobstertwo/v18/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieA.woff",
+          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v18/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ifg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Lobster Two'",
-          "'LobsterTwo'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZGTXPUvIoyV6yN5-fN5qI&skey=9608b5afa19726d9&v=v13#LobsterTwo",
-          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf",
-          "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qM.woff",
-          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qU.woff2"
+          "eot": "https://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZGTXPUvIoyV6yN5-fN5qI&skey=9608b5afa19726d9&v=v18#LobsterTwo",
+          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf",
+          "woff": "https://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qM.woff",
+          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qU.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Lobster Two Bold'",
-          "'LobsterTwo-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZGTXPUvIoyV6yN5-92w7CGwRo&skey=2e1deeaaffb8f661&v=v13#LobsterTwo",
-          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRg.ttf",
-          "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRs.woff",
-          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2"
+          "eot": "https://fonts.gstatic.com/s/lobstertwo/v18/BngRUXZGTXPUvIoyV6yN5-92w7CGwRk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZGTXPUvIoyV6yN5-92w7CGwRo&skey=2e1deeaaffb8f661&v=v18#LobsterTwo",
+          "ttf": "https://fonts.gstatic.com/s/lobstertwo/v18/BngRUXZGTXPUvIoyV6yN5-92w7CGwRg.ttf",
+          "woff": "https://fonts.gstatic.com/s/lobstertwo/v18/BngRUXZGTXPUvIoyV6yN5-92w7CGwRs.woff",
+          "woff2": "https://fonts.gstatic.com/s/lobstertwo/v18/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

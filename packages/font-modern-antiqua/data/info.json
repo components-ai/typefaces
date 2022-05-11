@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Modern Antiqua Regular'",
-          "'ModernAntiqua-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW0&skey=eda495732f0669cf&v=v10#ModernAntiqua",
-          "ttf": "https://fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW8.ttf",
-          "woff": "https://fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYWw.woff",
-          "woff2": "https://fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1DYWo.woff2"
+          "eot": "https://fonts.gstatic.com/s/modernantiqua/v22/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW0&skey=eda495732f0669cf&v=v22#ModernAntiqua",
+          "ttf": "https://fonts.gstatic.com/s/modernantiqua/v22/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW8.ttf",
+          "woff": "https://fonts.gstatic.com/s/modernantiqua/v22/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYWw.woff",
+          "woff2": "https://fonts.gstatic.com/s/modernantiqua/v22/NGStv5TIAUg6Iq_RLNo_2dp1sL1DYWo.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

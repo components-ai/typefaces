@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bungee Outline'",
-          "'BungeeOutline-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_6_mEDvmVP24UvU2MyiGDslL3Tg-aBQ&skey=29f00acf17ba0cd1&v=v6#BungeeOutline",
-          "ttf": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3TgwaBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/bungeeoutline/v18/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_6_mEDvmVP24UvU2MyiGDslL3Tg-aBQ&skey=29f00acf17ba0cd1&v=v18#BungeeOutline",
+          "ttf": "https://fonts.gstatic.com/s/bungeeoutline/v18/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/bungeeoutline/v18/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/bungeeoutline/v18/_6_mEDvmVP24UvU2MyiGDslL3TgwaBM.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

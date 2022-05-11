@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "latin",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Kelly Slab'",
-          "'KellySlab-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kellyslab/v11/-W_7XJX0Rz3cxUnJC5t6fkoLeg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=-W_7XJX0Rz3cxUnJC5t6fkoLeQ&skey=8021e4f176fe967&v=v11#KellySlab",
-          "ttf": "https://fonts.gstatic.com/s/kellyslab/v11/-W_7XJX0Rz3cxUnJC5t6fkoLew.ttf",
-          "woff": "https://fonts.gstatic.com/s/kellyslab/v11/-W_7XJX0Rz3cxUnJC5t6fkoLeA.woff",
-          "woff2": "https://fonts.gstatic.com/s/kellyslab/v11/-W_7XJX0Rz3cxUnJC5t6fkQLfg.woff2"
+          "eot": "https://fonts.gstatic.com/s/kellyslab/v15/-W_7XJX0Rz3cxUnJC5t6fkoLeg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=-W_7XJX0Rz3cxUnJC5t6fkoLeQ&skey=8021e4f176fe967&v=v15#KellySlab",
+          "ttf": "https://fonts.gstatic.com/s/kellyslab/v15/-W_7XJX0Rz3cxUnJC5t6fkoLew.ttf",
+          "woff": "https://fonts.gstatic.com/s/kellyslab/v15/-W_7XJX0Rz3cxUnJC5t6fkoLeA.woff",
+          "woff2": "https://fonts.gstatic.com/s/kellyslab/v15/-W_7XJX0Rz3cxUnJC5t6fkQLfg.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

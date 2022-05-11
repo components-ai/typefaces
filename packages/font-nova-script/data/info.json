@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nova Script Regular'",
-          "'NovaScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=7Au7p_IpkSWSTWaFWkumvlQKGFs&skey=5c166543e0bd14ed&v=v13#NovaScript",
-          "ttf": "https://fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFk.ttf",
-          "woff": "https://fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFo.woff",
-          "woff2": "https://fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFw.woff2"
+          "eot": "https://fonts.gstatic.com/s/novascript/v25/7Au7p_IpkSWSTWaFWkumvlQKGFg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=7Au7p_IpkSWSTWaFWkumvlQKGFs&skey=5c166543e0bd14ed&v=v25#NovaScript",
+          "ttf": "https://fonts.gstatic.com/s/novascript/v25/7Au7p_IpkSWSTWaFWkumvlQKGFk.ttf",
+          "woff": "https://fonts.gstatic.com/s/novascript/v25/7Au7p_IpkSWSTWaFWkumvlQKGFo.woff",
+          "woff2": "https://fonts.gstatic.com/s/novascript/v25/7Au7p_IpkSWSTWaFWkumvlQKGFw.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v25",
   "typefaces": {
     "normal": {
       "400": {

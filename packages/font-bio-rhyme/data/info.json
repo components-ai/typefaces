@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,73 +12,58 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'BioRhyme ExtraLight'",
-          "'BioRhyme-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ESOjkGJocE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ESOjkGJocI&skey=b770df1c76efb37a&v=v5#BioRhyme",
-          "ttf": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ESOjkGJocA.ttf",
-          "woff": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ESOjkGJocM.woff",
-          "woff2": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ESOjkGHocU.woff2"
+          "eot": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ESOjkGJocE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ESOjkGJocI&skey=b770df1c76efb37a&v=v12#BioRhyme",
+          "ttf": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ESOjkGJocA.ttf",
+          "woff": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ESOjkGJocM.woff",
+          "woff2": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ESOjkGHocU.woff2"
         }
       },
       "300": {
-        "local": [
-          "'BioRhyme Light'",
-          "'BioRhyme-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETqjUGJocE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETqjUGJocI&skey=b22aaff48d1f5527&v=v5#BioRhyme",
-          "ttf": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETqjUGJocA.ttf",
-          "woff": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETqjUGJocM.woff",
-          "woff2": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETqjUGHocU.woff2"
+          "eot": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETqjUGJocE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETqjUGJocI&skey=b22aaff48d1f5527&v=v12#BioRhyme",
+          "ttf": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETqjUGJocA.ttf",
+          "woff": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETqjUGJocM.woff",
+          "woff2": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETqjUGHocU.woff2"
         }
       },
       "400": {
-        "local": [
-          "'BioRhyme'",
-          "'BioRhyme-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biorhyme/v5/1cXwaULHBpDMsHYW_ExPr1A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cXwaULHBpDMsHYW_ExPr1M&skey=5c2e0a2fcee9a1a&v=v5#BioRhyme",
-          "ttf": "https://fonts.gstatic.com/s/biorhyme/v5/1cXwaULHBpDMsHYW_ExPr1E.ttf",
-          "woff": "https://fonts.gstatic.com/s/biorhyme/v5/1cXwaULHBpDMsHYW_ExPr1I.woff",
-          "woff2": "https://fonts.gstatic.com/s/biorhyme/v5/1cXwaULHBpDMsHYW_ExBr1Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/biorhyme/v12/1cXwaULHBpDMsHYW_ExPr1A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cXwaULHBpDMsHYW_ExPr1M&skey=5c2e0a2fcee9a1a&v=v12#BioRhyme",
+          "ttf": "https://fonts.gstatic.com/s/biorhyme/v12/1cXwaULHBpDMsHYW_ExPr1E.ttf",
+          "woff": "https://fonts.gstatic.com/s/biorhyme/v12/1cXwaULHBpDMsHYW_ExPr1I.woff",
+          "woff2": "https://fonts.gstatic.com/s/biorhyme/v12/1cXwaULHBpDMsHYW_ExBr1Q.woff2"
         }
       },
       "700": {
-        "local": [
-          "'BioRhyme Bold'",
-          "'BioRhyme-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ET6ikGJocE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ET6ikGJocI&skey=469c34d0ca09d4cf&v=v5#BioRhyme",
-          "ttf": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ET6ikGJocA.ttf",
-          "woff": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ET6ikGJocM.woff",
-          "woff2": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ET6ikGHocU.woff2"
+          "eot": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ET6ikGJocE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ET6ikGJocI&skey=469c34d0ca09d4cf&v=v12#BioRhyme",
+          "ttf": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ET6ikGJocA.ttf",
+          "woff": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ET6ikGJocM.woff",
+          "woff2": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ET6ikGHocU.woff2"
         }
       },
       "800": {
-        "local": [
-          "'BioRhyme ExtraBold'",
-          "'BioRhyme-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETmiUGJocE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETmiUGJocI&skey=f09fd4818fd3b385&v=v5#BioRhyme",
-          "ttf": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETmiUGJocA.ttf",
-          "woff": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETmiUGJocM.woff",
-          "woff2": "https://fonts.gstatic.com/s/biorhyme/v5/1cX3aULHBpDMsHYW_ETmiUGHocU.woff2"
+          "eot": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETmiUGJocE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aULHBpDMsHYW_ETmiUGJocI&skey=f09fd4818fd3b385&v=v12#BioRhyme",
+          "ttf": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETmiUGJocA.ttf",
+          "woff": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETmiUGJocM.woff",
+          "woff2": "https://fonts.gstatic.com/s/biorhyme/v12/1cX3aULHBpDMsHYW_ETmiUGHocU.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "200": {

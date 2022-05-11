@@ -1,16 +1,16 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL9zU68&skey=b76c0cb3db3b0fac&v=v14#EBGaramond",
-    "500": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL9zU68&skey=b76c0cb3db3b0fac&v=v14#EBGaramond",
-    "600": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR79zU68&skey=b76c0cb3db3b0fac&v=v14#EBGaramond",
-    "700": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR79zU68&skey=b76c0cb3db3b0fac&v=v14#EBGaramond",
-    "800": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R79zU68&skey=b76c0cb3db3b0fac&v=v14#EBGaramond"
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL9zU68&skey=b76c0cb3db3b0fac&v=v25#EBGaramond",
+    "500": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL9zU68&skey=b76c0cb3db3b0fac&v=v25#EBGaramond",
+    "600": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR79zU68&skey=b76c0cb3db3b0fac&v=v25#EBGaramond",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR79zU68&skey=b76c0cb3db3b0fac&v=v25#EBGaramond",
+    "800": "https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R79zU68&skey=b76c0cb3db3b0fac&v=v25#EBGaramond"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCo94&skey=fde9b303600e495b&v=v14#EBGaramond",
-    "500": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCo94&skey=fde9b303600e495b&v=v14#EBGaramond",
-    "600": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkCo94&skey=fde9b303600e495b&v=v14#EBGaramond",
-    "700": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkCo94&skey=fde9b303600e495b&v=v14#EBGaramond",
-    "800": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkCo94&skey=fde9b303600e495b&v=v14#EBGaramond"
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCo94&skey=fde9b303600e495b&v=v25#EBGaramond",
+    "500": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCo94&skey=fde9b303600e495b&v=v25#EBGaramond",
+    "600": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkCo94&skey=fde9b303600e495b&v=v25#EBGaramond",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkCo94&skey=fde9b303600e495b&v=v25#EBGaramond",
+    "800": "https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkCo94&skey=fde9b303600e495b&v=v25#EBGaramond"
   }
 }

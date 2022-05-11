@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Luckiest Guy Regular'",
-          "'LuckiestGuy-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd5y.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP_1RrxsjcxVyin9l9n_j2hTd5x&skey=d0ebdb8b75d1ec15&v=v11#LuckiestGuy",
-          "ttf": "https://fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf",
-          "woff": "https://fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd5w.woff",
-          "woff2": "https://fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd52.woff2"
+          "eot": "https://fonts.gstatic.com/s/luckiestguy/v18/_gP_1RrxsjcxVyin9l9n_j2hTd5y.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP_1RrxsjcxVyin9l9n_j2hTd5x&skey=d0ebdb8b75d1ec15&v=v18#LuckiestGuy",
+          "ttf": "https://fonts.gstatic.com/s/luckiestguy/v18/_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf",
+          "woff": "https://fonts.gstatic.com/s/luckiestguy/v18/_gP_1RrxsjcxVyin9l9n_j2hTd5w.woff",
+          "woff2": "https://fonts.gstatic.com/s/luckiestguy/v18/_gP_1RrxsjcxVyin9l9n_j2hTd52.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

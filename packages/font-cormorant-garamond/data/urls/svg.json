@@ -1,16 +1,16 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-EzhQ&skey=5a7e0a432eb14fbf&v=v9#CormorantGaramond",
-    "400": "https://fonts.gstatic.com/l/font?kit=co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmS0&skey=e666f2218a05acfc&v=v9#CormorantGaramond",
-    "500": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-EzhQ&skey=a646f7df62b0db07&v=v9#CormorantGaramond",
-    "600": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-EzhQ&skey=d056cd8e7bb95ad3&v=v9#CormorantGaramond",
-    "700": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-EzhQ&skey=f5baa31c9854d669&v=v9#CormorantGaramond"
+    "300": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-EzhQ&skey=5a7e0a432eb14fbf&v=v15#CormorantGaramond",
+    "400": "https://fonts.gstatic.com/l/font?kit=co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmS0&skey=e666f2218a05acfc&v=v15#CormorantGaramond",
+    "500": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-EzhQ&skey=a646f7df62b0db07&v=v15#CormorantGaramond",
+    "600": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-EzhQ&skey=d056cd8e7bb95ad3&v=v15#CormorantGaramond",
+    "700": "https://fonts.gstatic.com/l/font?kit=co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-EzhQ&skey=f5baa31c9854d669&v=v15#CormorantGaramond"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfsA-P&skey=4f9ed6f80d6d2fa0&v=v9#CormorantGaramond",
-    "400": "https://fonts.gstatic.com/l/font?kit=co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tN&skey=a863d1376a24bd7a&v=v9#CormorantGaramond",
-    "500": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfsA-P&skey=4b255bdbddcd870c&v=v9#CormorantGaramond",
-    "600": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fsA-P&skey=e242efc8b3e67934&v=v9#CormorantGaramond",
-    "700": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsA-P&skey=3181ffd829cb74e8&v=v9#CormorantGaramond"
+    "300": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfsA-P&skey=4f9ed6f80d6d2fa0&v=v15#CormorantGaramond",
+    "400": "https://fonts.gstatic.com/l/font?kit=co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tN&skey=a863d1376a24bd7a&v=v15#CormorantGaramond",
+    "500": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfsA-P&skey=4b255bdbddcd870c&v=v15#CormorantGaramond",
+    "600": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fsA-P&skey=e242efc8b3e67934&v=v15#CormorantGaramond",
+    "700": "https://fonts.gstatic.com/l/font?kit=co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsA-P&skey=3181ffd829cb74e8&v=v15#CormorantGaramond"
   }
 }

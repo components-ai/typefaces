@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "tamil"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Meera Inimai'",
-          "'MeeraInimai-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLG.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=845fNMM5EIqOW5MPuvO3ILeZ-GLF&skey=117d94e55359b521&v=v5#MeeraInimai",
-          "ttf": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLH.ttf",
-          "woff": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLE.woff",
-          "woff2": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2"
+          "eot": "https://fonts.gstatic.com/s/meerainimai/v12/845fNMM5EIqOW5MPuvO3ILeZ-GLG.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=845fNMM5EIqOW5MPuvO3ILeZ-GLF&skey=117d94e55359b521&v=v12#MeeraInimai",
+          "ttf": "https://fonts.gstatic.com/s/meerainimai/v12/845fNMM5EIqOW5MPuvO3ILeZ-GLH.ttf",
+          "woff": "https://fonts.gstatic.com/s/meerainimai/v12/845fNMM5EIqOW5MPuvO3ILeZ-GLE.woff",
+          "woff2": "https://fonts.gstatic.com/s/meerainimai/v12/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

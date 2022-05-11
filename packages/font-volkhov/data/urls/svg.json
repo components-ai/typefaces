@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v12#Volkhov",
-    "700": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v12#Volkhov"
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v17#Volkhov",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v17#Volkhov"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v12#Volkhov",
-    "700": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v12#Volkhov"
+    "400": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v17#Volkhov",
+    "700": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v17#Volkhov"
   }
 }

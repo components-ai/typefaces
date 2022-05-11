@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Walter Turncoat Regular'",
-          "'WalterTurncoat-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxeY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=snfys0Gs98ln43n0d-14ULoToe6LZxeb&skey=6bc03a35b3fe78cd&v=v11#WalterTurncoat",
-          "ttf": "https://fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxeZ.ttf",
-          "woff": "https://fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxea.woff",
-          "woff2": "https://fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxec.woff2"
+          "eot": "https://fonts.gstatic.com/s/walterturncoat/v19/snfys0Gs98ln43n0d-14ULoToe6LZxeY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=snfys0Gs98ln43n0d-14ULoToe6LZxeb&skey=6bc03a35b3fe78cd&v=v19#WalterTurncoat",
+          "ttf": "https://fonts.gstatic.com/s/walterturncoat/v19/snfys0Gs98ln43n0d-14ULoToe6LZxeZ.ttf",
+          "woff": "https://fonts.gstatic.com/s/walterturncoat/v19/snfys0Gs98ln43n0d-14ULoToe6LZxea.woff",
+          "woff2": "https://fonts.gstatic.com/s/walterturncoat/v19/snfys0Gs98ln43n0d-14ULoToe6LZxec.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

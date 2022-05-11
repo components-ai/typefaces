@@ -1,14 +1,18 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/manuale/v7/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zNXIA.woff2",
-    "500": "https://fonts.gstatic.com/s/manuale/v7/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zNXIA.woff2",
-    "600": "https://fonts.gstatic.com/s/manuale/v7/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zNXIA.woff2",
-    "700": "https://fonts.gstatic.com/s/manuale/v7/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zNXIA.woff2"
+    "300": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOApA7zNXIA.woff2",
+    "400": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zNXIA.woff2",
+    "500": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zNXIA.woff2",
+    "600": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zNXIA.woff2",
+    "700": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zNXIA.woff2",
+    "800": "https://fonts.gstatic.com/s/manuale/v22/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsONRH7zNXIA.woff2"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/manuale/v7/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wE3zE.woff2",
-    "500": "https://fonts.gstatic.com/s/manuale/v7/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wE3zE.woff2",
-    "600": "https://fonts.gstatic.com/s/manuale/v7/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwE3zE.woff2",
-    "700": "https://fonts.gstatic.com/s/manuale/v7/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwE3zE.woff2"
+    "300": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeG6e4wE3zE.woff2",
+    "400": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wE3zE.woff2",
+    "500": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wE3zE.woff2",
+    "600": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwE3zE.woff2",
+    "700": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwE3zE.woff2",
+    "800": "https://fonts.gstatic.com/s/manuale/v22/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeFkfIwE3zE.woff2"
   }
 }

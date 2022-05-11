@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Spinnaker'",
-          "'Spinnaker-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/spinnaker/v12/w8gYH2oyX-I0_rvR6HmX1XYO.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2oyX-I0_rvR6HmX1XYN&skey=97e90751ea1c9deb&v=v12#Spinnaker",
-          "ttf": "https://fonts.gstatic.com/s/spinnaker/v12/w8gYH2oyX-I0_rvR6HmX1XYP.ttf",
-          "woff": "https://fonts.gstatic.com/s/spinnaker/v12/w8gYH2oyX-I0_rvR6HmX1XYM.woff",
-          "woff2": "https://fonts.gstatic.com/s/spinnaker/v12/w8gYH2oyX-I0_rvR6HmX23YK.woff2"
+          "eot": "https://fonts.gstatic.com/s/spinnaker/v17/w8gYH2oyX-I0_rvR6HmX1XYO.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2oyX-I0_rvR6HmX1XYN&skey=97e90751ea1c9deb&v=v17#Spinnaker",
+          "ttf": "https://fonts.gstatic.com/s/spinnaker/v17/w8gYH2oyX-I0_rvR6HmX1XYP.ttf",
+          "woff": "https://fonts.gstatic.com/s/spinnaker/v17/w8gYH2oyX-I0_rvR6HmX1XYM.woff",
+          "woff2": "https://fonts.gstatic.com/s/spinnaker/v17/w8gYH2oyX-I0_rvR6HmX23YK.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 99,
             "x_max": 882,
             "o": "m 740 432 l 740 432 q 440 355 606 355 l 440 355 q 199 426 292 355 l 199 426 q 99 637 99 501 l 99 637 q 212 882 99 786 l 212 882 q 478 974 321 974 l 478 974 q 774 859 666 974 l 774 859 q 882 553 882 745 l 882 553 q 618 31 882 155 l 618 31 q 379 -14 513 -18 l 379 -14 q 149 39 260 -9 l 149 39 l 182 147 q 538 121 391 63 l 538 121 q 740 432 703 186 z m 749 558 l 749 570 q 673 781 749 701 l 673 781 q 466 861 595 861 l 466 861 q 301 807 366 861 l 301 807 q 232 657 232 749 l 232 657 q 297 518 232 570 l 297 518 q 452 469 359 469 l 452 469 q 692 525 580 469 l 692 525 q 749 558 725 541 l 749 558 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 396,

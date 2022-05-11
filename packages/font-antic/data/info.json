@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Antic Regular'",
-          "'Antic-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq90.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB8XY5DRZZMq94&skey=65ef8eb2e4187b6c&v=v12#Antic",
-          "ttf": "https://fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq98.woff",
-          "woff2": "https://fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq9k.woff2"
+          "eot": "https://fonts.gstatic.com/s/antic/v19/TuGfUVB8XY5DRZZMq90.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB8XY5DRZZMq94&skey=65ef8eb2e4187b6c&v=v19#Antic",
+          "ttf": "https://fonts.gstatic.com/s/antic/v19/TuGfUVB8XY5DRZZMq9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/antic/v19/TuGfUVB8XY5DRZZMq98.woff",
+          "woff2": "https://fonts.gstatic.com/s/antic/v19/TuGfUVB8XY5DRZZMq9k.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

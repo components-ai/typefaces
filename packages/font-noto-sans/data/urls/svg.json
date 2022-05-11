@@ -1,10 +1,24 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=o-0OIpQlx3QUlC5A4PNr4ARMQ_4&skey=10db4434b0359efc&v=v11#NotoSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzWo&skey=940e0a2cc413d0c8&v=v11#NotoSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=o-0MIpQlx3QUlC5A4PNr4Awhc_Wk7w&skey=f1b6cf7ab5cde44c&v=v27#NotoSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AyNYuyNzWo&skey=28598ec6b00b2ffa&v=v27#NotoSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AzpYeyNzWo&skey=dcc82ad9440fbf79&v=v27#NotoSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=o-0OIpQlx3QUlC5A4PNr4ARMQ_4&skey=10db4434b0359efc&v=v27#NotoSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AyxYOyNzWo&skey=f5d94c36a6653228&v=v27#NotoSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AydZ-yNzWo&skey=320cf3c978be7f36&v=v27#NotoSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzWo&skey=940e0a2cc413d0c8&v=v27#NotoSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AzlZeyNzWo&skey=cacf09c0d8525c6b&v=v27#NotoSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4AzBZOyNzWo&skey=ea250d8cc01a29a8&v=v27#NotoSans"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=o-0IIpQlx3QUlC5A4PNr6zRH&skey=2b960fe17823056f&v=v11#NotoSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjXhFVatyG&skey=c04743c8f0416da6&v=v11#NotoSans"
+    "100": "https://fonts.gstatic.com/l/font?kit=o-0OIpQlx3QUlC5A4PNjhgRMQ_4&skey=993bddccc1a2afba&v=v27#NotoSans",
+    "200": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjKhVVatyG&skey=ec80056291b0a45c&v=v27#NotoSans",
+    "300": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjThZVatyG&skey=22702de474ed25b3&v=v27#NotoSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=o-0IIpQlx3QUlC5A4PNr6zRH&skey=2b960fe17823056f&v=v27#NotoSans",
+    "500": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjFhdVatyG&skey=f82664016e9ae28c&v=v27#NotoSans",
+    "600": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjOhBVatyG&skey=8791a86f1e8b5e22&v=v27#NotoSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjXhFVatyG&skey=c04743c8f0416da6&v=v27#NotoSans",
+    "800": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjQhJVatyG&skey=c7856b2a52561d21&v=v27#NotoSans",
+    "900": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjZhNVatyG&skey=e461313d323bd2cb&v=v27#NotoSans"
   }
 }

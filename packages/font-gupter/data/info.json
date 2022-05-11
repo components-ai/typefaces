@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,47 +10,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Gupter Regular'",
-          "'Gupter-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy6.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2-cm9JNmxJqPO1QkZpy5&skey=49cbeab550996a2d&v=v2#Gupter",
-          "ttf": "https://fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy7.ttf",
-          "woff": "https://fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy4.woff",
-          "woff2": "https://fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy-.woff2"
+          "eot": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkZpy6.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2-cm9JNmxJqPO1QkZpy5&skey=49cbeab550996a2d&v=v14#Gupter",
+          "ttf": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkZpy7.ttf",
+          "woff": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkZpy4.woff",
+          "woff2": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkZpy-.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Gupter Medium'",
-          "'Gupter-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc78.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2-cl9JNmxJqPO1Qslb-rVc7_&skey=635b493cd1fda9cb&v=v2#Gupter",
-          "ttf": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc79.ttf",
-          "woff": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc7-.woff",
-          "woff2": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc74.woff2"
+          "eot": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-rVc78.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2-cl9JNmxJqPO1Qslb-rVc7_&skey=635b493cd1fda9cb&v=v14#Gupter",
+          "ttf": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-rVc79.ttf",
+          "woff": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-rVc7-.woff",
+          "woff2": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-rVc74.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gupter Bold'",
-          "'Gupter-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc78.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2-cl9JNmxJqPO1Qs3bmrVc7_&skey=e30c486dd591421c&v=v2#Gupter",
-          "ttf": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc79.ttf",
-          "woff": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc7-.woff",
-          "woff2": "https://fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc74.woff2"
+          "eot": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmrVc78.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2-cl9JNmxJqPO1Qs3bmrVc7_&skey=e30c486dd591421c&v=v14#Gupter",
+          "ttf": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmrVc79.ttf",
+          "woff": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmrVc7-.woff",
+          "woff2": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmrVc74.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

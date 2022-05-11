@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=KtkoALODe433f0j1zMnALdKCwQ&skey=dac6b44f9133488d&v=v11#Amaranth",
-    "700": "https://fonts.gstatic.com/l/font?kit=KtkrALODe433f0j1zMnAJWmn02P3FQ&skey=bb7722acf0fb9a8b&v=v11#Amaranth"
+    "400": "https://fonts.gstatic.com/l/font?kit=KtkoALODe433f0j1zMnALdKCwQ&skey=dac6b44f9133488d&v=v18#Amaranth",
+    "700": "https://fonts.gstatic.com/l/font?kit=KtkrALODe433f0j1zMnAJWmn02P3FQ&skey=bb7722acf0fb9a8b&v=v18#Amaranth"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=KtkuALODe433f0j1zMnFHdc&skey=a086a5f010412431&v=v11#Amaranth",
-    "700": "https://fonts.gstatic.com/l/font?kit=KtkpALODe433f0j1zMF-OMWl42Y&skey=1f08e89f032cc13c&v=v11#Amaranth"
+    "400": "https://fonts.gstatic.com/l/font?kit=KtkuALODe433f0j1zMnFHdc&skey=a086a5f010412431&v=v18#Amaranth",
+    "700": "https://fonts.gstatic.com/l/font?kit=KtkpALODe433f0j1zMF-OMWl42Y&skey=1f08e89f032cc13c&v=v18#Amaranth"
   }
 }

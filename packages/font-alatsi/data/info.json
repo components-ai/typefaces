@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Alatsi Regular'",
-          "'Alatsi-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8C.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TK3iWkUJAxQ2nLN2Fz8B&skey=861c1b101f0a39de&v=v2#Alatsi",
-          "ttf": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8D.ttf",
-          "woff": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2GT8G.woff2"
+          "eot": "https://fonts.gstatic.com/s/alatsi/v9/TK3iWkUJAxQ2nLN2Fz8C.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TK3iWkUJAxQ2nLN2Fz8B&skey=861c1b101f0a39de&v=v9#Alatsi",
+          "ttf": "https://fonts.gstatic.com/s/alatsi/v9/TK3iWkUJAxQ2nLN2Fz8D.ttf",
+          "woff": "https://fonts.gstatic.com/s/alatsi/v9/TK3iWkUJAxQ2nLN2Fz8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/alatsi/v9/TK3iWkUJAxQ2nLN2GT8G.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v9",
   "typefaces": {
     "normal": {
       "400": {

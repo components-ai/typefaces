@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Rammetto One Regular'",
-          "'RammettoOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_GZ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LhWiMV3HOfMbMetJG3lQDppNO_Ga&skey=63613ce3f85be896&v=v9#RammettoOne",
-          "ttf": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_GY.ttf",
-          "woff": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_Gb.woff",
-          "woff2": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNNfGd.woff2"
+          "eot": "https://fonts.gstatic.com/s/rammettoone/v14/LhWiMV3HOfMbMetJG3lQDppNO_GZ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LhWiMV3HOfMbMetJG3lQDppNO_Ga&skey=63613ce3f85be896&v=v14#RammettoOne",
+          "ttf": "https://fonts.gstatic.com/s/rammettoone/v14/LhWiMV3HOfMbMetJG3lQDppNO_GY.ttf",
+          "woff": "https://fonts.gstatic.com/s/rammettoone/v14/LhWiMV3HOfMbMetJG3lQDppNO_Gb.woff",
+          "woff2": "https://fonts.gstatic.com/s/rammettoone/v14/LhWiMV3HOfMbMetJG3lQDppNNfGd.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

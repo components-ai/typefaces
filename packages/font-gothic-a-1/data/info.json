@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -102,125 +102,98 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Gothic A1 Thin'",
-          "'GothicA1-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPctaNI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z5ZnPydRjlCCwlCCPctaNE&skey=aed5aef5ee6c39e9&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPctaNM.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPctaNA.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCMcvCsF0so9KYQ_JRW9IP3jG6cq7prA.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR74z5ZnPydRjlCCwlCCPctaNI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z5ZnPydRjlCCwlCCPctaNE&skey=aed5aef5ee6c39e9&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR74z5ZnPydRjlCCwlCCPctaNM.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR74z5ZnPydRjlCCwlCCPctaNA.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR74z5ZnPydRjlCCwlCCMcvCsF0so9KYQ_JRW9IP3jG6cq7prA.119.woff2"
         }
       },
       "200": {
-        "local": [
-          "'Gothic A1 ExtraLight'",
-          "'GothicA1-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCpOY6T_N8&skey=22cb706f135d56c&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOYKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCpOY6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCpOY6T_N8&skey=22cb706f135d56c&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCpOY6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCpOY6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCpOYKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Gothic A1 Light'",
-          "'GothicA1-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOU6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCwOU6T_N8&skey=b72f9ff56d0df0b2&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOU6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOU6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOUKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCwOU6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCwOU6T_N8&skey=b72f9ff56d0df0b2&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCwOU6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCwOU6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCwOUKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Gothic A1 Regular'",
-          "'GothicA1-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKa8cr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR94z5ZnPydRjlCCwlKa8co&skey=1af563512a1075cb&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKa8cq.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKa8cp.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwl6aaU4Qt0V05ZAcgT3T1VKO2vL6LbP.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR94z5ZnPydRjlCCwlKa8cr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR94z5ZnPydRjlCCwlKa8co&skey=1af563512a1075cb&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR94z5ZnPydRjlCCwlKa8cq.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR94z5ZnPydRjlCCwlKa8cp.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR94z5ZnPydRjlCCwl6aaU4Qt0V05ZAcgT3T1VKO2vL6LbP.119.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Gothic A1 Medium'",
-          "'GothicA1-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCmOQ6T_N8&skey=281dc522e2205412&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCmOQ6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCmOQ6T_N8&skey=281dc522e2205412&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCmOQ6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCmOQ6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCmOQKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Gothic A1 SemiBold'",
-          "'GothicA1-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCtOM6T_N8&skey=7778aa6aaecbbf52&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOMKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCtOM6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCtOM6T_N8&skey=7778aa6aaecbbf52&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCtOM6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCtOM6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCtOMKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gothic A1 Bold'",
-          "'GothicA1-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC0OI6T_N8&skey=5147d2c0bc1a53be&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OIKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC0OI6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC0OI6T_N8&skey=5147d2c0bc1a53be&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC0OI6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC0OI6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC0OIKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Gothic A1 ExtraBold'",
-          "'GothicA1-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOE6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCzOE6T_N8&skey=57a46494d1449b7d&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOE6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOE6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOEKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCzOE6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCzOE6T_N8&skey=57a46494d1449b7d&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCzOE6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCzOE6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlCzOEKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Gothic A1 Black'",
-          "'GothicA1-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6T_N_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC6OA6T_N8&skey=860729d6e445984a&v=v8#GothicA1",
-          "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6T_N-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6T_N9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OAKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC6OA6T_N_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC6OA6T_N8&skey=860729d6e445984a&v=v13#GothicA1",
+          "ttf": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC6OA6T_N-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC6OA6T_N9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gothica1/v13/CSR44z5ZnPydRjlCCwlC6OAKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "100": {

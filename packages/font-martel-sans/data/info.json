@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Martel Sans ExtraLight'",
-          "'MartelSans-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAX5vuOH08&skey=d0af9b71547c102c&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAX5vuOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAX5vuOH08&skey=d0af9b71547c102c&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAX5vuOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAX5vuOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAX5vuAH0g.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Martel Sans Light'",
-          "'MartelSans-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBz5fuOH08&skey=3e60cf58de23364a&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBz5fuOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBz5fuOH08&skey=3e60cf58de23364a&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBz5fuOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBz5fuOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBz5fuAH0g.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Martel Sans Regular'",
-          "'MartelSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjWx-o.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGi7VdzDgKjM-4d8hjWx-k&skey=bc24a799253841ed&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjWx-s.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjWx-g.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjYx-4.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GsssGi7VdzDgKjM-4d8hjWx-o.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGi7VdzDgKjM-4d8hjWx-k&skey=bc24a799253841ed&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GsssGi7VdzDgKjM-4d8hjWx-s.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GsssGi7VdzDgKjM-4d8hjWx-g.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GsssGi7VdzDgKjM-4d8hjYx-4.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Martel Sans SemiBold'",
-          "'MartelSans-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAH4_uOH08&skey=896de8cd3fa71e6b&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAH4_uOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hAH4_uOH08&skey=896de8cd3fa71e6b&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAH4_uOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAH4_uOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hAH4_uAH0g.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Martel Sans Bold'",
-          "'MartelSans-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBj4vuOH08&skey=63578146eda7037f&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBj4vuOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBj4vuOH08&skey=63578146eda7037f&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBj4vuOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBj4vuOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBj4vuAH0g.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Martel Sans ExtraBold'",
-          "'MartelSans-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hB_4fuOH08&skey=7172473d159f7ff5&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hB_4fuOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hB_4fuOH08&skey=7172473d159f7ff5&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hB_4fuOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hB_4fuOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hB_4fuAH0g.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Martel Sans Black'",
-          "'MartelSans-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuOH0w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBb4PuOH08&skey=f36c0deceb3c5f20&v=v7#MartelSans",
-          "ttf": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuOH00.ttf",
-          "woff": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuOH04.woff",
-          "woff2": "https://fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuAH0g.woff2"
+          "eot": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBb4PuOH0w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=h0GxssGi7VdzDgKjM-4d8hBb4PuOH08&skey=f36c0deceb3c5f20&v=v12#MartelSans",
+          "ttf": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBb4PuOH00.ttf",
+          "woff": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBb4PuOH04.woff",
+          "woff2": "https://fonts.gstatic.com/s/martelsans/v12/h0GxssGi7VdzDgKjM-4d8hBb4PuAH0g.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "200": {

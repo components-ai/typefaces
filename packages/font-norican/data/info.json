@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Norican Regular'",
-          "'Norican-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXp1eSBqjkPKJtbsg&skey=7e98b520a4dd1a90&v=v9#Norican",
-          "ttf": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsA.ttf",
-          "woff": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsw.woff",
-          "woff2": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJVbtQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/norican/v14/MwQ2bhXp1eSBqjkPKJtbsQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXp1eSBqjkPKJtbsg&skey=7e98b520a4dd1a90&v=v14#Norican",
+          "ttf": "https://fonts.gstatic.com/s/norican/v14/MwQ2bhXp1eSBqjkPKJtbsA.ttf",
+          "woff": "https://fonts.gstatic.com/s/norican/v14/MwQ2bhXp1eSBqjkPKJtbsw.woff",
+          "woff2": "https://fonts.gstatic.com/s/norican/v14/MwQ2bhXp1eSBqjkPKJVbtQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

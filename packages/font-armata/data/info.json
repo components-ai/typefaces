@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Armata Regular'",
-          "'Armata-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENnTRy.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gokvH63_HV5jQ-ENnTRx&skey=3d0d3210c2915b4e&v=v12#Armata",
-          "ttf": "https://fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENnTRz.ttf",
-          "woff": "https://fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENnTRw.woff",
-          "woff2": "https://fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENkzR2.woff2"
+          "eot": "https://fonts.gstatic.com/s/armata/v19/gokvH63_HV5jQ-ENnTRy.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gokvH63_HV5jQ-ENnTRx&skey=3d0d3210c2915b4e&v=v19#Armata",
+          "ttf": "https://fonts.gstatic.com/s/armata/v19/gokvH63_HV5jQ-ENnTRz.ttf",
+          "woff": "https://fonts.gstatic.com/s/armata/v19/gokvH63_HV5jQ-ENnTRw.woff",
+          "woff2": "https://fonts.gstatic.com/s/armata/v19/gokvH63_HV5jQ-ENkzR2.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 121,
             "x_max": 778,
             "o": "m 160 37 l 193 136 q 446 84 319 84 l 446 84 q 544 94 503 84 q 612 136 585 104 l 612 136 q 661 388 663 197 l 661 388 l 661 460 q 387 383 543 383 l 387 383 q 163 469 220 383 l 163 469 q 124 597 130 518 l 124 597 q 121 674 121 634 l 121 674 l 121 738 q 172 947 121 874 l 172 947 q 437 1051 245 1051 l 437 1051 q 700 978 621 1051 l 700 978 q 778 744 778 905 l 778 744 l 778 386 q 763 211 777 286 q 711 85 749 136 l 711 85 q 428 -14 635 -14 l 428 -14 q 201 20 301 -14 l 201 20 q 160 37 174 29 l 160 37 z m 395 485 l 414 485 q 614 524 517 485 l 614 524 q 661 546 641 534 l 661 546 l 661 710 q 628 892 661 844 l 628 892 q 463 951 588 951 l 463 951 l 425 951 q 273 901 313 951 l 273 901 q 239 737 239 857 l 239 737 l 239 698 q 269 524 239 564 l 269 524 q 316 493 286 501 q 395 485 347 485 l 395 485 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 347,

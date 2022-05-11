@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'McLaren'",
-          "'McLaren-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mclaren/v8/2EbnL-ZuAXFqZFXIeY8V9g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-ZuAXFqZFXIeY8V9Q&skey=7a52c350b8e180c0&v=v8#McLaren",
-          "ttf": "https://fonts.gstatic.com/s/mclaren/v8/2EbnL-ZuAXFqZFXIeY8V9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/mclaren/v8/2EbnL-ZuAXFqZFXIeY8V9A.woff",
-          "woff2": "https://fonts.gstatic.com/s/mclaren/v8/2EbnL-ZuAXFqZFXIeYEV8g.woff2"
+          "eot": "https://fonts.gstatic.com/s/mclaren/v13/2EbnL-ZuAXFqZFXIeY8V9g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-ZuAXFqZFXIeY8V9Q&skey=7a52c350b8e180c0&v=v13#McLaren",
+          "ttf": "https://fonts.gstatic.com/s/mclaren/v13/2EbnL-ZuAXFqZFXIeY8V9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/mclaren/v13/2EbnL-ZuAXFqZFXIeY8V9A.woff",
+          "woff2": "https://fonts.gstatic.com/s/mclaren/v13/2EbnL-ZuAXFqZFXIeYEV8g.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

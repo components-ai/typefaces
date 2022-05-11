@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,36 +12,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Radley Italic'",
-          "'Radley-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNJjVs.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdGzinEIjCN1NojNJjVg&skey=f88eaec2b5b471b2&v=v15#Radley",
-          "ttf": "https://fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNJjVo.ttf",
-          "woff": "https://fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNJjVk.woff",
-          "woff2": "https://fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNHjV8.woff2"
+          "eot": "https://fonts.gstatic.com/s/radley/v20/LYjBdGzinEIjCN1NojNJjVs.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdGzinEIjCN1NojNJjVg&skey=f88eaec2b5b471b2&v=v20#Radley",
+          "ttf": "https://fonts.gstatic.com/s/radley/v20/LYjBdGzinEIjCN1NojNJjVo.ttf",
+          "woff": "https://fonts.gstatic.com/s/radley/v20/LYjBdGzinEIjCN1NojNJjVk.woff",
+          "woff2": "https://fonts.gstatic.com/s/radley/v20/LYjBdGzinEIjCN1NojNHjV8.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Radley Regular'",
-          "'Radley-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NqQNB.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzinEIjCN1NqQNC&skey=e57d4c4ee339b3e9&v=v15#Radley",
-          "ttf": "https://fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NqQNA.ttf",
-          "woff": "https://fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NqQND.woff",
-          "woff2": "https://fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NpwNF.woff2"
+          "eot": "https://fonts.gstatic.com/s/radley/v20/LYjDdGzinEIjCN1NqQNB.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzinEIjCN1NqQNC&skey=e57d4c4ee339b3e9&v=v20#Radley",
+          "ttf": "https://fonts.gstatic.com/s/radley/v20/LYjDdGzinEIjCN1NqQNA.ttf",
+          "woff": "https://fonts.gstatic.com/s/radley/v20/LYjDdGzinEIjCN1NqQND.woff",
+          "woff2": "https://fonts.gstatic.com/s/radley/v20/LYjDdGzinEIjCN1NpwNF.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "italic": {
       "400": {

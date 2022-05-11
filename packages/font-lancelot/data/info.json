@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lancelot'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KYxzpo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=J7acnppxBGtQEulG4KYxzpk&skey=882f6476e66c1188&v=v10#Lancelot",
-          "ttf": "https://fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KYxzps.ttf",
-          "woff": "https://fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KYxzpg.woff",
-          "woff2": "https://fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KY_zp4.woff2"
+          "eot": "https://fonts.gstatic.com/s/lancelot/v22/J7acnppxBGtQEulG4KYxzpo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=J7acnppxBGtQEulG4KYxzpk&skey=882f6476e66c1188&v=v22#Lancelot",
+          "ttf": "https://fonts.gstatic.com/s/lancelot/v22/J7acnppxBGtQEulG4KYxzps.ttf",
+          "woff": "https://fonts.gstatic.com/s/lancelot/v22/J7acnppxBGtQEulG4KYxzpg.woff",
+          "woff2": "https://fonts.gstatic.com/s/lancelot/v22/J7acnppxBGtQEulG4KY_zp4.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

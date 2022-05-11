@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=u-4n0q2lgwslOqpF_6gQ8kELawRZVsf9&skey=bd88f0a6edeea7b7&v=v2#CourierPrime",
-    "700": "https://fonts.gstatic.com/l/font?kit=u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nr&skey=43ecbe77352fb6a5&v=v2#CourierPrime"
+    "400": "https://fonts.gstatic.com/l/font?kit=u-4n0q2lgwslOqpF_6gQ8kELawRZVsf9&skey=bd88f0a6edeea7b7&v=v7#CourierPrime",
+    "700": "https://fonts.gstatic.com/l/font?kit=u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nr&skey=43ecbe77352fb6a5&v=v7#CourierPrime"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=u-450q2lgwslOqpF_6gQ8kELaw9pXQ&skey=e017e80d5b8c8838&v=v2#CourierPrime",
-    "700": "https://fonts.gstatic.com/l/font?kit=u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frA&skey=5667eee1d647af21&v=v2#CourierPrime"
+    "400": "https://fonts.gstatic.com/l/font?kit=u-450q2lgwslOqpF_6gQ8kELaw9pXQ&skey=e017e80d5b8c8838&v=v7#CourierPrime",
+    "700": "https://fonts.gstatic.com/l/font?kit=u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frA&skey=5667eee1d647af21&v=v7#CourierPrime"
   }
 }

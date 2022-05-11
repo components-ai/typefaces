@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Molengo'",
-          "'Molengo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXb1alw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=I_uuMpWeuBzZNBtQXb1alA&skey=45e667e0ddeec6d3&v=v11#Molengo",
-          "ttf": "https://fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXb1alg.ttf",
-          "woff": "https://fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXb1alQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXbNakw.woff2"
+          "eot": "https://fonts.gstatic.com/s/molengo/v16/I_uuMpWeuBzZNBtQXb1alw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=I_uuMpWeuBzZNBtQXb1alA&skey=45e667e0ddeec6d3&v=v16#Molengo",
+          "ttf": "https://fonts.gstatic.com/s/molengo/v16/I_uuMpWeuBzZNBtQXb1alg.ttf",
+          "woff": "https://fonts.gstatic.com/s/molengo/v16/I_uuMpWeuBzZNBtQXb1alQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/molengo/v16/I_uuMpWeuBzZNBtQXbNakw.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {
@@ -93,6 +90,12 @@
           },
           "\u0000": {
             "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\f": {
+            "ha": 463,
             "x_min": null,
             "x_max": null,
             "o": ""

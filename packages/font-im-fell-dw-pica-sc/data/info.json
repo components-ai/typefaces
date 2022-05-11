@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL DW Pica SC'",
-          "'IM_FELL_DW_Pica_SC'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfelldwpicasc/v10/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKP.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKM&skey=2798f34675f18639&v=v10#IMFellDWPicaSC",
-          "ttf": "https://fonts.gstatic.com/s/imfelldwpicasc/v10/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKO.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfelldwpicasc/v10/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKN.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfelldwpicasc/v10/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKL.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKP.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKM&skey=2798f34675f18639&v=v21#IMFellDWPicaSC",
+          "ttf": "https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKO.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKN.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKL.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

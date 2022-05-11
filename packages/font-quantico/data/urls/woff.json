@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
-    "700": "https://fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348g.woff"
+    "400": "https://fonts.gstatic.com/s/quantico/v15/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
+    "700": "https://fonts.gstatic.com/s/quantico/v15/rax7HiSdp9cPL3KIF7xuHIRfi0348g.woff"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDs.woff",
-    "700": "https://fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0k.woff"
+    "400": "https://fonts.gstatic.com/s/quantico/v15/rax-HiSdp9cPL3KIF7xrJDs.woff",
+    "700": "https://fonts.gstatic.com/s/quantico/v15/rax5HiSdp9cPL3KIF7TQAShdu0k.woff"
   }
 }

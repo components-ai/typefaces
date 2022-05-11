@@ -1,45 +1,39 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "hebrew",
     "latin"
   ],
   "unicodeRange": {
-    "hebrew": "U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F",
+    "hebrew": "U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F",
     "latin": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Alef Regular'",
-          "'Alef-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVfS0NQpLYgnjVRDQ&skey=12751269588cd788&v=v12#Alef",
-          "ttf": "https://fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDw.ttf",
-          "woff": "https://fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDA.woff",
-          "woff2": "https://fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRCg.woff2"
+          "eot": "https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRDg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVfS0NQpLYgnjVRDQ&skey=12751269588cd788&v=v21#Alef",
+          "ttf": "https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRDw.ttf",
+          "woff": "https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRDA.woff",
+          "woff2": "https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRCg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Alef Bold'",
-          "'Alef-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q3A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0NQpLYglo50H55Q3w&skey=52f19229bca4351b&v=v12#Alef",
-          "ttf": "https://fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q3Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q3g.woff",
-          "woff2": "https://fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q2A.woff2"
+          "eot": "https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H55Q3A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0NQpLYglo50H55Q3w&skey=52f19229bca4351b&v=v21#Alef",
+          "ttf": "https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H55Q3Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H55Q3g.woff",
+          "woff2": "https://fonts.gstatic.com/s/alef/v21/FeVQS0NQpLYglo50H55Q2A.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

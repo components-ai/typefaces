@@ -1,10 +1,12 @@
 {
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalrub46F59E&skey=fcc35fc9b193d704&v=v9#Cairo",
-    "300": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqKbI6F59E&skey=9125b8b962935364&v=v9#Cairo",
-    "400": "https://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvalIvTpw&skey=ee6e3b9105e1a754&v=v9#Cairo",
-    "600": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalr-ao6F59E&skey=2cbc68d40dd42eff&v=v9#Cairo",
-    "700": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalqaa46F59E&skey=63dc25841419bb82&v=v9#Cairo",
-    "900": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqiaY6F59E&skey=a12bc2e34741a2fa&v=v9#Cairo"
+    "200": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5l2WgcSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "300": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5lB2gcSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "400": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "500": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5la2gcSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "600": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5lh28cSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "700": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5lvm8cSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "800": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5l2W8cSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo",
+    "900": "https://fonts.gstatic.com/l/font?kit=SLXVc1nY6HkvangtZmpcWmhzfH5l8G8cSCyV&skey=ee6e3b9105e1a754&v=v18#Cairo"
   }
 }

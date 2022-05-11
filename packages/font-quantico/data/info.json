@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,59 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Quantico-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax4HiSdp9cPL3KIF7xuFD96mQ&skey=c8b95262ea7b7597&v=v10#Quantico",
-          "ttf": "https://fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mw.ttf",
-          "woff": "https://fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
-          "woff2": "https://fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96ng.woff2"
+          "eot": "https://fonts.gstatic.com/s/quantico/v15/rax4HiSdp9cPL3KIF7xuFD96mg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax4HiSdp9cPL3KIF7xuFD96mQ&skey=c8b95262ea7b7597&v=v15#Quantico",
+          "ttf": "https://fonts.gstatic.com/s/quantico/v15/rax4HiSdp9cPL3KIF7xuFD96mw.ttf",
+          "woff": "https://fonts.gstatic.com/s/quantico/v15/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
+          "woff2": "https://fonts.gstatic.com/s/quantico/v15/rax4HiSdp9cPL3KIF7xuFD96ng.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Quantico-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax7HiSdp9cPL3KIF7xuHIRfi0348w&skey=4d031681c2cdbc1f&v=v10#Quantico",
-          "ttf": "https://fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348g.woff",
-          "woff2": "https://fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0349A.woff2"
+          "eot": "https://fonts.gstatic.com/s/quantico/v15/rax7HiSdp9cPL3KIF7xuHIRfi0348A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax7HiSdp9cPL3KIF7xuHIRfi0348w&skey=4d031681c2cdbc1f&v=v15#Quantico",
+          "ttf": "https://fonts.gstatic.com/s/quantico/v15/rax7HiSdp9cPL3KIF7xuHIRfi0348Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/quantico/v15/rax7HiSdp9cPL3KIF7xuHIRfi0348g.woff",
+          "woff2": "https://fonts.gstatic.com/s/quantico/v15/rax7HiSdp9cPL3KIF7xuHIRfi0349A.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Quantico'",
-          "'Quantico-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax-HiSdp9cPL3KIF7xrJDo&skey=6cf8b3714b68a523&v=v10#Quantico",
-          "ttf": "https://fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDg.ttf",
-          "woff": "https://fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDs.woff",
-          "woff2": "https://fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJD0.woff2"
+          "eot": "https://fonts.gstatic.com/s/quantico/v15/rax-HiSdp9cPL3KIF7xrJDk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax-HiSdp9cPL3KIF7xrJDo&skey=6cf8b3714b68a523&v=v15#Quantico",
+          "ttf": "https://fonts.gstatic.com/s/quantico/v15/rax-HiSdp9cPL3KIF7xrJDg.ttf",
+          "woff": "https://fonts.gstatic.com/s/quantico/v15/rax-HiSdp9cPL3KIF7xrJDs.woff",
+          "woff2": "https://fonts.gstatic.com/s/quantico/v15/rax-HiSdp9cPL3KIF7xrJD0.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Quantico-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0s.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rax5HiSdp9cPL3KIF7TQAShdu0g&skey=c57d82e0b3475197&v=v10#Quantico",
-          "ttf": "https://fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0o.ttf",
-          "woff": "https://fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0k.woff",
-          "woff2": "https://fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu08.woff2"
+          "eot": "https://fonts.gstatic.com/s/quantico/v15/rax5HiSdp9cPL3KIF7TQAShdu0s.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rax5HiSdp9cPL3KIF7TQAShdu0g&skey=c57d82e0b3475197&v=v15#Quantico",
+          "ttf": "https://fonts.gstatic.com/s/quantico/v15/rax5HiSdp9cPL3KIF7TQAShdu0o.ttf",
+          "woff": "https://fonts.gstatic.com/s/quantico/v15/rax5HiSdp9cPL3KIF7TQAShdu0k.woff",
+          "woff2": "https://fonts.gstatic.com/s/quantico/v15/rax5HiSdp9cPL3KIF7TQAShdu08.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

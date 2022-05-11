@@ -1,22 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=qFdD35WCmI96Ajtm81Gga7rayz8K&skey=4a1bb613eb046102&v=v5#Overpass",
-    "200": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81GgaxbL0hYoiQ&skey=a233413ce87d1b47&v=v5#Overpass",
-    "300": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81Gga3LI0hYoiQ&skey=d4a7083249c5bba6&v=v5#Overpass",
-    "400": "https://fonts.gstatic.com/l/font?kit=qFdB35WCmI96Ajtm81GgY9fqwA&skey=d167bc3f76654a32&v=v5#Overpass",
-    "600": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81GgawbO0hYoiQ&skey=f7098a093dc7f13d&v=v5#Overpass",
-    "700": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81Gga2LP0hYoiQ&skey=46fba063adffec88&v=v5#Overpass",
-    "800": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81Gga37M0hYoiQ&skey=f2e24608676df5a7&v=v5#Overpass",
-    "900": "https://fonts.gstatic.com/l/font?kit=qFdC35WCmI96Ajtm81Gga1rN0hYoiQ&skey=b7badd80778d9d1&v=v5#Overpass"
+    "100": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe6qGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "200": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDeqqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "300": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdeqqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "400": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADeqqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "500": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLAxeqqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "600": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfaqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "700": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDkfaqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "800": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDfaqGncQ&skey=d167bc3f76654a32&v=v11#Overpass",
+    "900": "https://fonts.gstatic.com/l/font?kit=qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCqfaqGncQ&skey=d167bc3f76654a32&v=v11#Overpass"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=qFdB35WCmI96Ajtm81nGY9fqwA&skey=341de80e1878ed7b&v=v5#Overpass",
-    "200": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81lqcs7D4h0&skey=31474f990cbd2a7&v=v5#Overpass",
-    "300": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81kOcc7D4h0&skey=6bec130f2ee6e781&v=v5#Overpass",
-    "400": "https://fonts.gstatic.com/l/font?kit=qFdH35WCmI96Ajtm81GrU9w&skey=f20a355e8a5d18ab&v=v5#Overpass",
-    "600": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81l6d87D4h0&skey=9f3a3851f464692d&v=v5#Overpass",
-    "700": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81keds7D4h0&skey=502f94135d8f0dcc&v=v5#Overpass",
-    "800": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81kCdc7D4h0&skey=83bb7fbc7f62beeb&v=v5#Overpass",
-    "900": "https://fonts.gstatic.com/l/font?kit=qFdA35WCmI96Ajtm81kmdM7D4h0&skey=8a03e69398a08819&v=v5#Overpass"
+    "100": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "200": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "300": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "400": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "500": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6zvPbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "600": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "700": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "800": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPTbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass",
+    "900": "https://fonts.gstatic.com/l/font?kit=qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTbMJqN&skey=f20a355e8a5d18ab&v=v11#Overpass"
   }
 }

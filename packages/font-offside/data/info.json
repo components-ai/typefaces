@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Offside'",
-          "'Offside-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/offside/v8/HI_KiYMWKa9QrAykc5boQw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HI_KiYMWKa9QrAykc5boQA&skey=5442f4302844a3cf&v=v8#Offside",
-          "ttf": "https://fonts.gstatic.com/s/offside/v8/HI_KiYMWKa9QrAykc5boQg.ttf",
-          "woff": "https://fonts.gstatic.com/s/offside/v8/HI_KiYMWKa9QrAykc5boQQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/offside/v8/HI_KiYMWKa9QrAykc5boRw.woff2"
+          "eot": "https://fonts.gstatic.com/s/offside/v20/HI_KiYMWKa9QrAykc5boQw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HI_KiYMWKa9QrAykc5boQA&skey=5442f4302844a3cf&v=v20#Offside",
+          "ttf": "https://fonts.gstatic.com/s/offside/v20/HI_KiYMWKa9QrAykc5boQg.ttf",
+          "woff": "https://fonts.gstatic.com/s/offside/v20/HI_KiYMWKa9QrAykc5boQQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/offside/v20/HI_KiYMWKa9QrAykc5boRw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

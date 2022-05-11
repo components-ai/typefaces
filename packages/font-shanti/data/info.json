@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Shanti'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE22.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=t5thIREMM4uSDgzQVE21&skey=eb55755859336175&v=v12#Shanti",
-          "ttf": "https://fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE23.ttf",
-          "woff": "https://fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE20.woff",
-          "woff2": "https://fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE2y.woff2"
+          "eot": "https://fonts.gstatic.com/s/shanti/v23/t5thIREMM4uSDgzQVE22.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=t5thIREMM4uSDgzQVE21&skey=eb55755859336175&v=v23#Shanti",
+          "ttf": "https://fonts.gstatic.com/s/shanti/v23/t5thIREMM4uSDgzQVE23.ttf",
+          "woff": "https://fonts.gstatic.com/s/shanti/v23/t5thIREMM4uSDgzQVE20.woff",
+          "woff2": "https://fonts.gstatic.com/s/shanti/v23/t5thIREMM4uSDgzQVE2y.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

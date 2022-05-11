@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Waiting for the Sunrise'",
-          "'WaitingfortheSunrise'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bk&skey=6828a7d98060e457&v=v11#WaitingfortheSunrise",
-          "ttf": "https://fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bs.ttf",
-          "woff": "https://fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bg.woff",
-          "woff2": "https://fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_B4.woff2"
+          "eot": "https://fonts.gstatic.com/s/waitingforthesunrise/v16/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bk&skey=6828a7d98060e457&v=v16#WaitingfortheSunrise",
+          "ttf": "https://fonts.gstatic.com/s/waitingforthesunrise/v16/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bs.ttf",
+          "woff": "https://fonts.gstatic.com/s/waitingforthesunrise/v16/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bg.woff",
+          "woff2": "https://fonts.gstatic.com/s/waitingforthesunrise/v16/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_B4.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

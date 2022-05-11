@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,166 +16,130 @@
   "variants": {
     "italic": {
       "200": {
-        "local": [
-          "'Krub ExtraLight Italic'",
-          "'Krub-ExtraLightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQiwLBCSoAV&skey=dec7c02b8dbf0b69&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAX.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAU.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCRIAS.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQiwLBCSoAW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQiwLBCSoAV&skey=dec7c02b8dbf0b69&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQiwLBCSoAX.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQiwLBCSoAU.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQiwLBCRIAS.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Krub Light Italic'",
-          "'Krub-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQipLNCSoAV&skey=fec9869ecc0a0417&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAX.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAU.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCRIAS.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQipLNCSoAW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQipLNCSoAV&skey=fec9869ecc0a0417&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQipLNCSoAX.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQipLNCSoAU.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQipLNCRIAS.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Krub Italic'",
-          "'Krub-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFT.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlFdRyC6CRYbkQqAZFQ&skey=d36cadc71c02de4d&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFS.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFR.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqD5FX.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlFdRyC6CRYbkQqAZFT.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlFdRyC6CRYbkQqAZFQ&skey=d36cadc71c02de4d&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlFdRyC6CRYbkQqAZFS.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlFdRyC6CRYbkQqAZFR.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlFdRyC6CRYbkQqD5FX.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Krub Medium Italic'",
-          "'Krub-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi_LJCSoAV&skey=8967b5144182ebec&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAX.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAU.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCRIAS.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi_LJCSoAW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi_LJCSoAV&skey=8967b5144182ebec&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi_LJCSoAX.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi_LJCSoAU.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi_LJCRIAS.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Krub SemiBold Italic'",
-          "'Krub-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi0LVCSoAV&skey=931aa30556216678&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAX.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAU.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCRIAS.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi0LVCSoAW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi0LVCSoAV&skey=931aa30556216678&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi0LVCSoAX.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi0LVCSoAU.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQi0LVCRIAS.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Krub Bold Italic'",
-          "'Krub-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQitLRCSoAV&skey=272769a11a0bebbd&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAX.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAU.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCRIAS.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQitLRCSoAW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQitLRCSoAV&skey=272769a11a0bebbd&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQitLRCSoAX.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQitLRCSoAU.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlGdRyC6CRYbkQitLRCRIAS.woff2"
         }
       }
     },
     "normal": {
       "200": {
-        "local": [
-          "'Krub ExtraLight'",
-          "'Krub-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZo47GLhyQQ&skey=66a2da335df5cb8e&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLZyRg.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZo47GLhyQg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZo47GLhyQQ&skey=66a2da335df5cb8e&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZo47GLhyQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZo47GLhyQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZo47GLZyRg.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Krub Light'",
-          "'Krub-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZuo4GLhyQQ&skey=46b37114ceec7d71&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLZyRg.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZuo4GLhyQg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZuo4GLhyQQ&skey=46b37114ceec7d71&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZuo4GLhyQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZuo4GLhyQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZuo4GLZyRg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Krub Regular'",
-          "'Krub-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyC6CRYbk8aCg&skey=279c1533cb23a2a&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbkEaDQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlLdRyC6CRYbk8aCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyC6CRYbk8aCg&skey=279c1533cb23a2a&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlLdRyC6CRYbk8aCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlLdRyC6CRYbk8aCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlLdRyC6CRYbkEaDQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Krub Medium'",
-          "'Krub-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZrI5GLhyQQ&skey=6128aeabaab7448&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLZyRg.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZrI5GLhyQg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZrI5GLhyQQ&skey=6128aeabaab7448&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZrI5GLhyQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZrI5GLhyQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZrI5GLZyRg.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Krub SemiBold'",
-          "'Krub-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZp4-GLhyQQ&skey=21ce910568c75b41&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLZyRg.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZp4-GLhyQg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZp4-GLhyQQ&skey=21ce910568c75b41&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZp4-GLhyQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZp4-GLhyQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZp4-GLZyRg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Krub Bold'",
-          "'Krub-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZvo_GLhyQQ&skey=3b91ff0320f65468&v=v4#Krub",
-          "ttf": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQA.woff",
-          "woff2": "https://fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLZyRg.woff2"
+          "eot": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZvo_GLhyQg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZvo_GLhyQQ&skey=3b91ff0320f65468&v=v9#Krub",
+          "ttf": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZvo_GLhyQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZvo_GLhyQA.woff",
+          "woff2": "https://fonts.gstatic.com/s/krub/v9/sZlEdRyC6CRYZvo_GLZyRg.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v9",
   "typefaces": {
     "italic": {
       "200": {

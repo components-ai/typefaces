@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-27",
   "subsets": [
     "arabic",
     "latin"
@@ -12,99 +12,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Tajawal ExtraLight'",
-          "'Tajawal-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l_6gHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l_6gHrFpjg&skey=681a894b9c24be73&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l_6gHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l_6gHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l_6gHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l_6gHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l_6gHrFpjg&skey=681a894b9c24be73&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l_6gHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l_6gHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l_6gHrFpiQ.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Tajawal Light'",
-          "'Tajawal-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5qjHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l5qjHrFpjg&skey=903211da6d95d408&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5qjHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5qjHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5qjHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5qjHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l5qjHrFpjg&skey=903211da6d95d408&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5qjHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5qjHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5qjHrFpiQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Tajawal'",
-          "'Tajawal-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iura6YBj_oCad4k1nzGBDw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iura6YBj_oCad4k1nzGBDA&skey=549d92590736b326&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iura6YBj_oCad4k1nzGBDg.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iura6YBj_oCad4k1nzGBDQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iura6YBj_oCad4k1nzGBCw.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1nzGBDw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iura6YBj_oCad4k1nzGBDA&skey=549d92590736b326&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1nzGBDg.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1nzGBDQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1nzGBCw.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Tajawal Medium'",
-          "'Tajawal-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l8KiHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l8KiHrFpjg&skey=5ed604fea35b581d&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l8KiHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l8KiHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l8KiHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l8KiHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l8KiHrFpjg&skey=5ed604fea35b581d&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l8KiHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l8KiHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l8KiHrFpiQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tajawal Bold'",
-          "'Tajawal-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l4qkHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l4qkHrFpjg&skey=ac892a66ca3d9b4d&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l4qkHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l4qkHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l4qkHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l4qkHrFpjg&skey=ac892a66ca3d9b4d&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkHrFpiQ.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Tajawal ExtraBold'",
-          "'Tajawal-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5anHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l5anHrFpjg&skey=712e02ba75f689cf&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5anHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5anHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l5anHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5anHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l5anHrFpjg&skey=712e02ba75f689cf&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5anHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5anHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5anHrFpiQ.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Tajawal Black'",
-          "'Tajawal-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l7KmHrFpjQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l7KmHrFpjg&skey=e5b654db307968ad&v=v3#Tajawal",
-          "ttf": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l7KmHrFpjA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l7KmHrFpjw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tajawal/v3/Iurf6YBj_oCad4k1l7KmHrFpiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmHrFpjQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Iurf6YBj_oCad4k1l7KmHrFpjg&skey=e5b654db307968ad&v=v9#Tajawal",
+          "ttf": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmHrFpjA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmHrFpjw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmHrFpiQ.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v9",
   "typefaces": {
     "normal": {
       "200": {

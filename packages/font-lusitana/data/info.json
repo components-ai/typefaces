@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,33 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lusitana'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR84z9ShvucWzsMKyhdTOU&skey=e5d445850c40840d&v=v8#Lusitana",
-          "ttf": "https://fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOc.ttf",
-          "woff": "https://fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOI.woff2"
+          "eot": "https://fonts.gstatic.com/s/lusitana/v13/CSR84z9ShvucWzsMKyhdTOY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR84z9ShvucWzsMKyhdTOU&skey=e5d445850c40840d&v=v13#Lusitana",
+          "ttf": "https://fonts.gstatic.com/s/lusitana/v13/CSR84z9ShvucWzsMKyhdTOc.ttf",
+          "woff": "https://fonts.gstatic.com/s/lusitana/v13/CSR84z9ShvucWzsMKyhdTOQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lusitana/v13/CSR84z9ShvucWzsMKyhdTOI.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Lusitana Bold'",
-          "'Lusitana-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z9ShvucWzsMKyDmafctaNE&skey=b4d27e82eab80c53&v=v8#Lusitana",
-          "ttf": "https://fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNM.ttf",
-          "woff": "https://fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNA.woff",
-          "woff2": "https://fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNY.woff2"
+          "eot": "https://fonts.gstatic.com/s/lusitana/v13/CSR74z9ShvucWzsMKyDmafctaNI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z9ShvucWzsMKyDmafctaNE&skey=b4d27e82eab80c53&v=v13#Lusitana",
+          "ttf": "https://fonts.gstatic.com/s/lusitana/v13/CSR74z9ShvucWzsMKyDmafctaNM.ttf",
+          "woff": "https://fonts.gstatic.com/s/lusitana/v13/CSR74z9ShvucWzsMKyDmafctaNA.woff",
+          "woff2": "https://fonts.gstatic.com/s/lusitana/v13/CSR74z9ShvucWzsMKyDmafctaNY.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lobster Regular'",
-          "'Lobster-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoymNw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neILzCirqoswsqX9zoymNA&skey=7ed805a363b4659c&v=v23#Lobster",
-          "ttf": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoymNg.ttf",
-          "woff": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoymNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoKmMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoymNw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neILzCirqoswsqX9zoymNA&skey=7ed805a363b4659c&v=v28#Lobster",
+          "ttf": "https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoymNg.ttf",
+          "woff": "https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoymNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoKmMw.woff2"
         }
       }
     }
   },
-  "version": "v23",
+  "version": "v28",
   "typefaces": {
     "normal": {
       "400": {

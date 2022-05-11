@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Capriola Regular'",
-          "'Capriola-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKoE3YSppcvo1PDlk_1JeY&skey=83aefc9bb99aedde&v=v8#Capriola",
-          "ttf": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1Jec.woff",
-          "woff2": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_7JeE.woff2"
+          "eot": "https://fonts.gstatic.com/s/capriola/v13/wXKoE3YSppcvo1PDlk_1JeU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKoE3YSppcvo1PDlk_1JeY&skey=83aefc9bb99aedde&v=v13#Capriola",
+          "ttf": "https://fonts.gstatic.com/s/capriola/v13/wXKoE3YSppcvo1PDlk_1JeQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/capriola/v13/wXKoE3YSppcvo1PDlk_1Jec.woff",
+          "woff2": "https://fonts.gstatic.com/s/capriola/v13/wXKoE3YSppcvo1PDlk_7JeE.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {
@@ -99,6 +96,12 @@
           },
           "\r": {
             "ha": 345,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0001": {
+            "ha": 0,
             "x_min": null,
             "x_max": null,
             "o": ""

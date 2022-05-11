@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Mrs Saint Delafield'",
-          "'MrsSaintDelafield-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKA&skey=9589386d66acad9b&v=v8#MrsSaintDelafield",
-          "ttf": "https://fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKg.ttf",
-          "woff": "https://fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/mrssaintdelafield/v13/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKA&skey=9589386d66acad9b&v=v13#MrsSaintDelafield",
+          "ttf": "https://fonts.gstatic.com/s/mrssaintdelafield/v13/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKg.ttf",
+          "woff": "https://fonts.gstatic.com/s/mrssaintdelafield/v13/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/mrssaintdelafield/v13/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknLw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

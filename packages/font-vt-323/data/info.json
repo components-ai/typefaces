@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'VT323 Regular'",
-          "'VT323-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isRFJE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pxiKyp0ihIEF2isRFJI&skey=8f4976db8da1d41&v=v12#VT323",
-          "ttf": "https://fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isRFJA.ttf",
-          "woff": "https://fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isRFJM.woff",
-          "woff2": "https://fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isfFJU.woff2"
+          "eot": "https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isRFJE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pxiKyp0ihIEF2isRFJI&skey=8f4976db8da1d41&v=v17#VT323",
+          "ttf": "https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isRFJA.ttf",
+          "woff": "https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isRFJM.woff",
+          "woff2": "https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isfFJU.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Oleo Script Swash Caps'",
-          "'OleoScriptSwashCaps-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTw&skey=4cb79a59e6f0cade&v=v8#OleoScriptSwashCaps",
-          "ttf": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTg.woff",
-          "woff2": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kSA.woff2"
+          "eot": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTw&skey=4cb79a59e6f0cade&v=v13#OleoScriptSwashCaps",
+          "ttf": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTg.woff",
+          "woff2": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kSA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Oleo Script Swash Caps Bold'",
-          "'OleoScriptSwashCaps-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmQ&skey=51134b6a415297c9&v=v8#OleoScriptSwashCaps",
-          "ttf": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmw.ttf",
-          "woff": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmA.woff",
-          "woff2": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYImng.woff2"
+          "eot": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmQ&skey=51134b6a415297c9&v=v13#OleoScriptSwashCaps",
+          "ttf": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmw.ttf",
+          "woff": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmA.woff",
+          "woff2": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYImng.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'East Sea Dokdo Regular'",
-          "'EastSeaDokdo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_dE64.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xfuo0Wn2V2_KanASqXSZp22m06_dE60&skey=44c2728630a38fc5&v=v8#EastSeaDokdo",
-          "ttf": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_dE68.ttf",
-          "woff": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_dE6w.woff",
-          "woff2": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m05_fcb3aRCxcL4dOVHJm4ii0w2TJ0q8.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/eastseadokdo/v20/xfuo0Wn2V2_KanASqXSZp22m06_dE64.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xfuo0Wn2V2_KanASqXSZp22m06_dE60&skey=44c2728630a38fc5&v=v20#EastSeaDokdo",
+          "ttf": "https://fonts.gstatic.com/s/eastseadokdo/v20/xfuo0Wn2V2_KanASqXSZp22m06_dE68.ttf",
+          "woff": "https://fonts.gstatic.com/s/eastseadokdo/v20/xfuo0Wn2V2_KanASqXSZp22m06_dE6w.woff",
+          "woff2": "https://fonts.gstatic.com/s/eastseadokdo/v20/xfuo0Wn2V2_KanASqXSZp22m05_fcb3aRCxcL4dOVHJm4ii0w2TJ0q8.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

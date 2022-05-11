@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Amethysta Regular'",
-          "'Amethysta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-H.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rP2Fp2K15kgb_F3ibfW4Hz-E&skey=1bdab4974033da41&v=v9#Amethysta",
-          "ttf": "https://fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-G.ttf",
-          "woff": "https://fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-F.woff",
-          "woff2": "https://fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-D.woff2"
+          "eot": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4Hz-H.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rP2Fp2K15kgb_F3ibfW4Hz-E&skey=1bdab4974033da41&v=v16#Amethysta",
+          "ttf": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4Hz-G.ttf",
+          "woff": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4Hz-F.woff",
+          "woff2": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4Hz-D.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

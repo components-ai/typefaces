@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -20,62 +20,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Ubuntu Mono Italic'",
-          "'UbuntuMono-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsjSlw&skey=2ef562fcb6285746&v=v10#UbuntuMono",
-          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlg.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsbSkA.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOhCneDtsqEr0keqCMhbCc_OsjSlA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsjSlw&skey=2ef562fcb6285746&v=v15#UbuntuMono",
+          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOhCneDtsqEr0keqCMhbCc_OsjSlQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOhCneDtsqEr0keqCMhbCc_OsjSlg.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOhCneDtsqEr0keqCMhbCc_OsbSkA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Ubuntu Mono Bold Italic'",
-          "'UbuntuMono-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueQ&skey=f90714a1dc0ab369&v=v10#UbuntuMono",
-          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFuew.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueA.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ufg.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueQ&skey=f90714a1dc0ab369&v=v15#UbuntuMono",
+          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFuew.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueA.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ufg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Ubuntu Mono'",
-          "'UbuntuMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc0CsM&skey=8c1feb82f3a61020&v=v10#UbuntuMono",
-          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsE.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsI.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc0CsA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc0CsM&skey=8c1feb82f3a61020&v=v15#UbuntuMono",
+          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc0CsE.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc0CsI.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Ubuntu Mono Bold'",
-          "'UbuntuMono-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H7tYo&skey=a9bb4edd8443acaf&v=v10#UbuntuMono",
-          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYg.ttf",
-          "woff": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYs.woff",
-          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2"
+          "eot": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H7tYk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H7tYo&skey=a9bb4edd8443acaf&v=v15#UbuntuMono",
+          "ttf": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H7tYg.ttf",
+          "woff": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H7tYs.woff",
+          "woff2": "https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {
@@ -146,7 +134,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 694,
             "x_min": null,
             "x_max": null,
@@ -3576,7 +3564,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 694,
             "x_min": null,
             "x_max": null,
@@ -7008,7 +6996,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 694,
             "x_min": null,
             "x_max": null,
@@ -10438,7 +10426,7 @@
             "x_max": null,
             "o": ""
           },
-          "\r": {
+          "\t": {
             "ha": 694,
             "x_min": null,
             "x_max": null,

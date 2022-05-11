@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Numans'",
-          "'Numans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIl.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SlGRmQmGupYAfH84ZhIm&skey=50929a21c0501bac&v=v10#Numans",
-          "ttf": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIk.ttf",
-          "woff": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIn.woff",
-          "woff2": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIh.woff2"
+          "eot": "https://fonts.gstatic.com/s/numans/v15/SlGRmQmGupYAfH84ZhIl.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SlGRmQmGupYAfH84ZhIm&skey=50929a21c0501bac&v=v15#Numans",
+          "ttf": "https://fonts.gstatic.com/s/numans/v15/SlGRmQmGupYAfH84ZhIk.ttf",
+          "woff": "https://fonts.gstatic.com/s/numans/v15/SlGRmQmGupYAfH84ZhIn.woff",
+          "woff2": "https://fonts.gstatic.com/s/numans/v15/SlGRmQmGupYAfH84ZhIh.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

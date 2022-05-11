@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Audiowide Regular'",
-          "'Audiowide-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdmA_K.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=l7gdbjpo0cum0ckerWCdmA_J&skey=8f321fd369abd5f&v=v9#Audiowide",
-          "ttf": "https://fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdmA_L.ttf",
-          "woff": "https://fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdmA_I.woff",
-          "woff2": "https://fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdlg_O.woff2"
+          "eot": "https://fonts.gstatic.com/s/audiowide/v16/l7gdbjpo0cum0ckerWCdmA_K.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=l7gdbjpo0cum0ckerWCdmA_J&skey=8f321fd369abd5f&v=v16#Audiowide",
+          "ttf": "https://fonts.gstatic.com/s/audiowide/v16/l7gdbjpo0cum0ckerWCdmA_L.ttf",
+          "woff": "https://fonts.gstatic.com/s/audiowide/v16/l7gdbjpo0cum0ckerWCdmA_I.woff",
+          "woff2": "https://fonts.gstatic.com/s/audiowide/v16/l7gdbjpo0cum0ckerWCdlg_O.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

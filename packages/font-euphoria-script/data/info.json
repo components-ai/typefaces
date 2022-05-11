@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Euphoria Script'",
-          "'EuphoriaScript-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxW.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxV&skey=43c0de58807de10a&v=v9#EuphoriaScript",
-          "ttf": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxX.ttf",
-          "woff": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxU.woff",
-          "woff2": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2"
+          "eot": "https://fonts.gstatic.com/s/euphoriascript/v16/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxW.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxV&skey=43c0de58807de10a&v=v16#EuphoriaScript",
+          "ttf": "https://fonts.gstatic.com/s/euphoriascript/v16/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxX.ttf",
+          "woff": "https://fonts.gstatic.com/s/euphoriascript/v16/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxU.woff",
+          "woff2": "https://fonts.gstatic.com/s/euphoriascript/v16/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

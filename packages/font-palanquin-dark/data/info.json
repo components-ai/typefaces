@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,60 +14,48 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Palanquin Dark Regular'",
-          "'PalanquinDark-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86HRk8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn75YHgl1nqmANMB-26xC7yuF86HRkw&skey=3eb0a005574e11fb&v=v7#PalanquinDark",
-          "ttf": "https://fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86HRk4.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86HRk0.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86JRks.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquindark/v12/xn75YHgl1nqmANMB-26xC7yuF86HRk8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn75YHgl1nqmANMB-26xC7yuF86HRkw&skey=3eb0a005574e11fb&v=v12#PalanquinDark",
+          "ttf": "https://fonts.gstatic.com/s/palanquindark/v12/xn75YHgl1nqmANMB-26xC7yuF86HRk4.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquindark/v12/xn75YHgl1nqmANMB-26xC7yuF86HRk0.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquindark/v12/xn75YHgl1nqmANMB-26xC7yuF86JRks.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Palanquin Dark Medium'",
-          "'PalanquinDark-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d84.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d80&skey=f65fdd1233b1fd56&v=v7#PalanquinDark",
-          "ttf": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d88.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d84.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d80&skey=f65fdd1233b1fd56&v=v12#PalanquinDark",
+          "ttf": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d88.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8o.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Palanquin Dark SemiBold'",
-          "'PalanquinDark-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d84.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d80&skey=664ebebb0f142b05&v=v7#PalanquinDark",
-          "ttf": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d88.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d84.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d80&skey=664ebebb0f142b05&v=v12#PalanquinDark",
+          "ttf": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d88.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8o.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Palanquin Dark Bold'",
-          "'PalanquinDark-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY148d84.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8YyY148d80&skey=984aafa3efa84349&v=v7#PalanquinDark",
-          "ttf": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY148d88.ttf",
-          "woff": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY148d8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8YyY148d84.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8YyY148d80&skey=984aafa3efa84349&v=v12#PalanquinDark",
+          "ttf": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8YyY148d88.ttf",
+          "woff": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8YyY148d8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/palanquindark/v12/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8o.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

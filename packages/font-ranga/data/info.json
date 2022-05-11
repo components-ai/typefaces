@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ranga Regular'",
-          "'Ranga-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6LJjk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=C8ct4cYisGb28q6LJjo&skey=ca2e4a542575f9f9&v=v6#Ranga",
-          "ttf": "https://fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6LJjg.ttf",
-          "woff": "https://fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6LJjs.woff",
-          "woff2": "https://fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6FJj0.woff2"
+          "eot": "https://fonts.gstatic.com/s/ranga/v17/C8ct4cYisGb28q6LJjk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=C8ct4cYisGb28q6LJjo&skey=ca2e4a542575f9f9&v=v17#Ranga",
+          "ttf": "https://fonts.gstatic.com/s/ranga/v17/C8ct4cYisGb28q6LJjg.ttf",
+          "woff": "https://fonts.gstatic.com/s/ranga/v17/C8ct4cYisGb28q6LJjs.woff",
+          "woff2": "https://fonts.gstatic.com/s/ranga/v17/C8ct4cYisGb28q6FJj0.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Ranga Bold'",
-          "'Ranga-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygY43g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cYisGb28qY-AygY43s&skey=fd05ca4bf9d6ec31&v=v6#Ranga",
-          "ttf": "https://fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygY43k.ttf",
-          "woff": "https://fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygY43o.woff",
-          "woff2": "https://fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygW43w.woff2"
+          "eot": "https://fonts.gstatic.com/s/ranga/v17/C8cg4cYisGb28qY-AygY43g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cYisGb28qY-AygY43s&skey=fd05ca4bf9d6ec31&v=v17#Ranga",
+          "ttf": "https://fonts.gstatic.com/s/ranga/v17/C8cg4cYisGb28qY-AygY43k.ttf",
+          "woff": "https://fonts.gstatic.com/s/ranga/v17/C8cg4cYisGb28qY-AygY43o.woff",
+          "woff2": "https://fonts.gstatic.com/s/ranga/v17/C8cg4cYisGb28qY-AygW43w.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

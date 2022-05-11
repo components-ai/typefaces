@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Purple Purse'",
-          "'PurplePurse-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCcRz6.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=qWctB66gv53iAp-Vfs4My6qCcRz5&skey=ef46d2294a97ea7e&v=v9#PurplePurse",
-          "ttf": "https://fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCcRz7.ttf",
-          "woff": "https://fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCcRz4.woff",
-          "woff2": "https://fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCfxz-.woff2"
+          "eot": "https://fonts.gstatic.com/s/purplepurse/v21/qWctB66gv53iAp-Vfs4My6qCcRz6.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=qWctB66gv53iAp-Vfs4My6qCcRz5&skey=ef46d2294a97ea7e&v=v21#PurplePurse",
+          "ttf": "https://fonts.gstatic.com/s/purplepurse/v21/qWctB66gv53iAp-Vfs4My6qCcRz7.ttf",
+          "woff": "https://fonts.gstatic.com/s/purplepurse/v21/qWctB66gv53iAp-Vfs4My6qCcRz4.woff",
+          "woff2": "https://fonts.gstatic.com/s/purplepurse/v21/qWctB66gv53iAp-Vfs4My6qCfxz-.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-20",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Amita Regular'",
-          "'Amita-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amita/v7/HhyaU5si9Om7PTlmC_E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PTlmC_I&skey=3dfbdf6b2e59f965&v=v7#Amita",
-          "ttf": "https://fonts.gstatic.com/s/amita/v7/HhyaU5si9Om7PTlmC_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/amita/v7/HhyaU5si9Om7PTlmC_M.woff",
-          "woff2": "https://fonts.gstatic.com/s/amita/v7/HhyaU5si9Om7PTloC_U.woff2"
+          "eot": "https://fonts.gstatic.com/s/amita/v16/HhyaU5si9Om7PTlmC_E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PTlmC_I&skey=3dfbdf6b2e59f965&v=v16#Amita",
+          "ttf": "https://fonts.gstatic.com/s/amita/v16/HhyaU5si9Om7PTlmC_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/amita/v16/HhyaU5si9Om7PTlmC_M.woff",
+          "woff2": "https://fonts.gstatic.com/s/amita/v16/HhyaU5si9Om7PTloC_U.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amita Bold'",
-          "'Amita-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amita/v7/HhyXU5si9Om7PTHTLuCLMI8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLuCLMIw&skey=f4d9463ce099459b&v=v7#Amita",
-          "ttf": "https://fonts.gstatic.com/s/amita/v7/HhyXU5si9Om7PTHTLuCLMI4.ttf",
-          "woff": "https://fonts.gstatic.com/s/amita/v7/HhyXU5si9Om7PTHTLuCLMI0.woff",
-          "woff2": "https://fonts.gstatic.com/s/amita/v7/HhyXU5si9Om7PTHTLuCFMIs.woff2"
+          "eot": "https://fonts.gstatic.com/s/amita/v16/HhyXU5si9Om7PTHTLuCLMI8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLuCLMIw&skey=f4d9463ce099459b&v=v16#Amita",
+          "ttf": "https://fonts.gstatic.com/s/amita/v16/HhyXU5si9Om7PTHTLuCLMI4.ttf",
+          "woff": "https://fonts.gstatic.com/s/amita/v16/HhyXU5si9Om7PTHTLuCLMI0.woff",
+          "woff2": "https://fonts.gstatic.com/s/amita/v16/HhyXU5si9Om7PTHTLuCFMIs.woff2"
         }
       }
     }
   },
-  "version": "v7",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

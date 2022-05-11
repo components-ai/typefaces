@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Julee-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq90.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB3RpZPQ5ZMq94&skey=47541d5d0acb64ae&v=v10#Julee",
-          "ttf": "https://fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq9w.ttf",
-          "woff": "https://fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq98.woff",
-          "woff2": "https://fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq9k.woff2"
+          "eot": "https://fonts.gstatic.com/s/julee/v22/TuGfUVB3RpZPQ5ZMq90.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB3RpZPQ5ZMq94&skey=47541d5d0acb64ae&v=v22#Julee",
+          "ttf": "https://fonts.gstatic.com/s/julee/v22/TuGfUVB3RpZPQ5ZMq9w.ttf",
+          "woff": "https://fonts.gstatic.com/s/julee/v22/TuGfUVB3RpZPQ5ZMq98.woff",
+          "woff2": "https://fonts.gstatic.com/s/julee/v22/TuGfUVB3RpZPQ5ZMq9k.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

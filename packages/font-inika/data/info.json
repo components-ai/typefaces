@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,33 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Inika'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTOT8I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5X3QP-piTOT8E&skey=4a5fa8e3d9422bfa&v=v9#Inika",
-          "ttf": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTOT8M.ttf",
-          "woff": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTOT8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8Y.woff2"
+          "eot": "https://fonts.gstatic.com/s/inika/v21/rnCm-x5X3QP-piTOT8I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5X3QP-piTOT8E&skey=4a5fa8e3d9422bfa&v=v21#Inika",
+          "ttf": "https://fonts.gstatic.com/s/inika/v21/rnCm-x5X3QP-piTOT8M.ttf",
+          "woff": "https://fonts.gstatic.com/s/inika/v21/rnCm-x5X3QP-piTOT8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/inika/v21/rnCm-x5X3QP-piTAT8Y.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Inika Bold'",
-          "'Inika-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM3knw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5X3QP-pix7atM3kn8&skey=cb57b1b3fdfec5ca&v=v9#Inika",
-          "ttf": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM3kn0.ttf",
-          "woff": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM3kn4.woff",
-          "woff2": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5kng.woff2"
+          "eot": "https://fonts.gstatic.com/s/inika/v21/rnCr-x5X3QP-pix7atM3knw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5X3QP-pix7atM3kn8&skey=cb57b1b3fdfec5ca&v=v21#Inika",
+          "ttf": "https://fonts.gstatic.com/s/inika/v21/rnCr-x5X3QP-pix7atM3kn0.ttf",
+          "woff": "https://fonts.gstatic.com/s/inika/v21/rnCr-x5X3QP-pix7atM3kn4.woff",
+          "woff2": "https://fonts.gstatic.com/s/inika/v21/rnCr-x5X3QP-pix7atM5kng.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {
@@ -102,6 +97,12 @@
             "x_min": 46,
             "x_max": 665,
             "o": "m 361 688 l 361 688 q 172 450 172 688 l 172 450 q 226 299 172 351 q 372 247 281 247 l 372 247 q 453 271 399 247 q 533 311 508 294 l 533 311 q 542 413 542 358 q 533 510 542 468 q 507 595 525 553 q 451 663 489 638 q 361 688 414 688 z m 347 165 l 347 165 q 128 250 210 165 q 46 465 46 335 q 128 682 46 596 q 360 768 211 768 q 588 671 510 768 q 665 400 665 574 l 665 400 q 546 -19 665 144 l 546 -19 q 386 -147 486 -101 q 153 -192 286 -192 l 153 -192 q 143 -151 143 -179 l 143 -151 l 144 -131 q 408 -31 325 -117 q 519 228 492 56 l 519 228 q 435 183 486 200 q 347 165 385 165 z "
+          },
+          "": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 361,
@@ -1741,6 +1742,12 @@
             "x_min": 46,
             "x_max": 689,
             "o": "m 136 -112 l 136 -112 q 138 -94 136 -99 l 138 -94 q 372 -19 294 -83 q 476 171 449 44 l 476 171 q 358 144 413 144 l 358 144 q 131 232 215 144 q 46 454 46 319 q 131 678 46 589 q 368 767 217 767 q 604 665 519 767 q 689 392 689 563 l 689 392 q 556 -28 689 131 q 158 -196 422 -187 l 158 -196 q 136 -112 136 -164 z m 382 268 l 382 268 q 501 317 413 268 l 501 317 q 508 410 508 367 q 503 488 508 454 q 484 560 497 522 q 442 619 471 597 q 372 642 413 642 l 372 642 q 228 447 232 642 l 228 447 q 269 313 228 358 q 382 268 311 268 z "
+          },
+          "": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 361,

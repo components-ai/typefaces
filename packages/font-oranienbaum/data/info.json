@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Oranienbaum'",
-          "'Oranienbaum-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zu5Ek.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OZpHg_txtzZKMuXLIVrx-0zu5Eo&skey=2b188dc93b25e0f1&v=v9#Oranienbaum",
-          "ttf": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zu5Eg.ttf",
-          "woff": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zu5Es.woff",
-          "woff2": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2"
+          "eot": "https://fonts.gstatic.com/s/oranienbaum/v15/OZpHg_txtzZKMuXLIVrx-0zu5Ek.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OZpHg_txtzZKMuXLIVrx-0zu5Eo&skey=2b188dc93b25e0f1&v=v15#Oranienbaum",
+          "ttf": "https://fonts.gstatic.com/s/oranienbaum/v15/OZpHg_txtzZKMuXLIVrx-0zu5Eg.ttf",
+          "woff": "https://fonts.gstatic.com/s/oranienbaum/v15/OZpHg_txtzZKMuXLIVrx-0zu5Es.woff",
+          "woff2": "https://fonts.gstatic.com/s/oranienbaum/v15/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {
@@ -94,6 +91,24 @@
             "x_min": 42,
             "x_max": 632,
             "o": "m 174 667 l 174 667 q 188 541 174 593 q 226 455 203 489 q 278 405 249 421 q 340 389 308 389 l 340 389 q 398 405 369 389 q 449 453 426 421 q 486 535 472 485 q 500 651 500 585 l 500 651 q 485 801 500 740 q 447 901 471 863 q 392 956 424 939 q 326 972 360 972 l 326 972 q 273 956 300 972 q 224 903 246 939 q 188 808 201 867 q 174 667 174 750 z m 632 514 l 632 486 q 606 257 632 353 q 535 99 579 161 q 435 8 492 38 q 319 -21 379 -21 l 319 -21 q 217 -5 263 -21 q 141 38 172 11 q 93 99 110 64 q 76 174 76 135 l 76 174 q 83 221 76 203 l 83 221 q 90 236 86 229 l 90 236 l 208 208 q 201 188 204 199 l 201 188 q 194 146 194 167 l 194 146 q 228 36 194 72 q 319 0 261 0 l 319 0 q 383 22 350 0 q 444 93 417 43 q 490 226 472 143 q 507 431 507 308 l 507 431 l 507 500 q 498 478 507 500 q 467 431 489 457 q 410 383 444 404 q 326 361 376 361 l 326 361 q 215 383 267 361 q 124 446 163 406 q 64 542 86 486 q 42 667 42 599 l 42 667 q 64 802 42 742 q 124 905 86 863 q 215 970 163 947 q 326 993 267 993 l 326 993 q 451 968 394 993 q 547 886 507 943 q 610 738 588 829 q 632 514 632 647 l 632 514 z "
+          },
+          "В": {
+            "ha": 701,
+            "x_min": 63,
+            "x_max": 667,
+            "o": "m 313 0 l 63 0 l 63 14 l 146 35 l 146 938 l 63 958 l 63 972 l 313 972 q 426 958 378 972 q 506 917 474 943 q 553 858 538 892 q 569 785 569 824 l 569 785 q 560 731 569 754 q 537 690 551 707 q 503 659 522 672 q 465 638 485 646 l 465 638 q 361 611 419 617 l 361 611 q 514 568 447 603 l 514 568 q 570 531 543 553 q 619 478 597 510 q 653 406 640 447 q 667 313 667 365 l 667 313 q 642 190 667 247 q 570 91 617 133 q 458 24 524 49 q 313 0 393 0 l 313 0 z m 313 597 l 264 597 l 264 28 l 313 28 q 400 46 360 28 q 470 100 440 64 q 517 189 500 136 q 535 313 535 242 l 535 313 q 517 436 535 383 q 470 525 500 489 q 400 579 440 561 q 313 597 360 597 l 313 597 z m 264 944 l 264 625 l 313 625 q 413 666 375 626 q 451 785 451 706 l 451 785 q 413 904 451 864 q 313 944 375 944 l 313 944 l 264 944 z "
+          },
+          "Г": {
+            "ha": 632,
+            "x_min": 63,
+            "x_max": 597,
+            "o": "m 264 944 l 264 35 l 347 14 l 347 0 l 63 0 l 63 14 l 146 35 l 146 938 l 63 958 l 63 972 l 597 972 q 593 943 594 960 l 593 943 q 591 908 592 928 q 590 861 590 888 l 590 861 q 591 823 590 842 q 593 788 592 804 l 593 788 q 597 750 594 768 l 597 750 l 583 750 q 524 836 547 786 q 500 944 500 886 l 500 944 l 264 944 z "
+          },
+          "Д": {
+            "ha": 757,
+            "x_min": 0,
+            "x_max": 715,
+            "o": "m 604 0 l 111 0 q 86 -124 111 -68 q 14 -215 61 -179 l 14 -215 l 0 -215 q 3 -174 1 -196 l 3 -174 q 6 -133 4 -156 q 7 -90 7 -111 l 7 -90 q 6 -46 7 -67 q 3 -8 4 -25 l 3 -8 q 0 28 1 11 l 0 28 l 97 28 q 156 146 131 69 l 156 146 q 197 320 178 211 q 215 597 215 429 l 215 597 l 215 931 l 125 958 l 125 972 l 688 972 l 688 958 l 604 938 l 604 28 l 715 28 q 711 -8 713 11 l 711 -8 q 709 -46 710 -25 q 708 -90 708 -67 l 708 -90 q 709 -133 708 -111 q 711 -174 710 -156 l 711 -174 q 715 -215 713 -196 l 715 -215 l 701 -215 q 629 -124 654 -179 q 604 0 604 -68 l 604 0 z m 243 944 l 243 597 q 226 320 243 429 q 188 146 208 211 l 188 146 q 132 28 163 69 l 132 28 l 486 28 l 486 944 l 243 944 z "
           },
           "A": {
             "ha": 722,

@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Loved by the King'",
-          "'LovedbytheKing'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3c&skey=1a4fc96377c36468&v=v10#LovedbytheKing",
-          "ttf": "https://fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3U.ttf",
-          "woff": "https://fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Y.woff",
-          "woff2": "https://fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3A.woff2"
+          "eot": "https://fonts.gstatic.com/s/lovedbytheking/v17/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3c&skey=1a4fc96377c36468&v=v17#LovedbytheKing",
+          "ttf": "https://fonts.gstatic.com/s/lovedbytheking/v17/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3U.ttf",
+          "woff": "https://fonts.gstatic.com/s/lovedbytheking/v17/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Y.woff",
+          "woff2": "https://fonts.gstatic.com/s/lovedbytheking/v17/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3A.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

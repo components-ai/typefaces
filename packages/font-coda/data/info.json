@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Coda Regular'",
-          "'Coda-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUsGbw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUsGbA&skey=85bb675133fabe3&v=v16#Coda",
-          "ttf": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUsGbg.ttf",
-          "woff": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUsGbQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGaw.woff2"
+          "eot": "https://fonts.gstatic.com/s/coda/v21/SLXHc1jY5nQ8FUsGbw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUsGbA&skey=85bb675133fabe3&v=v21#Coda",
+          "ttf": "https://fonts.gstatic.com/s/coda/v21/SLXHc1jY5nQ8FUsGbg.ttf",
+          "woff": "https://fonts.gstatic.com/s/coda/v21/SLXHc1jY5nQ8FUsGbQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/coda/v21/SLXHc1jY5nQ8FUUGaw.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Coda ExtraBold'",
-          "'Coda-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpesxg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpesxQ&skey=4835f90a6ea1d5e3&v=v16#Coda",
-          "ttf": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpesxw.ttf",
-          "woff": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpesxA.woff",
-          "woff2": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmswg.woff2"
+          "eot": "https://fonts.gstatic.com/s/coda/v21/SLXIc1jY5nQ8HeIgfpesxg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpesxQ&skey=4835f90a6ea1d5e3&v=v21#Coda",
+          "ttf": "https://fonts.gstatic.com/s/coda/v21/SLXIc1jY5nQ8HeIgfpesxw.ttf",
+          "woff": "https://fonts.gstatic.com/s/coda/v21/SLXIc1jY5nQ8HeIgfpesxA.woff",
+          "woff2": "https://fonts.gstatic.com/s/coda/v21/SLXIc1jY5nQ8HeIgfpmswg.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

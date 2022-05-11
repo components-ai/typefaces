@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2019-11-05",
+  "lastModified": "2022-04-27",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'ZCOOL XiaoWei Regular'",
-          "'ZCOOLXiaoWei-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFFrTRywPpUVX9_RJyM1UFWaGQ&skey=14ca153fc38e039b&v=v5#ZCOOLXiaoWei",
-          "ttf": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGw.ttf",
-          "woff": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff",
-          "woff2": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1YFf4BQ6OHB3qE7y2ys6XIzxYv88CVLJlObJGMqmkzaJnjA.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/zcoolxiaowei/v10/i7dMIFFrTRywPpUVX9_RJyM1UFWaGg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFFrTRywPpUVX9_RJyM1UFWaGQ&skey=14ca153fc38e039b&v=v10#ZCOOLXiaoWei",
+          "ttf": "https://fonts.gstatic.com/s/zcoolxiaowei/v10/i7dMIFFrTRywPpUVX9_RJyM1UFWaGw.ttf",
+          "woff": "https://fonts.gstatic.com/s/zcoolxiaowei/v10/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff",
+          "woff2": "https://fonts.gstatic.com/s/zcoolxiaowei/v10/i7dMIFFrTRywPpUVX9_RJyM1YFf4BQ6OHB3qE7y2ys6XIzxYv88CVLJlObJGMqmkzaJnjA.119.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

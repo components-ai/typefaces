@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Annie Use Your Telescope Regular'",
-          "'AnnieUseYourTelescope-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/annieuseyourtelescope/v11/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3H&skey=3d2407f15b0e226f&v=v11#AnnieUseYourTelescope",
-          "ttf": "https://fonts.gstatic.com/s/annieuseyourtelescope/v11/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3F.ttf",
-          "woff": "https://fonts.gstatic.com/s/annieuseyourtelescope/v11/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3G.woff",
-          "woff2": "https://fonts.gstatic.com/s/annieuseyourtelescope/v11/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3A.woff2"
+          "eot": "https://fonts.gstatic.com/s/annieuseyourtelescope/v18/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3H&skey=3d2407f15b0e226f&v=v18#AnnieUseYourTelescope",
+          "ttf": "https://fonts.gstatic.com/s/annieuseyourtelescope/v18/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3F.ttf",
+          "woff": "https://fonts.gstatic.com/s/annieuseyourtelescope/v18/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3G.woff",
+          "woff2": "https://fonts.gstatic.com/s/annieuseyourtelescope/v18/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3A.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

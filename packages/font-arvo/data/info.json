@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-10",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,60 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Arvo-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbN2oWUg0MKqSIg75To&skey=2dd72678c3f42e85&v=v14#Arvo",
-          "ttf": "https://fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tq.ttf",
-          "woff": "https://fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tp.woff",
-          "woff2": "https://fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tv.woff2"
+          "eot": "https://fonts.gstatic.com/s/arvo/v20/tDbN2oWUg0MKqSIg75Tr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbN2oWUg0MKqSIg75To&skey=2dd72678c3f42e85&v=v20#Arvo",
+          "ttf": "https://fonts.gstatic.com/s/arvo/v20/tDbN2oWUg0MKqSIg75Tq.ttf",
+          "woff": "https://fonts.gstatic.com/s/arvo/v20/tDbN2oWUg0MKqSIg75Tp.woff",
+          "woff2": "https://fonts.gstatic.com/s/arvo/v20/tDbN2oWUg0MKqSIg75Tv.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arvo Bold Italic'",
-          "'Arvo-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbO2oWUg0MKqSIoVLH68dr4&skey=a6e16a2b31a2dc20&v=v14#Arvo",
-          "ttf": "https://fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr6.ttf",
-          "woff": "https://fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr5.woff",
-          "woff2": "https://fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr_.woff2"
+          "eot": "https://fonts.gstatic.com/s/arvo/v20/tDbO2oWUg0MKqSIoVLH68dr7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbO2oWUg0MKqSIoVLH68dr4&skey=a6e16a2b31a2dc20&v=v20#Arvo",
+          "ttf": "https://fonts.gstatic.com/s/arvo/v20/tDbO2oWUg0MKqSIoVLH68dr6.ttf",
+          "woff": "https://fonts.gstatic.com/s/arvo/v20/tDbO2oWUg0MKqSIoVLH68dr5.woff",
+          "woff2": "https://fonts.gstatic.com/s/arvo/v20/tDbO2oWUg0MKqSIoVLH68dr_.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Arvo'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ6Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbD2oWUg0MKqScQ6g&skey=40c49b2c9e3d24ba&v=v14#Arvo",
-          "ttf": "https://fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ6A.ttf",
-          "woff": "https://fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ6w.woff",
-          "woff2": "https://fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ7Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/arvo/v20/tDbD2oWUg0MKqScQ6Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbD2oWUg0MKqScQ6g&skey=40c49b2c9e3d24ba&v=v20#Arvo",
+          "ttf": "https://fonts.gstatic.com/s/arvo/v20/tDbD2oWUg0MKqScQ6A.ttf",
+          "woff": "https://fonts.gstatic.com/s/arvo/v20/tDbD2oWUg0MKqScQ6w.woff",
+          "woff2": "https://fonts.gstatic.com/s/arvo/v20/tDbD2oWUg0MKqScQ7Q.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arvo Bold'",
-          "'Arvo-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbM2oWUg0MKoZw1-LPK9A&skey=32d0e4970a9f038b&v=v14#Arvo",
-          "ttf": "https://fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9g.ttf",
-          "woff": "https://fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK8w.woff2"
+          "eot": "https://fonts.gstatic.com/s/arvo/v20/tDbM2oWUg0MKoZw1-LPK9w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbM2oWUg0MKoZw1-LPK9A&skey=32d0e4970a9f038b&v=v20#Arvo",
+          "ttf": "https://fonts.gstatic.com/s/arvo/v20/tDbM2oWUg0MKoZw1-LPK9g.ttf",
+          "woff": "https://fonts.gstatic.com/s/arvo/v20/tDbM2oWUg0MKoZw1-LPK9Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/arvo/v20/tDbM2oWUg0MKoZw1-LPK8w.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v20",
   "typefaces": {
     "italic": {
       "400": {

@@ -2650,14 +2650,14 @@
     "256": {
       "en": "Weight"
     },
-    "258": {
+    "261": {
       "en": "Light"
     },
-    "262": {
-      "en": "Roman"
-    },
-    "263": {
+    "278": {
       "en": "Italic"
+    },
+    "279": {
+      "en": "Roman"
     },
     "copyright": {
       "en": "Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name \"Josefin Sans\"."
@@ -2669,13 +2669,13 @@
       "en": "Regular"
     },
     "uniqueID": {
-      "en": "2.000;NONE;JosefinSansThin-Light"
+      "en": "2.001;NONE;JosefinSansThin-Light"
     },
     "fullName": {
       "en": "Josefin Sans Thin Light"
     },
     "version": {
-      "en": "Version 2.000"
+      "en": "Version 2.001"
     },
     "postScriptName": {
       "en": "JosefinSansThin-Light"

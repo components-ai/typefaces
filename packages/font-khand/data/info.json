@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Khand Light'",
-          "'Khand-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGE-bQM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bL5cGE-bQA&skey=72fb1c68c23ea06b&v=v9#Khand",
-          "ttf": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGE-bQI.ttf",
-          "woff": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGE-bQE.woff",
-          "woff2": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGEwbQc.woff2"
+          "eot": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bL5cGE-bQM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bL5cGE-bQA&skey=72fb1c68c23ea06b&v=v14#Khand",
+          "ttf": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bL5cGE-bQI.ttf",
+          "woff": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bL5cGE-bQE.woff",
+          "woff2": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bL5cGEwbQc.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Khand Regular'",
-          "'Khand-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpcUnA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IINQlQQ0bpcUnM&skey=d40ed1e34341551d&v=v9#Khand",
-          "ttf": "https://fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpcUnE.ttf",
-          "woff": "https://fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpcUnI.woff",
-          "woff2": "https://fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpSUnQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/khand/v14/TwMA-IINQlQQ0bpcUnA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IINQlQQ0bpcUnM&skey=d40ed1e34341551d&v=v14#Khand",
+          "ttf": "https://fonts.gstatic.com/s/khand/v14/TwMA-IINQlQQ0bpcUnE.ttf",
+          "woff": "https://fonts.gstatic.com/s/khand/v14/TwMA-IINQlQQ0bpcUnI.woff",
+          "woff2": "https://fonts.gstatic.com/s/khand/v14/TwMA-IINQlQQ0bpSUnQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Khand Medium'",
-          "'Khand-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWE-bQM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKhcWE-bQA&skey=c34e898398887a9&v=v9#Khand",
-          "ttf": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWE-bQI.ttf",
-          "woff": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWE-bQE.woff",
-          "woff2": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWEwbQc.woff2"
+          "eot": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKhcWE-bQM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKhcWE-bQA&skey=c34e898398887a9&v=v14#Khand",
+          "ttf": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKhcWE-bQI.ttf",
+          "woff": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKhcWE-bQE.woff",
+          "woff2": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKhcWEwbQc.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Khand SemiBold'",
-          "'Khand-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmE-bQM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKNdmE-bQA&skey=ff7c71d785460685&v=v9#Khand",
-          "ttf": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmE-bQI.ttf",
-          "woff": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmE-bQE.woff",
-          "woff2": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmEwbQc.woff2"
+          "eot": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKNdmE-bQM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKNdmE-bQA&skey=ff7c71d785460685&v=v14#Khand",
+          "ttf": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKNdmE-bQI.ttf",
+          "woff": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKNdmE-bQE.woff",
+          "woff2": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bKNdmEwbQc.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Khand Bold'",
-          "'Khand-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2E-bQM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bLpd2E-bQA&skey=e8521d244a3a634b&v=v9#Khand",
-          "ttf": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2E-bQI.ttf",
-          "woff": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2E-bQE.woff",
-          "woff2": "https://fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2EwbQc.woff2"
+          "eot": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bLpd2E-bQM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bLpd2E-bQA&skey=e8521d244a3a634b&v=v14#Khand",
+          "ttf": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bLpd2E-bQI.ttf",
+          "woff": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bLpd2E-bQE.woff",
+          "woff2": "https://fonts.gstatic.com/s/khand/v14/TwMN-IINQlQQ0bLpd2EwbQc.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "300": {

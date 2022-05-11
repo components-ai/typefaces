@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,88 +12,70 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Neuton Italic'",
-          "'Neuton-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg2Wis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBRrPtMoH62xUZCyrg2Wig&skey=891dadfcf29cd902&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg2Wio.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg2Wik.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg4Wi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBRrPtMoH62xUZCyrg2Wis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBRrPtMoH62xUZCyrg2Wig&skey=891dadfcf29cd902&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBRrPtMoH62xUZCyrg2Wio.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBRrPtMoH62xUZCyrg2Wik.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBRrPtMoH62xUZCyrg4Wi8.woff2"
         }
       }
     },
     "normal": {
       "200": {
-        "local": [
-          "'Neuton ExtraLight'",
-          "'Neuton-ExtraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvcwr8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKAKkvcwr_&skey=13890a023ea5f0b7&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvcwr9.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvcwr-.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvfQr4.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKAKkvcwr8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKAKkvcwr_&skey=13890a023ea5f0b7&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKAKkvcwr9.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKAKkvcwr-.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKAKkvfQr4.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Neuton Light'",
-          "'Neuton-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovcwr8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKZKovcwr_&skey=56881972de0a6bb6&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovcwr9.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovcwr-.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovfQr4.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKZKovcwr8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKZKovcwr_&skey=56881972de0a6bb6&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKZKovcwr9.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKZKovcwr-.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKZKovfQr4.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Neuton Regular'",
-          "'Neuton-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCwYg-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBTrPtMoH62xUZCwYg9&skey=88f950a540847181&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCwYg_.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCwYg8.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCz4g6.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBTrPtMoH62xUZCwYg-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBTrPtMoH62xUZCwYg9&skey=88f950a540847181&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBTrPtMoH62xUZCwYg_.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBTrPtMoH62xUZCwYg8.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBTrPtMoH62xUZCz4g6.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Neuton Bold'",
-          "'Neuton-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vcwr8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKdK0vcwr_&skey=2fa4dd900c5363d8&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vcwr9.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vcwr-.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vfQr4.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKdK0vcwr8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKdK0vcwr_&skey=2fa4dd900c5363d8&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKdK0vcwr9.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKdK0vcwr-.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKdK0vfQr4.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Neuton ExtraBold'",
-          "'Neuton-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vcwr8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKaK4vcwr_&skey=e658fa9062cfc891&v=v13#Neuton",
-          "ttf": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vcwr9.ttf",
-          "woff": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vcwr-.woff",
-          "woff2": "https://fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vfQr4.woff2"
+          "eot": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKaK4vcwr8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKaK4vcwr_&skey=e658fa9062cfc891&v=v18#Neuton",
+          "ttf": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKaK4vcwr9.ttf",
+          "woff": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKaK4vcwr-.woff",
+          "woff2": "https://fonts.gstatic.com/s/neuton/v18/UMBQrPtMoH62xUZKaK4vfQr4.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

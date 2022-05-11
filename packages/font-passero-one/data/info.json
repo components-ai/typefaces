@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Passero One'",
-          "'PasseroOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5I7g8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=JTUTjIko8DOq5FeaeEAjgH5I7gw&skey=769fc99ad574e5ed&v=v12#PasseroOne",
-          "ttf": "https://fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5I7g4.ttf",
-          "woff": "https://fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5I7g0.woff",
-          "woff2": "https://fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5G7gs.woff2"
+          "eot": "https://fonts.gstatic.com/s/passeroone/v24/JTUTjIko8DOq5FeaeEAjgH5I7g8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=JTUTjIko8DOq5FeaeEAjgH5I7gw&skey=769fc99ad574e5ed&v=v24#PasseroOne",
+          "ttf": "https://fonts.gstatic.com/s/passeroone/v24/JTUTjIko8DOq5FeaeEAjgH5I7g4.ttf",
+          "woff": "https://fonts.gstatic.com/s/passeroone/v24/JTUTjIko8DOq5FeaeEAjgH5I7g0.woff",
+          "woff2": "https://fonts.gstatic.com/s/passeroone/v24/JTUTjIko8DOq5FeaeEAjgH5G7gs.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v24",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 72,
             "x_max": 611,
             "o": "m 429 543 l 429 543 l 385 545 q 244 529 301 545 l 244 529 q 233 444 233 480 l 233 444 q 243 306 233 374 l 243 306 q 374 272 278 290 l 374 272 l 328 125 q 125 197 191 151 l 125 197 q 99 237 106 211 q 86 288 91 262 q 79 340 81 313 l 79 340 q 72 436 72 397 q 74 500 72 474 q 79 549 75 526 l 79 549 q 98 618 87 602 l 98 618 q 220 678 128 664 l 220 678 q 409 696 337 696 q 500 694 480 696 q 536 686 521 692 l 536 686 q 582 637 568 674 l 582 637 q 611 458 611 558 l 611 458 q 600 204 611 307 l 600 204 q 252 -235 586 66 l 252 -235 l 136 -131 q 290 19 248 -25 l 290 19 q 431 181 385 123 l 431 181 q 447 357 447 263 q 429 543 447 451 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 304,

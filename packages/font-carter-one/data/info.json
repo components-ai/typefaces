@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Carter One'",
-          "'CarterOne'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8gA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=q5uCsoe5IOB2-pXv9UcNExN8gw&skey=31ef17c3e3d00ad1&v=v12#CarterOne",
-          "ttf": "https://fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8gQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8gg.woff",
-          "woff2": "https://fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8hA.woff2"
+          "eot": "https://fonts.gstatic.com/s/carterone/v17/q5uCsoe5IOB2-pXv9UcNExN8gA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=q5uCsoe5IOB2-pXv9UcNExN8gw&skey=31ef17c3e3d00ad1&v=v17#CarterOne",
+          "ttf": "https://fonts.gstatic.com/s/carterone/v17/q5uCsoe5IOB2-pXv9UcNExN8gQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/carterone/v17/q5uCsoe5IOB2-pXv9UcNExN8gg.woff",
+          "woff2": "https://fonts.gstatic.com/s/carterone/v17/q5uCsoe5IOB2-pXv9UcNExN8hA.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

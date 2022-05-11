@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Barrio Regular'",
-          "'Barrio-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0fAwk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wEO8EBXBk8hBIDi0fAwn&skey=ceb2e476735f1d8d&v=v5#Barrio",
-          "ttf": "https://fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0fAwl.ttf",
-          "woff": "https://fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0fAwm.woff",
-          "woff2": "https://fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0cgwg.woff2"
+          "eot": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0fAwk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wEO8EBXBk8hBIDi0fAwn&skey=ceb2e476735f1d8d&v=v19#Barrio",
+          "ttf": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0fAwl.ttf",
+          "woff": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0fAwm.woff",
+          "woff2": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0cgwg.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

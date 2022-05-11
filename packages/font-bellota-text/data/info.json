@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "latin",
@@ -16,88 +16,70 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Bellota Text Light Italic'",
-          "'BellotaText-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay0&skey=4309c97d9a339b69&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay8.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ayw.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_zayo.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay0&skey=4309c97d9a339b69&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay8.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ayw.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_zayo.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Bellota Text Italic'",
-          "'BellotaText-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kDXS4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx--kDXS0&skey=682ca6d9c2e26034&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kDXS8.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kDXSw.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kNXSo.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlNVP2VnlWS4f3-UE9hHXMx--kDXS4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx--kDXS0&skey=682ca6d9c2e26034&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlNVP2VnlWS4f3-UE9hHXMx--kDXS8.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlNVP2VnlWS4f3-UE9hHXMx--kDXSw.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlNVP2VnlWS4f3-UE9hHXMx--kNXSo.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Bellota Text Bold Italic'",
-          "'BellotaText-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay0&skey=ce5a806f7e42e80d&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay8.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ayw.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_zayo.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay0&skey=ce5a806f7e42e80d&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay8.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ayw.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_zayo.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Bellota Text Light'",
-          "'BellotaText-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_2&skey=2e250e20a246659e&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_0.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_3.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Vfsaeg_x.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_2&skey=2e250e20a246659e&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_0.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_3.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5Vfsaeg_x.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Bellota Text Regular'",
-          "'BellotaText-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx8NkL.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMx8NkI&skey=9a182f307f182cd6&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx8NkK.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx8NkJ.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx_tkP.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlTVP2VnlWS4f3-UE9hHXMx8NkL.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMx8NkI&skey=9a182f307f182cd6&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlTVP2VnlWS4f3-UE9hHXMx8NkK.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlTVP2VnlWS4f3-UE9hHXMx8NkJ.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlTVP2VnlWS4f3-UE9hHXMx_tkP.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Bellota Text Bold'",
-          "'BellotaText-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_1.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_2&skey=a8661c2b5cebdd15&v=v2#BellotaText",
-          "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_0.ttf",
-          "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_3.woff",
-          "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Rfwaeg_x.woff2"
+          "eot": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_1.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_2&skey=a8661c2b5cebdd15&v=v16#BellotaText",
+          "ttf": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_0.ttf",
+          "woff": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_3.woff",
+          "woff2": "https://fonts.gstatic.com/s/bellotatext/v16/0FlMVP2VnlWS4f3-UE9hHXM5Rfwaeg_x.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v16",
   "typefaces": {
     "italic": {
       "300": {

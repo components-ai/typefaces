@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'The Girl Next Door'",
-          "'TheGirlNextDoor'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF-.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF9&skey=bb61dfb09aee2010&v=v11#TheGirlNextDoor",
-          "ttf": "https://fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF_.ttf",
-          "woff": "https://fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF8.woff",
-          "woff2": "https://fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF6.woff2"
+          "eot": "https://fonts.gstatic.com/s/thegirlnextdoor/v18/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF-.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF9&skey=bb61dfb09aee2010&v=v18#TheGirlNextDoor",
+          "ttf": "https://fonts.gstatic.com/s/thegirlnextdoor/v18/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF_.ttf",
+          "woff": "https://fonts.gstatic.com/s/thegirlnextdoor/v18/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF8.woff",
+          "woff2": "https://fonts.gstatic.com/s/thegirlnextdoor/v18/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF6.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Jacques Francois Shadow'",
-          "'JacquesFrancoisShadow-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun0&skey=c190ce8cbdc7a345&v=v9#JacquesFrancoisShadow",
-          "ttf": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun8.ttf",
-          "woff": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sunw.woff",
-          "woff2": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Suno.woff2"
+          "eot": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v21/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun0&skey=c190ce8cbdc7a345&v=v21#JacquesFrancoisShadow",
+          "ttf": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v21/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun8.ttf",
+          "woff": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v21/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sunw.woff",
+          "woff2": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v21/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Suno.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

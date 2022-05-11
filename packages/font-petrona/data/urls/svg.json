@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8uwDJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "200": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8mwCJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "300": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8rICJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "400": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8uwCJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "500": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8t4CJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "600": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8jIFJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "700": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8gsFJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "800": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8mwFJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona",
-    "900": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8kUFJYNeMQ&skey=415dc157abdfd2e1&v=v11#Petrona"
+    "100": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8uwDJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "200": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8mwCJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "300": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8rICJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "400": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8uwCJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "500": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8t4CJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "600": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8jIFJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "700": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8gsFJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "800": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8mwFJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona",
+    "900": "https://fonts.gstatic.com/l/font?kit=mtGr4_NXL7bZo9XXgXdCu2vkCLkNEVtF8kUFJYNeMQ&skey=415dc157abdfd2e1&v=v27#Petrona"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6NsDRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "200": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4NsTRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "300": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk7TsTRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "400": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6NsTRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "500": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6_sTRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "600": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk5TtjRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "700": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk5qtjRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "800": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4NtjRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona",
-    "900": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4ktjRIFYg&skey=c7b9dcd5b96edb47&v=v11#Petrona"
+    "100": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6NsDRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "200": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4NsTRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "300": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk7TsTRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "400": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6NsTRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "500": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk6_sTRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "600": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk5TtjRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "700": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk5qtjRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "800": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4NtjRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona",
+    "900": "https://fonts.gstatic.com/l/font?kit=mtGl4_NXL7bZo9XXq35wRLONYyOjFk4ktjRIFYg&skey=c7b9dcd5b96edb47&v=v27#Petrona"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "cyrillic",
     "latin",
@@ -16,88 +16,70 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Playfair Display SC Italic'",
-          "'PlayfairDisplaySC-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs2.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs1&skey=47e0e884627cba50&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs3.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs0.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8Eusy.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs2.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs1&skey=47e0e884627cba50&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs3.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs0.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8Eusy.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Playfair Display SC Bold Italic'",
-          "'PlayfairDisplaySC-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoX&skey=8dc579b8afde520b&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nLKoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoX&skey=8dc579b8afde520b&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nLKoQ.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Playfair Display SC Black Italic'",
-          "'PlayfairDisplaySC-BlackItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoX&skey=11f6a13873ada942&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoV.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoW.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnLKoQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoX&skey=11f6a13873ada942&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoV.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoW.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnLKoQ.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Playfair Display SC Regular'",
-          "'PlayfairDisplaySC-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFw&skey=cd325bbca25040ef&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFg.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbkMEA.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFw&skey=cd325bbca25040ef&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFg.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbkMEA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Playfair Display SC Bold'",
-          "'PlayfairDisplaySC-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKQ&skey=3f21dd19ddf0000a&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKw.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKA.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKQ&skey=3f21dd19ddf0000a&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKw.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKA.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Playfair Display SC Black'",
-          "'PlayfairDisplaySC-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKQ&skey=cf4e93cac0c23b45&v=v10#PlayfairDisplaySC",
-          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKw.ttf",
-          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKA.woff",
-          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2"
+          "eot": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKQ&skey=cf4e93cac0c23b45&v=v15#PlayfairDisplaySC",
+          "ttf": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKw.ttf",
+          "woff": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKA.woff",
+          "woff2": "https://fonts.gstatic.com/s/playfairdisplaysc/v15/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

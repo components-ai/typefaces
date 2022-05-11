@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,60 +14,48 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Vesper Libre'",
-          "'VesperLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdIBkWI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdIBkWL&skey=9f628b6f0c7fc0ca&v=v13#VesperLibre",
-          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdIBkWJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdIBkWK.woff",
-          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdICEWM.woff2"
+          "eot": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_RdIBkWI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdIBkWL&skey=9f628b6f0c7fc0ca&v=v19#VesperLibre",
+          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_RdIBkWJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_RdIBkWK.woff",
+          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_RdICEWM.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Vesper Libre Medium'",
-          "'VesperLibre-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MP.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MM&skey=f6552063498231b&v=v13#VesperLibre",
-          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MO.ttf",
-          "woff": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MN.woff",
-          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1YML.woff2"
+          "eot": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MP.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MM&skey=f6552063498231b&v=v19#VesperLibre",
+          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MO.ttf",
+          "woff": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MN.woff",
+          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1YML.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Vesper Libre Bold'",
-          "'VesperLibre-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MP.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MM&skey=949a5cf42e4608de&v=v13#VesperLibre",
-          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MO.ttf",
-          "woff": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MN.woff",
-          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1YML.woff2"
+          "eot": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MP.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MM&skey=949a5cf42e4608de&v=v19#VesperLibre",
+          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MO.ttf",
+          "woff": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MN.woff",
+          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1YML.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Vesper Libre Heavy'",
-          "'VesperLibre-Heavy'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MP.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MM&skey=91c6c6ed307f7ed1&v=v13#VesperLibre",
-          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MO.ttf",
-          "woff": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MN.woff",
-          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1YML.woff2"
+          "eot": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MP.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MM&skey=91c6c6ed307f7ed1&v=v19#VesperLibre",
+          "ttf": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MO.ttf",
+          "woff": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MN.woff",
+          "woff2": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1YML.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

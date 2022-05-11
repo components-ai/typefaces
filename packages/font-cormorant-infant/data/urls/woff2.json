@@ -1,16 +1,16 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERQY8Z.woff2",
-    "400": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyJU44g9vKiM1sORYSiWeAsLN997_Il2xME.woff2",
-    "500": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDARQY8Z.woff2",
-    "600": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRQY8Z.woff2",
-    "700": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRQY8Z.woff2"
+    "300": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERQY8Z.woff2",
+    "400": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyJU44g9vKiM1sORYSiWeAsLN997_Il2xME.woff2",
+    "500": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDARQY8Z.woff2",
+    "600": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRQY8Z.woff2",
+    "700": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRQY8Z.woff2"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDQhQw.woff2",
-    "400": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyPU44g9vKiM1sORYSiWeAsLN997_cV2Q.woff2",
-    "500": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDQhQw.woff2",
-    "600": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDQhQw.woff2",
-    "700": "https://fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDQhQw.woff2"
+    "300": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDQhQw.woff2",
+    "400": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyPU44g9vKiM1sORYSiWeAsLN997_cV2Q.woff2",
+    "500": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDQhQw.woff2",
+    "600": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDQhQw.woff2",
+    "700": "https://fonts.gstatic.com/s/cormorantinfant/v16/HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDQhQw.woff2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bungee Hairline'",
-          "'BungeeHairline-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaReY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=snfys0G548t04270a_ljTLUVrv-LaReb&skey=f83e9a70b2ed1d60&v=v6#BungeeHairline",
-          "ttf": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaReZ.ttf",
-          "woff": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaRea.woff",
-          "woff2": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LZxec.woff2"
+          "eot": "https://fonts.gstatic.com/s/bungeehairline/v18/snfys0G548t04270a_ljTLUVrv-LaReY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=snfys0G548t04270a_ljTLUVrv-LaReb&skey=f83e9a70b2ed1d60&v=v18#BungeeHairline",
+          "ttf": "https://fonts.gstatic.com/s/bungeehairline/v18/snfys0G548t04270a_ljTLUVrv-LaReZ.ttf",
+          "woff": "https://fonts.gstatic.com/s/bungeehairline/v18/snfys0G548t04270a_ljTLUVrv-LaRea.woff",
+          "woff2": "https://fonts.gstatic.com/s/bungeehairline/v18/snfys0G548t04270a_ljTLUVrv-LZxec.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

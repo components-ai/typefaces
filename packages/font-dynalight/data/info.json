@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dynalight'",
-          "'Dynalight-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fu.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=1Ptsg8LOU_aOmQvTsF44Q4Ft&skey=97fd8018c14a4dc1&v=v9#Dynalight",
-          "ttf": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fv.ttf",
-          "woff": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fs.woff",
-          "woff2": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44TYFq.woff2"
+          "eot": "https://fonts.gstatic.com/s/dynalight/v18/1Ptsg8LOU_aOmQvTsF44Q4Fu.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=1Ptsg8LOU_aOmQvTsF44Q4Ft&skey=97fd8018c14a4dc1&v=v18#Dynalight",
+          "ttf": "https://fonts.gstatic.com/s/dynalight/v18/1Ptsg8LOU_aOmQvTsF44Q4Fv.ttf",
+          "woff": "https://fonts.gstatic.com/s/dynalight/v18/1Ptsg8LOU_aOmQvTsF44Q4Fs.woff",
+          "woff2": "https://fonts.gstatic.com/s/dynalight/v18/1Ptsg8LOU_aOmQvTsF44TYFq.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Joti One'",
-          "'JotiOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Og.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdJQAmWm9TwabTX6Os&skey=62c1bf261cc3b314&v=v9#JotiOne",
-          "ttf": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Ok.ttf",
-          "woff": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Oo.woff",
-          "woff2": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTZ6Ow.woff2"
+          "eot": "https://fonts.gstatic.com/s/jotione/v21/Z9XVDmdJQAmWm9TwabTX6Og.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdJQAmWm9TwabTX6Os&skey=62c1bf261cc3b314&v=v21#JotiOne",
+          "ttf": "https://fonts.gstatic.com/s/jotione/v21/Z9XVDmdJQAmWm9TwabTX6Ok.ttf",
+          "woff": "https://fonts.gstatic.com/s/jotione/v21/Z9XVDmdJQAmWm9TwabTX6Oo.woff",
+          "woff2": "https://fonts.gstatic.com/s/jotione/v21/Z9XVDmdJQAmWm9TwabTZ6Ow.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Faster One'",
-          "'FasterOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fasterone/v12/H4ciBXCHmdfClFb-vWhf-LyYgw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=H4ciBXCHmdfClFb-vWhf-LyYgA&skey=300222cd2477c9fd&v=v12#FasterOne",
-          "ttf": "https://fonts.gstatic.com/s/fasterone/v12/H4ciBXCHmdfClFb-vWhf-LyYgg.ttf",
-          "woff": "https://fonts.gstatic.com/s/fasterone/v12/H4ciBXCHmdfClFb-vWhf-LyYgQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/fasterone/v12/H4ciBXCHmdfClFb-vWhf-LyYhw.woff2"
+          "eot": "https://fonts.gstatic.com/s/fasterone/v17/H4ciBXCHmdfClFb-vWhf-LyYgw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=H4ciBXCHmdfClFb-vWhf-LyYgA&skey=300222cd2477c9fd&v=v17#FasterOne",
+          "ttf": "https://fonts.gstatic.com/s/fasterone/v17/H4ciBXCHmdfClFb-vWhf-LyYgg.ttf",
+          "woff": "https://fonts.gstatic.com/s/fasterone/v17/H4ciBXCHmdfClFb-vWhf-LyYgQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/fasterone/v17/H4ciBXCHmdfClFb-vWhf-LyYhw.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

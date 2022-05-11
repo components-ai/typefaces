@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=845aNMgkAJ2VTtIoxJjKRv6L&skey=7a03ceb3f7ea5f17&v=v12#Puritan",
-    "700": "https://fonts.gstatic.com/l/font?kit=845fNMgkAJ2VTtIoxJjC_duZ-GLF&skey=c4f924ac51adaaa0&v=v12#Puritan"
+    "400": "https://fonts.gstatic.com/l/font?kit=845aNMgkAJ2VTtIoxJjKRv6L&skey=7a03ceb3f7ea5f17&v=v24#Puritan",
+    "700": "https://fonts.gstatic.com/l/font?kit=845fNMgkAJ2VTtIoxJjC_duZ-GLF&skey=c4f924ac51adaaa0&v=v24#Puritan"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=845YNMgkAJ2VTtIoxJ36Qw&skey=c4ee420d84cc3c41&v=v12#Puritan",
-    "700": "https://fonts.gstatic.com/l/font?kit=845dNMgkAJ2VTtIozCbfUdmp_Q&skey=b9f1d03c32ba2ad5&v=v12#Puritan"
+    "400": "https://fonts.gstatic.com/l/font?kit=845YNMgkAJ2VTtIoxJ36Qw&skey=c4ee420d84cc3c41&v=v24#Puritan",
+    "700": "https://fonts.gstatic.com/l/font?kit=845dNMgkAJ2VTtIozCbfUdmp_Q&skey=b9f1d03c32ba2ad5&v=v24#Puritan"
   }
 }

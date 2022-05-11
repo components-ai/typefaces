@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-05-10",
   "subsets": [
     "korean",
     "latin"
@@ -130,21 +130,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nanum Brush Script'",
-          "'NanumBrush'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapu.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapt&skey=d31f4b62e10cf106&v=v17#NanumBrushScript",
-          "ttf": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapv.ttf",
-          "woff": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiaps.woff",
-          "woff2": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazyi8h91FzOgw1p2ltl6Y9TO0Bmgx_e.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/nanumbrushscript/v22/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapu.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapt&skey=d31f4b62e10cf106&v=v22#NanumBrushScript",
+          "ttf": "https://fonts.gstatic.com/s/nanumbrushscript/v22/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapv.ttf",
+          "woff": "https://fonts.gstatic.com/s/nanumbrushscript/v22/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiaps.woff",
+          "woff2": "https://fonts.gstatic.com/s/nanumbrushscript/v22/wXK2E2wfpokopxzthSqPbcR5_gVaxazyi8h91FzOgw1p2ltl6Y9TO0Bmgx_e.119.woff2"
         }
       }
     }
   },
-  "version": "v17",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

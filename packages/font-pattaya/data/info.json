@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "latin",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pattaya'",
-          "'Pattaya-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdmt8g.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XBdmt8Q&skey=16793223d51a74bc&v=v6#Pattaya",
-          "ttf": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdmt8w.ttf",
-          "woff": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdmt8A.woff",
-          "woff2": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet9g.woff2"
+          "eot": "https://fonts.gstatic.com/s/pattaya/v12/ea8ZadcqV_zkHY-XBdmt8g.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XBdmt8Q&skey=16793223d51a74bc&v=v12#Pattaya",
+          "ttf": "https://fonts.gstatic.com/s/pattaya/v12/ea8ZadcqV_zkHY-XBdmt8w.ttf",
+          "woff": "https://fonts.gstatic.com/s/pattaya/v12/ea8ZadcqV_zkHY-XBdmt8A.woff",
+          "woff2": "https://fonts.gstatic.com/s/pattaya/v12/ea8ZadcqV_zkHY-XBdet9g.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {
@@ -2820,13 +2817,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "2.000;    ;Pattaya-Regular"
+            "en": "2.001;UKWN;Pattaya-Regular"
           },
           "fullName": {
-            "en": "Pattaya-Regular"
+            "en": "Pattaya Regular"
           },
           "version": {
-            "en": "Version 2.000"
+            "en": "Version 2.001"
           },
           "postScriptName": {
             "en": "Pattaya-Regular"

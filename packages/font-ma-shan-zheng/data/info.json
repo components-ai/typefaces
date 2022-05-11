@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-11-05",
+  "lastModified": "2022-04-26",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ma Shan Zheng Regular'",
-          "'MaShanZheng-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXadMPmCQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=NaPecZTRCLxvwo41b4gvzkXadMPmCg&skey=13c999d73b164fc8&v=v5#MaShanZheng",
-          "ttf": "https://fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXadMPmCA.ttf",
-          "woff": "https://fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXadMPmCw.woff",
-          "woff2": "https://fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXaRMGEFoZJFdX0wQ5Xo5Hr21L9zCcRFhbSe5Nk0pIMuUkHEA.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/mashanzheng/v10/NaPecZTRCLxvwo41b4gvzkXadMPmCQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=NaPecZTRCLxvwo41b4gvzkXadMPmCg&skey=13c999d73b164fc8&v=v10#MaShanZheng",
+          "ttf": "https://fonts.gstatic.com/s/mashanzheng/v10/NaPecZTRCLxvwo41b4gvzkXadMPmCA.ttf",
+          "woff": "https://fonts.gstatic.com/s/mashanzheng/v10/NaPecZTRCLxvwo41b4gvzkXadMPmCw.woff",
+          "woff2": "https://fonts.gstatic.com/s/mashanzheng/v10/NaPecZTRCLxvwo41b4gvzkXaRMGEFoZJFdX0wQ5Xo5Hr21L9zCcRFhbSe5Nk0pIMuUkHEA.119.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

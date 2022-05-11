@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-25",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "telugu"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Suravaram'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGSw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_gP61R_usiY7SCym4xIwjGSz&skey=87d73eb69d11b4d5&v=v8#Suravaram",
-          "ttf": "https://fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGSx.ttf",
-          "woff": "https://fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGSy.woff",
-          "woff2": "https://fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGS0.woff2"
+          "eot": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwjGSw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_gP61R_usiY7SCym4xIwjGSz&skey=87d73eb69d11b4d5&v=v21#Suravaram",
+          "ttf": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwjGSx.ttf",
+          "woff": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwjGSy.woff",
+          "woff2": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwjGS0.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

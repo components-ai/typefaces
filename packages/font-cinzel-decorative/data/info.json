@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,47 +10,38 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cinzel Decorative Regular'",
-          "'CinzelDecorative-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMs&skey=27bc48db1b57037b&v=v9#CinzelDecorative",
-          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMk.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMo.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMs&skey=27bc48db1b57037b&v=v14#CinzelDecorative",
+          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMk.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMo.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMw.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Cinzel Decorative Bold'",
-          "'CinzelDecorative-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTY&skey=c0652cef950f775a&v=v9#CinzelDecorative",
-          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTc.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTE.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTY&skey=c0652cef950f775a&v=v14#CinzelDecorative",
+          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTc.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTE.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Cinzel Decorative Black'",
-          "'CinzelDecorative-Black'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTY&skey=d6b04507a3b5a102&v=v9#CinzelDecorative",
-          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTc.woff",
-          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTE.woff2"
+          "eot": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTY&skey=d6b04507a3b5a102&v=v14#CinzelDecorative",
+          "ttf": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTc.woff",
+          "woff2": "https://fonts.gstatic.com/s/cinzeldecorative/v14/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTE.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

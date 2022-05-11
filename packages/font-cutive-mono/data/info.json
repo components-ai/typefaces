@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cutive Mono Regular'",
-          "'CutiveMono-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H6RMTmo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRfY7WVjVi2E-K9H6RMTmk&skey=41a3d1bf4e17a723&v=v9#CutiveMono",
-          "ttf": "https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H6RMTms.ttf",
-          "woff": "https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H6RMTmg.woff",
-          "woff2": "https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H6RCTm4.woff2"
+          "eot": "https://fonts.gstatic.com/s/cutivemono/v14/m8JWjfRfY7WVjVi2E-K9H6RMTmo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRfY7WVjVi2E-K9H6RMTmk&skey=41a3d1bf4e17a723&v=v14#CutiveMono",
+          "ttf": "https://fonts.gstatic.com/s/cutivemono/v14/m8JWjfRfY7WVjVi2E-K9H6RMTms.ttf",
+          "woff": "https://fonts.gstatic.com/s/cutivemono/v14/m8JWjfRfY7WVjVi2E-K9H6RMTmg.woff",
+          "woff2": "https://fonts.gstatic.com/s/cutivemono/v14/m8JWjfRfY7WVjVi2E-K9H6RCTm4.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

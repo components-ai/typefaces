@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,62 +18,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Arsenal Italic'",
-          "'Arsenal-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sDMQr.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKpE3kQtZQ4pF3D513sDMQo&skey=41b203aa8f6cac2&v=v5#Arsenal",
-          "ttf": "https://fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sDMQq.ttf",
-          "woff": "https://fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sDMQp.woff",
-          "woff2": "https://fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sAsQv.woff2"
+          "eot": "https://fonts.gstatic.com/s/arsenal/v12/wXKpE3kQtZQ4pF3D513sDMQr.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKpE3kQtZQ4pF3D513sDMQo&skey=41b203aa8f6cac2&v=v12#Arsenal",
+          "ttf": "https://fonts.gstatic.com/s/arsenal/v12/wXKpE3kQtZQ4pF3D513sDMQq.ttf",
+          "woff": "https://fonts.gstatic.com/s/arsenal/v12/wXKpE3kQtZQ4pF3D513sDMQp.woff",
+          "woff2": "https://fonts.gstatic.com/s/arsenal/v12/wXKpE3kQtZQ4pF3D513sAsQv.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arsenal Bold Italic'",
-          "'Arsenal-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6lFcy.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKsE3kQtZQ4pF3D513kueE6lFcx&skey=441c0d9389e70183&v=v5#Arsenal",
-          "ttf": "https://fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6lFcz.ttf",
-          "woff": "https://fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6lFcw.woff",
-          "woff2": "https://fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6mlc2.woff2"
+          "eot": "https://fonts.gstatic.com/s/arsenal/v12/wXKsE3kQtZQ4pF3D513kueE6lFcy.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKsE3kQtZQ4pF3D513kueE6lFcx&skey=441c0d9389e70183&v=v12#Arsenal",
+          "ttf": "https://fonts.gstatic.com/s/arsenal/v12/wXKsE3kQtZQ4pF3D513kueE6lFcz.ttf",
+          "woff": "https://fonts.gstatic.com/s/arsenal/v12/wXKsE3kQtZQ4pF3D513kueE6lFcw.woff",
+          "woff2": "https://fonts.gstatic.com/s/arsenal/v12/wXKsE3kQtZQ4pF3D513kueE6mlc2.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Arsenal Regular'",
-          "'Arsenal-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51bcBA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kQtZQ4pF3D51bcBw&skey=af599ca341f4a7aa&v=v5#Arsenal",
-          "ttf": "https://fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51bcBQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51bcBg.woff",
-          "woff2": "https://fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51jcAA.woff2"
+          "eot": "https://fonts.gstatic.com/s/arsenal/v12/wXKrE3kQtZQ4pF3D51bcBA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kQtZQ4pF3D51bcBw&skey=af599ca341f4a7aa&v=v12#Arsenal",
+          "ttf": "https://fonts.gstatic.com/s/arsenal/v12/wXKrE3kQtZQ4pF3D51bcBQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/arsenal/v12/wXKrE3kQtZQ4pF3D51bcBg.woff",
+          "woff2": "https://fonts.gstatic.com/s/arsenal/v12/wXKrE3kQtZQ4pF3D51jcAA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Arsenal Bold'",
-          "'Arsenal-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5Fe0KnA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kQtZQ4pF3D7-P5Fe0Knw&skey=69954940f6d1b956&v=v5#Arsenal",
-          "ttf": "https://fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5Fe0KnQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5Fe0Kng.woff",
-          "woff2": "https://fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5FeMKmA.woff2"
+          "eot": "https://fonts.gstatic.com/s/arsenal/v12/wXKuE3kQtZQ4pF3D7-P5Fe0KnA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kQtZQ4pF3D7-P5Fe0Knw&skey=69954940f6d1b956&v=v12#Arsenal",
+          "ttf": "https://fonts.gstatic.com/s/arsenal/v12/wXKuE3kQtZQ4pF3D7-P5Fe0KnQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/arsenal/v12/wXKuE3kQtZQ4pF3D7-P5Fe0Kng.woff",
+          "woff2": "https://fonts.gstatic.com/s/arsenal/v12/wXKuE3kQtZQ4pF3D7-P5FeMKmA.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "italic": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bahianita Regular'",
-          "'Bahianita-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdzDHQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yYLr0hTb3vuqqsBUgxWdzDHT&skey=e895fd7e9bcc296a&v=v3#Bahianita",
-          "ttf": "https://fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdzDHR.ttf",
-          "woff": "https://fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdzDHS.woff",
-          "woff2": "https://fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdwjHU.woff2"
+          "eot": "https://fonts.gstatic.com/s/bahianita/v17/yYLr0hTb3vuqqsBUgxWdzDHQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yYLr0hTb3vuqqsBUgxWdzDHT&skey=e895fd7e9bcc296a&v=v17#Bahianita",
+          "ttf": "https://fonts.gstatic.com/s/bahianita/v17/yYLr0hTb3vuqqsBUgxWdzDHR.ttf",
+          "woff": "https://fonts.gstatic.com/s/bahianita/v17/yYLr0hTb3vuqqsBUgxWdzDHS.woff",
+          "woff2": "https://fonts.gstatic.com/s/bahianita/v17/yYLr0hTb3vuqqsBUgxWdwjHU.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

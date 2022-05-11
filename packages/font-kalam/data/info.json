@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,47 +14,38 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Kalam Light'",
-          "'Kalam-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLCkiM&skey=160ea477ddf906aa&v=v11#Kalam",
-          "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiE.ttf",
-          "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiI.woff",
-          "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtD6GjLCkiA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLCkiM&skey=160ea477ddf906aa&v=v16#Kalam",
+          "ttf": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtD6GjLCkiE.ttf",
+          "woff": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtD6GjLCkiI.woff",
+          "woff2": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Kalam'",
-          "'Kalam-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthfOCA&skey=ac3d8b21325789a6&v=v11#Kalam",
-          "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCI.ttf",
-          "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCE.woff",
-          "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthROCc.woff2"
+          "eot": "https://fonts.gstatic.com/s/kalam/v16/YA9dr0Wd4kDdMthfOCM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthfOCA&skey=ac3d8b21325789a6&v=v16#Kalam",
+          "ttf": "https://fonts.gstatic.com/s/kalam/v16/YA9dr0Wd4kDdMthfOCI.ttf",
+          "woff": "https://fonts.gstatic.com/s/kalam/v16/YA9dr0Wd4kDdMthfOCE.woff",
+          "woff2": "https://fonts.gstatic.com/s/kalam/v16/YA9dr0Wd4kDdMthROCc.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Kalam Bold'",
-          "'Kalam-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLCkiM&skey=31f303804b29bb6c&v=v11#Kalam",
-          "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiE.ttf",
-          "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiI.woff",
-          "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtDqHTLCkiA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLCkiM&skey=31f303804b29bb6c&v=v16#Kalam",
+          "ttf": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtDqHTLCkiE.ttf",
+          "woff": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtDqHTLCkiI.woff",
+          "woff2": "https://fonts.gstatic.com/s/kalam/v16/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "300": {
@@ -118,6 +109,18 @@
             "x_min": 99,
             "x_max": 633,
             "o": "m 633 714 l 633 714 q 599 591 633 682 q 539 425 564 500 q 492 236 514 350 q 460 67 471 122 q 435 13 449 13 l 435 13 q 396 88 396 13 l 396 88 q 504 539 396 206 l 504 539 q 387 438 450 478 q 259 399 324 399 q 147 448 194 399 q 99 573 99 497 q 153 747 99 649 q 295 915 207 844 q 458 986 383 986 q 572 942 532 986 q 611 849 611 899 q 599 768 611 800 l 599 768 q 633 714 633 767 z m 176 561 q 203 498 176 521 q 265 475 231 475 q 324 483 299 475 q 375 510 350 490 l 375 510 l 417 543 q 456 588 433 557 q 489 632 479 619 q 520 678 499 644 q 544 717 542 713 l 544 717 q 519 739 519 719 l 519 739 q 528 783 519 751 q 536 831 536 814 l 536 831 q 467 903 536 903 l 467 903 q 274 777 371 903 q 176 561 176 651 l 176 561 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,
@@ -2028,6 +2031,18 @@
             "x_max": 653,
             "o": "m 653 707 l 653 707 q 617 588 653 679 q 560 431 582 496 q 513 247 539 365 q 472 67 488 128 q 438 7 456 7 l 438 7 q 390 118 390 7 q 465 472 390 229 l 465 472 q 288 394 364 394 q 153 454 211 394 q 96 592 96 514 q 150 769 96 669 q 291 938 204 868 q 456 1008 378 1008 q 575 956 533 1008 q 617 850 617 904 q 607 765 617 796 l 607 765 q 653 707 653 757 z m 497 728 l 497 728 l 510 821 q 495 872 510 851 q 454 892 481 892 l 454 892 q 293 775 381 892 q 206 576 206 658 l 206 576 q 230 521 206 542 q 280 500 254 500 q 322 504 306 500 q 356 517 339 508 q 385 535 372 526 q 415 560 399 543 q 440 586 431 576 q 466 617 450 596 q 489 646 482 638 l 489 646 q 529 703 515 682 l 529 703 q 497 728 497 707 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\u0000": {
             "ha": 0,
             "x_min": null,
@@ -3936,6 +3951,18 @@
             "x_min": 92,
             "x_max": 693,
             "o": "m 693 688 l 693 688 q 658 596 693 646 l 658 596 q 601 447 617 494 q 551 267 586 400 q 492 65 517 135 q 442 -4 467 -4 l 442 -4 q 379 154 379 -4 l 379 154 q 415 411 379 260 l 415 411 q 307 388 356 388 l 307 388 q 167 466 242 388 q 92 606 92 544 l 92 606 q 146 810 92 706 q 283 981 200 914 q 451 1049 367 1049 q 581 983 536 1049 q 625 836 625 918 l 625 836 q 618 760 625 789 l 618 760 q 688 706 676 749 l 688 706 q 693 688 693 699 z m 457 707 l 457 707 l 463 801 q 453 849 463 826 q 432 872 443 872 l 432 872 q 329 772 399 872 q 260 604 260 672 l 260 604 q 278 565 260 583 q 324 547 297 547 q 385 570 350 547 q 440 614 421 593 q 496 676 460 635 l 496 676 q 457 707 457 685 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Croissant One'",
-          "'CroissantOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA3Ngmg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3y9n6bU9bTPg4m8NDy3Kq24UA3NgmQ&skey=ce9dfb7622c55a85&v=v8#CroissantOne",
-          "ttf": "https://fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA3Ngmw.ttf",
-          "woff": "https://fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA3NgmA.woff",
-          "woff2": "https://fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA31gng.woff2"
+          "eot": "https://fonts.gstatic.com/s/croissantone/v20/3y9n6bU9bTPg4m8NDy3Kq24UA3Ngmg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3y9n6bU9bTPg4m8NDy3Kq24UA3NgmQ&skey=ce9dfb7622c55a85&v=v20#CroissantOne",
+          "ttf": "https://fonts.gstatic.com/s/croissantone/v20/3y9n6bU9bTPg4m8NDy3Kq24UA3Ngmw.ttf",
+          "woff": "https://fonts.gstatic.com/s/croissantone/v20/3y9n6bU9bTPg4m8NDy3Kq24UA3NgmA.woff",
+          "woff2": "https://fonts.gstatic.com/s/croissantone/v20/3y9n6bU9bTPg4m8NDy3Kq24UA31gng.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

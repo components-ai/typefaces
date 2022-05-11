@@ -1,12 +1,12 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-orYadYY3_.woff",
-    "400": "https://fonts.gstatic.com/s/dmmono/v2/aFTW7PB1QTsUX8KYth-gCKSO.woff",
-    "500": "https://fonts.gstatic.com/s/dmmono/v2/aFTT7PB1QTsUX8KYth-o9YedYY3_.woff"
+    "300": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-orYadYY3_.woff",
+    "400": "https://fonts.gstatic.com/s/dmmono/v10/aFTW7PB1QTsUX8KYth-gCKSO.woff",
+    "500": "https://fonts.gstatic.com/s/dmmono/v10/aFTT7PB1QTsUX8KYth-o9YedYY3_.woff"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvrGyEY2taw.woff",
-    "400": "https://fonts.gstatic.com/s/dmmono/v2/aFTU7PB1QTsUX8KYthSQAg.woff",
-    "500": "https://fonts.gstatic.com/s/dmmono/v2/aFTR7PB1QTsUX8KYvumzEY2taw.woff"
+    "300": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvrGyEY2taw.woff",
+    "400": "https://fonts.gstatic.com/s/dmmono/v10/aFTU7PB1QTsUX8KYthSQAg.woff",
+    "500": "https://fonts.gstatic.com/s/dmmono/v10/aFTR7PB1QTsUX8KYvumzEY2taw.woff"
   }
 }

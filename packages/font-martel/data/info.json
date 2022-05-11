@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,99 +14,78 @@
   "variants": {
     "normal": {
       "200": {
-        "local": [
-          "'Martel UltraLight'",
-          "'Martel-UltraLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVqekqjBzR&skey=865a7af3f62c4b29&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVqekqjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVqekqjBzR&skey=865a7af3f62c4b29&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVqekqjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVqekqjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVqekqghzW.woff2"
         }
       },
       "300": {
-        "local": [
-          "'Martel Light'",
-          "'Martel-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqjBzR&skey=3005143b04f7a910&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVzeoqjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqjBzR&skey=3005143b04f7a910&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVzeoqjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVzeoqjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVzeoqghzW.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Martel'",
-          "'Martel-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdaMg7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdaMg4&skey=59fb7792dca42154&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdaMg6.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdaMg5.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdZsg_.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XdaMg7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdaMg4&skey=59fb7792dca42154&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XdaMg6.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XdaMg5.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XdZsg_.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Martel DemiBold'",
-          "'Martel-DemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqjBzR&skey=8f6259619cbf6f4f&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVuewqjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqjBzR&skey=8f6259619cbf6f4f&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVuewqjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVuewqjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVuewqghzW.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Martel Bold'",
-          "'Martel-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV3e0qjBzR&skey=ce0c9c4932e263d0&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV3e0qjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV3e0qjBzR&skey=ce0c9c4932e263d0&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV3e0qjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV3e0qjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV3e0qghzW.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Martel ExtraBold'",
-          "'Martel-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qjBzR&skey=54db9712fcce8986&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVwe4qjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qjBzR&skey=54db9712fcce8986&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVwe4qjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVwe4qjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XVwe4qghzW.woff2"
         }
       },
       "900": {
-        "local": [
-          "'Martel Heavy'",
-          "'Martel-Heavy'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qjBzS.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qjBzR&skey=b49d7587e0fc5d49&v=v5#Martel",
-          "ttf": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qjBzT.ttf",
-          "woff": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qjBzQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qghzW.woff2"
+          "eot": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8qjBzS.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qjBzR&skey=b49d7587e0fc5d49&v=v10#Martel",
+          "ttf": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8qjBzT.ttf",
+          "woff": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8qjBzQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8qghzW.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "200": {

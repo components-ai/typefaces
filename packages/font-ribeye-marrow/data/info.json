@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ribeye Marrow'",
-          "'RibeyeMarrow-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAUZUA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=GFDsWApshnqMRO2JdtRZ2d0vIAUZUw&skey=b09ef2bd866c87a6&v=v10#RibeyeMarrow",
-          "ttf": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAUZUQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAUZUg.woff",
-          "woff2": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2"
+          "eot": "https://fonts.gstatic.com/s/ribeyemarrow/v22/GFDsWApshnqMRO2JdtRZ2d0vIAUZUA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=GFDsWApshnqMRO2JdtRZ2d0vIAUZUw&skey=b09ef2bd866c87a6&v=v22#RibeyeMarrow",
+          "ttf": "https://fonts.gstatic.com/s/ribeyemarrow/v22/GFDsWApshnqMRO2JdtRZ2d0vIAUZUQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/ribeyemarrow/v22/GFDsWApshnqMRO2JdtRZ2d0vIAUZUg.woff",
+          "woff2": "https://fonts.gstatic.com/s/ribeyemarrow/v22/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

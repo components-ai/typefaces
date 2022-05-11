@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Concert One'",
-          "'ConcertOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTsjPo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VEM1Ro9xs5PjtzCu-srDqSTsjPk&skey=1285a0576bf2d826&v=v11#ConcertOne",
-          "ttf": "https://fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTsjPs.ttf",
-          "woff": "https://fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTsjPg.woff",
-          "woff2": "https://fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTijP4.woff2"
+          "eot": "https://fonts.gstatic.com/s/concertone/v17/VEM1Ro9xs5PjtzCu-srDqSTsjPo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VEM1Ro9xs5PjtzCu-srDqSTsjPk&skey=1285a0576bf2d826&v=v17#ConcertOne",
+          "ttf": "https://fonts.gstatic.com/s/concertone/v17/VEM1Ro9xs5PjtzCu-srDqSTsjPs.ttf",
+          "woff": "https://fonts.gstatic.com/s/concertone/v17/VEM1Ro9xs5PjtzCu-srDqSTsjPg.woff",
+          "woff2": "https://fonts.gstatic.com/s/concertone/v17/VEM1Ro9xs5PjtzCu-srDqSTijP4.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

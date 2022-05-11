@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Antic Slab Regular'",
-          "'AnticSlab-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=bWt97fPFfRzkCa9Jlp6IacVcWw&skey=2a7d5f3ad329463a&v=v9#AnticSlab",
-          "ttf": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWg.woff",
-          "woff2": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2"
+          "eot": "https://fonts.gstatic.com/s/anticslab/v16/bWt97fPFfRzkCa9Jlp6IacVcWA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=bWt97fPFfRzkCa9Jlp6IacVcWw&skey=2a7d5f3ad329463a&v=v16#AnticSlab",
+          "ttf": "https://fonts.gstatic.com/s/anticslab/v16/bWt97fPFfRzkCa9Jlp6IacVcWQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/anticslab/v16/bWt97fPFfRzkCa9Jlp6IacVcWg.woff",
+          "woff2": "https://fonts.gstatic.com/s/anticslab/v16/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

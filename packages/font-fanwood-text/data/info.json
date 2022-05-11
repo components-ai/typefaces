@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Fanwood Text Italic'",
-          "'FanwoodText-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P4&skey=9b74f31013f1b5bc&v=v10#FanwoodText",
-          "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pw.ttf",
-          "woff": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P8.woff",
-          "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pk.woff2"
+          "eot": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P4&skey=9b74f31013f1b5bc&v=v15#FanwoodText",
+          "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pw.ttf",
+          "woff": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P8.woff",
+          "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pk.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Fanwood Text'",
-          "'FanwoodText-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2Qtzd.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3XFtErwl05Ad_vSCF6Fq7xX2Qtze&skey=8cc868de15dabfdc&v=v10#FanwoodText",
-          "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2Qtzc.ttf",
-          "woff": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2Qtzf.woff",
-          "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2QtzZ.woff2"
+          "eot": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFtErwl05Ad_vSCF6Fq7xX2Qtzd.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3XFtErwl05Ad_vSCF6Fq7xX2Qtze&skey=8cc868de15dabfdc&v=v15#FanwoodText",
+          "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFtErwl05Ad_vSCF6Fq7xX2Qtzc.ttf",
+          "woff": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFtErwl05Ad_vSCF6Fq7xX2Qtzf.woff",
+          "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v15/3XFtErwl05Ad_vSCF6Fq7xX2QtzZ.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "italic": {
       "400": {

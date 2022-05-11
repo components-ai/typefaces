@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,21 +16,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Coiny Regular'",
-          "'Coiny-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwSGFE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwSGFI&skey=f65afa53b66c5694&v=v6#Coiny",
-          "ttf": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwSGFA.ttf",
-          "woff": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwSGFM.woff",
-          "woff2": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFU.woff2"
+          "eot": "https://fonts.gstatic.com/s/coiny/v16/gyByhwU1K989PUwSGFE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwSGFI&skey=f65afa53b66c5694&v=v16#Coiny",
+          "ttf": "https://fonts.gstatic.com/s/coiny/v16/gyByhwU1K989PUwSGFA.ttf",
+          "woff": "https://fonts.gstatic.com/s/coiny/v16/gyByhwU1K989PUwSGFM.woff",
+          "woff2": "https://fonts.gstatic.com/s/coiny/v16/gyByhwU1K989PUwcGFU.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

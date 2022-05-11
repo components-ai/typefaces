@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Belleza Regular'",
-          "'Belleza-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4Bhc_4bg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=0nkoC9_pNeMfhX4Bhc_4bQ&skey=5d3d5d4aa7c98655&v=v9#Belleza",
-          "ttf": "https://fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4Bhc_4bw.ttf",
-          "woff": "https://fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4Bhc_4bA.woff",
-          "woff2": "https://fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4BhcH4ag.woff2"
+          "eot": "https://fonts.gstatic.com/s/belleza/v16/0nkoC9_pNeMfhX4Bhc_4bg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=0nkoC9_pNeMfhX4Bhc_4bQ&skey=5d3d5d4aa7c98655&v=v16#Belleza",
+          "ttf": "https://fonts.gstatic.com/s/belleza/v16/0nkoC9_pNeMfhX4Bhc_4bw.ttf",
+          "woff": "https://fonts.gstatic.com/s/belleza/v16/0nkoC9_pNeMfhX4Bhc_4bA.woff",
+          "woff2": "https://fonts.gstatic.com/s/belleza/v16/0nkoC9_pNeMfhX4BhcH4ag.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

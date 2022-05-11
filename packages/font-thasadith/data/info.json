@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,62 +16,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Thasadith Italic'",
-          "'Thasadith-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMZ-CU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mtG-4_1TIqPYrd_f5R1osnMZ-CY&skey=c7119289931eea6&v=v4#Thasadith",
-          "ttf": "https://fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMZ-CQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMZ-Cc.woff",
-          "woff2": "https://fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMX-CE.woff2"
+          "eot": "https://fonts.gstatic.com/s/thasadith/v9/mtG-4_1TIqPYrd_f5R1osnMZ-CU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mtG-4_1TIqPYrd_f5R1osnMZ-CY&skey=c7119289931eea6&v=v9#Thasadith",
+          "ttf": "https://fonts.gstatic.com/s/thasadith/v9/mtG-4_1TIqPYrd_f5R1osnMZ-CQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/thasadith/v9/mtG-4_1TIqPYrd_f5R1osnMZ-Cc.woff",
+          "woff2": "https://fonts.gstatic.com/s/thasadith/v9/mtG-4_1TIqPYrd_f5R1osnMX-CE.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Thasadith Bold Italic'",
-          "'Thasadith-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mtGj4_1TIqPYrd_f5R1osnus3TS_Nkw&skey=32cfad6c937f7ac0&v=v4#Thasadith",
-          "ttf": "https://fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk4.ttf",
-          "woff": "https://fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk0.woff",
-          "woff2": "https://fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TSxNks.woff2"
+          "eot": "https://fonts.gstatic.com/s/thasadith/v9/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mtGj4_1TIqPYrd_f5R1osnus3TS_Nkw&skey=32cfad6c937f7ac0&v=v9#Thasadith",
+          "ttf": "https://fonts.gstatic.com/s/thasadith/v9/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk4.ttf",
+          "woff": "https://fonts.gstatic.com/s/thasadith/v9/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk0.woff",
+          "woff2": "https://fonts.gstatic.com/s/thasadith/v9/mtGj4_1TIqPYrd_f5R1osnus3TSxNks.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Thasadith Regular'",
-          "'Thasadith-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ouUMR.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mtG44_1TIqPYrd_f5R1ouUMS&skey=7f43ff5c97e86372&v=v4#Thasadith",
-          "ttf": "https://fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ouUMQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ouUMT.woff",
-          "woff2": "https://fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ot0MV.woff2"
+          "eot": "https://fonts.gstatic.com/s/thasadith/v9/mtG44_1TIqPYrd_f5R1ouUMR.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mtG44_1TIqPYrd_f5R1ouUMS&skey=7f43ff5c97e86372&v=v9#Thasadith",
+          "ttf": "https://fonts.gstatic.com/s/thasadith/v9/mtG44_1TIqPYrd_f5R1ouUMQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/thasadith/v9/mtG44_1TIqPYrd_f5R1ouUMT.woff",
+          "woff2": "https://fonts.gstatic.com/s/thasadith/v9/mtG44_1TIqPYrd_f5R1ot0MV.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Thasadith Bold'",
-          "'Thasadith-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA0QS3.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mtG94_1TIqPYrd_f5R1gDGYA0QS0&skey=d3b0fa7e2954bfff&v=v4#Thasadith",
-          "ttf": "https://fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA0QS2.ttf",
-          "woff": "https://fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA0QS1.woff",
-          "woff2": "https://fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA3wSz.woff2"
+          "eot": "https://fonts.gstatic.com/s/thasadith/v9/mtG94_1TIqPYrd_f5R1gDGYA0QS3.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mtG94_1TIqPYrd_f5R1gDGYA0QS0&skey=d3b0fa7e2954bfff&v=v9#Thasadith",
+          "ttf": "https://fonts.gstatic.com/s/thasadith/v9/mtG94_1TIqPYrd_f5R1gDGYA0QS2.ttf",
+          "woff": "https://fonts.gstatic.com/s/thasadith/v9/mtG94_1TIqPYrd_f5R1gDGYA0QS1.woff",
+          "woff2": "https://fonts.gstatic.com/s/thasadith/v9/mtG94_1TIqPYrd_f5R1gDGYA3wSz.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v9",
   "typefaces": {
     "italic": {
       "400": {

@@ -1,12 +1,12 @@
 {
   "italic": {
-    "300": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM40&skey=78c56fc24fa722e0&v=v2#InriaSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=ptROTiqXYfZMCOiVj9kQ1OzIJCtt&skey=29e66132202d338&v=v2#InriaSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM40&skey=a586f92b0e708a6&v=v2#InriaSans"
+    "300": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM40&skey=78c56fc24fa722e0&v=v14#InriaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=ptROTiqXYfZMCOiVj9kQ1OzIJCtt&skey=29e66132202d338&v=v14#InriaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM40&skey=a586f92b0e708a6&v=v14#InriaSans"
   },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrw&skey=e031c7d974834666&v=v2#InriaSans",
-    "400": "https://fonts.gstatic.com/l/font?kit=ptRMTiqXYfZMCOiVj9kQ1Of4Lw&skey=e50f9c61e17312cb&v=v2#InriaSans",
-    "700": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrw&skey=5eedcb144fe0412&v=v2#InriaSans"
+    "300": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrw&skey=e031c7d974834666&v=v14#InriaSans",
+    "400": "https://fonts.gstatic.com/l/font?kit=ptRMTiqXYfZMCOiVj9kQ1Of4Lw&skey=e50f9c61e17312cb&v=v14#InriaSans",
+    "700": "https://fonts.gstatic.com/l/font?kit=ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrw&skey=5eedcb144fe0412&v=v14#InriaSans"
   }
 }

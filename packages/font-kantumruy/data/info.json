@@ -1,55 +1,47 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "khmer"
   ],
   "unicodeRange": {
-    "khmer": "U+1780-17FF, U+200C, U+25CC"
+    "khmer": "U+1780-17FF, U+200C, U+25CC, U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Kantumruy Light'",
-          "'KantumruyLight'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDlpw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=syk0-yJ0m7wyVb-f4FOPUtDlpA&skey=73fcf74205535bdf&v=v8#Kantumruy",
-          "ttf": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDlpg.ttf",
-          "woff": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDlpQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDVqnWVF1E.woff2"
+          "eot": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPUtDlpw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=syk0-yJ0m7wyVb-f4FOPUtDlpA&skey=73fcf74205535bdf&v=v21#Kantumruy",
+          "ttf": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPUtDlpg.ttf",
+          "woff": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPUtDlpQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPUtDVqnWV.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Kantumruy'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FO3_w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sykx-yJ0m7wyVb-f4FO3_A&skey=7ba9c7022949819a&v=v8#Kantumruy",
-          "ttf": "https://fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FO3_g.ttf",
-          "woff": "https://fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FO3_Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FOH8vLAnlQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/kantumruy/v21/sykx-yJ0m7wyVb-f4FO3_w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sykx-yJ0m7wyVb-f4FO3_A&skey=7ba9c7022949819a&v=v21#Kantumruy",
+          "ttf": "https://fonts.gstatic.com/s/kantumruy/v21/sykx-yJ0m7wyVb-f4FO3_g.ttf",
+          "woff": "https://fonts.gstatic.com/s/kantumruy/v21/sykx-yJ0m7wyVb-f4FO3_Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/kantumruy/v21/sykx-yJ0m7wyVb-f4FOH8vLA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Kantumruy Bold'",
-          "'Kantumruy-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtflpw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=syk0-yJ0m7wyVb-f4FOPQtflpA&skey=b69682074e8cb65d&v=v8#Kantumruy",
-          "ttf": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtflpg.ttf",
-          "woff": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtflpQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtfVqnWVF1E.woff2"
+          "eot": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPQtflpw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=syk0-yJ0m7wyVb-f4FOPQtflpA&skey=b69682074e8cb65d&v=v21#Kantumruy",
+          "ttf": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPQtflpg.ttf",
+          "woff": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPQtflpQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/kantumruy/v21/syk0-yJ0m7wyVb-f4FOPQtfVqnWV.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "300": {
@@ -923,13 +915,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.2001;1ASC;Kantumruy-Light"
+            "en": "1.300;1ASC;Kantumruy-Regular"
           },
           "fullName": {
             "en": "Kantumruy Light"
           },
           "version": {
-            "en": "Version 1.2001 August 16, 2013"
+            "en": "Version 1.300"
           },
           "postScriptName": {
             "en": "Kantumruy-Light"
@@ -1812,13 +1804,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.2001;1ASC;Kantumruy-Regular"
+            "en": "1.300;1ASC;Kantumruy-Regular"
           },
           "fullName": {
             "en": "Kantumruy Regular"
           },
           "version": {
-            "en": "Version 1.2001 August 16, 2013"
+            "en": "Version 1.300"
           },
           "postScriptName": {
             "en": "Kantumruy-Regular"
@@ -2701,13 +2693,13 @@
             "en": "Bold"
           },
           "uniqueID": {
-            "en": "1.2001;1ASC;Kantumruy-Bold"
+            "en": "1.300;1ASC;Kantumruy-Regular"
           },
           "fullName": {
             "en": "Kantumruy Bold"
           },
           "version": {
-            "en": "Version 1.2001 August 16, 2013"
+            "en": "Version 1.300"
           },
           "postScriptName": {
             "en": "Kantumruy-Bold"

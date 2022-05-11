@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Averia Gruesa Libre Regular'",
-          "'AveriaGruesaLibre-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxQ&skey=1b05bd245828aab8&v=v9#AveriaGruesaLibre",
-          "ttf": "https://fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxw.ttf",
-          "woff": "https://fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxA.woff",
-          "woff2": "https://fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYm6Dwg.woff2"
+          "eot": "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxQ&skey=1b05bd245828aab8&v=v22#AveriaGruesaLibre",
+          "ttf": "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxw.ttf",
+          "woff": "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxA.woff",
+          "woff2": "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYm6Dwg.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

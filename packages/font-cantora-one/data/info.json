@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Cantora One'",
-          "'CantoraOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zUbY4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=gyB4hws1JdgnKy56GB_JX5zUbY0&skey=e3630653699ec3bd&v=v10#CantoraOne",
-          "ttf": "https://fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zUbY8.ttf",
-          "woff": "https://fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zUbYw.woff",
-          "woff2": "https://fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zabYo.woff2"
+          "eot": "https://fonts.gstatic.com/s/cantoraone/v17/gyB4hws1JdgnKy56GB_JX5zUbY4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=gyB4hws1JdgnKy56GB_JX5zUbY0&skey=e3630653699ec3bd&v=v17#CantoraOne",
+          "ttf": "https://fonts.gstatic.com/s/cantoraone/v17/gyB4hws1JdgnKy56GB_JX5zUbY8.ttf",
+          "woff": "https://fonts.gstatic.com/s/cantoraone/v17/gyB4hws1JdgnKy56GB_JX5zUbYw.woff",
+          "woff2": "https://fonts.gstatic.com/s/cantoraone/v17/gyB4hws1JdgnKy56GB_JX5zabYo.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

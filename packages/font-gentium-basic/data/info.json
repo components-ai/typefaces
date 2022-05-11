@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,62 +12,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Gentium Basic Italic'",
-          "'GentiumBasic-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo_.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WnzjHAw9aB_JD2VGQVR80We3LAi5hBo8&skey=470b462549031946&v=v12#GentiumBasic",
-          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo-.ttf",
-          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo9.woff",
-          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5iho7.woff2"
+          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo_.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WnzjHAw9aB_JD2VGQVR80We3LAi5hBo8&skey=470b462549031946&v=v17#GentiumBasic",
+          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo-.ttf",
+          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo9.woff",
+          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzjHAw9aB_JD2VGQVR80We3LAi5iho7.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gentium Basic Bold Italic'",
-          "'GentiumBasic-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKL&skey=ed279e75f2d6c22f&v=v12#GentiumBasic",
-          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKJ.ttf",
-          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKK.woff",
-          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KM.woff2"
+          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKL&skey=ed279e75f2d6c22f&v=v17#GentiumBasic",
+          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKJ.ttf",
+          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKK.woff",
+          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KM.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Gentium Basic'",
-          "'GentiumBasic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LAOJjA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=Wnz9HAw9aB_JD2VGQVR80We3LAOJjw&skey=b5c43dfa07efda99&v=v12#GentiumBasic",
-          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LAOJjQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LAOJjg.woff",
-          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LA2JiA.woff2"
+          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v17/Wnz9HAw9aB_JD2VGQVR80We3LAOJjA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=Wnz9HAw9aB_JD2VGQVR80We3LAOJjw&skey=b5c43dfa07efda99&v=v17#GentiumBasic",
+          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v17/Wnz9HAw9aB_JD2VGQVR80We3LAOJjQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v17/Wnz9HAw9aB_JD2VGQVR80We3LAOJjg.woff",
+          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v17/Wnz9HAw9aB_JD2VGQVR80We3LA2JiA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gentium Basic Bold'",
-          "'GentiumBasic-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=WnzgHAw9aB_JD2VGQVR80We3JLasnTMeag&skey=2883f05f34134ff6&v=v12#GentiumBasic",
-          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaA.ttf",
-          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaw.woff",
-          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnT0ebQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=WnzgHAw9aB_JD2VGQVR80We3JLasnTMeag&skey=2883f05f34134ff6&v=v17#GentiumBasic",
+          "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaA.ttf",
+          "woff": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaw.woff",
+          "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v17/WnzgHAw9aB_JD2VGQVR80We3JLasnT0ebQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "italic": {
       "400": {

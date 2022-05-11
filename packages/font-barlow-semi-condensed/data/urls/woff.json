@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpjgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbLLEEIAgA.woff",
-    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJnAVspo58.woff",
-    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIDAlspo58.woff",
-    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqmIEg.woff",
-    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1spo58.woff",
-    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJ3BFspo58.woff",
-    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVspo58.woff",
-    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIPBlspo58.woff",
-    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIrB1spo58.woff"
+    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpjgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbLLEEIAgA.woff",
+    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJnAVspo58.woff",
+    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIDAlspo58.woff",
+    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqmIEg.woff",
+    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1spo58.woff",
+    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJ3BFspo58.woff",
+    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVspo58.woff",
+    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIPBlspo58.woff",
+    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIrB1spo58.woff"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qmIEg.woff",
-    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_CWsj.woff",
-    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_CWsj.woff",
-    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqs.woff",
-    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsj.woff",
-    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CWsj.woff",
-    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsj.woff",
-    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_CWsj.woff",
-    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v6/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_CWsj.woff"
+    "100": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qmIEg.woff",
+    "200": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_CWsj.woff",
+    "300": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_CWsj.woff",
+    "400": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqs.woff",
+    "500": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsj.woff",
+    "600": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CWsj.woff",
+    "700": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsj.woff",
+    "800": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_CWsj.woff",
+    "900": "https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_CWsj.woff"
   }
 }

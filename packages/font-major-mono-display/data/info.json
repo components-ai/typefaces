@@ -1,6 +1,6 @@
 {
   "category": "monospace",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Major Mono Display Regular'",
-          "'MajorMonoDisplay-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eV.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eW&skey=83d62fa7110a1053&v=v5#MajorMonoDisplay",
-          "ttf": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eU.ttf",
-          "woff": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eX.woff",
-          "woff2": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2"
+          "eot": "https://fonts.gstatic.com/s/majormonodisplay/v12/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eV.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eW&skey=83d62fa7110a1053&v=v12#MajorMonoDisplay",
+          "ttf": "https://fonts.gstatic.com/s/majormonodisplay/v12/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eU.ttf",
+          "woff": "https://fonts.gstatic.com/s/majormonodisplay/v12/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eX.woff",
+          "woff2": "https://fonts.gstatic.com/s/majormonodisplay/v12/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "400": {

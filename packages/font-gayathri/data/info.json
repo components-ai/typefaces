@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "malayalam"
@@ -12,47 +12,38 @@
   "variants": {
     "normal": {
       "100": {
-        "local": [
-          "'Gayathri Thin'",
-          "'Gayathri-Thin'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYBg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcypzYBQ&skey=99dbbb2745d5075f&v=v2#Gayathri",
-          "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYBw.ttf",
-          "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYBA.woff",
-          "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYAg.woff2"
+          "eot": "https://fonts.gstatic.com/s/gayathri/v15/MCoWzAb429DbBilWLLhcypzYBg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcypzYBQ&skey=99dbbb2745d5075f&v=v15#Gayathri",
+          "ttf": "https://fonts.gstatic.com/s/gayathri/v15/MCoWzAb429DbBilWLLhcypzYBw.ttf",
+          "woff": "https://fonts.gstatic.com/s/gayathri/v15/MCoWzAb429DbBilWLLhcypzYBA.woff",
+          "woff2": "https://fonts.gstatic.com/s/gayathri/v15/MCoWzAb429DbBilWLLhcypzYAg.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Gayathri Regular'",
-          "'Gayathri-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-po.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLA_-pk&skey=f831e08bdd1f971b&v=v2#Gayathri",
-          "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-ps.ttf",
-          "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-pg.woff",
-          "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-p4.woff2"
+          "eot": "https://fonts.gstatic.com/s/gayathri/v15/MCoQzAb429DbBilWLLA_-po.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLA_-pk&skey=f831e08bdd1f971b&v=v15#Gayathri",
+          "ttf": "https://fonts.gstatic.com/s/gayathri/v15/MCoQzAb429DbBilWLLA_-ps.ttf",
+          "woff": "https://fonts.gstatic.com/s/gayathri/v15/MCoQzAb429DbBilWLLA_-pg.woff",
+          "woff2": "https://fonts.gstatic.com/s/gayathri/v15/MCoQzAb429DbBilWLLA_-p4.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Gayathri Bold'",
-          "'Gayathri-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_E.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=MCoXzAb429DbBilWLLiE34v_J_I&skey=17e3544ed73f54f4&v=v2#Gayathri",
-          "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_M.woff",
-          "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_U.woff2"
+          "eot": "https://fonts.gstatic.com/s/gayathri/v15/MCoXzAb429DbBilWLLiE34v_J_E.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=MCoXzAb429DbBilWLLiE34v_J_I&skey=17e3544ed73f54f4&v=v15#Gayathri",
+          "ttf": "https://fonts.gstatic.com/s/gayathri/v15/MCoXzAb429DbBilWLLiE34v_J_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/gayathri/v15/MCoXzAb429DbBilWLLiE34v_J_M.woff",
+          "woff2": "https://fonts.gstatic.com/s/gayathri/v15/MCoXzAb429DbBilWLLiE34v_J_U.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "100": {

@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/lexendtera/v3/RrQUbo98_jt_IXnBPwCWtahJT4Y.eot"
+    "100": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiM5zIjf5bx.eot",
+    "200": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMZzMjf5bx.eot",
+    "300": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMuTMjf5bx.eot",
+    "400": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiM5zMjf5bx.eot",
+    "500": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiM1TMjf5bx.eot",
+    "600": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMOTQjf5bx.eot",
+    "700": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMADQjf5bx.eot",
+    "800": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMZzQjf5bx.eot",
+    "900": "https://fonts.gstatic.com/s/lexendtera/v23/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiMTjQjf5bx.eot"
   }
 }

@@ -2651,10 +2651,10 @@
       "en": "Weight"
     },
     "261": {
-      "en": "Bold Italic"
-    },
-    "263": {
       "en": "Italic"
+    },
+    "282": {
+      "en": "Bold"
     },
     "copyright": {
       "en": "Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name \"Josefin Sans\"."
@@ -2666,13 +2666,13 @@
       "en": "Bold Italic"
     },
     "uniqueID": {
-      "en": "2.000;NONE;JosefinSansThin-BoldItalic"
+      "en": "2.001;NONE;JosefinSansThin-BoldItalic"
     },
     "fullName": {
       "en": "Josefin Sans Thin Bold Italic"
     },
     "version": {
-      "en": "Version 2.000"
+      "en": "Version 2.001"
     },
     "postScriptName": {
       "en": "JosefinSansThin-BoldItalic"

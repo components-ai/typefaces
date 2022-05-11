@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Pavanam'",
-          "'Pavanam-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOJa8A.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPOJa8w&skey=e28b0edd81e978ba&v=v5#Pavanam",
-          "ttf": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOJa8Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOJa8g.woff",
-          "woff2": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOxa9A.woff2"
+          "eot": "https://fonts.gstatic.com/s/pavanam/v11/BXRrvF_aiezLh0xPPOJa8A.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPOJa8w&skey=e28b0edd81e978ba&v=v11#Pavanam",
+          "ttf": "https://fonts.gstatic.com/s/pavanam/v11/BXRrvF_aiezLh0xPPOJa8Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/pavanam/v11/BXRrvF_aiezLh0xPPOJa8g.woff",
+          "woff2": "https://fonts.gstatic.com/s/pavanam/v11/BXRrvF_aiezLh0xPPOxa9A.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {
@@ -2144,10 +2141,10 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "FontForge : Pavanam Regular : 12-7-2015"
+            "en": "1.86;UKWN;Pavanam-Regular"
           },
           "fullName": {
-            "en": "Pavanam"
+            "en": "Pavanam Regular"
           },
           "version": {
             "en": "Version 1.86; ttfautohint (v1.3) -l 8 -r 50 -G 200 -x 14 -D latn -f none -m \"\" -w G -t -X \"\""

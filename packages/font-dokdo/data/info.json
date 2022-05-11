@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-07-16",
+  "lastModified": "2022-04-21",
   "subsets": [
     "korean",
     "latin"
@@ -98,21 +98,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dokdo Regular'",
-          "'Dokdo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLyLv6tM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=esDf315XNuCBLyLv6tA&skey=b9a5345dd2d4c441&v=v8#Dokdo",
-          "ttf": "https://fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLyLv6tI.ttf",
-          "woff": "https://fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLyLv6tE.woff",
-          "woff2": "https://fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLxLtiMCOm9RpYPXHdpWk0LfhIdThpl4.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/dokdo/v15/esDf315XNuCBLyLv6tM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=esDf315XNuCBLyLv6tA&skey=b9a5345dd2d4c441&v=v15#Dokdo",
+          "ttf": "https://fonts.gstatic.com/s/dokdo/v15/esDf315XNuCBLyLv6tI.ttf",
+          "woff": "https://fonts.gstatic.com/s/dokdo/v15/esDf315XNuCBLyLv6tE.woff",
+          "woff2": "https://fonts.gstatic.com/s/dokdo/v15/esDf315XNuCBLxLtiMCOm9RpYPXHdpWk0LfhIdThpl4.119.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

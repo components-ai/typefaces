@@ -1,20 +1,20 @@
 {
   "italic": {
-    "200": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg26zWB4q9Xw&skey=cb348d751b96c86e&v=v5#SpectralSC",
-    "300": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg28jVB4q9Xw&skey=a079082df1800080&v=v5#SpectralSC",
-    "400": "https://fonts.gstatic.com/l/font?kit=KtkrALCRZonmalTgyPmRfsWg0233FQ&skey=7a423cad55d64e7a&v=v5#SpectralSC",
-    "500": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg25DUB4q9Xw&skey=4d722c369600c2be&v=v5#SpectralSC",
-    "600": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg27zTB4q9Xw&skey=366e6c61ac7d5f74&v=v5#SpectralSC",
-    "700": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg29jSB4q9Xw&skey=6e95b38ceefedf8d&v=v5#SpectralSC",
-    "800": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg28TRB4q9Xw&skey=178edcef211c8c67&v=v5#SpectralSC"
+    "200": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg26zWB4q9Xw&skey=cb348d751b96c86e&v=v11#SpectralSC",
+    "300": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg28jVB4q9Xw&skey=a079082df1800080&v=v11#SpectralSC",
+    "400": "https://fonts.gstatic.com/l/font?kit=KtkrALCRZonmalTgyPmRfsWg0233FQ&skey=7a423cad55d64e7a&v=v11#SpectralSC",
+    "500": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg25DUB4q9Xw&skey=4d722c369600c2be&v=v11#SpectralSC",
+    "600": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg27zTB4q9Xw&skey=366e6c61ac7d5f74&v=v11#SpectralSC",
+    "700": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg29jSB4q9Xw&skey=6e95b38ceefedf8d&v=v11#SpectralSC",
+    "800": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg28TRB4q9Xw&skey=178edcef211c8c67&v=v11#SpectralSC"
   },
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1qwnTeN4E&skey=259db18adbdf6d68&v=v5#SpectralSC",
-    "300": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0OwXTeN4E&skey=6cf740a7eec6751f&v=v5#SpectralSC",
-    "400": "https://fonts.gstatic.com/l/font?kit=KtkpALCRZonmalTgyPmRfsWr42Y&skey=ce498a15b6c0bca8&v=v5#SpectralSC",
-    "500": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1WwHTeN4E&skey=5dddd23d1d974026&v=v5#SpectralSC",
-    "600": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs16x3TeN4E&skey=db48b61f2d7b4f2f&v=v5#SpectralSC",
-    "700": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0exnTeN4E&skey=e7b0db32261327b3&v=v5#SpectralSC",
-    "800": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0CxXTeN4E&skey=27dcab9e276fd0e2&v=v5#SpectralSC"
+    "200": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1qwnTeN4E&skey=259db18adbdf6d68&v=v11#SpectralSC",
+    "300": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0OwXTeN4E&skey=6cf740a7eec6751f&v=v11#SpectralSC",
+    "400": "https://fonts.gstatic.com/l/font?kit=KtkpALCRZonmalTgyPmRfsWr42Y&skey=ce498a15b6c0bca8&v=v11#SpectralSC",
+    "500": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1WwHTeN4E&skey=5dddd23d1d974026&v=v11#SpectralSC",
+    "600": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs16x3TeN4E&skey=db48b61f2d7b4f2f&v=v11#SpectralSC",
+    "700": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0exnTeN4E&skey=e7b0db32261327b3&v=v11#SpectralSC",
+    "800": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0CxXTeN4E&skey=27dcab9e276fd0e2&v=v11#SpectralSC"
   }
 }

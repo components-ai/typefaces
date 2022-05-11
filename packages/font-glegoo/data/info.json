@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Glegoo'",
-          "'Glegoo-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25gqOc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw25gqOf&skey=6551fc07d4130f4e&v=v10#Glegoo",
-          "ttf": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25gqOd.ttf",
-          "woff": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25gqOe.woff",
-          "woff2": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25jKOY.woff2"
+          "eot": "https://fonts.gstatic.com/s/glegoo/v14/_Xmt-HQyrTKWaw25gqOc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw25gqOf&skey=6551fc07d4130f4e&v=v14#Glegoo",
+          "ttf": "https://fonts.gstatic.com/s/glegoo/v14/_Xmt-HQyrTKWaw25gqOd.ttf",
+          "woff": "https://fonts.gstatic.com/s/glegoo/v14/_Xmt-HQyrTKWaw25gqOe.woff",
+          "woff2": "https://fonts.gstatic.com/s/glegoo/v14/_Xmt-HQyrTKWaw25jKOY.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Glegoo Bold'",
-          "'Glegoo-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aNAa5s.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4aNAa5v&skey=2a299c59145b3847&v=v10#Glegoo",
-          "ttf": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aNAa5t.ttf",
-          "woff": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aNAa5u.woff",
-          "woff2": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aND65o.woff2"
+          "eot": "https://fonts.gstatic.com/s/glegoo/v14/_Xmu-HQyrTKWaw2xN4aNAa5s.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4aNAa5v&skey=2a299c59145b3847&v=v14#Glegoo",
+          "ttf": "https://fonts.gstatic.com/s/glegoo/v14/_Xmu-HQyrTKWaw2xN4aNAa5t.ttf",
+          "woff": "https://fonts.gstatic.com/s/glegoo/v14/_Xmu-HQyrTKWaw2xN4aNAa5u.woff",
+          "woff2": "https://fonts.gstatic.com/s/glegoo/v14/_Xmu-HQyrTKWaw2xN4aND65o.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

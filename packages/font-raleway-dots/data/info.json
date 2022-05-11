@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Raleway Dots'",
-          "'RalewayDots-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UwPVA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=6NUR8FifJg6AfQvzpshgwJ8UwPVD&skey=cc3e6aa20688efe&v=v8#RalewayDots",
-          "ttf": "https://fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UwPVB.ttf",
-          "woff": "https://fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UwPVC.woff",
-          "woff2": "https://fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UzvVE.woff2"
+          "eot": "https://fonts.gstatic.com/s/ralewaydots/v14/6NUR8FifJg6AfQvzpshgwJ8UwPVA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=6NUR8FifJg6AfQvzpshgwJ8UwPVD&skey=cc3e6aa20688efe&v=v14#RalewayDots",
+          "ttf": "https://fonts.gstatic.com/s/ralewaydots/v14/6NUR8FifJg6AfQvzpshgwJ8UwPVB.ttf",
+          "woff": "https://fonts.gstatic.com/s/ralewaydots/v14/6NUR8FifJg6AfQvzpshgwJ8UwPVC.woff",
+          "woff2": "https://fonts.gstatic.com/s/ralewaydots/v14/6NUR8FifJg6AfQvzpshgwJ8UzvVE.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {
@@ -2250,7 +2247,7 @@
             "en": "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name \"Raleway\""
           },
           "fontFamily": {
-            "en": "Raleway Dots "
+            "en": "Raleway Dots"
           },
           "fontSubfamily": {
             "en": "Regular"
@@ -2259,7 +2256,7 @@
             "en": "MattMcInerney,PabloImpallari,RodrigoFuenzalida,BrendaGallo: Raleway Dots : 2012"
           },
           "fullName": {
-            "en": "Raleway Dots "
+            "en": "Raleway Dots"
           },
           "version": {
             "en": "Version 1.000"

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Bubblegum Sans Regular'",
-          "'BubblegumSans-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=AYCSpXb_Z9EORv1M5QTjEzMEteaOxIU&skey=907fcf96211c8e7e&v=v9#BubblegumSans",
-          "ttf": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIc.ttf",
-          "woff": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2"
+          "eot": "https://fonts.gstatic.com/s/bubblegumsans/v16/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=AYCSpXb_Z9EORv1M5QTjEzMEteaOxIU&skey=907fcf96211c8e7e&v=v16#BubblegumSans",
+          "ttf": "https://fonts.gstatic.com/s/bubblegumsans/v16/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIc.ttf",
+          "woff": "https://fonts.gstatic.com/s/bubblegumsans/v16/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/bubblegumsans/v16/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

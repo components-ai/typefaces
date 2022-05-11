@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,62 +10,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Amaranth Italic'",
-          "'Amaranth-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCwg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtkoALODe433f0j1zMnALdKCwQ&skey=dac6b44f9133488d&v=v11#Amaranth",
-          "ttf": "https://fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCww.ttf",
-          "woff": "https://fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCwA.woff",
-          "woff2": "https://fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCxg.woff2"
+          "eot": "https://fonts.gstatic.com/s/amaranth/v18/KtkoALODe433f0j1zMnALdKCwg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtkoALODe433f0j1zMnALdKCwQ&skey=dac6b44f9133488d&v=v18#Amaranth",
+          "ttf": "https://fonts.gstatic.com/s/amaranth/v18/KtkoALODe433f0j1zMnALdKCww.ttf",
+          "woff": "https://fonts.gstatic.com/s/amaranth/v18/KtkoALODe433f0j1zMnALdKCwA.woff",
+          "woff2": "https://fonts.gstatic.com/s/amaranth/v18/KtkoALODe433f0j1zMnALdKCxg.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amaranth Bold Italic'",
-          "'Amaranth-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Fg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtkrALODe433f0j1zMnAJWmn02P3FQ&skey=bb7722acf0fb9a8b&v=v11#Amaranth",
-          "ttf": "https://fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Fw.ttf",
-          "woff": "https://fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3FA.woff",
-          "woff2": "https://fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Eg.woff2"
+          "eot": "https://fonts.gstatic.com/s/amaranth/v18/KtkrALODe433f0j1zMnAJWmn02P3Fg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtkrALODe433f0j1zMnAJWmn02P3FQ&skey=bb7722acf0fb9a8b&v=v18#Amaranth",
+          "ttf": "https://fonts.gstatic.com/s/amaranth/v18/KtkrALODe433f0j1zMnAJWmn02P3Fw.ttf",
+          "woff": "https://fonts.gstatic.com/s/amaranth/v18/KtkrALODe433f0j1zMnAJWmn02P3FA.woff",
+          "woff2": "https://fonts.gstatic.com/s/amaranth/v18/KtkrALODe433f0j1zMnAJWmn02P3Eg.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Amaranth Regular'",
-          "'Amaranth-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtkuALODe433f0j1zMnFHdc&skey=a086a5f010412431&v=v11#Amaranth",
-          "ttf": "https://fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdU.ttf",
-          "woff": "https://fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdY.woff",
-          "woff2": "https://fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdA.woff2"
+          "eot": "https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtkuALODe433f0j1zMnFHdc&skey=a086a5f010412431&v=v18#Amaranth",
+          "ttf": "https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdU.ttf",
+          "woff": "https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdY.woff",
+          "woff2": "https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Amaranth Bold'",
-          "'Amaranth-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=KtkpALODe433f0j1zMF-OMWl42Y&skey=1f08e89f032cc13c&v=v11#Amaranth",
-          "ttf": "https://fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42c.woff",
-          "woff2": "https://fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42E.woff2"
+          "eot": "https://fonts.gstatic.com/s/amaranth/v18/KtkpALODe433f0j1zMF-OMWl42U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=KtkpALODe433f0j1zMF-OMWl42Y&skey=1f08e89f032cc13c&v=v18#Amaranth",
+          "ttf": "https://fonts.gstatic.com/s/amaranth/v18/KtkpALODe433f0j1zMF-OMWl42Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/amaranth/v18/KtkpALODe433f0j1zMF-OMWl42c.woff",
+          "woff2": "https://fonts.gstatic.com/s/amaranth/v18/KtkpALODe433f0j1zMF-OMWl42E.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v18",
   "typefaces": {
     "italic": {
       "400": {

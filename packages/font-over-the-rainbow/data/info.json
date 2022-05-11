@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Over the Rainbow'",
-          "'OvertheRainbow'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/overtherainbow/v11/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8g&skey=1f850e229774514c&v=v11#OvertheRainbow",
-          "ttf": "https://fonts.gstatic.com/s/overtherainbow/v11/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8A.ttf",
-          "woff": "https://fonts.gstatic.com/s/overtherainbow/v11/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/overtherainbow/v11/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs9Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/overtherainbow/v16/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8g&skey=1f850e229774514c&v=v16#OvertheRainbow",
+          "ttf": "https://fonts.gstatic.com/s/overtherainbow/v16/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8A.ttf",
+          "woff": "https://fonts.gstatic.com/s/overtherainbow/v16/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/overtherainbow/v16/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs9Q.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

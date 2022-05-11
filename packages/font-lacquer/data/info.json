@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Lacquer Regular'",
-          "'Lacquer-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=EYqzma1QwqpG4_BBN7iKWA&skey=def56740c064e884&v=v3#Lacquer",
-          "ttf": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWg.ttf",
-          "woff": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKXw.woff2"
+          "eot": "https://fonts.gstatic.com/s/lacquer/v15/EYqzma1QwqpG4_BBN7iKWw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=EYqzma1QwqpG4_BBN7iKWA&skey=def56740c064e884&v=v15#Lacquer",
+          "ttf": "https://fonts.gstatic.com/s/lacquer/v15/EYqzma1QwqpG4_BBN7iKWg.ttf",
+          "woff": "https://fonts.gstatic.com/s/lacquer/v15/EYqzma1QwqpG4_BBN7iKWQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/lacquer/v15/EYqzma1QwqpG4_BBN7iKXw.woff2"
         }
       }
     }
   },
-  "version": "v3",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Dorsa'",
-          "'Dorsa-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613U.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=yYLn0hjd0OGwqr4613Y&skey=38ccaf677c5e0a71&v=v11#Dorsa",
-          "ttf": "https://fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613Q.ttf",
-          "woff": "https://fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613c.woff",
-          "woff2": "https://fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613E.woff2"
+          "eot": "https://fonts.gstatic.com/s/dorsa/v23/yYLn0hjd0OGwqr4613U.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=yYLn0hjd0OGwqr4613Y&skey=38ccaf677c5e0a71&v=v23#Dorsa",
+          "ttf": "https://fonts.gstatic.com/s/dorsa/v23/yYLn0hjd0OGwqr4613Q.ttf",
+          "woff": "https://fonts.gstatic.com/s/dorsa/v23/yYLn0hjd0OGwqr4613c.woff",
+          "woff2": "https://fonts.gstatic.com/s/dorsa/v23/yYLn0hjd0OGwqr4613E.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

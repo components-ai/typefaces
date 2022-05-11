@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2019-11-05",
+  "lastModified": "2022-04-27",
   "subsets": [
     "chinese-simplified",
     "latin"
@@ -101,21 +101,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Zhi Mang Xing Regular'",
-          "'ZhiMangXing-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4aAneA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xw0ey79sErYFtWQ9a2rq-g4aAnew&skey=5b1480357843eeb2&v=v5#ZhiMangXing",
-          "ttf": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4aAneQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4aAneg.woff",
-          "woff2": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g0aJFZ-s2S_Vuj1geQwC80-9RhkN-yvpAfS1H-JA0rn1Z0w.119.woff2"
+          "eot": "https://fonts.gstatic.com/s/zhimangxing/v17/f0Xw0ey79sErYFtWQ9a2rq-g4aAneA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=f0Xw0ey79sErYFtWQ9a2rq-g4aAnew&skey=5b1480357843eeb2&v=v17#ZhiMangXing",
+          "ttf": "https://fonts.gstatic.com/s/zhimangxing/v17/f0Xw0ey79sErYFtWQ9a2rq-g4aAneQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/zhimangxing/v17/f0Xw0ey79sErYFtWQ9a2rq-g4aAneg.woff",
+          "woff2": "https://fonts.gstatic.com/s/zhimangxing/v17/f0Xw0ey79sErYFtWQ9a2rq-g0aJFZ-s2S_Vuj1geQwC80-9RhkN-yvpAfS1H-JA0rn1Z0w.119.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Teko Light'",
-          "'Teko-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCpgrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdQhfsCpgrw&skey=3e2bae9535385402&v=v10#Teko",
-          "ttf": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCpgrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCpgrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCRgqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdQhfsCpgrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdQhfsCpgrw&skey=3e2bae9535385402&v=v15#Teko",
+          "ttf": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdQhfsCpgrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdQhfsCpgrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdQhfsCRgqA.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Teko Regular'",
-          "'Teko-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfa19oQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjNdG7kmE0gfa19og&skey=f42f6a86f3e5e4b1&v=v10#Teko",
-          "ttf": "https://fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfa19oA.ttf",
-          "woff": "https://fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfa19ow.woff",
-          "woff2": "https://fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfaN9pQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/teko/v15/LYjNdG7kmE0gfa19oQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjNdG7kmE0gfa19og&skey=f42f6a86f3e5e4b1&v=v15#Teko",
+          "ttf": "https://fonts.gstatic.com/s/teko/v15/LYjNdG7kmE0gfa19oA.ttf",
+          "woff": "https://fonts.gstatic.com/s/teko/v15/LYjNdG7kmE0gfa19ow.woff",
+          "woff2": "https://fonts.gstatic.com/s/teko/v15/LYjNdG7kmE0gfaN9pQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Teko Medium'",
-          "'Teko-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCpgrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdVBesCpgrw&skey=cd495a7fe3a57d43&v=v10#Teko",
-          "ttf": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCpgrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCpgrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCRgqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdVBesCpgrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdVBesCpgrw&skey=cd495a7fe3a57d43&v=v15#Teko",
+          "ttf": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdVBesCpgrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdVBesCpgrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdVBesCRgqA.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Teko SemiBold'",
-          "'Teko-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCpgrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdXxZsCpgrw&skey=fcced418508b19d5&v=v10#Teko",
-          "ttf": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCpgrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCpgrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCRgqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdXxZsCpgrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdXxZsCpgrw&skey=fcced418508b19d5&v=v15#Teko",
+          "ttf": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdXxZsCpgrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdXxZsCpgrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdXxZsCRgqA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Teko Bold'",
-          "'Teko-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCpgrA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdRhYsCpgrw&skey=84da9bceb9c9807e&v=v10#Teko",
-          "ttf": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCpgrQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCpgrg.woff",
-          "woff2": "https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCRgqA.woff2"
+          "eot": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdRhYsCpgrA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdRhYsCpgrw&skey=84da9bceb9c9807e&v=v15#Teko",
+          "ttf": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdRhYsCpgrQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdRhYsCpgrg.woff",
+          "woff2": "https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdRhYsCRgqA.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "300": {

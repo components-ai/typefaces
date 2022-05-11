@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Tillana Regular'",
-          "'Tillana-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSK_dPQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvf35P4qJ1OSK_dPg&skey=ca2cb923082f4f9a&v=v6#Tillana",
-          "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSK_dPA.ttf",
-          "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSK_dPw.woff",
-          "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKHdOQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/tillana/v11/VuJxdNvf35P4qJ1OSK_dPQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvf35P4qJ1OSK_dPg&skey=ca2cb923082f4f9a&v=v11#Tillana",
+          "ttf": "https://fonts.gstatic.com/s/tillana/v11/VuJxdNvf35P4qJ1OSK_dPA.ttf",
+          "woff": "https://fonts.gstatic.com/s/tillana/v11/VuJxdNvf35P4qJ1OSK_dPw.woff",
+          "woff2": "https://fonts.gstatic.com/s/tillana/v11/VuJxdNvf35P4qJ1OSKHdOQ.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Tillana Medium'",
-          "'Tillana-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LIBGYA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQFL-LIBGYw&skey=95bb8da8c5d94cdc&v=v6#Tillana",
-          "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LIBGYQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LIBGYg.woff",
-          "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI5GZA.woff2"
+          "eot": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQFL-LIBGYA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQFL-LIBGYw&skey=95bb8da8c5d94cdc&v=v11#Tillana",
+          "ttf": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQFL-LIBGYQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQFL-LIBGYg.woff",
+          "woff2": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQFL-LI5GZA.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Tillana SemiBold'",
-          "'Tillana-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LIBGYA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQH75LIBGYw&skey=7b349d8b2c0c1a6a&v=v6#Tillana",
-          "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LIBGYQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LIBGYg.woff",
-          "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI5GZA.woff2"
+          "eot": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQH75LIBGYA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQH75LIBGYw&skey=7b349d8b2c0c1a6a&v=v11#Tillana",
+          "ttf": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQH75LIBGYQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQH75LIBGYg.woff",
+          "woff2": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQH75LI5GZA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Tillana Bold'",
-          "'Tillana-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LIBGYA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQBr4LIBGYw&skey=1712e2177469f846&v=v6#Tillana",
-          "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LIBGYQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LIBGYg.woff",
-          "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI5GZA.woff2"
+          "eot": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQBr4LIBGYA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQBr4LIBGYw&skey=1712e2177469f846&v=v11#Tillana",
+          "ttf": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQBr4LIBGYQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQBr4LIBGYg.woff",
+          "woff2": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQBr4LI5GZA.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Tillana ExtraBold'",
-          "'Tillana-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LIBGYA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQAb7LIBGYw&skey=e32709bfa5ab92a7&v=v6#Tillana",
-          "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LIBGYQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LIBGYg.woff",
-          "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI5GZA.woff2"
+          "eot": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQAb7LIBGYA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQAb7LIBGYw&skey=e32709bfa5ab92a7&v=v11#Tillana",
+          "ttf": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQAb7LIBGYQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQAb7LIBGYg.woff",
+          "woff2": "https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQAb7LI5GZA.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v11",
   "typefaces": {
     "normal": {
       "400": {
@@ -144,6 +129,18 @@
             "x_min": 89,
             "x_max": 757,
             "o": "m 248 895 q 482 1031 361 1031 q 680 903 603 1031 q 728 552 757 775 q 578 197 699 329 q 210 -17 457 64 l 210 -17 q 172 21 188 -4 q 156 72 157 46 l 156 72 q 532 239 390 126 l 532 239 q 633 565 613 386 l 633 565 q 615 783 646 692 l 615 783 q 442 472 539 583 q 261 360 344 360 q 133 424 178 360 q 108 600 89 488 l 108 600 q 248 895 135 760 z m 300 450 l 300 450 q 466 625 386 511 q 585 851 546 739 l 585 851 q 469 942 542 924 l 469 942 q 316 815 403 925 q 211 604 229 706 l 211 604 q 205 530 207 564 q 226 473 203 496 q 300 450 250 450 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,
@@ -2054,6 +2051,18 @@
             "x_max": 792,
             "o": "m 241 906 q 490 1040 360 1040 q 706 910 621 1040 q 762 554 792 779 q 602 192 732 329 q 215 -17 472 54 l 215 -17 q 168 35 188 0 q 156 101 149 71 l 156 101 q 510 240 376 144 l 510 240 q 628 590 607 390 l 628 590 q 615 779 638 699 l 615 779 q 447 472 544 582 q 261 363 350 363 q 124 429 172 363 q 96 610 76 496 l 96 610 q 241 906 122 771 z m 319 478 l 319 478 q 469 638 396 531 q 579 857 542 746 l 579 857 q 476 931 538 918 l 476 931 q 338 819 415 918 q 244 628 261 721 l 244 628 q 238 556 239 589 q 257 501 238 524 q 319 478 276 479 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\u0000": {
             "ha": 0,
             "x_min": null,
@@ -3962,6 +3971,18 @@
             "x_min": 65,
             "x_max": 829,
             "o": "m 83 621 q 233 917 107 783 q 499 1051 358 1051 q 735 917 640 1051 q 799 555 829 782 q 629 185 769 328 q 221 -17 489 43 l 221 -17 q 163 51 186 4 q 154 135 140 97 l 154 135 q 486 240 358 163 l 486 240 q 621 618 600 392 l 621 618 q 614 774 631 703 l 614 774 q 454 472 550 578 q 263 365 358 365 q 116 435 167 365 q 83 621 65 504 l 83 621 z m 340 507 l 340 507 q 473 651 410 551 q 574 864 536 751 l 574 864 q 485 917 538 907 l 485 917 q 363 824 429 908 q 281 653 296 739 l 281 653 q 280 556 268 600 q 340 507 292 513 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,
@@ -5872,6 +5893,18 @@
             "x_max": 871,
             "o": "m 68 633 q 224 931 89 797 q 511 1064 358 1064 q 767 925 664 1064 q 842 563 871 786 l 842 563 q 228 -15 781 81 l 228 -15 q 158 68 186 10 q 154 171 131 126 l 154 171 q 460 242 339 185 l 460 242 q 613 649 592 396 l 613 649 q 614 763 621 714 l 614 763 q 460 470 556 572 q 263 368 365 368 q 106 441 161 368 q 68 633 51 514 l 68 633 z m 364 540 l 364 540 q 477 667 424 576 q 567 869 531 758 l 567 869 q 493 903 536 899 l 493 903 q 390 828 444 897 q 321 682 335 760 l 321 682 q 364 540 303 556 z "
           },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
           "\u0000": {
             "ha": 0,
             "x_min": null,
@@ -7780,6 +7813,18 @@
             "x_min": 36,
             "x_max": 921,
             "o": "m 521 1078 l 521 1078 q 805 934 689 1078 q 890 557 921 790 q 694 172 860 324 q 235 -15 529 21 l 235 -15 q 153 88 185 15 q 153 214 121 160 l 153 214 q 429 243 308 207 l 429 243 q 549 434 503 317 q 604 685 594 551 l 604 685 q 608 735 606 711 l 608 735 q 464 465 557 558 q 263 372 371 372 q 95 449 154 372 q 49 640 36 525 q 133 855 63 756 q 308 1016 203 954 q 521 1078 413 1078 z m 392 579 l 392 579 q 557 874 479 624 l 557 874 q 497 885 533 886 q 420 833 461 885 q 368 715 379 782 l 368 715 q 392 579 354 606 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
+          },
+          "\u0002": {
+            "ha": 463,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           "\u0000": {
             "ha": 0,

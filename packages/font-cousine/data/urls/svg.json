@@ -1,10 +1,10 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=d6lKkaiiRdih4SpP_SEfwB7u&skey=411d53aa792d7323&v=v16#Cousine",
-    "700": "https://fonts.gstatic.com/l/font?kit=d6lPkaiiRdih4SpP_SEXdTv83vhm&skey=98288f72a06d874e&v=v16#Cousine"
+    "400": "https://fonts.gstatic.com/l/font?kit=d6lKkaiiRdih4SpP_SEfwB7u&skey=411d53aa792d7323&v=v25#Cousine",
+    "700": "https://fonts.gstatic.com/l/font?kit=d6lPkaiiRdih4SpP_SEXdTv83vhm&skey=98288f72a06d874e&v=v25#Cousine"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=d6lIkaiiRdih4SpP_Sovyw&skey=76eb36959adb8e1f&v=v16#Cousine",
-    "700": "https://fonts.gstatic.com/l/font?kit=d6lNkaiiRdih4SpP9Z8K2TfM1Q&skey=d102cd33d1abdbf6&v=v16#Cousine"
+    "400": "https://fonts.gstatic.com/l/font?kit=d6lIkaiiRdih4SpP_Sovyw&skey=76eb36959adb8e1f&v=v25#Cousine",
+    "700": "https://fonts.gstatic.com/l/font?kit=d6lNkaiiRdih4SpP9Z8K2TfM1Q&skey=d102cd33d1abdbf6&v=v25#Cousine"
   }
 }

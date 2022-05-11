@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext",
@@ -14,21 +14,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Saira Stencil One Regular'",
-          "'SairaStencilOne-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ0.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ4&skey=3854f42b11687006&v=v2#SairaStencilOne",
-          "ttf": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQw.ttf",
-          "woff": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ8.woff",
-          "woff2": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsLYQk.woff2"
+          "eot": "https://fonts.gstatic.com/s/sairastencilone/v14/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ0.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ4&skey=3854f42b11687006&v=v14#SairaStencilOne",
+          "ttf": "https://fonts.gstatic.com/s/sairastencilone/v14/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQw.ttf",
+          "woff": "https://fonts.gstatic.com/s/sairastencilone/v14/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ8.woff",
+          "woff2": "https://fonts.gstatic.com/s/sairastencilone/v14/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsLYQk.woff2"
         }
       }
     }
   },
-  "version": "v2",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

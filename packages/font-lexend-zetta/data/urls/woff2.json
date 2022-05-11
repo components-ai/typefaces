@@ -1,5 +1,13 @@
 {
   "normal": {
-    "400": "https://fonts.gstatic.com/s/lexendzetta/v3/ll87K2KYXje7CdOFnEWcU8sYkS4f.woff2"
+    "100": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy9bH4zlpbw.woff2",
+    "200": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy1bG4zlpbw.woff2",
+    "300": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy4jG4zlpbw.woff2",
+    "400": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy9bG4zlpbw.woff2",
+    "500": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy-TG4zlpbw.woff2",
+    "600": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCywjB4zlpbw.woff2",
+    "700": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCyzHB4zlpbw.woff2",
+    "800": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy1bB4zlpbw.woff2",
+    "900": "https://fonts.gstatic.com/s/lexendzetta/v23/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy3_B4zlpbw.woff2"
   }
 }

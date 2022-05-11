@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Londrina Shadow Regular'",
-          "'LondrinaShadow-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinashadow/v10/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyX.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyU&skey=4723605030a4e1cf&v=v10#LondrinaShadow",
-          "ttf": "https://fonts.gstatic.com/s/londrinashadow/v10/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyW.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinashadow/v10/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyV.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinashadow/v10/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyT.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinashadow/v22/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyX.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyU&skey=4723605030a4e1cf&v=v22#LondrinaShadow",
+          "ttf": "https://fonts.gstatic.com/s/londrinashadow/v22/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyW.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinashadow/v22/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyV.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinashadow/v22/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyT.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

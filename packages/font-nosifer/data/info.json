@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Nosifer'",
-          "'Nosifer-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCRbUQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5JTp0g5bxZWCRbUg&skey=6e6c67734332d4a5&v=v9#Nosifer",
-          "ttf": "https://fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCRbUA.ttf",
-          "woff": "https://fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCRbUw.woff",
-          "woff2": "https://fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCpbVQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCRbUQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5JTp0g5bxZWCRbUg&skey=6e6c67734332d4a5&v=v20#Nosifer",
+          "ttf": "https://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCRbUA.ttf",
+          "woff": "https://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCRbUw.woff",
+          "woff2": "https://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCpbVQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

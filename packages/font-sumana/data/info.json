@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,34 +14,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sumana'",
-          "'Sumana-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-2-RLn.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaDrE5TqRBjGj-2-RLk&skey=ff811f3a505c3082&v=v5#Sumana",
-          "ttf": "https://fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-2-RLm.ttf",
-          "woff": "https://fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-2-RLl.woff",
-          "woff2": "https://fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-29xLj.woff2"
+          "eot": "https://fonts.gstatic.com/s/sumana/v10/4UaDrE5TqRBjGj-2-RLn.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaDrE5TqRBjGj-2-RLk&skey=ff811f3a505c3082&v=v10#Sumana",
+          "ttf": "https://fonts.gstatic.com/s/sumana/v10/4UaDrE5TqRBjGj-2-RLm.ttf",
+          "woff": "https://fonts.gstatic.com/s/sumana/v10/4UaDrE5TqRBjGj-2-RLl.woff",
+          "woff2": "https://fonts.gstatic.com/s/sumana/v10/4UaDrE5TqRBjGj-29xLj.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Sumana Bold'",
-          "'Sumana-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf27o3I.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=4UaArE5TqRBjGj--TDf27o3L&skey=3388a721c90bc9c7&v=v5#Sumana",
-          "ttf": "https://fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf27o3J.ttf",
-          "woff": "https://fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf27o3K.woff",
-          "woff2": "https://fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf24I3M.woff2"
+          "eot": "https://fonts.gstatic.com/s/sumana/v10/4UaArE5TqRBjGj--TDf27o3I.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=4UaArE5TqRBjGj--TDf27o3L&skey=3388a721c90bc9c7&v=v10#Sumana",
+          "ttf": "https://fonts.gstatic.com/s/sumana/v10/4UaArE5TqRBjGj--TDf27o3J.ttf",
+          "woff": "https://fonts.gstatic.com/s/sumana/v10/4UaArE5TqRBjGj--TDf27o3K.woff",
+          "woff2": "https://fonts.gstatic.com/s/sumana/v10/4UaArE5TqRBjGj--TDf24I3M.woff2"
         }
       }
     }
   },
-  "version": "v5",
+  "version": "v10",
   "typefaces": {
     "normal": {
       "400": {

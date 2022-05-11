@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Imprima'",
-          "'Imprima-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoyNzQ.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=VEMxRoN7sY3yuy-7yoyNzg&skey=29732b71f07bec76&v=v9#Imprima",
-          "ttf": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoyNzA.ttf",
-          "woff": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoyNzw.woff",
-          "woff2": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNyQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/imprima/v16/VEMxRoN7sY3yuy-7yoyNzQ.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=VEMxRoN7sY3yuy-7yoyNzg&skey=29732b71f07bec76&v=v16#Imprima",
+          "ttf": "https://fonts.gstatic.com/s/imprima/v16/VEMxRoN7sY3yuy-7yoyNzA.ttf",
+          "woff": "https://fonts.gstatic.com/s/imprima/v16/VEMxRoN7sY3yuy-7yoyNzw.woff",
+          "woff2": "https://fonts.gstatic.com/s/imprima/v16/VEMxRoN7sY3yuy-7yoKNyQ.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v16",
   "typefaces": {
     "normal": {
       "400": {

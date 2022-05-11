@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Knewave'",
-          "'Knewave-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhSO3_w.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=sykz-yx0lLcxQaSIhSO3_A&skey=7af90525075eab3c&v=v9#Knewave",
-          "ttf": "https://fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhSO3_g.ttf",
-          "woff": "https://fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhSO3_Q.woff",
-          "woff2": "https://fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhS23-w.woff2"
+          "eot": "https://fonts.gstatic.com/s/knewave/v14/sykz-yx0lLcxQaSIhSO3_w.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=sykz-yx0lLcxQaSIhSO3_A&skey=7af90525075eab3c&v=v14#Knewave",
+          "ttf": "https://fonts.gstatic.com/s/knewave/v14/sykz-yx0lLcxQaSIhSO3_g.ttf",
+          "woff": "https://fonts.gstatic.com/s/knewave/v14/sykz-yx0lLcxQaSIhSO3_Q.woff",
+          "woff2": "https://fonts.gstatic.com/s/knewave/v14/sykz-yx0lLcxQaSIhS23-w.woff2"
         }
       }
     }
   },
-  "version": "v9",
+  "version": "v14",
   "typefaces": {
     "normal": {
       "400": {

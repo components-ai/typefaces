@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,34 +12,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Allan Regular'",
-          "'Allan-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEub_NdE.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ea8XadU7WuTxEub_NdI&skey=47bae38e791f0fba&v=v13#Allan",
-          "ttf": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEub_NdA.ttf",
-          "woff": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEub_NdM.woff",
-          "woff2": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdU.woff2"
+          "eot": "https://fonts.gstatic.com/s/allan/v20/ea8XadU7WuTxEub_NdE.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ea8XadU7WuTxEub_NdI&skey=47bae38e791f0fba&v=v20#Allan",
+          "ttf": "https://fonts.gstatic.com/s/allan/v20/ea8XadU7WuTxEub_NdA.ttf",
+          "woff": "https://fonts.gstatic.com/s/allan/v20/ea8XadU7WuTxEub_NdM.woff",
+          "woff2": "https://fonts.gstatic.com/s/allan/v20/ea8XadU7WuTxEubxNdU.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Allan Bold'",
-          "'Allan-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCE028.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=ea8aadU7WuTxEu5KEMCE02w&skey=67bf6cfd634a416d&v=v13#Allan",
-          "ttf": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCE024.ttf",
-          "woff": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCE020.woff",
-          "woff2": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK02s.woff2"
+          "eot": "https://fonts.gstatic.com/s/allan/v20/ea8aadU7WuTxEu5KEMCE028.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=ea8aadU7WuTxEu5KEMCE02w&skey=67bf6cfd634a416d&v=v20#Allan",
+          "ttf": "https://fonts.gstatic.com/s/allan/v20/ea8aadU7WuTxEu5KEMCE024.ttf",
+          "woff": "https://fonts.gstatic.com/s/allan/v20/ea8aadU7WuTxEu5KEMCE020.woff",
+          "woff2": "https://fonts.gstatic.com/s/allan/v20/ea8aadU7WuTxEu5KEMCK02s.woff2"
         }
       }
     }
   },
-  "version": "v13",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

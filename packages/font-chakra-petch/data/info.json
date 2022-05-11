@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin",
     "latin-ext",
@@ -16,140 +16,110 @@
   "variants": {
     "italic": {
       "300": {
-        "local": [
-          "'Chakra Petch Light Italic'",
-          "'ChakraPetch-LightItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AU&skey=58e8e1af6f89a69&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9Ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_H9AI.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AU&skey=58e8e1af6f89a69&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9Ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_H9AI.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Chakra Petch Italic'",
-          "'ChakraPetch-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppsYL4.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfkMapbsEk7TDLdtEz1BwkWmppsYL0&skey=e4b164695803396d&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppsYL8.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppsYLw.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppiYLo.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfkMapbsEk7TDLdtEz1BwkWmppsYL4.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfkMapbsEk7TDLdtEz1BwkWmppsYL0&skey=e4b164695803396d&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfkMapbsEk7TDLdtEz1BwkWmppsYL8.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfkMapbsEk7TDLdtEz1BwkWmppsYLw.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfkMapbsEk7TDLdtEz1BwkWmppiYLo.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Chakra Petch Medium Italic'",
-          "'ChakraPetch-MediumItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AU&skey=f15a798f05afe993&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9Ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_H9AI.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AU&skey=f15a798f05afe993&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9Ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_H9AI.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Chakra Petch SemiBold Italic'",
-          "'ChakraPetch-SemiBoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AU&skey=17e78261f75ee768&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9Ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_H9AI.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AU&skey=17e78261f75ee768&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9Ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_H9AI.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Chakra Petch Bold Italic'",
-          "'ChakraPetch-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AY.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AU&skey=ed7d8aa2d579469c&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9Ac.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_H9AI.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AY.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AU&skey=ed7d8aa2d579469c&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9Ac.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_H9AI.woff2"
         }
       }
     },
     "normal": {
       "300": {
-        "local": [
-          "'Chakra Petch Light'",
-          "'ChakraPetch-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_C&skey=9d10652a6181d79a&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_D.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1R5_F.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_C&skey=9d10652a6181d79a&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_D.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIh1R5_F.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Chakra Petch Regular'",
-          "'ChakraPetch-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWkapk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIf6MapbsEk7TDLdtEz1BwkWkapn&skey=ef39c019be42da50&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWkapl.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWkapm.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkWkapk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIf6MapbsEk7TDLdtEz1BwkWkapn&skey=ef39c019be42da50&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkWkapl.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkWkapm.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2"
         }
       },
       "500": {
-        "local": [
-          "'Chakra Petch Medium'",
-          "'ChakraPetch-Medium'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkebIl1SZ_C&skey=be6efcee170eb5e1&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_D.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkebIl1SZ_C&skey=be6efcee170eb5e1&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_D.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Chakra Petch SemiBold'",
-          "'ChakraPetch-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeQI51SZ_C&skey=8e2758adebdc38ec&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_D.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeQI51SZ_C&skey=8e2758adebdc38ec&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_D.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Chakra Petch Bold'",
-          "'ChakraPetch-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_B.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeJI91SZ_C&skey=2e848b15716a3726&v=v4#ChakraPetch",
-          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_A.ttf",
-          "woff": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_D.woff",
-          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2"
+          "eot": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_B.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=cIflMapbsEk7TDLdtEz1BwkeJI91SZ_C&skey=2e848b15716a3726&v=v9#ChakraPetch",
+          "ttf": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_A.ttf",
+          "woff": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_D.woff",
+          "woff2": "https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2"
         }
       }
     }
   },
-  "version": "v4",
+  "version": "v9",
   "typefaces": {
     "italic": {
       "300": {

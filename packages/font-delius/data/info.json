@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Delius-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK0pW_9e1rdZsg4&skey=f36ed9ae8917239c&v=v10#Delius",
-          "ttf": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg6.ttf",
-          "woff": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg5.woff",
-          "woff2": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg_.woff2"
+          "eot": "https://fonts.gstatic.com/s/delius/v15/PN_xRfK0pW_9e1rdZsg7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK0pW_9e1rdZsg4&skey=f36ed9ae8917239c&v=v15#Delius",
+          "ttf": "https://fonts.gstatic.com/s/delius/v15/PN_xRfK0pW_9e1rdZsg6.ttf",
+          "woff": "https://fonts.gstatic.com/s/delius/v15/PN_xRfK0pW_9e1rdZsg5.woff",
+          "woff2": "https://fonts.gstatic.com/s/delius/v15/PN_xRfK0pW_9e1rdZsg_.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v15",
   "typefaces": {
     "normal": {
       "400": {

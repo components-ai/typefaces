@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,20 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Monofett'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsxk.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mFTyWbofw6zc9NtnW73Vsxo&skey=a8882b235f7fa04f&v=v10#Monofett",
-          "ttf": "https://fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsxg.ttf",
-          "woff": "https://fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsxs.woff",
-          "woff2": "https://fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsx0.woff2"
+          "eot": "https://fonts.gstatic.com/s/monofett/v22/mFTyWbofw6zc9NtnW73Vsxk.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mFTyWbofw6zc9NtnW73Vsxo&skey=a8882b235f7fa04f&v=v22#Monofett",
+          "ttf": "https://fonts.gstatic.com/s/monofett/v22/mFTyWbofw6zc9NtnW73Vsxg.ttf",
+          "woff": "https://fonts.gstatic.com/s/monofett/v22/mFTyWbofw6zc9NtnW73Vsxs.woff",
+          "woff2": "https://fonts.gstatic.com/s/monofett/v22/mFTyWbofw6zc9NtnW73Vsx0.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -16,62 +16,50 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Istok Web Italic'",
-          "'IstokWeb-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kI.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3qTpojGmgSyUukBzKslpA1tz3kE&skey=8811c9fe870c01bf&v=v15#IstokWeb",
-          "ttf": "https://fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kM.ttf",
-          "woff": "https://fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kA.woff",
-          "woff2": "https://fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1t93kY.woff2"
+          "eot": "https://fonts.gstatic.com/s/istokweb/v20/3qTpojGmgSyUukBzKslpA1tz3kI.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3qTpojGmgSyUukBzKslpA1tz3kE&skey=8811c9fe870c01bf&v=v20#IstokWeb",
+          "ttf": "https://fonts.gstatic.com/s/istokweb/v20/3qTpojGmgSyUukBzKslpA1tz3kM.ttf",
+          "woff": "https://fonts.gstatic.com/s/istokweb/v20/3qTpojGmgSyUukBzKslpA1tz3kA.woff",
+          "woff2": "https://fonts.gstatic.com/s/istokweb/v20/3qTpojGmgSyUukBzKslpA1t93kY.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Istok Web Bold Italic'",
-          "'IstokWeb-BoldItalic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBc.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3qT0ojGmgSyUukBzKslpA1PG-1MZSBQ&skey=cacea6fe46cb51d6&v=v15#IstokWeb",
-          "ttf": "https://fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBY.ttf",
-          "woff": "https://fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBU.woff",
-          "woff2": "https://fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MXSBM.woff2"
+          "eot": "https://fonts.gstatic.com/s/istokweb/v20/3qT0ojGmgSyUukBzKslpA1PG-1MZSBc.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3qT0ojGmgSyUukBzKslpA1PG-1MZSBQ&skey=cacea6fe46cb51d6&v=v20#IstokWeb",
+          "ttf": "https://fonts.gstatic.com/s/istokweb/v20/3qT0ojGmgSyUukBzKslpA1PG-1MZSBY.ttf",
+          "woff": "https://fonts.gstatic.com/s/istokweb/v20/3qT0ojGmgSyUukBzKslpA1PG-1MZSBU.woff",
+          "woff2": "https://fonts.gstatic.com/s/istokweb/v20/3qT0ojGmgSyUukBzKslpA1PG-1MXSBM.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Istok Web Regular'",
-          "'IstokWeb-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt7.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3qTvojGmgSyUukBzKslpCGt4&skey=79160bf8eb8143d8&v=v15#IstokWeb",
-          "ttf": "https://fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt6.ttf",
-          "woff": "https://fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt5.woff",
-          "woff2": "https://fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpBmt_.woff2"
+          "eot": "https://fonts.gstatic.com/s/istokweb/v20/3qTvojGmgSyUukBzKslpCGt7.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3qTvojGmgSyUukBzKslpCGt4&skey=79160bf8eb8143d8&v=v20#IstokWeb",
+          "ttf": "https://fonts.gstatic.com/s/istokweb/v20/3qTvojGmgSyUukBzKslpCGt6.ttf",
+          "woff": "https://fonts.gstatic.com/s/istokweb/v20/3qTvojGmgSyUukBzKslpCGt5.woff",
+          "woff2": "https://fonts.gstatic.com/s/istokweb/v20/3qTvojGmgSyUukBzKslpBmt_.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Istok Web Bold'",
-          "'IstokWeb-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MR.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=3qTqojGmgSyUukBzKslhvU5q92MS&skey=b825e864c348b299&v=v15#IstokWeb",
-          "ttf": "https://fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MT.woff",
-          "woff2": "https://fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2"
+          "eot": "https://fonts.gstatic.com/s/istokweb/v20/3qTqojGmgSyUukBzKslhvU5q92MR.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=3qTqojGmgSyUukBzKslhvU5q92MS&skey=b825e864c348b299&v=v20#IstokWeb",
+          "ttf": "https://fonts.gstatic.com/s/istokweb/v20/3qTqojGmgSyUukBzKslhvU5q92MQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/istokweb/v20/3qTqojGmgSyUukBzKslhvU5q92MT.woff",
+          "woff2": "https://fonts.gstatic.com/s/istokweb/v20/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v20",
   "typefaces": {
     "italic": {
       "400": {

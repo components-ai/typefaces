@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,36 +10,30 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'IM FELL DW Pica Italic'",
-          "'IM_FELL_DW_Pica_Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXliw&skey=c4934a67e6f2a36b&v=v10#IMFellDWPica",
-          "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli4.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli0.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXlis.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXliw&skey=c4934a67e6f2a36b&v=v16#IMFellDWPica",
+          "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli4.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli0.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXlis.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL DW Pica Roman'",
-          "'IM_FELL_DW_Pica_Roman'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnR.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnS&skey=22ed7eafcced41ff&v=v10#IMFellDWPica",
-          "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnT.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnR.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnS&skey=22ed7eafcced41ff&v=v16#IMFellDWPica",
+          "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnT.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v16",
   "typefaces": {
     "italic": {
       "400": {

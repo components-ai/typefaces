@@ -3223,7 +3223,7 @@
     "260": {
       "en": "Italic"
     },
-    "277": {
+    "275": {
       "en": "Thin"
     },
     "copyright": {
@@ -3236,13 +3236,13 @@
       "en": "Italic"
     },
     "uniqueID": {
-      "en": "2.001;NONE;BitterThin-ThinItalic"
+      "en": "2.002;NONE;BitterThin-ThinItalic"
     },
     "fullName": {
       "en": "Bitter Thin Thin Italic"
     },
     "version": {
-      "en": "Version 2.001"
+      "en": "Version 2.002"
     },
     "postScriptName": {
       "en": "BitterThin-ThinItalic"

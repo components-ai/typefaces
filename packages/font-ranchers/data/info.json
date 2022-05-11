@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Ranchers'",
-          "'Ranchers-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDRBis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=zrfm0H3Lx-P2Xvs2ArDRBig&skey=d5ab3d28a945ee24&v=v8#Ranchers",
-          "ttf": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDRBio.ttf",
-          "woff": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDRBik.woff",
-          "woff2": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/ranchers/v13/zrfm0H3Lx-P2Xvs2ArDRBis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=zrfm0H3Lx-P2Xvs2ArDRBig&skey=d5ab3d28a945ee24&v=v13#Ranchers",
+          "ttf": "https://fonts.gstatic.com/s/ranchers/v13/zrfm0H3Lx-P2Xvs2ArDRBio.ttf",
+          "woff": "https://fonts.gstatic.com/s/ranchers/v13/zrfm0H3Lx-P2Xvs2ArDRBik.woff",
+          "woff2": "https://fonts.gstatic.com/s/ranchers/v13/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "cyrillic",
     "cyrillic-ext",
@@ -18,21 +18,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Andika Regular'",
-          "'Andika-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwZLYU.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwZLYX&skey=c52ba807e15599a0&v=v12#Andika",
-          "ttf": "https://fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwZLYV.ttf",
-          "woff": "https://fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwZLYW.woff",
-          "woff2": "https://fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwarYQ.woff2"
+          "eot": "https://fonts.gstatic.com/s/andika/v19/mem_Ya6iyW-LwqgwZLYU.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwZLYX&skey=c52ba807e15599a0&v=v19#Andika",
+          "ttf": "https://fonts.gstatic.com/s/andika/v19/mem_Ya6iyW-LwqgwZLYV.ttf",
+          "woff": "https://fonts.gstatic.com/s/andika/v19/mem_Ya6iyW-LwqgwZLYW.woff",
+          "woff2": "https://fonts.gstatic.com/s/andika/v19/mem_Ya6iyW-LwqgwarYQ.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "400": {

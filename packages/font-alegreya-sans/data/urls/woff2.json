@@ -1,20 +1,20 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUv9_-1phKLFgshYDvh6Vwt7V9V3F1Rrmo.woff2",
-    "300": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUo9_-1phKLFgshYDvh6Vwt7V9VFE9GiU9G.woff2",
-    "400": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUt9_-1phKLFgshYDvh6Vwt7V9dv21T.woff2",
-    "500": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUo9_-1phKLFgshYDvh6Vwt7V9VTE5GiU9G.woff2",
-    "700": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUo9_-1phKLFgshYDvh6Vwt7V9VBEhGiU9G.woff2",
-    "800": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUo9_-1phKLFgshYDvh6Vwt7V9VGEtGiU9G.woff2",
-    "900": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUo9_-1phKLFgshYDvh6Vwt7V9VPEpGiU9G.woff2"
+    "100": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUv9_-1phKLFgshYDvh6Vwt7V9V3F1Rrmo.woff2",
+    "300": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VFE9GiU9G.woff2",
+    "400": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUt9_-1phKLFgshYDvh6Vwt7V9dv21T.woff2",
+    "500": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VTE5GiU9G.woff2",
+    "700": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VBEhGiU9G.woff2",
+    "800": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VGEtGiU9G.woff2",
+    "900": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VPEpGiU9G.woff2"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUt9_-1phKLFgshYDvh6Vwt5Tldv21T.woff2",
-    "300": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUu9_-1phKLFgshYDvh6Vwt5fFPqEp2iw.woff2",
-    "400": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUz9_-1phKLFgshYDvh6Vwt7VptvQ.woff2",
-    "500": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUu9_-1phKLFgshYDvh6Vwt5alOqEp2iw.woff2",
-    "700": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUu9_-1phKLFgshYDvh6Vwt5eFIqEp2iw.woff2",
-    "800": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUu9_-1phKLFgshYDvh6Vwt5f1LqEp2iw.woff2",
-    "900": "https://fonts.gstatic.com/s/alegreyasans/v12/5aUu9_-1phKLFgshYDvh6Vwt5dlKqEp2iw.woff2"
+    "100": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUt9_-1phKLFgshYDvh6Vwt5Tldv21T.woff2",
+    "300": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5fFPqEp2iw.woff2",
+    "400": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUz9_-1phKLFgshYDvh6Vwt7VptvQ.woff2",
+    "500": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5alOqEp2iw.woff2",
+    "700": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5eFIqEp2iw.woff2",
+    "800": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5f1LqEp2iw.woff2",
+    "900": "https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5dlKqEp2iw.woff2"
   }
 }

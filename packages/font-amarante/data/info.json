@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Amarante Regular'",
-          "'Amarante-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/amarante/v8/xMQXuF1KTa6EvGx9bp--AX8.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=xMQXuF1KTa6EvGx9bp--AXw&skey=d53492408d13fc7d&v=v8#Amarante",
-          "ttf": "https://fonts.gstatic.com/s/amarante/v8/xMQXuF1KTa6EvGx9bp--AX4.ttf",
-          "woff": "https://fonts.gstatic.com/s/amarante/v8/xMQXuF1KTa6EvGx9bp--AX0.woff",
-          "woff2": "https://fonts.gstatic.com/s/amarante/v8/xMQXuF1KTa6EvGx9bp-wAXs.woff2"
+          "eot": "https://fonts.gstatic.com/s/amarante/v22/xMQXuF1KTa6EvGx9bp--AX8.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=xMQXuF1KTa6EvGx9bp--AXw&skey=d53492408d13fc7d&v=v22#Amarante",
+          "ttf": "https://fonts.gstatic.com/s/amarante/v22/xMQXuF1KTa6EvGx9bp--AX4.ttf",
+          "woff": "https://fonts.gstatic.com/s/amarante/v22/xMQXuF1KTa6EvGx9bp--AX0.woff",
+          "woff2": "https://fonts.gstatic.com/s/amarante/v22/xMQXuF1KTa6EvGx9bp-wAXs.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {
@@ -90,6 +87,12 @@
             "x_min": 69,
             "x_max": 665,
             "o": "m 488 593 l 488 593 q 330 529 430 529 l 330 529 q 132 616 204 529 l 132 616 q 69 795 69 691 l 69 795 q 155 983 69 911 l 155 983 q 363 1051 236 1051 l 363 1051 q 591 958 518 1051 q 665 679 665 865 l 665 679 q 582 317 665 488 l 582 317 q 392 75 509 169 l 392 75 q 186 -14 281 -14 l 186 -14 q 154 7 166 -9 l 154 7 q 136 54 132 36 l 136 54 q 314 157 231 75 l 314 157 q 475 469 436 279 l 475 469 q 488 593 488 530 z m 410 970 l 410 970 q 357 983 388 983 q 302 970 326 983 q 262 933 277 956 l 262 933 q 230 811 230 886 l 230 811 q 307 638 230 682 l 307 638 q 360 624 332 624 q 408 633 388 624 q 444 665 428 643 l 444 665 q 477 811 477 713 l 477 811 q 410 970 477 930 z "
+          },
+          "\u0001": {
+            "ha": 0,
+            "x_min": null,
+            "x_max": null,
+            "o": ""
           },
           " ": {
             "ha": 458,

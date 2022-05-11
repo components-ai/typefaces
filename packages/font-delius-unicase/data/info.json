@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,34 +10,28 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Delius Unicase'",
-          "'DeliusUnicase-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfes.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=845BNMEwEIOVT8BmgfSzIr_6mlLAfeg&skey=e1760ce20139c64e&v=v14#DeliusUnicase",
-          "ttf": "https://fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfeo.ttf",
-          "woff": "https://fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfek.woff",
-          "woff2": "https://fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfe8.woff2"
+          "eot": "https://fonts.gstatic.com/s/deliusunicase/v26/845BNMEwEIOVT8BmgfSzIr_6mlLAfes.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=845BNMEwEIOVT8BmgfSzIr_6mlLAfeg&skey=e1760ce20139c64e&v=v26#DeliusUnicase",
+          "ttf": "https://fonts.gstatic.com/s/deliusunicase/v26/845BNMEwEIOVT8BmgfSzIr_6mlLAfeo.ttf",
+          "woff": "https://fonts.gstatic.com/s/deliusunicase/v26/845BNMEwEIOVT8BmgfSzIr_6mlLAfek.woff",
+          "woff2": "https://fonts.gstatic.com/s/deliusunicase/v26/845BNMEwEIOVT8BmgfSzIr_6mlLAfe8.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Delius Unicase Bold'",
-          "'DeliusUnicase-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG8&skey=79df78cc6fe9b196&v=v14#DeliusUnicase",
-          "ttf": "https://fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG0.ttf",
-          "woff": "https://fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG4.woff",
-          "woff2": "https://fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGg.woff2"
+          "eot": "https://fonts.gstatic.com/s/deliusunicase/v26/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG8&skey=79df78cc6fe9b196&v=v26#DeliusUnicase",
+          "ttf": "https://fonts.gstatic.com/s/deliusunicase/v26/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG0.ttf",
+          "woff": "https://fonts.gstatic.com/s/deliusunicase/v26/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG4.woff",
+          "woff2": "https://fonts.gstatic.com/s/deliusunicase/v26/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGg.woff2"
         }
       }
     }
   },
-  "version": "v14",
+  "version": "v26",
   "typefaces": {
     "normal": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Londrina Outline Regular'",
-          "'LondrinaOutline-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/londrinaoutline/v11/C8c44dM8vmb14dfsZxhetg3pDH-STu07qA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=C8c44dM8vmb14dfsZxhetg3pDH-STu07qw&skey=38835ee470879933&v=v11#LondrinaOutline",
-          "ttf": "https://fonts.gstatic.com/s/londrinaoutline/v11/C8c44dM8vmb14dfsZxhetg3pDH-STu07qQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/londrinaoutline/v11/C8c44dM8vmb14dfsZxhetg3pDH-STu07qg.woff",
-          "woff2": "https://fonts.gstatic.com/s/londrinaoutline/v11/C8c44dM8vmb14dfsZxhetg3pDH-STu07rA.woff2"
+          "eot": "https://fonts.gstatic.com/s/londrinaoutline/v23/C8c44dM8vmb14dfsZxhetg3pDH-STu07qA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=C8c44dM8vmb14dfsZxhetg3pDH-STu07qw&skey=38835ee470879933&v=v23#LondrinaOutline",
+          "ttf": "https://fonts.gstatic.com/s/londrinaoutline/v23/C8c44dM8vmb14dfsZxhetg3pDH-STu07qQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/londrinaoutline/v23/C8c44dM8vmb14dfsZxhetg3pDH-STu07qg.woff",
+          "woff2": "https://fonts.gstatic.com/s/londrinaoutline/v23/C8c44dM8vmb14dfsZxhetg3pDH-STu07rA.woff2"
         }
       }
     }
   },
-  "version": "v11",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

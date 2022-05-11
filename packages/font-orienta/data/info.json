@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Orienta'",
-          "'Orienta-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=PlI9FlK4Jrl5Y9zNSy6i8g&skey=e41114ee31e61880&v=v8#Orienta",
-          "ttf": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8A.ttf",
-          "woff": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8w.woff",
-          "woff2": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSyCi9Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/orienta/v13/PlI9FlK4Jrl5Y9zNSy6i8Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=PlI9FlK4Jrl5Y9zNSy6i8g&skey=e41114ee31e61880&v=v13#Orienta",
+          "ttf": "https://fonts.gstatic.com/s/orienta/v13/PlI9FlK4Jrl5Y9zNSy6i8A.ttf",
+          "woff": "https://fonts.gstatic.com/s/orienta/v13/PlI9FlK4Jrl5Y9zNSy6i8w.woff",
+          "woff2": "https://fonts.gstatic.com/s/orienta/v13/PlI9FlK4Jrl5Y9zNSyCi9Q.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

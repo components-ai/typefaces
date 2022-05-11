@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-26",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'IM FELL Double Pica SC'",
-          "'IM_FELL_Double_Pica_SC'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfA&skey=bfe6616aa60db6b9&v=v10#IMFellDoublePicaSC",
-          "ttf": "https://fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfg.ttf",
-          "woff": "https://fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOew.woff2"
+          "eot": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfA&skey=bfe6616aa60db6b9&v=v21#IMFellDoublePicaSC",
+          "ttf": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfg.ttf",
+          "woff": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOew.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v21",
   "typefaces": {
     "normal": {
       "400": {

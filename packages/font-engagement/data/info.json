@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-21",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Engagement'",
-          "'Engagement-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0mtg.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=x3dlckLDZbqa7RUs9MFVbN0mtQ&skey=8c27fbacec5a2e3c&v=v10#Engagement",
-          "ttf": "https://fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0mtw.ttf",
-          "woff": "https://fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0mtA.woff",
-          "woff2": "https://fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0msg.woff2"
+          "eot": "https://fonts.gstatic.com/s/engagement/v22/x3dlckLDZbqa7RUs9MFVbN0mtg.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=x3dlckLDZbqa7RUs9MFVbN0mtQ&skey=8c27fbacec5a2e3c&v=v22#Engagement",
+          "ttf": "https://fonts.gstatic.com/s/engagement/v22/x3dlckLDZbqa7RUs9MFVbN0mtw.ttf",
+          "woff": "https://fonts.gstatic.com/s/engagement/v22/x3dlckLDZbqa7RUs9MFVbN0mtA.woff",
+          "woff2": "https://fonts.gstatic.com/s/engagement/v22/x3dlckLDZbqa7RUs9MFVbN0msg.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v22",
   "typefaces": {
     "normal": {
       "400": {

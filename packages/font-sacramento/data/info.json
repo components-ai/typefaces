@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin",
     "latin-ext"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Sacramento'",
-          "'Sacramento-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-Q.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buEzpo6gcdjy0EiZMBUG4CMf-g&skey=81ec871a4d9062d2&v=v8#Sacramento",
-          "ttf": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-A.ttf",
-          "woff": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-w.woff",
-          "woff2": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4C0f_Q.woff2"
+          "eot": "https://fonts.gstatic.com/s/sacramento/v13/buEzpo6gcdjy0EiZMBUG4CMf-Q.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buEzpo6gcdjy0EiZMBUG4CMf-g&skey=81ec871a4d9062d2&v=v13#Sacramento",
+          "ttf": "https://fonts.gstatic.com/s/sacramento/v13/buEzpo6gcdjy0EiZMBUG4CMf-A.ttf",
+          "woff": "https://fonts.gstatic.com/s/sacramento/v13/buEzpo6gcdjy0EiZMBUG4CMf-w.woff",
+          "woff2": "https://fonts.gstatic.com/s/sacramento/v13/buEzpo6gcdjy0EiZMBUG4C0f_Q.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v13",
   "typefaces": {
     "normal": {
       "400": {

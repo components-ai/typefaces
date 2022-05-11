@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-04-27",
   "subsets": [
     "latin"
   ],
@@ -10,48 +10,40 @@
   "variants": {
     "italic": {
       "400": {
-        "local": [
-          "'Trochut Italic'",
-          "'Trochut-Italic'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoP.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CHyhV-fDDlP9bDIw1nayfnoM&skey=170230b4050d86b1&v=v8#Trochut",
-          "ttf": "https://fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoO.ttf",
-          "woff": "https://fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoN.woff",
-          "woff2": "https://fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoL.woff2"
+          "eot": "https://fonts.gstatic.com/s/trochut/v20/CHyhV-fDDlP9bDIw1nayfnoP.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CHyhV-fDDlP9bDIw1nayfnoM&skey=170230b4050d86b1&v=v20#Trochut",
+          "ttf": "https://fonts.gstatic.com/s/trochut/v20/CHyhV-fDDlP9bDIw1nayfnoO.ttf",
+          "woff": "https://fonts.gstatic.com/s/trochut/v20/CHyhV-fDDlP9bDIw1nayfnoN.woff",
+          "woff2": "https://fonts.gstatic.com/s/trochut/v20/CHyhV-fDDlP9bDIw1nayfnoL.woff2"
         }
       }
     },
     "normal": {
       "400": {
-        "local": [
-          "'Trochut'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCeA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CHyjV-fDDlP9bDIw1nOCew&skey=3fd89c97eb3831da&v=v8#Trochut",
-          "ttf": "https://fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCeQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCeg.woff",
-          "woff2": "https://fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCfA.woff2"
+          "eot": "https://fonts.gstatic.com/s/trochut/v20/CHyjV-fDDlP9bDIw1nOCeA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CHyjV-fDDlP9bDIw1nOCew&skey=3fd89c97eb3831da&v=v20#Trochut",
+          "ttf": "https://fonts.gstatic.com/s/trochut/v20/CHyjV-fDDlP9bDIw1nOCeQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/trochut/v20/CHyjV-fDDlP9bDIw1nOCeg.woff",
+          "woff2": "https://fonts.gstatic.com/s/trochut/v20/CHyjV-fDDlP9bDIw1nOCfA.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Trochut Bold'",
-          "'Trochut-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uNw.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=CHymV-fDDlP9bDIw3sinaV0uNA&skey=e915d5811d643350&v=v8#Trochut",
-          "ttf": "https://fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uNg.ttf",
-          "woff": "https://fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uNQ.woff",
-          "woff2": "https://fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uMw.woff2"
+          "eot": "https://fonts.gstatic.com/s/trochut/v20/CHymV-fDDlP9bDIw3sinaV0uNw.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=CHymV-fDDlP9bDIw3sinaV0uNA&skey=e915d5811d643350&v=v20#Trochut",
+          "ttf": "https://fonts.gstatic.com/s/trochut/v20/CHymV-fDDlP9bDIw3sinaV0uNg.ttf",
+          "woff": "https://fonts.gstatic.com/s/trochut/v20/CHymV-fDDlP9bDIw3sinaV0uNQ.woff",
+          "woff2": "https://fonts.gstatic.com/s/trochut/v20/CHymV-fDDlP9bDIw3sinaV0uMw.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "italic": {
       "400": {

@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-04-26",
   "subsets": [
     "devanagari",
     "latin",
@@ -14,73 +14,58 @@
   "variants": {
     "normal": {
       "300": {
-        "local": [
-          "'Khula Light'",
-          "'Khula-Light'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvdpis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-ljBvdpig&skey=867f0bdfdae10454&v=v6#Khula",
-          "ttf": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvdpio.ttf",
-          "woff": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvdpik.woff",
-          "woff2": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvTpi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-ljBvdpis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-ljBvdpig&skey=867f0bdfdae10454&v=v12#Khula",
+          "ttf": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-ljBvdpio.ttf",
+          "woff": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-ljBvdpik.woff",
+          "woff2": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-ljBvTpi8.woff2"
         }
       },
       "400": {
-        "local": [
-          "'Khula Regular'",
-          "'Khula-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcArgo.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEOns3V7GcArgk&skey=6d8fe26ae47fbcf9&v=v6#Khula",
-          "ttf": "https://fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcArgs.ttf",
-          "woff": "https://fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcArgg.woff",
-          "woff2": "https://fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcOrg4.woff2"
+          "eot": "https://fonts.gstatic.com/s/khula/v12/OpNCnoEOns3V7GcArgo.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEOns3V7GcArgk&skey=6d8fe26ae47fbcf9&v=v12#Khula",
+          "ttf": "https://fonts.gstatic.com/s/khula/v12/OpNCnoEOns3V7GcArgs.ttf",
+          "woff": "https://fonts.gstatic.com/s/khula/v12/OpNCnoEOns3V7GcArgg.woff",
+          "woff2": "https://fonts.gstatic.com/s/khula/v12/OpNCnoEOns3V7GcOrg4.woff2"
         }
       },
       "600": {
-        "local": [
-          "'Khula SemiBold'",
-          "'Khula-SemiBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_Rihvdpis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G_Rihvdpig&skey=e97ce45195518f62&v=v6#Khula",
-          "ttf": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_Rihvdpio.ttf",
-          "woff": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_Rihvdpik.woff",
-          "woff2": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_RihvTpi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G_Rihvdpis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G_Rihvdpig&skey=e97ce45195518f62&v=v12#Khula",
+          "ttf": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G_Rihvdpio.ttf",
+          "woff": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G_Rihvdpik.woff",
+          "woff2": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G_RihvTpi8.woff2"
         }
       },
       "700": {
-        "local": [
-          "'Khula Bold'",
-          "'Khula-Bold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvdpis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-1ixvdpig&skey=e97780ab2e2e718e&v=v6#Khula",
-          "ttf": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvdpio.ttf",
-          "woff": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvdpik.woff",
-          "woff2": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvTpi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-1ixvdpis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-1ixvdpig&skey=e97780ab2e2e718e&v=v12#Khula",
+          "ttf": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-1ixvdpio.ttf",
+          "woff": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-1ixvdpik.woff",
+          "woff2": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-1ixvTpi8.woff2"
         }
       },
       "800": {
-        "local": [
-          "'Khula ExtraBold'",
-          "'Khula-ExtraBold'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvdpis.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-piBvdpig&skey=524ff37f6d9d9177&v=v6#Khula",
-          "ttf": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvdpio.ttf",
-          "woff": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvdpik.woff",
-          "woff2": "https://fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvTpi8.woff2"
+          "eot": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-piBvdpis.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-piBvdpig&skey=524ff37f6d9d9177&v=v12#Khula",
+          "ttf": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-piBvdpio.ttf",
+          "woff": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-piBvdpik.woff",
+          "woff2": "https://fonts.gstatic.com/s/khula/v12/OpNPnoEOns3V7G-piBvTpi8.woff2"
         }
       }
     }
   },
-  "version": "v6",
+  "version": "v12",
   "typefaces": {
     "normal": {
       "300": {
@@ -786,13 +771,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.001;GOOG;Khula-Light"
+            "en": "1.002;GOOG;Khula-Light"
           },
           "fullName": {
             "en": "Khula Light"
           },
           "version": {
-            "en": "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -w G"
+            "en": "Version 1.002;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Khula-Light"
@@ -1501,13 +1486,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.001;GOOG;Khula-Regular"
+            "en": "1.002;GOOG;Khula-Regular"
           },
           "fullName": {
             "en": "Khula Regular"
           },
           "version": {
-            "en": "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -w G"
+            "en": "Version 1.002;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Khula-Regular"
@@ -2216,13 +2201,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.001;GOOG;Khula-SemiBold"
+            "en": "1.002;GOOG;Khula-SemiBold"
           },
           "fullName": {
             "en": "Khula SemiBold"
           },
           "version": {
-            "en": "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -w G"
+            "en": "Version 1.002;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Khula-SemiBold"
@@ -2931,13 +2916,13 @@
             "en": "Bold"
           },
           "uniqueID": {
-            "en": "1.001;GOOG;Khula-Bold"
+            "en": "1.002;GOOG;Khula-Bold"
           },
           "fullName": {
             "en": "Khula Bold"
           },
           "version": {
-            "en": "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -w G"
+            "en": "Version 1.002;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Khula-Bold"
@@ -3646,13 +3631,13 @@
             "en": "Regular"
           },
           "uniqueID": {
-            "en": "1.001;GOOG;Khula-ExtraBold"
+            "en": "1.002;GOOG;Khula-ExtraBold"
           },
           "fullName": {
             "en": "Khula ExtraBold"
           },
           "version": {
-            "en": "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -w G"
+            "en": "Version 1.002;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D deva -f latn -a qsq -W -X \"\""
           },
           "postScriptName": {
             "en": "Khula-ExtraBold"

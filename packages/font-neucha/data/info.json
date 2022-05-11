@@ -1,6 +1,6 @@
 {
   "category": "handwriting",
-  "lastModified": "2020-09-02",
+  "lastModified": "2022-05-10",
   "subsets": [
     "cyrillic",
     "latin"
@@ -12,20 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Neucha'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfvQlp.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=q5uGsou0JOdh94bfvQlq&skey=3220290e94c865ad&v=v12#Neucha",
-          "ttf": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfvQlo.ttf",
-          "woff": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfvQlr.woff",
-          "woff2": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfvQlt.woff2"
+          "eot": "https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bfvQlp.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=q5uGsou0JOdh94bfvQlq&skey=3220290e94c865ad&v=v17#Neucha",
+          "ttf": "https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bfvQlo.ttf",
+          "woff": "https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bfvQlr.woff",
+          "woff2": "https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bfvQlt.woff2"
         }
       }
     }
   },
-  "version": "v12",
+  "version": "v17",
   "typefaces": {
     "normal": {
       "400": {

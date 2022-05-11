@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2020-07-23",
+  "lastModified": "2022-05-10",
   "subsets": [
     "latin",
     "telugu"
@@ -12,21 +12,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Peddana Regular'",
-          "'Peddana'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWthqQAA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PBhaX89UcKWthqQAw&skey=13ff572c5e71df32&v=v8#Peddana",
-          "ttf": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWthqQAQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWthqQAg.woff",
-          "woff2": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWthqQBA.woff2"
+          "eot": "https://fonts.gstatic.com/s/peddana/v20/aFTU7PBhaX89UcKWthqQAA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PBhaX89UcKWthqQAw&skey=13ff572c5e71df32&v=v20#Peddana",
+          "ttf": "https://fonts.gstatic.com/s/peddana/v20/aFTU7PBhaX89UcKWthqQAQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/peddana/v20/aFTU7PBhaX89UcKWthqQAg.woff",
+          "woff2": "https://fonts.gstatic.com/s/peddana/v20/aFTU7PBhaX89UcKWthqQBA.woff2"
         }
       }
     }
   },
-  "version": "v8",
+  "version": "v20",
   "typefaces": {
     "normal": {
       "400": {

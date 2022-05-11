@@ -1,6 +1,6 @@
 {
   "category": "display",
-  "lastModified": "2020-07-15",
+  "lastModified": "2022-04-20",
   "subsets": [
     "latin"
   ],
@@ -10,21 +10,18 @@
   "variants": {
     "normal": {
       "400": {
-        "local": [
-          "'Irish Grover Regular'",
-          "'IrishGrover-Regular'"
-        ],
+        "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RL.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=buExpoi6YtLz2QW7LA4flVgv__RI&skey=b6f4e06b096475f7&v=v10#IrishGrover",
-          "ttf": "https://fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RK.ttf",
-          "woff": "https://fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RJ.woff",
-          "woff2": "https://fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RP.woff2"
+          "eot": "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RL.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=buExpoi6YtLz2QW7LA4flVgv__RI&skey=b6f4e06b096475f7&v=v23#IrishGrover",
+          "ttf": "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RK.ttf",
+          "woff": "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RJ.woff",
+          "woff2": "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RP.woff2"
         }
       }
     }
   },
-  "version": "v10",
+  "version": "v23",
   "typefaces": {
     "normal": {
       "400": {

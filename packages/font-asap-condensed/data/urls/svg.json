@@ -1,14 +1,14 @@
 {
   "italic": {
-    "400": "https://fonts.gstatic.com/l/font?kit=pxifypY1o9NHyXh3WvSbGSggdOeJWEBkqA&skey=2d37a410bdb336c1&v=v7#AsapCondensed",
-    "500": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUL1HumeIpA&skey=edaa668f7858b5a&v=v7#AsapCondensed",
-    "600": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUJFAumeIpA&skey=f05d06452c96cb30&v=v7#AsapCondensed",
-    "700": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUPVBumeIpA&skey=ecbbaedcef04de85&v=v7#AsapCondensed"
+    "400": "https://fonts.gstatic.com/l/font?kit=pxifypY1o9NHyXh3WvSbGSggdOeJWEBkqA&skey=2d37a410bdb336c1&v=v15#AsapCondensed",
+    "500": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUL1HumeIpA&skey=edaa668f7858b5a&v=v15#AsapCondensed",
+    "600": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUJFAumeIpA&skey=f05d06452c96cb30&v=v15#AsapCondensed",
+    "700": "https://fonts.gstatic.com/l/font?kit=pxiYypY1o9NHyXh3WvSbGSggdOeJUPVBumeIpA&skey=ecbbaedcef04de85&v=v15#AsapCondensed"
   },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=pxidypY1o9NHyXh3WvSbGSggdOeCaEs&skey=3d36b4c4b66e38bb&v=v7#AsapCondensed",
-    "500": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO9_S1lNimw&skey=ed1c2c5328bc22e&v=v7#AsapCondensed",
-    "600": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO9TTFlNimw&skey=9706a0a39869c07b&v=v7#AsapCondensed",
-    "700": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO83TVlNimw&skey=71e57623e2e66568&v=v7#AsapCondensed"
+    "400": "https://fonts.gstatic.com/l/font?kit=pxidypY1o9NHyXh3WvSbGSggdOeCaEs&skey=3d36b4c4b66e38bb&v=v15#AsapCondensed",
+    "500": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO9_S1lNimw&skey=ed1c2c5328bc22e&v=v15#AsapCondensed",
+    "600": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO9TTFlNimw&skey=9706a0a39869c07b&v=v15#AsapCondensed",
+    "700": "https://fonts.gstatic.com/l/font?kit=pxieypY1o9NHyXh3WvSbGSggdO83TVlNimw&skey=71e57623e2e66568&v=v15#AsapCondensed"
   }
 }

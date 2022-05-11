@@ -1,18 +1,18 @@
 {
   "italic": {
-    "200": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNisssJ_DK6qi&skey=cc9619179e12080d&v=v4#KoHo",
-    "300": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNiss1JzDK6qi&skey=9179c1b69b3d8f06&v=v4#KoHo",
-    "400": "https://fonts.gstatic.com/l/font?kit=K2FwfZ5fmddNNiskcb7R&skey=f714266135741410&v=v4#KoHo",
-    "500": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissjJ3DK6qi&skey=c2bebdbdb50f3edd&v=v4#KoHo",
-    "600": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissoJrDK6qi&skey=4c40f493d7773844&v=v4#KoHo",
-    "700": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissxJvDK6qi&skey=182a8c189df2e774&v=v4#KoHo"
+    "200": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNisssJ_DK6qi&skey=cc9619179e12080d&v=v16#KoHo",
+    "300": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNiss1JzDK6qi&skey=9179c1b69b3d8f06&v=v16#KoHo",
+    "400": "https://fonts.gstatic.com/l/font?kit=K2FwfZ5fmddNNiskcb7R&skey=f714266135741410&v=v16#KoHo",
+    "500": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissjJ3DK6qi&skey=c2bebdbdb50f3edd&v=v16#KoHo",
+    "600": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissoJrDK6qi&skey=4c40f493d7773844&v=v16#KoHo",
+    "700": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissxJvDK6qi&skey=182a8c189df2e774&v=v16#KoHo"
   },
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPuE1aJfzIA&skey=d993bf7ce34301de&v=v4#KoHo",
-    "300": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPoU2aJfzIA&skey=73c3670a2b24f63&v=v4#KoHo",
-    "400": "https://fonts.gstatic.com/l/font?kit=K2F-fZ5fmddNNiAUeg&skey=713e035ae9f0e89f&v=v4#KoHo",
-    "500": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPt03aJfzIA&skey=a337e6f6d833ff44&v=v4#KoHo",
-    "600": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPvEwaJfzIA&skey=1e2f76b3528721fb&v=v4#KoHo",
-    "700": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPpUxaJfzIA&skey=88305c778f14f929&v=v4#KoHo"
+    "200": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPuE1aJfzIA&skey=d993bf7ce34301de&v=v16#KoHo",
+    "300": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPoU2aJfzIA&skey=73c3670a2b24f63&v=v16#KoHo",
+    "400": "https://fonts.gstatic.com/l/font?kit=K2F-fZ5fmddNNiAUeg&skey=713e035ae9f0e89f&v=v16#KoHo",
+    "500": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPt03aJfzIA&skey=a337e6f6d833ff44&v=v16#KoHo",
+    "600": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPvEwaJfzIA&skey=1e2f76b3528721fb&v=v16#KoHo",
+    "700": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPpUxaJfzIA&skey=88305c778f14f929&v=v16#KoHo"
   }
 }
