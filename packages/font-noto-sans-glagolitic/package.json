@@ -1,6 +1,6 @@
 {
   "name": "@compai/font-noto-sans-glagolitic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-noto-sans-glagolitic",
   "homepage": "https://components.ai/docs/typefaces/noto-sans-glagolitic",
   "license": "MIT"

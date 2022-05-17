@@ -1,5 +1,11 @@
 # @compai/fonts-all
 
+## 0.0.8
+
+### Patch Changes
+
+- ca38f854: updates and adds new fonts
+
 ## 0.0.7
 
 ### Patch Changes

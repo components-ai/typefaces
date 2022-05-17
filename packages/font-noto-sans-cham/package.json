@@ -1,6 +1,6 @@
 {
   "name": "@compai/font-noto-sans-cham",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "https://github.com/components-ai/typefaces/tree/main/packages/font-noto-sans-cham",
   "homepage": "https://components.ai/docs/typefaces/noto-sans-cham",
   "license": "MIT"
