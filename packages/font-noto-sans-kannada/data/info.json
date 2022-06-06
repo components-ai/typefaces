@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2022-05-10",
+  "lastModified": "2022-06-01",
   "subsets": [
     "kannada"
   ],
@@ -12,96 +12,96 @@
       "100": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvM_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvMzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvM_T8GLw.woff2"
         }
       },
       "200": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvN_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvNzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvN_T8GLw.woff2"
         }
       },
       "300": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXN_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXNzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrGXN_T8GLw.woff2"
         }
       },
       "400": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvN_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvNzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvN_T8GLw.woff2"
         }
       },
       "500": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnN_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnNzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrAnN_T8GLw.woff2"
         }
       },
       "600": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXK_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXKzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrOXK_T8GLw.woff2"
         }
       },
       "700": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzK_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzKzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrNzK_T8GLw.woff2"
         }
       },
       "800": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvK_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvKzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrLvK_T8GLw.woff2"
         }
       },
       "900": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSM.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSA&skey=55a4e48afa1349dd&v=v16#NotoSansKannada",
-          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSI.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSE.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v16/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLK_T8GLw.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSM.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSA&skey=55a4e48afa1349dd&v=v19#NotoSansKannada",
+          "ttf": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSI.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLKzSE.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanskannada/v19/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrJLK_T8GLw.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "100": {

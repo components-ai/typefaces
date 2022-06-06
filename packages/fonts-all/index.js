@@ -6,7 +6,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/a-bee-zee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/a-bee-zee",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-abel": {
     "name": "Abel",
@@ -15,7 +15,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/abel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/abel",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-abhaya-libre": {
     "name": "Abhaya Libre",
@@ -24,7 +24,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/abhaya-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/abhaya-libre",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-abril-fatface": {
     "name": "Abril Fatface",
@@ -33,7 +33,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/abril-fatface",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/abril-fatface",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-aclonica": {
     "name": "Aclonica",
@@ -42,7 +42,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aclonica",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aclonica",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-acme": {
     "name": "Acme",
@@ -51,7 +51,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/acme",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/acme",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-actor": {
     "name": "Actor",
@@ -60,7 +60,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/actor",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/actor",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-adamina": {
     "name": "Adamina",
@@ -69,7 +69,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/adamina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/adamina",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-advent-pro": {
     "name": "Advent Pro",
@@ -78,7 +78,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/advent-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/advent-pro",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-aguafina-script": {
     "name": "Aguafina Script",
@@ -87,7 +87,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aguafina-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aguafina-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-akaya-kanadaka": {
     "name": "Akaya Kanadaka",
@@ -96,7 +96,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/akaya-kanadaka",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/akaya-kanadaka",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-akaya-telivigala": {
     "name": "Akaya Telivigala",
@@ -105,7 +105,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/akaya-telivigala",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/akaya-telivigala",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-akronim": {
     "name": "Akronim",
@@ -114,7 +114,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/akronim",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/akronim",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-akshar": {
     "name": "Akshar",
@@ -123,7 +123,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/akshar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/akshar",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-aladin": {
     "name": "Aladin",
@@ -132,7 +132,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aladin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aladin",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alata": {
     "name": "Alata",
@@ -141,7 +141,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alata",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alatsi": {
     "name": "Alatsi",
@@ -150,7 +150,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alatsi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alatsi",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-aldrich": {
     "name": "Aldrich",
@@ -159,7 +159,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aldrich",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aldrich",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alef": {
     "name": "Alef",
@@ -168,7 +168,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alef",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alef",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alegreya": {
     "name": "Alegreya",
@@ -177,7 +177,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alegreya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alegreya",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alegreya-sc": {
     "name": "Alegreya SC",
@@ -186,7 +186,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alegreya-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alegreya-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alegreya-sans": {
     "name": "Alegreya Sans",
@@ -195,7 +195,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alegreya-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alegreya-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alegreya-sans-sc": {
     "name": "Alegreya Sans SC",
@@ -204,7 +204,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alegreya-sans-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alegreya-sans-sc",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-aleo": {
     "name": "Aleo",
@@ -213,7 +213,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aleo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aleo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alex-brush": {
     "name": "Alex Brush",
@@ -222,7 +222,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alex-brush",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alex-brush",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alfa-slab-one": {
     "name": "Alfa Slab One",
@@ -231,7 +231,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alfa-slab-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alfa-slab-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alice": {
     "name": "Alice",
@@ -240,7 +240,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alice",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alice",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alike": {
     "name": "Alike",
@@ -249,7 +249,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alike",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alike",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alike-angular": {
     "name": "Alike Angular",
@@ -258,7 +258,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alike-angular",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alike-angular",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-allan": {
     "name": "Allan",
@@ -267,7 +267,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/allan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/allan",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-allerta": {
     "name": "Allerta",
@@ -276,7 +276,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/allerta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/allerta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-allerta-stencil": {
     "name": "Allerta Stencil",
@@ -285,7 +285,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/allerta-stencil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/allerta-stencil",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-allison": {
     "name": "Allison",
@@ -294,7 +294,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/allison",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/allison",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-allura": {
     "name": "Allura",
@@ -303,7 +303,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/allura",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/allura",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-almarai": {
     "name": "Almarai",
@@ -312,7 +312,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/almarai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/almarai",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-almendra": {
     "name": "Almendra",
@@ -321,7 +321,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/almendra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/almendra",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-almendra-display": {
     "name": "Almendra Display",
@@ -330,7 +330,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/almendra-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/almendra-display",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-almendra-sc": {
     "name": "Almendra SC",
@@ -339,7 +339,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/almendra-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/almendra-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-alumni-sans": {
     "name": "Alumni Sans",
@@ -348,7 +348,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alumni-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alumni-sans",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-alumni-sans-inline-one": {
     "name": "Alumni Sans Inline One",
@@ -357,7 +357,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/alumni-sans-inline-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/alumni-sans-inline-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-amarante": {
     "name": "Amarante",
@@ -366,7 +366,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amarante",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amarante",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amaranth": {
     "name": "Amaranth",
@@ -375,7 +375,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amaranth",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amaranth",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amatic-sc": {
     "name": "Amatic SC",
@@ -384,7 +384,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amatic-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amatic-sc",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amethysta": {
     "name": "Amethysta",
@@ -393,7 +393,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amethysta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amethysta",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amiko": {
     "name": "Amiko",
@@ -402,7 +402,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amiko",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amiko",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amiri": {
     "name": "Amiri",
@@ -411,7 +411,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amiri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amiri",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-amita": {
     "name": "Amita",
@@ -420,7 +420,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/amita",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/amita",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-anaheim": {
     "name": "Anaheim",
@@ -429,7 +429,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anaheim",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anaheim",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-andada-pro": {
     "name": "Andada Pro",
@@ -438,7 +438,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/andada-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/andada-pro",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-andika": {
     "name": "Andika",
@@ -447,7 +447,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/andika",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/andika",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-andika-new-basic": {
     "name": "Andika New Basic",
@@ -456,7 +456,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/andika-new-basic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/andika-new-basic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-bangla": {
     "name": "Anek Bangla",
@@ -465,7 +465,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-bangla",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-bangla",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-devanagari": {
     "name": "Anek Devanagari",
@@ -474,7 +474,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-devanagari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-devanagari",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-gujarati": {
     "name": "Anek Gujarati",
@@ -483,7 +483,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-gujarati",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-gujarati",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-gurmukhi": {
     "name": "Anek Gurmukhi",
@@ -492,7 +492,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-gurmukhi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-gurmukhi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-kannada": {
     "name": "Anek Kannada",
@@ -501,7 +501,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-kannada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-kannada",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-latin": {
     "name": "Anek Latin",
@@ -510,7 +510,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-latin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-latin",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-malayalam": {
     "name": "Anek Malayalam",
@@ -519,7 +519,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-malayalam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-malayalam",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-odia": {
     "name": "Anek Odia",
@@ -528,7 +528,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-odia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-odia",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-tamil": {
     "name": "Anek Tamil",
@@ -537,7 +537,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-tamil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-tamil",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anek-telugu": {
     "name": "Anek Telugu",
@@ -546,7 +546,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anek-telugu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anek-telugu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-angkor": {
     "name": "Angkor",
@@ -555,7 +555,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/angkor",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/angkor",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-annie-use-your-telescope": {
     "name": "Annie Use Your Telescope",
@@ -564,7 +564,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/annie-use-your-telescope",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/annie-use-your-telescope",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-anonymous-pro": {
     "name": "Anonymous Pro",
@@ -573,7 +573,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anonymous-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anonymous-pro",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-antic": {
     "name": "Antic",
@@ -582,7 +582,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/antic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/antic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-antic-didone": {
     "name": "Antic Didone",
@@ -591,7 +591,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/antic-didone",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/antic-didone",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-antic-slab": {
     "name": "Antic Slab",
@@ -600,7 +600,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/antic-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/antic-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-anton": {
     "name": "Anton",
@@ -609,7 +609,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anton",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anton",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-antonio": {
     "name": "Antonio",
@@ -618,7 +618,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/antonio",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/antonio",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-anybody": {
     "name": "Anybody",
@@ -627,7 +627,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/anybody",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/anybody",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-arapey": {
     "name": "Arapey",
@@ -636,7 +636,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arapey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arapey",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arbutus": {
     "name": "Arbutus",
@@ -645,7 +645,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arbutus",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arbutus",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arbutus-slab": {
     "name": "Arbutus Slab",
@@ -654,7 +654,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arbutus-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arbutus-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-architects-daughter": {
     "name": "Architects Daughter",
@@ -663,7 +663,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/architects-daughter",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/architects-daughter",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-archivo": {
     "name": "Archivo",
@@ -672,7 +672,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/archivo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/archivo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-archivo-black": {
     "name": "Archivo Black",
@@ -681,7 +681,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/archivo-black",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/archivo-black",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-archivo-narrow": {
     "name": "Archivo Narrow",
@@ -690,7 +690,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/archivo-narrow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/archivo-narrow",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-are-you-serious": {
     "name": "Are You Serious",
@@ -699,7 +699,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/are-you-serious",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/are-you-serious",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-aref-ruqaa": {
     "name": "Aref Ruqaa",
@@ -708,7 +708,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aref-ruqaa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aref-ruqaa",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arima-madurai": {
     "name": "Arima Madurai",
@@ -717,7 +717,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arima-madurai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arima-madurai",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arimo": {
     "name": "Arimo",
@@ -726,7 +726,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arimo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arimo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arizonia": {
     "name": "Arizonia",
@@ -735,7 +735,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arizonia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arizonia",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-armata": {
     "name": "Armata",
@@ -744,7 +744,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/armata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/armata",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arsenal": {
     "name": "Arsenal",
@@ -753,7 +753,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arsenal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arsenal",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-artifika": {
     "name": "Artifika",
@@ -762,7 +762,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/artifika",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/artifika",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arvo": {
     "name": "Arvo",
@@ -771,7 +771,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arvo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arvo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-arya": {
     "name": "Arya",
@@ -780,7 +780,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/arya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/arya",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-asap": {
     "name": "Asap",
@@ -789,7 +789,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/asap",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/asap",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-asap-condensed": {
     "name": "Asap Condensed",
@@ -798,7 +798,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/asap-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/asap-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-asar": {
     "name": "Asar",
@@ -807,7 +807,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/asar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/asar",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-asset": {
     "name": "Asset",
@@ -816,7 +816,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/asset",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/asset",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-assistant": {
     "name": "Assistant",
@@ -825,7 +825,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/assistant",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/assistant",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-astloch": {
     "name": "Astloch",
@@ -834,7 +834,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/astloch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/astloch",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-asul": {
     "name": "Asul",
@@ -843,7 +843,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/asul",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/asul",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-athiti": {
     "name": "Athiti",
@@ -852,7 +852,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/athiti",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/athiti",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-atkinson-hyperlegible": {
     "name": "Atkinson Hyperlegible",
@@ -861,7 +861,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/atkinson-hyperlegible",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/atkinson-hyperlegible",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-atma": {
     "name": "Atma",
@@ -870,7 +870,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/atma",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/atma",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-atomic-age": {
     "name": "Atomic Age",
@@ -879,7 +879,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/atomic-age",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/atomic-age",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-aubrey": {
     "name": "Aubrey",
@@ -888,7 +888,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/aubrey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/aubrey",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-audiowide": {
     "name": "Audiowide",
@@ -897,7 +897,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/audiowide",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/audiowide",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-autour-one": {
     "name": "Autour One",
@@ -906,7 +906,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/autour-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/autour-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-average": {
     "name": "Average",
@@ -915,7 +915,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/average",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/average",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-average-sans": {
     "name": "Average Sans",
@@ -924,7 +924,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/average-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/average-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-averia-gruesa-libre": {
     "name": "Averia Gruesa Libre",
@@ -933,7 +933,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/averia-gruesa-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/averia-gruesa-libre",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-averia-libre": {
     "name": "Averia Libre",
@@ -942,7 +942,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/averia-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/averia-libre",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-averia-sans-libre": {
     "name": "Averia Sans Libre",
@@ -951,7 +951,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/averia-sans-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/averia-sans-libre",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-averia-serif-libre": {
     "name": "Averia Serif Libre",
@@ -960,7 +960,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/averia-serif-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/averia-serif-libre",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-azeret-mono": {
     "name": "Azeret Mono",
@@ -969,7 +969,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/azeret-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/azeret-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-b-612": {
     "name": "B612",
@@ -978,7 +978,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/b-612",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/b-612",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-b-612-mono": {
     "name": "B612 Mono",
@@ -987,7 +987,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/b-612-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/b-612-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-biz-ud-gothic": {
     "name": "BIZ UDGothic",
@@ -996,7 +996,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/biz-ud-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-ud-gothic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-biz-ud-mincho": {
     "name": "BIZ UDMincho",
@@ -1005,7 +1005,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/biz-ud-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-ud-mincho",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-biz-udp-gothic": {
     "name": "BIZ UDPGothic",
@@ -1014,7 +1014,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/biz-udp-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-udp-gothic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-biz-udp-mincho": {
     "name": "BIZ UDPMincho",
@@ -1023,7 +1023,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/biz-udp-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/biz-udp-mincho",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-babylonica": {
     "name": "Babylonica",
@@ -1032,7 +1032,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/babylonica",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/babylonica",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bad-script": {
     "name": "Bad Script",
@@ -1041,7 +1041,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bad-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bad-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bahiana": {
     "name": "Bahiana",
@@ -1050,7 +1050,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bahiana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bahiana",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bahianita": {
     "name": "Bahianita",
@@ -1059,7 +1059,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bahianita",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bahianita",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bai-jamjuree": {
     "name": "Bai Jamjuree",
@@ -1068,7 +1068,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bai-jamjuree",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bai-jamjuree",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bakbak-one": {
     "name": "Bakbak One",
@@ -1077,7 +1077,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bakbak-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bakbak-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ballet": {
     "name": "Ballet",
@@ -1086,7 +1086,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ballet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ballet",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-baloo-2": {
     "name": "Baloo 2",
@@ -1095,7 +1095,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-bhai-2": {
     "name": "Baloo Bhai 2",
@@ -1104,7 +1104,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-bhai-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-bhai-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-bhaijaan-2": {
     "name": "Baloo Bhaijaan 2",
@@ -1113,7 +1113,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-bhaijaan-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-bhaijaan-2",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-baloo-bhaina-2": {
     "name": "Baloo Bhaina 2",
@@ -1122,7 +1122,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-bhaina-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-bhaina-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-chettan-2": {
     "name": "Baloo Chettan 2",
@@ -1131,7 +1131,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-chettan-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-chettan-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-da-2": {
     "name": "Baloo Da 2",
@@ -1140,7 +1140,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-da-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-da-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-paaji-2": {
     "name": "Baloo Paaji 2",
@@ -1149,7 +1149,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-paaji-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-paaji-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-tamma-2": {
     "name": "Baloo Tamma 2",
@@ -1158,7 +1158,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-tamma-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-tamma-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-tammudu-2": {
     "name": "Baloo Tammudu 2",
@@ -1167,7 +1167,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-tammudu-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-tammudu-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baloo-thambi-2": {
     "name": "Baloo Thambi 2",
@@ -1176,7 +1176,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baloo-thambi-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baloo-thambi-2",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-balsamiq-sans": {
     "name": "Balsamiq Sans",
@@ -1185,7 +1185,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/balsamiq-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/balsamiq-sans",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-balthazar": {
     "name": "Balthazar",
@@ -1194,7 +1194,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/balthazar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/balthazar",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bangers": {
     "name": "Bangers",
@@ -1203,7 +1203,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bangers",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bangers",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-barlow": {
     "name": "Barlow",
@@ -1212,7 +1212,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/barlow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/barlow",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-barlow-condensed": {
     "name": "Barlow Condensed",
@@ -1221,7 +1221,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/barlow-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/barlow-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-barlow-semi-condensed": {
     "name": "Barlow Semi Condensed",
@@ -1230,7 +1230,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/barlow-semi-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/barlow-semi-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-barriecito": {
     "name": "Barriecito",
@@ -1239,7 +1239,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/barriecito",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/barriecito",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-barrio": {
     "name": "Barrio",
@@ -1248,7 +1248,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/barrio",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/barrio",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-basic": {
     "name": "Basic",
@@ -1257,7 +1257,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/basic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/basic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baskervville": {
     "name": "Baskervville",
@@ -1266,7 +1266,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baskervville",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baskervville",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-battambang": {
     "name": "Battambang",
@@ -1275,7 +1275,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/battambang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/battambang",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-baumans": {
     "name": "Baumans",
@@ -1284,7 +1284,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/baumans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/baumans",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bayon": {
     "name": "Bayon",
@@ -1293,7 +1293,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bayon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bayon",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-be-vietnam-pro": {
     "name": "Be Vietnam Pro",
@@ -1302,7 +1302,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/be-vietnam-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/be-vietnam-pro",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-beau-rivage": {
     "name": "Beau Rivage",
@@ -1311,7 +1311,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/beau-rivage",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/beau-rivage",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bebas-neue": {
     "name": "Bebas Neue",
@@ -1320,7 +1320,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bebas-neue",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bebas-neue",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-belgrano": {
     "name": "Belgrano",
@@ -1329,7 +1329,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/belgrano",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/belgrano",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bellefair": {
     "name": "Bellefair",
@@ -1338,7 +1338,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bellefair",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bellefair",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-belleza": {
     "name": "Belleza",
@@ -1347,7 +1347,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/belleza",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/belleza",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bellota": {
     "name": "Bellota",
@@ -1356,7 +1356,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bellota",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bellota",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bellota-text": {
     "name": "Bellota Text",
@@ -1365,7 +1365,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bellota-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bellota-text",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bench-nine": {
     "name": "BenchNine",
@@ -1374,7 +1374,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bench-nine",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bench-nine",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-benne": {
     "name": "Benne",
@@ -1383,7 +1383,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/benne",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/benne",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bentham": {
     "name": "Bentham",
@@ -1392,7 +1392,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bentham",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bentham",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-berkshire-swash": {
     "name": "Berkshire Swash",
@@ -1401,7 +1401,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/berkshire-swash",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/berkshire-swash",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-besley": {
     "name": "Besley",
@@ -1410,7 +1410,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/besley",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/besley",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-beth-ellen": {
     "name": "Beth Ellen",
@@ -1419,7 +1419,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/beth-ellen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/beth-ellen",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bevan": {
     "name": "Bevan",
@@ -1428,7 +1428,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bevan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bevan",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bhu-tuka-expanded-one": {
     "name": "BhuTuka Expanded One",
@@ -1437,7 +1437,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bhu-tuka-expanded-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bhu-tuka-expanded-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-big-shoulders-display": {
     "name": "Big Shoulders Display",
@@ -1446,7 +1446,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-display",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-big-shoulders-inline-display": {
     "name": "Big Shoulders Inline Display",
@@ -1455,7 +1455,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-inline-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-inline-display",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-big-shoulders-inline-text": {
     "name": "Big Shoulders Inline Text",
@@ -1464,7 +1464,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-inline-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-inline-text",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-big-shoulders-stencil-display": {
     "name": "Big Shoulders Stencil Display",
@@ -1473,7 +1473,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-stencil-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-stencil-display",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-big-shoulders-stencil-text": {
     "name": "Big Shoulders Stencil Text",
@@ -1482,7 +1482,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-stencil-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-stencil-text",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-big-shoulders-text": {
     "name": "Big Shoulders Text",
@@ -1491,7 +1491,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/big-shoulders-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/big-shoulders-text",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bigelow-rules": {
     "name": "Bigelow Rules",
@@ -1500,7 +1500,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bigelow-rules",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bigelow-rules",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bigshot-one": {
     "name": "Bigshot One",
@@ -1509,7 +1509,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bigshot-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bigshot-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bilbo": {
     "name": "Bilbo",
@@ -1518,7 +1518,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bilbo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bilbo",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bilbo-swash-caps": {
     "name": "Bilbo Swash Caps",
@@ -1527,7 +1527,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bilbo-swash-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bilbo-swash-caps",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bio-rhyme": {
     "name": "BioRhyme",
@@ -1536,7 +1536,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bio-rhyme",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bio-rhyme",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bio-rhyme-expanded": {
     "name": "BioRhyme Expanded",
@@ -1545,7 +1545,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bio-rhyme-expanded",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bio-rhyme-expanded",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-birthstone": {
     "name": "Birthstone",
@@ -1554,7 +1554,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/birthstone",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/birthstone",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-birthstone-bounce": {
     "name": "Birthstone Bounce",
@@ -1563,7 +1563,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/birthstone-bounce",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/birthstone-bounce",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-biryani": {
     "name": "Biryani",
@@ -1572,7 +1572,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/biryani",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/biryani",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bitter": {
     "name": "Bitter",
@@ -1581,7 +1581,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bitter",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bitter",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-black-and-white-picture": {
     "name": "Black And White Picture",
@@ -1590,7 +1590,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/black-and-white-picture",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/black-and-white-picture",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-black-han-sans": {
     "name": "Black Han Sans",
@@ -1599,7 +1599,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/black-han-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/black-han-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-black-ops-one": {
     "name": "Black Ops One",
@@ -1608,7 +1608,25 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/black-ops-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/black-ops-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-blaka": {
+    "name": "Blaka",
+    "kebabName": "blaka",
+    "packageName": "@compai/font-blaka",
+    "docs": "https://components.ai/docs/typefaces/blaka",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/blaka",
+    "category": "display",
+    "version": "0.0.0"
+  },
+  "@compai/font-blaka-hollow": {
+    "name": "Blaka Hollow",
+    "kebabName": "blaka-hollow",
+    "packageName": "@compai/font-blaka-hollow",
+    "docs": "https://components.ai/docs/typefaces/blaka-hollow",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/blaka-hollow",
+    "category": "display",
+    "version": "0.0.0"
   },
   "@compai/font-blinker": {
     "name": "Blinker",
@@ -1617,7 +1635,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/blinker",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/blinker",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bodoni-moda": {
     "name": "Bodoni Moda",
@@ -1626,7 +1644,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bodoni-moda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bodoni-moda",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bokor": {
     "name": "Bokor",
@@ -1635,7 +1653,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bokor",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bokor",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bona-nova": {
     "name": "Bona Nova",
@@ -1644,7 +1662,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bona-nova",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bona-nova",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bonbon": {
     "name": "Bonbon",
@@ -1653,7 +1671,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bonbon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bonbon",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bonheur-royale": {
     "name": "Bonheur Royale",
@@ -1662,7 +1680,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bonheur-royale",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bonheur-royale",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-boogaloo": {
     "name": "Boogaloo",
@@ -1671,7 +1689,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/boogaloo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/boogaloo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bowlby-one": {
     "name": "Bowlby One",
@@ -1680,7 +1698,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bowlby-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bowlby-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bowlby-one-sc": {
     "name": "Bowlby One SC",
@@ -1689,7 +1707,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bowlby-one-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bowlby-one-sc",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-brawler": {
     "name": "Brawler",
@@ -1698,7 +1716,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/brawler",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/brawler",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bree-serif": {
     "name": "Bree Serif",
@@ -1707,7 +1725,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bree-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bree-serif",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-brygada-1918": {
     "name": "Brygada 1918",
@@ -1716,7 +1734,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/brygada-1918",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/brygada-1918",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-bubblegum-sans": {
     "name": "Bubblegum Sans",
@@ -1725,7 +1743,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bubblegum-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bubblegum-sans",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bubbler-one": {
     "name": "Bubbler One",
@@ -1734,7 +1752,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bubbler-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bubbler-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-buda": {
     "name": "Buda",
@@ -1743,7 +1761,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/buda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/buda",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-buenard": {
     "name": "Buenard",
@@ -1752,7 +1770,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/buenard",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/buenard",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bungee": {
     "name": "Bungee",
@@ -1761,7 +1779,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bungee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bungee",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bungee-hairline": {
     "name": "Bungee Hairline",
@@ -1770,7 +1788,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bungee-hairline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bungee-hairline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bungee-inline": {
     "name": "Bungee Inline",
@@ -1779,7 +1797,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bungee-inline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bungee-inline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bungee-outline": {
     "name": "Bungee Outline",
@@ -1788,7 +1806,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bungee-outline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bungee-outline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-bungee-shade": {
     "name": "Bungee Shade",
@@ -1797,7 +1815,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/bungee-shade",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/bungee-shade",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-butcherman": {
     "name": "Butcherman",
@@ -1806,7 +1824,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/butcherman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/butcherman",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-butterfly-kids": {
     "name": "Butterfly Kids",
@@ -1815,7 +1833,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/butterfly-kids",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/butterfly-kids",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cabin": {
     "name": "Cabin",
@@ -1824,7 +1842,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cabin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cabin",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cabin-condensed": {
     "name": "Cabin Condensed",
@@ -1833,7 +1851,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cabin-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cabin-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cabin-sketch": {
     "name": "Cabin Sketch",
@@ -1842,7 +1860,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cabin-sketch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cabin-sketch",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caesar-dressing": {
     "name": "Caesar Dressing",
@@ -1851,7 +1869,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caesar-dressing",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caesar-dressing",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cagliostro": {
     "name": "Cagliostro",
@@ -1860,7 +1878,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cagliostro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cagliostro",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cairo": {
     "name": "Cairo",
@@ -1869,7 +1887,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cairo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cairo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caladea": {
     "name": "Caladea",
@@ -1878,7 +1896,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caladea",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caladea",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-calistoga": {
     "name": "Calistoga",
@@ -1887,7 +1905,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/calistoga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/calistoga",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-calligraffitti": {
     "name": "Calligraffitti",
@@ -1896,7 +1914,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/calligraffitti",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/calligraffitti",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cambay": {
     "name": "Cambay",
@@ -1905,7 +1923,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cambay",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cambay",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cambo": {
     "name": "Cambo",
@@ -1914,7 +1932,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cambo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cambo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-candal": {
     "name": "Candal",
@@ -1923,7 +1941,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/candal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/candal",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cantarell": {
     "name": "Cantarell",
@@ -1932,7 +1950,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cantarell",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cantarell",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cantata-one": {
     "name": "Cantata One",
@@ -1941,7 +1959,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cantata-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cantata-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cantora-one": {
     "name": "Cantora One",
@@ -1950,7 +1968,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cantora-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cantora-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-capriola": {
     "name": "Capriola",
@@ -1959,7 +1977,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/capriola",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/capriola",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caramel": {
     "name": "Caramel",
@@ -1968,7 +1986,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caramel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caramel",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-carattere": {
     "name": "Carattere",
@@ -1977,7 +1995,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/carattere",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carattere",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-cardo": {
     "name": "Cardo",
@@ -1986,7 +2004,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cardo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cardo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-carme": {
     "name": "Carme",
@@ -1995,7 +2013,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/carme",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carme",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-carrois-gothic": {
     "name": "Carrois Gothic",
@@ -2004,7 +2022,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/carrois-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carrois-gothic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-carrois-gothic-sc": {
     "name": "Carrois Gothic SC",
@@ -2013,7 +2031,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/carrois-gothic-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carrois-gothic-sc",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-carter-one": {
     "name": "Carter One",
@@ -2022,7 +2040,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/carter-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/carter-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-castoro": {
     "name": "Castoro",
@@ -2031,7 +2049,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/castoro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/castoro",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-catamaran": {
     "name": "Catamaran",
@@ -2040,7 +2058,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/catamaran",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/catamaran",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caudex": {
     "name": "Caudex",
@@ -2049,7 +2067,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caudex",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caudex",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caveat": {
     "name": "Caveat",
@@ -2058,7 +2076,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caveat",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caveat",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-caveat-brush": {
     "name": "Caveat Brush",
@@ -2067,7 +2085,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/caveat-brush",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/caveat-brush",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cedarville-cursive": {
     "name": "Cedarville Cursive",
@@ -2076,7 +2094,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cedarville-cursive",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cedarville-cursive",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ceviche-one": {
     "name": "Ceviche One",
@@ -2085,7 +2103,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ceviche-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ceviche-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chakra-petch": {
     "name": "Chakra Petch",
@@ -2094,7 +2112,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chakra-petch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chakra-petch",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-changa": {
     "name": "Changa",
@@ -2103,7 +2121,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/changa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/changa",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-changa-one": {
     "name": "Changa One",
@@ -2112,7 +2130,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/changa-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/changa-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chango": {
     "name": "Chango",
@@ -2121,7 +2139,16 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chango",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chango",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-charis-sil": {
+    "name": "Charis SIL",
+    "kebabName": "charis-sil",
+    "packageName": "@compai/font-charis-sil",
+    "docs": "https://components.ai/docs/typefaces/charis-sil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/charis-sil",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-charm": {
     "name": "Charm",
@@ -2130,7 +2157,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/charm",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/charm",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-charmonman": {
     "name": "Charmonman",
@@ -2139,7 +2166,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/charmonman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/charmonman",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chathura": {
     "name": "Chathura",
@@ -2148,7 +2175,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chathura",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chathura",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chau-philomene-one": {
     "name": "Chau Philomene One",
@@ -2157,7 +2184,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chau-philomene-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chau-philomene-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chela-one": {
     "name": "Chela One",
@@ -2166,7 +2193,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chela-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chela-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chelsea-market": {
     "name": "Chelsea Market",
@@ -2175,7 +2202,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chelsea-market",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chelsea-market",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chenla": {
     "name": "Chenla",
@@ -2184,7 +2211,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chenla",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chenla",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cherish": {
     "name": "Cherish",
@@ -2193,7 +2220,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cherish",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cherish",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-cherry-cream-soda": {
     "name": "Cherry Cream Soda",
@@ -2202,7 +2229,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cherry-cream-soda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cherry-cream-soda",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cherry-swash": {
     "name": "Cherry Swash",
@@ -2211,7 +2238,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cherry-swash",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cherry-swash",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chewy": {
     "name": "Chewy",
@@ -2220,7 +2247,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chewy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chewy",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chicle": {
     "name": "Chicle",
@@ -2229,7 +2256,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chicle",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chicle",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chilanka": {
     "name": "Chilanka",
@@ -2238,7 +2265,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chilanka",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chilanka",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chivo": {
     "name": "Chivo",
@@ -2247,7 +2274,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chivo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chivo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-chonburi": {
     "name": "Chonburi",
@@ -2256,7 +2283,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/chonburi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/chonburi",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cinzel": {
     "name": "Cinzel",
@@ -2265,7 +2292,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cinzel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cinzel",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cinzel-decorative": {
     "name": "Cinzel Decorative",
@@ -2274,7 +2301,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cinzel-decorative",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cinzel-decorative",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-clicker-script": {
     "name": "Clicker Script",
@@ -2283,7 +2310,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/clicker-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/clicker-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-coda": {
     "name": "Coda",
@@ -2292,7 +2319,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/coda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coda",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-coda-caption": {
     "name": "Coda Caption",
@@ -2301,7 +2328,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/coda-caption",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coda-caption",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-codystar": {
     "name": "Codystar",
@@ -2310,7 +2337,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/codystar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/codystar",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-coiny": {
     "name": "Coiny",
@@ -2319,7 +2346,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/coiny",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coiny",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-combo": {
     "name": "Combo",
@@ -2328,7 +2355,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/combo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/combo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-comfortaa": {
     "name": "Comfortaa",
@@ -2337,7 +2364,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/comfortaa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/comfortaa",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-comforter": {
     "name": "Comforter",
@@ -2346,7 +2373,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/comforter",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/comforter",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-comforter-brush": {
     "name": "Comforter Brush",
@@ -2355,7 +2382,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/comforter-brush",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/comforter-brush",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-comic-neue": {
     "name": "Comic Neue",
@@ -2364,7 +2391,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/comic-neue",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/comic-neue",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-coming-soon": {
     "name": "Coming Soon",
@@ -2373,7 +2400,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/coming-soon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coming-soon",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-commissioner": {
     "name": "Commissioner",
@@ -2382,7 +2409,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/commissioner",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/commissioner",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-concert-one": {
     "name": "Concert One",
@@ -2391,7 +2418,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/concert-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/concert-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-condiment": {
     "name": "Condiment",
@@ -2400,7 +2427,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/condiment",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/condiment",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-content": {
     "name": "Content",
@@ -2409,7 +2436,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/content",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/content",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-contrail-one": {
     "name": "Contrail One",
@@ -2418,7 +2445,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/contrail-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/contrail-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-convergence": {
     "name": "Convergence",
@@ -2427,7 +2454,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/convergence",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/convergence",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cookie": {
     "name": "Cookie",
@@ -2436,7 +2463,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cookie",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cookie",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-copse": {
     "name": "Copse",
@@ -2445,7 +2472,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/copse",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/copse",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-corben": {
     "name": "Corben",
@@ -2454,7 +2481,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/corben",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/corben",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-corinthia": {
     "name": "Corinthia",
@@ -2463,7 +2490,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/corinthia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/corinthia",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-cormorant": {
     "name": "Cormorant",
@@ -2472,7 +2499,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cormorant-garamond": {
     "name": "Cormorant Garamond",
@@ -2481,7 +2508,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant-garamond",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant-garamond",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cormorant-infant": {
     "name": "Cormorant Infant",
@@ -2490,7 +2517,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant-infant",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant-infant",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cormorant-sc": {
     "name": "Cormorant SC",
@@ -2499,7 +2526,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cormorant-unicase": {
     "name": "Cormorant Unicase",
@@ -2508,7 +2535,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant-unicase",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant-unicase",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cormorant-upright": {
     "name": "Cormorant Upright",
@@ -2517,7 +2544,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cormorant-upright",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cormorant-upright",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-courgette": {
     "name": "Courgette",
@@ -2526,7 +2553,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/courgette",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/courgette",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-courier-prime": {
     "name": "Courier Prime",
@@ -2535,7 +2562,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/courier-prime",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/courier-prime",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cousine": {
     "name": "Cousine",
@@ -2544,7 +2571,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cousine",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cousine",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-coustard": {
     "name": "Coustard",
@@ -2553,7 +2580,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/coustard",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/coustard",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-covered-by-your-grace": {
     "name": "Covered By Your Grace",
@@ -2562,7 +2589,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/covered-by-your-grace",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/covered-by-your-grace",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-crafty-girls": {
     "name": "Crafty Girls",
@@ -2571,7 +2598,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/crafty-girls",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/crafty-girls",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-creepster": {
     "name": "Creepster",
@@ -2580,7 +2607,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/creepster",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/creepster",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-crete-round": {
     "name": "Crete Round",
@@ -2589,7 +2616,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/crete-round",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/crete-round",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-crimson-pro": {
     "name": "Crimson Pro",
@@ -2597,6 +2624,15 @@ module.exports = {
     "packageName": "@compai/font-crimson-pro",
     "docs": "https://components.ai/docs/typefaces/crimson-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/crimson-pro",
+    "category": "serif",
+    "version": "0.0.3"
+  },
+  "@compai/font-crimson-text": {
+    "name": "Crimson Text",
+    "kebabName": "crimson-text",
+    "packageName": "@compai/font-crimson-text",
+    "docs": "https://components.ai/docs/typefaces/crimson-text",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/crimson-text",
     "category": "serif",
     "version": "0.0.2"
   },
@@ -2607,7 +2643,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/croissant-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/croissant-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-crushed": {
     "name": "Crushed",
@@ -2616,7 +2652,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/crushed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/crushed",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cuprum": {
     "name": "Cuprum",
@@ -2625,7 +2661,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cuprum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cuprum",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cute-font": {
     "name": "Cute Font",
@@ -2634,7 +2670,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cute-font",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cute-font",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cutive": {
     "name": "Cutive",
@@ -2643,7 +2679,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cutive",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cutive",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-cutive-mono": {
     "name": "Cutive Mono",
@@ -2652,7 +2688,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/cutive-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/cutive-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dm-mono": {
     "name": "DM Mono",
@@ -2661,7 +2697,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dm-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dm-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dm-sans": {
     "name": "DM Sans",
@@ -2670,7 +2706,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dm-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dm-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dm-serif-display": {
     "name": "DM Serif Display",
@@ -2679,7 +2715,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dm-serif-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dm-serif-display",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dm-serif-text": {
     "name": "DM Serif Text",
@@ -2688,7 +2724,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dm-serif-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dm-serif-text",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-damion": {
     "name": "Damion",
@@ -2697,7 +2733,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/damion",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/damion",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dancing-script": {
     "name": "Dancing Script",
@@ -2706,7 +2742,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dancing-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dancing-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dangrek": {
     "name": "Dangrek",
@@ -2715,7 +2751,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dangrek",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dangrek",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-darker-grotesque": {
     "name": "Darker Grotesque",
@@ -2724,7 +2760,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/darker-grotesque",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/darker-grotesque",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-david-libre": {
     "name": "David Libre",
@@ -2733,7 +2769,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/david-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/david-libre",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dawning-of-a-new-day": {
     "name": "Dawning of a New Day",
@@ -2742,7 +2778,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dawning-of-a-new-day",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dawning-of-a-new-day",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-days-one": {
     "name": "Days One",
@@ -2751,7 +2787,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/days-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/days-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dekko": {
     "name": "Dekko",
@@ -2760,7 +2796,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dekko",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dekko",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dela-gothic-one": {
     "name": "Dela Gothic One",
@@ -2769,7 +2805,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dela-gothic-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dela-gothic-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-delius": {
     "name": "Delius",
@@ -2778,7 +2814,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/delius",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/delius",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-delius-swash-caps": {
     "name": "Delius Swash Caps",
@@ -2787,7 +2823,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/delius-swash-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/delius-swash-caps",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-delius-unicase": {
     "name": "Delius Unicase",
@@ -2796,7 +2832,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/delius-unicase",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/delius-unicase",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-della-respira": {
     "name": "Della Respira",
@@ -2805,7 +2841,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/della-respira",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/della-respira",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-denk-one": {
     "name": "Denk One",
@@ -2814,7 +2850,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/denk-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/denk-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-devonshire": {
     "name": "Devonshire",
@@ -2823,7 +2859,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/devonshire",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/devonshire",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dhurjati": {
     "name": "Dhurjati",
@@ -2832,7 +2868,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dhurjati",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dhurjati",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-didact-gothic": {
     "name": "Didact Gothic",
@@ -2841,7 +2877,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/didact-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/didact-gothic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-diplomata": {
     "name": "Diplomata",
@@ -2850,7 +2886,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/diplomata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/diplomata",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-diplomata-sc": {
     "name": "Diplomata SC",
@@ -2859,7 +2895,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/diplomata-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/diplomata-sc",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-do-hyeon": {
     "name": "Do Hyeon",
@@ -2868,7 +2904,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/do-hyeon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/do-hyeon",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dokdo": {
     "name": "Dokdo",
@@ -2877,7 +2913,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dokdo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dokdo",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-domine": {
     "name": "Domine",
@@ -2886,7 +2922,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/domine",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/domine",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-donegal-one": {
     "name": "Donegal One",
@@ -2895,7 +2931,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/donegal-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/donegal-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dongle": {
     "name": "Dongle",
@@ -2904,7 +2940,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dongle",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dongle",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-doppio-one": {
     "name": "Doppio One",
@@ -2913,7 +2949,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/doppio-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/doppio-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dorsa": {
     "name": "Dorsa",
@@ -2922,7 +2958,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dorsa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dorsa",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dosis": {
     "name": "Dosis",
@@ -2931,7 +2967,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dosis",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dosis",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dot-gothic-16": {
     "name": "DotGothic16",
@@ -2940,7 +2976,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dot-gothic-16",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dot-gothic-16",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-dr-sugiyama": {
     "name": "Dr Sugiyama",
@@ -2949,7 +2985,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dr-sugiyama",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dr-sugiyama",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-duru-sans": {
     "name": "Duru Sans",
@@ -2958,7 +2994,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/duru-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/duru-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-dynalight": {
     "name": "Dynalight",
@@ -2967,7 +3003,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/dynalight",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/dynalight",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-eb-garamond": {
     "name": "EB Garamond",
@@ -2976,7 +3012,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/eb-garamond",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/eb-garamond",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-eagle-lake": {
     "name": "Eagle Lake",
@@ -2985,7 +3021,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/eagle-lake",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/eagle-lake",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-east-sea-dokdo": {
     "name": "East Sea Dokdo",
@@ -2994,7 +3030,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/east-sea-dokdo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/east-sea-dokdo",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-eater": {
     "name": "Eater",
@@ -3003,7 +3039,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/eater",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/eater",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-economica": {
     "name": "Economica",
@@ -3012,7 +3048,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/economica",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/economica",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-eczar": {
     "name": "Eczar",
@@ -3021,7 +3057,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/eczar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/eczar",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-el-messiri": {
     "name": "El Messiri",
@@ -3030,7 +3066,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/el-messiri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/el-messiri",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-electrolize": {
     "name": "Electrolize",
@@ -3039,7 +3075,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/electrolize",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/electrolize",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-elsie": {
     "name": "Elsie",
@@ -3048,7 +3084,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/elsie",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/elsie",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-elsie-swash-caps": {
     "name": "Elsie Swash Caps",
@@ -3057,7 +3093,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/elsie-swash-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/elsie-swash-caps",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-emblema-one": {
     "name": "Emblema One",
@@ -3066,7 +3102,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/emblema-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/emblema-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-emilys-candy": {
     "name": "Emilys Candy",
@@ -3075,7 +3111,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/emilys-candy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/emilys-candy",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-encode-sans": {
     "name": "Encode Sans",
@@ -3084,7 +3120,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-encode-sans-condensed": {
     "name": "Encode Sans Condensed",
@@ -3093,7 +3129,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-encode-sans-expanded": {
     "name": "Encode Sans Expanded",
@@ -3102,7 +3138,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans-expanded",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-expanded",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-encode-sans-sc": {
     "name": "Encode Sans SC",
@@ -3111,7 +3147,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-sc",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-encode-sans-semi-condensed": {
     "name": "Encode Sans Semi Condensed",
@@ -3120,7 +3156,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans-semi-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-semi-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-encode-sans-semi-expanded": {
     "name": "Encode Sans Semi Expanded",
@@ -3129,7 +3165,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/encode-sans-semi-expanded",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/encode-sans-semi-expanded",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-engagement": {
     "name": "Engagement",
@@ -3138,7 +3174,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/engagement",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/engagement",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-englebert": {
     "name": "Englebert",
@@ -3147,7 +3183,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/englebert",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/englebert",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-enriqueta": {
     "name": "Enriqueta",
@@ -3156,7 +3192,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/enriqueta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/enriqueta",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ephesis": {
     "name": "Ephesis",
@@ -3165,7 +3201,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ephesis",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ephesis",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-epilogue": {
     "name": "Epilogue",
@@ -3174,7 +3210,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/epilogue",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/epilogue",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-erica-one": {
     "name": "Erica One",
@@ -3183,7 +3219,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/erica-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/erica-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-esteban": {
     "name": "Esteban",
@@ -3192,7 +3228,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/esteban",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/esteban",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-estonia": {
     "name": "Estonia",
@@ -3201,7 +3237,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/estonia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/estonia",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-euphoria-script": {
     "name": "Euphoria Script",
@@ -3210,7 +3246,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/euphoria-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/euphoria-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ewert": {
     "name": "Ewert",
@@ -3219,7 +3255,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ewert",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ewert",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-exo": {
     "name": "Exo",
@@ -3228,7 +3264,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/exo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/exo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-exo-2": {
     "name": "Exo 2",
@@ -3237,7 +3273,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/exo-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/exo-2",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-expletus-sans": {
     "name": "Expletus Sans",
@@ -3246,7 +3282,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/expletus-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/expletus-sans",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-explora": {
     "name": "Explora",
@@ -3255,7 +3291,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/explora",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/explora",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-fahkwang": {
     "name": "Fahkwang",
@@ -3264,7 +3300,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fahkwang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fahkwang",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-familjen-grotesk": {
     "name": "Familjen Grotesk",
@@ -3273,7 +3309,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/familjen-grotesk",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/familjen-grotesk",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-fanwood-text": {
     "name": "Fanwood Text",
@@ -3282,7 +3318,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fanwood-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fanwood-text",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-farro": {
     "name": "Farro",
@@ -3291,7 +3327,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/farro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/farro",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-farsan": {
     "name": "Farsan",
@@ -3300,7 +3336,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/farsan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/farsan",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fascinate": {
     "name": "Fascinate",
@@ -3309,7 +3345,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fascinate",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fascinate",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fascinate-inline": {
     "name": "Fascinate Inline",
@@ -3318,7 +3354,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fascinate-inline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fascinate-inline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-faster-one": {
     "name": "Faster One",
@@ -3327,7 +3363,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/faster-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/faster-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fasthand": {
     "name": "Fasthand",
@@ -3336,7 +3372,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fasthand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fasthand",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fauna-one": {
     "name": "Fauna One",
@@ -3345,7 +3381,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fauna-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fauna-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-faustina": {
     "name": "Faustina",
@@ -3354,7 +3390,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/faustina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/faustina",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-federant": {
     "name": "Federant",
@@ -3363,7 +3399,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/federant",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/federant",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-federo": {
     "name": "Federo",
@@ -3372,7 +3408,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/federo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/federo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-felipa": {
     "name": "Felipa",
@@ -3381,7 +3417,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/felipa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/felipa",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fenix": {
     "name": "Fenix",
@@ -3390,7 +3426,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fenix",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fenix",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-festive": {
     "name": "Festive",
@@ -3399,7 +3435,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/festive",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/festive",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-finger-paint": {
     "name": "Finger Paint",
@@ -3408,7 +3444,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/finger-paint",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/finger-paint",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fira-code": {
     "name": "Fira Code",
@@ -3417,7 +3453,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fira-code",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fira-code",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fira-mono": {
     "name": "Fira Mono",
@@ -3426,7 +3462,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fira-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fira-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fira-sans": {
     "name": "Fira Sans",
@@ -3435,7 +3471,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fira-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fira-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fira-sans-condensed": {
     "name": "Fira Sans Condensed",
@@ -3444,7 +3480,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fira-sans-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fira-sans-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fira-sans-extra-condensed": {
     "name": "Fira Sans Extra Condensed",
@@ -3453,7 +3489,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fira-sans-extra-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fira-sans-extra-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fjalla-one": {
     "name": "Fjalla One",
@@ -3462,7 +3498,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fjalla-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fjalla-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fjord-one": {
     "name": "Fjord One",
@@ -3471,7 +3507,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fjord-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fjord-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-flamenco": {
     "name": "Flamenco",
@@ -3480,7 +3516,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/flamenco",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/flamenco",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-flavors": {
     "name": "Flavors",
@@ -3489,7 +3525,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/flavors",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/flavors",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fleur-de-leah": {
     "name": "Fleur De Leah",
@@ -3498,7 +3534,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fleur-de-leah",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fleur-de-leah",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-flow-block": {
     "name": "Flow Block",
@@ -3507,7 +3543,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/flow-block",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-block",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-flow-circular": {
     "name": "Flow Circular",
@@ -3516,7 +3552,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/flow-circular",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-circular",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-flow-rounded": {
     "name": "Flow Rounded",
@@ -3525,7 +3561,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/flow-rounded",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/flow-rounded",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-fondamento": {
     "name": "Fondamento",
@@ -3534,7 +3570,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fondamento",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fondamento",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fontdiner-swanky": {
     "name": "Fontdiner Swanky",
@@ -3543,7 +3579,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fontdiner-swanky",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fontdiner-swanky",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-forum": {
     "name": "Forum",
@@ -3552,7 +3588,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/forum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/forum",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-francois-one": {
     "name": "Francois One",
@@ -3561,7 +3597,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/francois-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/francois-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-frank-ruhl-libre": {
     "name": "Frank Ruhl Libre",
@@ -3570,7 +3606,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/frank-ruhl-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/frank-ruhl-libre",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fraunces": {
     "name": "Fraunces",
@@ -3579,7 +3615,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fraunces",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fraunces",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-freckle-face": {
     "name": "Freckle Face",
@@ -3588,7 +3624,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/freckle-face",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/freckle-face",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fredericka-the-great": {
     "name": "Fredericka the Great",
@@ -3597,7 +3633,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fredericka-the-great",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fredericka-the-great",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fredoka": {
     "name": "Fredoka",
@@ -3606,7 +3642,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fredoka",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fredoka",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-fredoka-one": {
     "name": "Fredoka One",
@@ -3615,7 +3651,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fredoka-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fredoka-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-freehand": {
     "name": "Freehand",
@@ -3624,7 +3660,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/freehand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/freehand",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fresca": {
     "name": "Fresca",
@@ -3633,7 +3669,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fresca",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fresca",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-frijole": {
     "name": "Frijole",
@@ -3642,7 +3678,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/frijole",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/frijole",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fruktur": {
     "name": "Fruktur",
@@ -3651,7 +3687,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fruktur",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fruktur",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fugaz-one": {
     "name": "Fugaz One",
@@ -3660,7 +3696,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fugaz-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fugaz-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-fuggles": {
     "name": "Fuggles",
@@ -3669,7 +3705,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fuggles",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fuggles",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-fuzzy-bubbles": {
     "name": "Fuzzy Bubbles",
@@ -3678,7 +3714,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/fuzzy-bubbles",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/fuzzy-bubbles",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gfs-didot": {
     "name": "GFS Didot",
@@ -3687,7 +3723,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gfs-didot",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gfs-didot",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gfs-neohellenic": {
     "name": "GFS Neohellenic",
@@ -3696,7 +3732,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gfs-neohellenic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gfs-neohellenic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gabriela": {
     "name": "Gabriela",
@@ -3705,7 +3741,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gabriela",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gabriela",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gaegu": {
     "name": "Gaegu",
@@ -3714,7 +3750,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gaegu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gaegu",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gafata": {
     "name": "Gafata",
@@ -3723,7 +3759,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gafata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gafata",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-galada": {
     "name": "Galada",
@@ -3732,7 +3768,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/galada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/galada",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-galdeano": {
     "name": "Galdeano",
@@ -3741,7 +3777,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/galdeano",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/galdeano",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-galindo": {
     "name": "Galindo",
@@ -3750,7 +3786,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/galindo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/galindo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gamja-flower": {
     "name": "Gamja Flower",
@@ -3759,7 +3795,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gamja-flower",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gamja-flower",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gayathri": {
     "name": "Gayathri",
@@ -3768,7 +3804,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gayathri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gayathri",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gelasio": {
     "name": "Gelasio",
@@ -3777,7 +3813,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gelasio",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gelasio",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gemunu-libre": {
     "name": "Gemunu Libre",
@@ -3786,7 +3822,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gemunu-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gemunu-libre",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-genos": {
     "name": "Genos",
@@ -3795,7 +3831,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/genos",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/genos",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gentium-basic": {
     "name": "Gentium Basic",
@@ -3804,7 +3840,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gentium-basic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gentium-basic",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gentium-book-basic": {
     "name": "Gentium Book Basic",
@@ -3813,7 +3849,16 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gentium-book-basic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gentium-book-basic",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-gentium-plus": {
+    "name": "Gentium Plus",
+    "kebabName": "gentium-plus",
+    "packageName": "@compai/font-gentium-plus",
+    "docs": "https://components.ai/docs/typefaces/gentium-plus",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/gentium-plus",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-geo": {
     "name": "Geo",
@@ -3822,7 +3867,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/geo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/geo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-georama": {
     "name": "Georama",
@@ -3831,7 +3876,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/georama",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/georama",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-geostar": {
     "name": "Geostar",
@@ -3840,7 +3885,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/geostar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/geostar",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-geostar-fill": {
     "name": "Geostar Fill",
@@ -3849,7 +3894,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/geostar-fill",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/geostar-fill",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-germania-one": {
     "name": "Germania One",
@@ -3858,7 +3903,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/germania-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/germania-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gideon-roman": {
     "name": "Gideon Roman",
@@ -3867,7 +3912,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gideon-roman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gideon-roman",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gidugu": {
     "name": "Gidugu",
@@ -3876,7 +3921,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gidugu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gidugu",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gilda-display": {
     "name": "Gilda Display",
@@ -3885,7 +3930,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gilda-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gilda-display",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-girassol": {
     "name": "Girassol",
@@ -3894,7 +3939,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/girassol",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/girassol",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-give-you-glory": {
     "name": "Give You Glory",
@@ -3903,7 +3948,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/give-you-glory",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/give-you-glory",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-glass-antiqua": {
     "name": "Glass Antiqua",
@@ -3912,7 +3957,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/glass-antiqua",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/glass-antiqua",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-glegoo": {
     "name": "Glegoo",
@@ -3921,7 +3966,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/glegoo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/glegoo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gloria-hallelujah": {
     "name": "Gloria Hallelujah",
@@ -3930,7 +3975,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gloria-hallelujah",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gloria-hallelujah",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-glory": {
     "name": "Glory",
@@ -3939,7 +3984,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/glory",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/glory",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gluten": {
     "name": "Gluten",
@@ -3948,7 +3993,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gluten",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gluten",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-goblin-one": {
     "name": "Goblin One",
@@ -3957,7 +4002,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/goblin-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/goblin-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gochi-hand": {
     "name": "Gochi Hand",
@@ -3966,7 +4011,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gochi-hand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gochi-hand",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-goldman": {
     "name": "Goldman",
@@ -3975,7 +4020,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/goldman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/goldman",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gorditas": {
     "name": "Gorditas",
@@ -3984,7 +4029,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gorditas",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gorditas",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gothic-a-1": {
     "name": "Gothic A1",
@@ -3993,7 +4038,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gothic-a-1",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gothic-a-1",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gotu": {
     "name": "Gotu",
@@ -4002,7 +4047,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gotu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gotu",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-goudy-bookletter-1911": {
     "name": "Goudy Bookletter 1911",
@@ -4011,7 +4056,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/goudy-bookletter-1911",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/goudy-bookletter-1911",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gowun-batang": {
     "name": "Gowun Batang",
@@ -4020,7 +4065,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gowun-batang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gowun-batang",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gowun-dodum": {
     "name": "Gowun Dodum",
@@ -4029,7 +4074,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gowun-dodum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gowun-dodum",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-graduate": {
     "name": "Graduate",
@@ -4038,7 +4083,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/graduate",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/graduate",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grand-hotel": {
     "name": "Grand Hotel",
@@ -4047,7 +4092,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grand-hotel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grand-hotel",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grandstander": {
     "name": "Grandstander",
@@ -4056,7 +4101,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grandstander",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grandstander",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grape-nuts": {
     "name": "Grape Nuts",
@@ -4065,7 +4110,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grape-nuts",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grape-nuts",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-gravitas-one": {
     "name": "Gravitas One",
@@ -4074,7 +4119,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gravitas-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gravitas-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-great-vibes": {
     "name": "Great Vibes",
@@ -4083,7 +4128,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/great-vibes",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/great-vibes",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grechen-fuemen": {
     "name": "Grechen Fuemen",
@@ -4092,7 +4137,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grechen-fuemen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grechen-fuemen",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-grenze": {
     "name": "Grenze",
@@ -4101,7 +4146,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grenze",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grenze",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grenze-gotisch": {
     "name": "Grenze Gotisch",
@@ -4110,7 +4155,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grenze-gotisch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grenze-gotisch",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-grey-qo": {
     "name": "Grey Qo",
@@ -4119,7 +4164,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/grey-qo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/grey-qo",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-griffy": {
     "name": "Griffy",
@@ -4128,7 +4173,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/griffy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/griffy",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gruppo": {
     "name": "Gruppo",
@@ -4137,7 +4182,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gruppo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gruppo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gudea": {
     "name": "Gudea",
@@ -4146,7 +4191,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gudea",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gudea",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gugi": {
     "name": "Gugi",
@@ -4155,7 +4200,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gugi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gugi",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gupter": {
     "name": "Gupter",
@@ -4164,7 +4209,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gupter",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gupter",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gurajada": {
     "name": "Gurajada",
@@ -4173,7 +4218,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gurajada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gurajada",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-gwendolyn": {
     "name": "Gwendolyn",
@@ -4182,7 +4227,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/gwendolyn",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/gwendolyn",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-habibi": {
     "name": "Habibi",
@@ -4191,7 +4236,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/habibi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/habibi",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hachi-maru-pop": {
     "name": "Hachi Maru Pop",
@@ -4200,7 +4245,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hachi-maru-pop",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hachi-maru-pop",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-hahmlet": {
     "name": "Hahmlet",
@@ -4209,7 +4254,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hahmlet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hahmlet",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-halant": {
     "name": "Halant",
@@ -4218,7 +4263,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/halant",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/halant",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hammersmith-one": {
     "name": "Hammersmith One",
@@ -4227,7 +4272,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hammersmith-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hammersmith-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hanalei": {
     "name": "Hanalei",
@@ -4236,7 +4281,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hanalei",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hanalei",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hanalei-fill": {
     "name": "Hanalei Fill",
@@ -4245,7 +4290,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hanalei-fill",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hanalei-fill",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-handlee": {
     "name": "Handlee",
@@ -4254,7 +4299,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/handlee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/handlee",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hanuman": {
     "name": "Hanuman",
@@ -4263,7 +4308,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hanuman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hanuman",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-happy-monkey": {
     "name": "Happy Monkey",
@@ -4272,7 +4317,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/happy-monkey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/happy-monkey",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-harmattan": {
     "name": "Harmattan",
@@ -4281,7 +4326,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/harmattan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/harmattan",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-headland-one": {
     "name": "Headland One",
@@ -4290,7 +4335,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/headland-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/headland-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-heebo": {
     "name": "Heebo",
@@ -4299,7 +4344,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/heebo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/heebo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-henny-penny": {
     "name": "Henny Penny",
@@ -4308,7 +4353,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/henny-penny",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/henny-penny",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hepta-slab": {
     "name": "Hepta Slab",
@@ -4317,7 +4362,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hepta-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hepta-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-herr-von-muellerhoff": {
     "name": "Herr Von Muellerhoff",
@@ -4326,7 +4371,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/herr-von-muellerhoff",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/herr-von-muellerhoff",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hi-melody": {
     "name": "Hi Melody",
@@ -4335,7 +4380,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hi-melody",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hi-melody",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hina-mincho": {
     "name": "Hina Mincho",
@@ -4344,7 +4389,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hina-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hina-mincho",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-hind": {
     "name": "Hind",
@@ -4353,7 +4398,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hind",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hind",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hind-guntur": {
     "name": "Hind Guntur",
@@ -4362,7 +4407,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hind-guntur",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hind-guntur",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hind-madurai": {
     "name": "Hind Madurai",
@@ -4371,7 +4416,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hind-madurai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hind-madurai",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hind-siliguri": {
     "name": "Hind Siliguri",
@@ -4380,7 +4425,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hind-siliguri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hind-siliguri",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hind-vadodara": {
     "name": "Hind Vadodara",
@@ -4389,7 +4434,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hind-vadodara",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hind-vadodara",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-holtwood-one-sc": {
     "name": "Holtwood One SC",
@@ -4398,7 +4443,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/holtwood-one-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/holtwood-one-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-homemade-apple": {
     "name": "Homemade Apple",
@@ -4407,7 +4452,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/homemade-apple",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/homemade-apple",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-homenaje": {
     "name": "Homenaje",
@@ -4416,7 +4461,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/homenaje",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/homenaje",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-hubballi": {
     "name": "Hubballi",
@@ -4425,7 +4470,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hubballi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hubballi",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-hurricane": {
     "name": "Hurricane",
@@ -4434,7 +4479,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/hurricane",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/hurricane",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-mono": {
     "name": "IBM Plex Mono",
@@ -4443,7 +4488,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ibm-plex-sans": {
     "name": "IBM Plex Sans",
@@ -4452,7 +4497,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ibm-plex-sans-arabic": {
     "name": "IBM Plex Sans Arabic",
@@ -4461,7 +4506,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-arabic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-arabic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-sans-condensed": {
     "name": "IBM Plex Sans Condensed",
@@ -4470,7 +4515,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ibm-plex-sans-devanagari": {
     "name": "IBM Plex Sans Devanagari",
@@ -4479,7 +4524,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-devanagari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-devanagari",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-sans-hebrew": {
     "name": "IBM Plex Sans Hebrew",
@@ -4488,7 +4533,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-hebrew",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-hebrew",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-sans-kr": {
     "name": "IBM Plex Sans KR",
@@ -4497,7 +4542,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-kr",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-kr",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-sans-thai": {
     "name": "IBM Plex Sans Thai",
@@ -4506,7 +4551,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-thai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-thai",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-sans-thai-looped": {
     "name": "IBM Plex Sans Thai Looped",
@@ -4515,7 +4560,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-sans-thai-looped",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-sans-thai-looped",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ibm-plex-serif": {
     "name": "IBM Plex Serif",
@@ -4524,7 +4569,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibm-plex-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibm-plex-serif",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-dw-pica": {
     "name": "IM Fell DW Pica",
@@ -4533,7 +4578,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-dw-pica",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-dw-pica",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-dw-pica-sc": {
     "name": "IM Fell DW Pica SC",
@@ -4542,7 +4587,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-dw-pica-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-dw-pica-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-double-pica": {
     "name": "IM Fell Double Pica",
@@ -4551,7 +4596,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-double-pica",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-double-pica",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-double-pica-sc": {
     "name": "IM Fell Double Pica SC",
@@ -4560,7 +4605,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-double-pica-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-double-pica-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-english": {
     "name": "IM Fell English",
@@ -4569,7 +4614,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-english",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-english",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-english-sc": {
     "name": "IM Fell English SC",
@@ -4578,7 +4623,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-english-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-english-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-french-canon": {
     "name": "IM Fell French Canon",
@@ -4587,7 +4632,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-french-canon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-french-canon",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-french-canon-sc": {
     "name": "IM Fell French Canon SC",
@@ -4596,7 +4641,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-french-canon-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-french-canon-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-great-primer": {
     "name": "IM Fell Great Primer",
@@ -4605,7 +4650,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-great-primer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-great-primer",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-im-fell-great-primer-sc": {
     "name": "IM Fell Great Primer SC",
@@ -4614,7 +4659,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/im-fell-great-primer-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/im-fell-great-primer-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ibarra-real-nova": {
     "name": "Ibarra Real Nova",
@@ -4623,7 +4668,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ibarra-real-nova",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ibarra-real-nova",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-iceberg": {
     "name": "Iceberg",
@@ -4632,7 +4677,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/iceberg",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/iceberg",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-iceland": {
     "name": "Iceland",
@@ -4641,7 +4686,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/iceland",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/iceland",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-imbue": {
     "name": "Imbue",
@@ -4650,7 +4695,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/imbue",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/imbue",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-imperial-script": {
     "name": "Imperial Script",
@@ -4659,7 +4704,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/imperial-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/imperial-script",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-imprima": {
     "name": "Imprima",
@@ -4668,7 +4713,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/imprima",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/imprima",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inconsolata": {
     "name": "Inconsolata",
@@ -4677,7 +4722,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inconsolata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inconsolata",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inder": {
     "name": "Inder",
@@ -4686,7 +4731,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inder",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inder",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-indie-flower": {
     "name": "Indie Flower",
@@ -4695,7 +4740,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/indie-flower",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/indie-flower",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ingrid-darling": {
     "name": "Ingrid Darling",
@@ -4704,7 +4749,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ingrid-darling",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ingrid-darling",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-inika": {
     "name": "Inika",
@@ -4713,7 +4758,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inika",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inika",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inknut-antiqua": {
     "name": "Inknut Antiqua",
@@ -4722,7 +4767,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inknut-antiqua",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inknut-antiqua",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inria-sans": {
     "name": "Inria Sans",
@@ -4731,7 +4776,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inria-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inria-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inria-serif": {
     "name": "Inria Serif",
@@ -4740,7 +4785,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inria-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inria-serif",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-inspiration": {
     "name": "Inspiration",
@@ -4749,7 +4794,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inspiration",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inspiration",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-inter": {
     "name": "Inter",
@@ -4758,7 +4803,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/inter",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/inter",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-irish-grover": {
     "name": "Irish Grover",
@@ -4767,7 +4812,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/irish-grover",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/irish-grover",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-island-moments": {
     "name": "Island Moments",
@@ -4776,7 +4821,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/island-moments",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/island-moments",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-istok-web": {
     "name": "Istok Web",
@@ -4785,7 +4830,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/istok-web",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/istok-web",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-italiana": {
     "name": "Italiana",
@@ -4794,7 +4839,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/italiana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/italiana",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-italianno": {
     "name": "Italianno",
@@ -4803,7 +4848,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/italianno",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/italianno",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-itim": {
     "name": "Itim",
@@ -4812,7 +4857,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/itim",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/itim",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jacques-francois": {
     "name": "Jacques Francois",
@@ -4821,7 +4866,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jacques-francois",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jacques-francois",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jacques-francois-shadow": {
     "name": "Jacques Francois Shadow",
@@ -4830,7 +4875,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jacques-francois-shadow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jacques-francois-shadow",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jaldi": {
     "name": "Jaldi",
@@ -4839,7 +4884,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jaldi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jaldi",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jet-brains-mono": {
     "name": "JetBrains Mono",
@@ -4848,7 +4893,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jet-brains-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jet-brains-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-jim-nightshade": {
     "name": "Jim Nightshade",
@@ -4857,7 +4902,16 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jim-nightshade",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jim-nightshade",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-joan": {
+    "name": "Joan",
+    "kebabName": "joan",
+    "packageName": "@compai/font-joan",
+    "docs": "https://components.ai/docs/typefaces/joan",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/joan",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-jockey-one": {
     "name": "Jockey One",
@@ -4866,7 +4920,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jockey-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jockey-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jolly-lodger": {
     "name": "Jolly Lodger",
@@ -4875,7 +4929,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jolly-lodger",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jolly-lodger",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jomhuria": {
     "name": "Jomhuria",
@@ -4884,7 +4938,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jomhuria",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jomhuria",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jomolhari": {
     "name": "Jomolhari",
@@ -4893,7 +4947,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jomolhari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jomolhari",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-josefin-sans": {
     "name": "Josefin Sans",
@@ -4902,7 +4956,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/josefin-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/josefin-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-josefin-slab": {
     "name": "Josefin Slab",
@@ -4911,7 +4965,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/josefin-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/josefin-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jost": {
     "name": "Jost",
@@ -4920,7 +4974,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jost",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jost",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-joti-one": {
     "name": "Joti One",
@@ -4929,7 +4983,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/joti-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/joti-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jua": {
     "name": "Jua",
@@ -4938,7 +4992,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jua",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jua",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-judson": {
     "name": "Judson",
@@ -4947,7 +5001,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/judson",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/judson",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-julee": {
     "name": "Julee",
@@ -4956,7 +5010,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/julee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/julee",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-julius-sans-one": {
     "name": "Julius Sans One",
@@ -4965,7 +5019,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/julius-sans-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/julius-sans-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-junge": {
     "name": "Junge",
@@ -4974,7 +5028,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/junge",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/junge",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-jura": {
     "name": "Jura",
@@ -4983,7 +5037,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/jura",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/jura",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-just-another-hand": {
     "name": "Just Another Hand",
@@ -4992,7 +5046,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/just-another-hand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/just-another-hand",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-just-me-again-down-here": {
     "name": "Just Me Again Down Here",
@@ -5001,7 +5055,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/just-me-again-down-here",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/just-me-again-down-here",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-k-2-d": {
     "name": "K2D",
@@ -5010,7 +5064,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/k-2-d",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/k-2-d",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kadwa": {
     "name": "Kadwa",
@@ -5019,7 +5073,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kadwa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kadwa",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kaisei-decol": {
     "name": "Kaisei Decol",
@@ -5028,7 +5082,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kaisei-decol",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-decol",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kaisei-haruno-umi": {
     "name": "Kaisei HarunoUmi",
@@ -5037,7 +5091,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kaisei-haruno-umi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-haruno-umi",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kaisei-opti": {
     "name": "Kaisei Opti",
@@ -5046,7 +5100,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kaisei-opti",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-opti",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kaisei-tokumin": {
     "name": "Kaisei Tokumin",
@@ -5055,7 +5109,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kaisei-tokumin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kaisei-tokumin",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kalam": {
     "name": "Kalam",
@@ -5064,7 +5118,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kalam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kalam",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kameron": {
     "name": "Kameron",
@@ -5073,7 +5127,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kameron",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kameron",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kanit": {
     "name": "Kanit",
@@ -5082,7 +5136,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kanit",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kanit",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kantumruy": {
     "name": "Kantumruy",
@@ -5091,7 +5145,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kantumruy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kantumruy",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-karantina": {
     "name": "Karantina",
@@ -5100,7 +5154,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/karantina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/karantina",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-karla": {
     "name": "Karla",
@@ -5109,7 +5163,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/karla",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/karla",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-karma": {
     "name": "Karma",
@@ -5118,7 +5172,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/karma",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/karma",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-katibeh": {
     "name": "Katibeh",
@@ -5127,7 +5181,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/katibeh",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/katibeh",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kaushan-script": {
     "name": "Kaushan Script",
@@ -5136,7 +5190,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kaushan-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kaushan-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kavivanar": {
     "name": "Kavivanar",
@@ -5145,7 +5199,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kavivanar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kavivanar",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kavoon": {
     "name": "Kavoon",
@@ -5154,7 +5208,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kavoon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kavoon",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kdam-thmor": {
     "name": "Kdam Thmor",
@@ -5163,7 +5217,16 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kdam-thmor",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kdam-thmor",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-kdam-thmor-pro": {
+    "name": "Kdam Thmor Pro",
+    "kebabName": "kdam-thmor-pro",
+    "packageName": "@compai/font-kdam-thmor-pro",
+    "docs": "https://components.ai/docs/typefaces/kdam-thmor-pro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/kdam-thmor-pro",
+    "category": "sans-serif",
+    "version": "0.0.0"
   },
   "@compai/font-keania-one": {
     "name": "Keania One",
@@ -5172,7 +5235,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/keania-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/keania-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kelly-slab": {
     "name": "Kelly Slab",
@@ -5181,7 +5244,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kelly-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kelly-slab",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kenia": {
     "name": "Kenia",
@@ -5190,7 +5253,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kenia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kenia",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-khand": {
     "name": "Khand",
@@ -5199,7 +5262,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/khand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/khand",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-khmer": {
     "name": "Khmer",
@@ -5208,7 +5271,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/khmer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/khmer",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-khula": {
     "name": "Khula",
@@ -5217,7 +5280,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/khula",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/khula",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kings": {
     "name": "Kings",
@@ -5226,7 +5289,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kings",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kings",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kirang-haerang": {
     "name": "Kirang Haerang",
@@ -5235,7 +5298,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kirang-haerang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kirang-haerang",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kite-one": {
     "name": "Kite One",
@@ -5244,7 +5307,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kite-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kite-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kiwi-maru": {
     "name": "Kiwi Maru",
@@ -5253,7 +5316,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kiwi-maru",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kiwi-maru",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-klee-one": {
     "name": "Klee One",
@@ -5262,7 +5325,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/klee-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/klee-one",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-knewave": {
     "name": "Knewave",
@@ -5271,7 +5334,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/knewave",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/knewave",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ko-ho": {
     "name": "KoHo",
@@ -5280,7 +5343,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ko-ho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ko-ho",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kodchasan": {
     "name": "Kodchasan",
@@ -5289,7 +5352,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kodchasan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kodchasan",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-koh-santepheap": {
     "name": "Koh Santepheap",
@@ -5298,7 +5361,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/koh-santepheap",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/koh-santepheap",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kolker-brush": {
     "name": "Kolker Brush",
@@ -5307,7 +5370,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kolker-brush",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kolker-brush",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-kosugi": {
     "name": "Kosugi",
@@ -5316,7 +5379,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kosugi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kosugi",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kosugi-maru": {
     "name": "Kosugi Maru",
@@ -5325,7 +5388,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kosugi-maru",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kosugi-maru",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kotta-one": {
     "name": "Kotta One",
@@ -5334,7 +5397,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kotta-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kotta-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-koulen": {
     "name": "Koulen",
@@ -5343,7 +5406,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/koulen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/koulen",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kranky": {
     "name": "Kranky",
@@ -5352,7 +5415,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kranky",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kranky",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kreon": {
     "name": "Kreon",
@@ -5361,7 +5424,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kreon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kreon",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kristi": {
     "name": "Kristi",
@@ -5370,7 +5433,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kristi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kristi",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-krona-one": {
     "name": "Krona One",
@@ -5379,7 +5442,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/krona-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/krona-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-krub": {
     "name": "Krub",
@@ -5388,7 +5451,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/krub",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/krub",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kufam": {
     "name": "Kufam",
@@ -5397,7 +5460,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kufam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kufam",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kulim-park": {
     "name": "Kulim Park",
@@ -5406,7 +5469,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kulim-park",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kulim-park",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kumar-one": {
     "name": "Kumar One",
@@ -5415,7 +5478,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kumar-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kumar-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kumar-one-outline": {
     "name": "Kumar One Outline",
@@ -5424,7 +5487,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kumar-one-outline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kumar-one-outline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kumbh-sans": {
     "name": "Kumbh Sans",
@@ -5433,7 +5496,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kumbh-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kumbh-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-kurale": {
     "name": "Kurale",
@@ -5442,7 +5505,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/kurale",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/kurale",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-la-belle-aurore": {
     "name": "La Belle Aurore",
@@ -5451,7 +5514,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/la-belle-aurore",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/la-belle-aurore",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lacquer": {
     "name": "Lacquer",
@@ -5460,7 +5523,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lacquer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lacquer",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-laila": {
     "name": "Laila",
@@ -5469,7 +5532,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/laila",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/laila",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lakki-reddy": {
     "name": "Lakki Reddy",
@@ -5478,7 +5541,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lakki-reddy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lakki-reddy",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lalezar": {
     "name": "Lalezar",
@@ -5487,7 +5550,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lalezar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lalezar",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lancelot": {
     "name": "Lancelot",
@@ -5496,7 +5559,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lancelot",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lancelot",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-langar": {
     "name": "Langar",
@@ -5505,7 +5568,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/langar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/langar",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-lateef": {
     "name": "Lateef",
@@ -5514,7 +5577,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lateef",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lateef",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lato": {
     "name": "Lato",
@@ -5523,7 +5586,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lato",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lato",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lavishly-yours": {
     "name": "Lavishly Yours",
@@ -5532,7 +5595,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lavishly-yours",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lavishly-yours",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-league-gothic": {
     "name": "League Gothic",
@@ -5541,7 +5604,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/league-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/league-gothic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-league-script": {
     "name": "League Script",
@@ -5550,7 +5613,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/league-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/league-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-league-spartan": {
     "name": "League Spartan",
@@ -5559,7 +5622,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/league-spartan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/league-spartan",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-leckerli-one": {
     "name": "Leckerli One",
@@ -5568,7 +5631,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/leckerli-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/leckerli-one",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ledger": {
     "name": "Ledger",
@@ -5577,7 +5640,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ledger",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ledger",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lekton": {
     "name": "Lekton",
@@ -5586,7 +5649,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lekton",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lekton",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lemon": {
     "name": "Lemon",
@@ -5595,7 +5658,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lemon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lemon",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lemonada": {
     "name": "Lemonada",
@@ -5604,7 +5667,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lemonada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lemonada",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend": {
     "name": "Lexend",
@@ -5613,7 +5676,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-lexend-deca": {
     "name": "Lexend Deca",
@@ -5622,7 +5685,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-deca",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-deca",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-exa": {
     "name": "Lexend Exa",
@@ -5631,7 +5694,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-exa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-exa",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-giga": {
     "name": "Lexend Giga",
@@ -5640,7 +5703,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-giga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-giga",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-mega": {
     "name": "Lexend Mega",
@@ -5649,7 +5712,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-mega",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-mega",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-peta": {
     "name": "Lexend Peta",
@@ -5658,7 +5721,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-peta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-peta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-tera": {
     "name": "Lexend Tera",
@@ -5667,7 +5730,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-tera",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-tera",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lexend-zetta": {
     "name": "Lexend Zetta",
@@ -5676,7 +5739,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lexend-zetta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lexend-zetta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-128": {
     "name": "Libre Barcode 128",
@@ -5685,7 +5748,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-128",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-128",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-128-text": {
     "name": "Libre Barcode 128 Text",
@@ -5694,7 +5757,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-128-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-128-text",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-39": {
     "name": "Libre Barcode 39",
@@ -5703,7 +5766,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-39",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-39",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-39-extended": {
     "name": "Libre Barcode 39 Extended",
@@ -5712,7 +5775,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-39-extended",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-39-extended",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-39-extended-text": {
     "name": "Libre Barcode 39 Extended Text",
@@ -5721,7 +5784,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-39-extended-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-39-extended-text",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-39-text": {
     "name": "Libre Barcode 39 Text",
@@ -5730,7 +5793,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-39-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-39-text",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-barcode-ean-13-text": {
     "name": "Libre Barcode EAN13 Text",
@@ -5739,7 +5802,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-barcode-ean-13-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-barcode-ean-13-text",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-libre-baskerville": {
     "name": "Libre Baskerville",
@@ -5748,7 +5811,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-baskerville",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-baskerville",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-bodoni": {
     "name": "Libre Bodoni",
@@ -5757,7 +5820,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-bodoni",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-bodoni",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-libre-caslon-display": {
     "name": "Libre Caslon Display",
@@ -5766,7 +5829,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-caslon-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-caslon-display",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-caslon-text": {
     "name": "Libre Caslon Text",
@@ -5775,7 +5838,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-caslon-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-caslon-text",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-libre-franklin": {
     "name": "Libre Franklin",
@@ -5784,7 +5847,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/libre-franklin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/libre-franklin",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-licorice": {
     "name": "Licorice",
@@ -5793,7 +5856,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/licorice",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/licorice",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-life-savers": {
     "name": "Life Savers",
@@ -5802,7 +5865,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/life-savers",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/life-savers",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lilita-one": {
     "name": "Lilita One",
@@ -5811,7 +5874,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lilita-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lilita-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lily-script-one": {
     "name": "Lily Script One",
@@ -5820,7 +5883,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lily-script-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lily-script-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-limelight": {
     "name": "Limelight",
@@ -5829,7 +5892,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/limelight",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/limelight",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-linden-hill": {
     "name": "Linden Hill",
@@ -5838,7 +5901,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/linden-hill",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/linden-hill",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-literata": {
     "name": "Literata",
@@ -5847,7 +5910,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/literata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/literata",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-liu-jian-mao-cao": {
     "name": "Liu Jian Mao Cao",
@@ -5856,7 +5919,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/liu-jian-mao-cao",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/liu-jian-mao-cao",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-livvic": {
     "name": "Livvic",
@@ -5865,7 +5928,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/livvic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/livvic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lobster": {
     "name": "Lobster",
@@ -5874,7 +5937,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lobster",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lobster",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lobster-two": {
     "name": "Lobster Two",
@@ -5883,7 +5946,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lobster-two",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lobster-two",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-londrina-outline": {
     "name": "Londrina Outline",
@@ -5892,7 +5955,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/londrina-outline",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/londrina-outline",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-londrina-shadow": {
     "name": "Londrina Shadow",
@@ -5901,7 +5964,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/londrina-shadow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/londrina-shadow",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-londrina-sketch": {
     "name": "Londrina Sketch",
@@ -5910,7 +5973,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/londrina-sketch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/londrina-sketch",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-londrina-solid": {
     "name": "Londrina Solid",
@@ -5919,7 +5982,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/londrina-solid",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/londrina-solid",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-long-cang": {
     "name": "Long Cang",
@@ -5928,7 +5991,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/long-cang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/long-cang",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lora": {
     "name": "Lora",
@@ -5937,7 +6000,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lora",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lora",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-love-light": {
     "name": "Love Light",
@@ -5946,7 +6009,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/love-light",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/love-light",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-love-ya-like-a-sister": {
     "name": "Love Ya Like A Sister",
@@ -5955,7 +6018,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/love-ya-like-a-sister",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/love-ya-like-a-sister",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-loved-by-the-king": {
     "name": "Loved by the King",
@@ -5964,7 +6027,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/loved-by-the-king",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/loved-by-the-king",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lovers-quarrel": {
     "name": "Lovers Quarrel",
@@ -5973,7 +6036,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lovers-quarrel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lovers-quarrel",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-luckiest-guy": {
     "name": "Luckiest Guy",
@@ -5982,7 +6045,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/luckiest-guy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/luckiest-guy",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lusitana": {
     "name": "Lusitana",
@@ -5991,7 +6054,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lusitana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lusitana",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-lustria": {
     "name": "Lustria",
@@ -6000,7 +6063,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/lustria",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/lustria",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-luxurious-roman": {
     "name": "Luxurious Roman",
@@ -6009,7 +6072,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/luxurious-roman",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/luxurious-roman",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-luxurious-script": {
     "name": "Luxurious Script",
@@ -6018,7 +6081,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/luxurious-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/luxurious-script",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-m-plus-1": {
     "name": "M PLUS 1",
@@ -6027,7 +6090,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-1",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-m-plus-1-code": {
     "name": "M PLUS 1 Code",
@@ -6036,7 +6099,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-1-code",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1-code",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-m-plus-1-p": {
     "name": "M PLUS 1p",
@@ -6045,7 +6108,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-1-p",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-1-p",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-m-plus-2": {
     "name": "M PLUS 2",
@@ -6054,7 +6117,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-2",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-m-plus-code-latin": {
     "name": "M PLUS Code Latin",
@@ -6063,7 +6126,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-code-latin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-code-latin",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-m-plus-rounded-1-c": {
     "name": "M PLUS Rounded 1c",
@@ -6072,7 +6135,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/m-plus-rounded-1-c",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/m-plus-rounded-1-c",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ma-shan-zheng": {
     "name": "Ma Shan Zheng",
@@ -6081,7 +6144,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ma-shan-zheng",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ma-shan-zheng",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-macondo": {
     "name": "Macondo",
@@ -6090,7 +6153,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/macondo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/macondo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-macondo-swash-caps": {
     "name": "Macondo Swash Caps",
@@ -6099,7 +6162,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/macondo-swash-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/macondo-swash-caps",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mada": {
     "name": "Mada",
@@ -6108,7 +6171,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mada",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-magra": {
     "name": "Magra",
@@ -6117,7 +6180,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/magra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/magra",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-maiden-orange": {
     "name": "Maiden Orange",
@@ -6126,7 +6189,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/maiden-orange",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/maiden-orange",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-maitree": {
     "name": "Maitree",
@@ -6135,7 +6198,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/maitree",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/maitree",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-major-mono-display": {
     "name": "Major Mono Display",
@@ -6144,7 +6207,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/major-mono-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/major-mono-display",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mako": {
     "name": "Mako",
@@ -6153,7 +6216,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mako",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mako",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mali": {
     "name": "Mali",
@@ -6162,7 +6225,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mali",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mali",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mallanna": {
     "name": "Mallanna",
@@ -6171,7 +6234,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mallanna",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mallanna",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mandali": {
     "name": "Mandali",
@@ -6180,7 +6243,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mandali",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mandali",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-manjari": {
     "name": "Manjari",
@@ -6189,7 +6252,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/manjari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/manjari",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-manrope": {
     "name": "Manrope",
@@ -6198,7 +6261,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/manrope",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/manrope",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mansalva": {
     "name": "Mansalva",
@@ -6207,7 +6270,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mansalva",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mansalva",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-manuale": {
     "name": "Manuale",
@@ -6216,7 +6279,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/manuale",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/manuale",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marcellus": {
     "name": "Marcellus",
@@ -6225,7 +6288,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marcellus",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marcellus",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marcellus-sc": {
     "name": "Marcellus SC",
@@ -6234,7 +6297,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marcellus-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marcellus-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marck-script": {
     "name": "Marck Script",
@@ -6243,7 +6306,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marck-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marck-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-margarine": {
     "name": "Margarine",
@@ -6252,7 +6315,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/margarine",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/margarine",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-markazi-text": {
     "name": "Markazi Text",
@@ -6261,7 +6324,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/markazi-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/markazi-text",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marko-one": {
     "name": "Marko One",
@@ -6270,7 +6333,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marko-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marko-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marmelad": {
     "name": "Marmelad",
@@ -6279,7 +6342,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marmelad",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marmelad",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-martel": {
     "name": "Martel",
@@ -6288,7 +6351,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/martel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/martel",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-martel-sans": {
     "name": "Martel Sans",
@@ -6297,7 +6360,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/martel-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/martel-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-marvel": {
     "name": "Marvel",
@@ -6306,7 +6369,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/marvel",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/marvel",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mate": {
     "name": "Mate",
@@ -6315,7 +6378,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mate",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mate",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mate-sc": {
     "name": "Mate SC",
@@ -6324,7 +6387,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mate-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mate-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-material-icons": {
     "name": "Material Icons",
@@ -6333,7 +6396,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/material-icons",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/material-icons",
     "category": "icon",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-maven-pro": {
     "name": "Maven Pro",
@@ -6342,7 +6405,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/maven-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/maven-pro",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mc-laren": {
     "name": "McLaren",
@@ -6351,7 +6414,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mc-laren",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mc-laren",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mea-culpa": {
     "name": "Mea Culpa",
@@ -6360,7 +6423,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mea-culpa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mea-culpa",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-meddon": {
     "name": "Meddon",
@@ -6369,7 +6432,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/meddon",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/meddon",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-medieval-sharp": {
     "name": "MedievalSharp",
@@ -6378,7 +6441,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/medieval-sharp",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/medieval-sharp",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-medula-one": {
     "name": "Medula One",
@@ -6387,7 +6450,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/medula-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/medula-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-meera-inimai": {
     "name": "Meera Inimai",
@@ -6396,7 +6459,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/meera-inimai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/meera-inimai",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-megrim": {
     "name": "Megrim",
@@ -6405,7 +6468,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/megrim",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/megrim",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-meie-script": {
     "name": "Meie Script",
@@ -6414,7 +6477,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/meie-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/meie-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-meow-script": {
     "name": "Meow Script",
@@ -6423,7 +6486,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/meow-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/meow-script",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-merienda": {
     "name": "Merienda",
@@ -6432,7 +6495,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/merienda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/merienda",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-merienda-one": {
     "name": "Merienda One",
@@ -6441,7 +6504,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/merienda-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/merienda-one",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-merriweather": {
     "name": "Merriweather",
@@ -6450,7 +6513,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/merriweather",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/merriweather",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-merriweather-sans": {
     "name": "Merriweather Sans",
@@ -6459,7 +6522,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/merriweather-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/merriweather-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-metal": {
     "name": "Metal",
@@ -6468,7 +6531,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/metal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/metal",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-metal-mania": {
     "name": "Metal Mania",
@@ -6477,7 +6540,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/metal-mania",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/metal-mania",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-metamorphous": {
     "name": "Metamorphous",
@@ -6486,7 +6549,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/metamorphous",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/metamorphous",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-metrophobic": {
     "name": "Metrophobic",
@@ -6495,7 +6558,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/metrophobic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/metrophobic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-michroma": {
     "name": "Michroma",
@@ -6504,7 +6567,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/michroma",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/michroma",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-milonga": {
     "name": "Milonga",
@@ -6513,7 +6576,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/milonga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/milonga",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-miltonian": {
     "name": "Miltonian",
@@ -6522,7 +6585,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/miltonian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/miltonian",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-miltonian-tattoo": {
     "name": "Miltonian Tattoo",
@@ -6531,7 +6594,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/miltonian-tattoo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/miltonian-tattoo",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mina": {
     "name": "Mina",
@@ -6540,7 +6603,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mina",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-miniver": {
     "name": "Miniver",
@@ -6549,7 +6612,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/miniver",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/miniver",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-miriam-libre": {
     "name": "Miriam Libre",
@@ -6558,7 +6621,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/miriam-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/miriam-libre",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mirza": {
     "name": "Mirza",
@@ -6567,7 +6630,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mirza",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mirza",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-miss-fajardose": {
     "name": "Miss Fajardose",
@@ -6576,7 +6639,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/miss-fajardose",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/miss-fajardose",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mitr": {
     "name": "Mitr",
@@ -6585,7 +6648,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mitr",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mitr",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mochiy-pop-one": {
     "name": "Mochiy Pop One",
@@ -6594,7 +6657,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mochiy-pop-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mochiy-pop-one",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-mochiy-pop-p-one": {
     "name": "Mochiy Pop P One",
@@ -6603,7 +6666,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mochiy-pop-p-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mochiy-pop-p-one",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-modak": {
     "name": "Modak",
@@ -6612,7 +6675,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/modak",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/modak",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-modern-antiqua": {
     "name": "Modern Antiqua",
@@ -6621,7 +6684,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/modern-antiqua",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/modern-antiqua",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mogra": {
     "name": "Mogra",
@@ -6630,7 +6693,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mogra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mogra",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mohave": {
     "name": "Mohave",
@@ -6639,7 +6702,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mohave",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mohave",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-molengo": {
     "name": "Molengo",
@@ -6648,7 +6711,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/molengo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/molengo",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-molle": {
     "name": "Molle",
@@ -6657,7 +6720,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/molle",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/molle",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-monda": {
     "name": "Monda",
@@ -6666,7 +6729,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/monda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/monda",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-monofett": {
     "name": "Monofett",
@@ -6675,7 +6738,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/monofett",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/monofett",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-monoton": {
     "name": "Monoton",
@@ -6684,7 +6747,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/monoton",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/monoton",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-monsieur-la-doulaise": {
     "name": "Monsieur La Doulaise",
@@ -6693,7 +6756,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/monsieur-la-doulaise",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/monsieur-la-doulaise",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-montaga": {
     "name": "Montaga",
@@ -6702,7 +6765,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montaga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montaga",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-montagu-slab": {
     "name": "Montagu Slab",
@@ -6711,7 +6774,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montagu-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montagu-slab",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-monte-carlo": {
     "name": "MonteCarlo",
@@ -6720,7 +6783,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/monte-carlo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/monte-carlo",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-montez": {
     "name": "Montez",
@@ -6729,7 +6792,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montez",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montez",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-montserrat": {
     "name": "Montserrat",
@@ -6738,7 +6801,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montserrat",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montserrat",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-montserrat-alternates": {
     "name": "Montserrat Alternates",
@@ -6747,7 +6810,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montserrat-alternates",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montserrat-alternates",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-montserrat-subrayada": {
     "name": "Montserrat Subrayada",
@@ -6756,7 +6819,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/montserrat-subrayada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/montserrat-subrayada",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-moo-lah-lah": {
     "name": "Moo Lah Lah",
@@ -6765,7 +6828,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/moo-lah-lah",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/moo-lah-lah",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-moon-dance": {
     "name": "Moon Dance",
@@ -6774,7 +6837,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/moon-dance",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/moon-dance",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-moul": {
     "name": "Moul",
@@ -6783,7 +6846,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/moul",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/moul",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-moulpali": {
     "name": "Moulpali",
@@ -6792,7 +6855,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/moulpali",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/moulpali",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mountains-of-christmas": {
     "name": "Mountains of Christmas",
@@ -6801,7 +6864,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mountains-of-christmas",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mountains-of-christmas",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mouse-memoirs": {
     "name": "Mouse Memoirs",
@@ -6810,7 +6873,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mouse-memoirs",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mouse-memoirs",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mr-bedfort": {
     "name": "Mr Bedfort",
@@ -6819,7 +6882,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mr-bedfort",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mr-bedfort",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mr-dafoe": {
     "name": "Mr Dafoe",
@@ -6828,7 +6891,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mr-dafoe",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mr-dafoe",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mr-de-haviland": {
     "name": "Mr De Haviland",
@@ -6837,7 +6900,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mr-de-haviland",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mr-de-haviland",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mrs-saint-delafield": {
     "name": "Mrs Saint Delafield",
@@ -6846,7 +6909,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mrs-saint-delafield",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mrs-saint-delafield",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mrs-sheppards": {
     "name": "Mrs Sheppards",
@@ -6855,7 +6918,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mrs-sheppards",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mrs-sheppards",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ms-madi": {
     "name": "Ms Madi",
@@ -6864,7 +6927,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ms-madi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ms-madi",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-mukta": {
     "name": "Mukta",
@@ -6873,7 +6936,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mukta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mukta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mukta-mahee": {
     "name": "Mukta Mahee",
@@ -6882,7 +6945,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mukta-mahee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mukta-mahee",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mukta-malar": {
     "name": "Mukta Malar",
@@ -6891,7 +6954,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mukta-malar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mukta-malar",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mukta-vaani": {
     "name": "Mukta Vaani",
@@ -6900,7 +6963,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mukta-vaani",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mukta-vaani",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-mulish": {
     "name": "Mulish",
@@ -6909,7 +6972,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mulish",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mulish",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-murecho": {
     "name": "Murecho",
@@ -6918,7 +6981,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/murecho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/murecho",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-museo-moderno": {
     "name": "MuseoModerno",
@@ -6927,7 +6990,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/museo-moderno",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/museo-moderno",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-my-soul": {
     "name": "My Soul",
@@ -6936,7 +6999,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/my-soul",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/my-soul",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-mystery-quest": {
     "name": "Mystery Quest",
@@ -6945,7 +7008,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/mystery-quest",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/mystery-quest",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ntr": {
     "name": "NTR",
@@ -6954,7 +7017,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ntr",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ntr",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nanum-brush-script": {
     "name": "Nanum Brush Script",
@@ -6963,7 +7026,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nanum-brush-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nanum-brush-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nanum-gothic": {
     "name": "Nanum Gothic",
@@ -6972,7 +7035,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nanum-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nanum-gothic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nanum-gothic-coding": {
     "name": "Nanum Gothic Coding",
@@ -6981,7 +7044,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nanum-gothic-coding",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nanum-gothic-coding",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nanum-myeongjo": {
     "name": "Nanum Myeongjo",
@@ -6990,7 +7053,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nanum-myeongjo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nanum-myeongjo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nanum-pen-script": {
     "name": "Nanum Pen Script",
@@ -6999,7 +7062,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nanum-pen-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nanum-pen-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-neonderthaw": {
     "name": "Neonderthaw",
@@ -7008,7 +7071,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/neonderthaw",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/neonderthaw",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-nerko-one": {
     "name": "Nerko One",
@@ -7017,7 +7080,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nerko-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nerko-one",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-neucha": {
     "name": "Neucha",
@@ -7026,7 +7089,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/neucha",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/neucha",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-neuton": {
     "name": "Neuton",
@@ -7035,7 +7098,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/neuton",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/neuton",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-new-rocker": {
     "name": "New Rocker",
@@ -7044,7 +7107,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/new-rocker",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/new-rocker",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-new-tegomin": {
     "name": "New Tegomin",
@@ -7053,7 +7116,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/new-tegomin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/new-tegomin",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-news-cycle": {
     "name": "News Cycle",
@@ -7062,7 +7125,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/news-cycle",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/news-cycle",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-newsreader": {
     "name": "Newsreader",
@@ -7071,7 +7134,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/newsreader",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/newsreader",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-niconne": {
     "name": "Niconne",
@@ -7080,7 +7143,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/niconne",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/niconne",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-niramit": {
     "name": "Niramit",
@@ -7089,7 +7152,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/niramit",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/niramit",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nixie-one": {
     "name": "Nixie One",
@@ -7098,7 +7161,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nixie-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nixie-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nobile": {
     "name": "Nobile",
@@ -7107,7 +7170,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nobile",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nobile",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nokora": {
     "name": "Nokora",
@@ -7116,7 +7179,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nokora",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nokora",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-norican": {
     "name": "Norican",
@@ -7125,7 +7188,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/norican",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/norican",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nosifer": {
     "name": "Nosifer",
@@ -7134,7 +7197,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nosifer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nosifer",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-notable": {
     "name": "Notable",
@@ -7143,7 +7206,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/notable",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/notable",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nothing-you-could-do": {
     "name": "Nothing You Could Do",
@@ -7152,7 +7215,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nothing-you-could-do",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nothing-you-could-do",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noticia-text": {
     "name": "Noticia Text",
@@ -7161,7 +7224,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noticia-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noticia-text",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-emoji": {
     "name": "Noto Emoji",
@@ -7170,7 +7233,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-emoji",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-emoji",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-kufi-arabic": {
     "name": "Noto Kufi Arabic",
@@ -7179,7 +7242,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-kufi-arabic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-kufi-arabic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-music": {
     "name": "Noto Music",
@@ -7188,7 +7251,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-music",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-music",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-naskh-arabic": {
     "name": "Noto Naskh Arabic",
@@ -7197,7 +7260,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-naskh-arabic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-naskh-arabic",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-nastaliq-urdu": {
     "name": "Noto Nastaliq Urdu",
@@ -7206,7 +7269,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-nastaliq-urdu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-nastaliq-urdu",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-rashi-hebrew": {
     "name": "Noto Rashi Hebrew",
@@ -7215,7 +7278,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-rashi-hebrew",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-rashi-hebrew",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans": {
     "name": "Noto Sans",
@@ -7224,7 +7287,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-adlam": {
     "name": "Noto Sans Adlam",
@@ -7233,7 +7296,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-adlam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-adlam",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-adlam-unjoined": {
     "name": "Noto Sans Adlam Unjoined",
@@ -7242,7 +7305,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-adlam-unjoined",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-adlam-unjoined",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-anatolian-hieroglyphs": {
     "name": "Noto Sans Anatolian Hieroglyphs",
@@ -7251,7 +7314,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-anatolian-hieroglyphs",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-anatolian-hieroglyphs",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-arabic": {
     "name": "Noto Sans Arabic",
@@ -7260,7 +7323,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-arabic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-arabic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-armenian": {
     "name": "Noto Sans Armenian",
@@ -7269,7 +7332,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-armenian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-armenian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-avestan": {
     "name": "Noto Sans Avestan",
@@ -7278,7 +7341,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-avestan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-avestan",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-balinese": {
     "name": "Noto Sans Balinese",
@@ -7287,7 +7350,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-balinese",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-balinese",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-bamum": {
     "name": "Noto Sans Bamum",
@@ -7296,7 +7359,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-bamum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bamum",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-bassa-vah": {
     "name": "Noto Sans Bassa Vah",
@@ -7305,7 +7368,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-bassa-vah",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bassa-vah",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-batak": {
     "name": "Noto Sans Batak",
@@ -7314,7 +7377,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-batak",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-batak",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-bengali": {
     "name": "Noto Sans Bengali",
@@ -7323,7 +7386,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-bengali",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bengali",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-bhaiksuki": {
     "name": "Noto Sans Bhaiksuki",
@@ -7332,7 +7395,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-bhaiksuki",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-bhaiksuki",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-brahmi": {
     "name": "Noto Sans Brahmi",
@@ -7341,7 +7404,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-brahmi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-brahmi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-buginese": {
     "name": "Noto Sans Buginese",
@@ -7350,7 +7413,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-buginese",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-buginese",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-buhid": {
     "name": "Noto Sans Buhid",
@@ -7359,7 +7422,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-buhid",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-buhid",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-canadian-aboriginal": {
     "name": "Noto Sans Canadian Aboriginal",
@@ -7368,7 +7431,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-canadian-aboriginal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-canadian-aboriginal",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-carian": {
     "name": "Noto Sans Carian",
@@ -7377,7 +7440,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-carian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-carian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-caucasian-albanian": {
     "name": "Noto Sans Caucasian Albanian",
@@ -7386,7 +7449,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-caucasian-albanian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-caucasian-albanian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-chakma": {
     "name": "Noto Sans Chakma",
@@ -7395,7 +7458,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-chakma",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-chakma",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-cham": {
     "name": "Noto Sans Cham",
@@ -7404,7 +7467,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-cham",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cham",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-cherokee": {
     "name": "Noto Sans Cherokee",
@@ -7413,7 +7476,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-cherokee",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cherokee",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-coptic": {
     "name": "Noto Sans Coptic",
@@ -7422,7 +7485,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-coptic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-coptic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-cuneiform": {
     "name": "Noto Sans Cuneiform",
@@ -7431,7 +7494,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-cuneiform",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cuneiform",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-cypriot": {
     "name": "Noto Sans Cypriot",
@@ -7440,7 +7503,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-cypriot",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-cypriot",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-deseret": {
     "name": "Noto Sans Deseret",
@@ -7449,7 +7512,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-deseret",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-deseret",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-devanagari": {
     "name": "Noto Sans Devanagari",
@@ -7458,7 +7521,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-devanagari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-devanagari",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-display": {
     "name": "Noto Sans Display",
@@ -7467,7 +7530,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-display",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-duployan": {
     "name": "Noto Sans Duployan",
@@ -7476,7 +7539,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-duployan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-duployan",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-egyptian-hieroglyphs": {
     "name": "Noto Sans Egyptian Hieroglyphs",
@@ -7485,7 +7548,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-egyptian-hieroglyphs",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-egyptian-hieroglyphs",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-elbasan": {
     "name": "Noto Sans Elbasan",
@@ -7494,7 +7557,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-elbasan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-elbasan",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-elymaic": {
     "name": "Noto Sans Elymaic",
@@ -7503,7 +7566,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-elymaic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-elymaic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-georgian": {
     "name": "Noto Sans Georgian",
@@ -7512,7 +7575,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-georgian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-georgian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-glagolitic": {
     "name": "Noto Sans Glagolitic",
@@ -7521,7 +7584,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-glagolitic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-glagolitic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-gothic": {
     "name": "Noto Sans Gothic",
@@ -7530,7 +7593,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gothic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-grantha": {
     "name": "Noto Sans Grantha",
@@ -7539,7 +7602,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-grantha",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-grantha",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-gujarati": {
     "name": "Noto Sans Gujarati",
@@ -7548,7 +7611,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-gujarati",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gujarati",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-gunjala-gondi": {
     "name": "Noto Sans Gunjala Gondi",
@@ -7557,7 +7620,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-gunjala-gondi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gunjala-gondi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-gurmukhi": {
     "name": "Noto Sans Gurmukhi",
@@ -7566,7 +7629,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-gurmukhi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-gurmukhi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-hk": {
     "name": "Noto Sans HK",
@@ -7575,7 +7638,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-hk",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hk",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-hanifi-rohingya": {
     "name": "Noto Sans Hanifi Rohingya",
@@ -7584,7 +7647,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-hanifi-rohingya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hanifi-rohingya",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-hanunoo": {
     "name": "Noto Sans Hanunoo",
@@ -7593,7 +7656,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-hanunoo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hanunoo",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-hatran": {
     "name": "Noto Sans Hatran",
@@ -7602,7 +7665,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-hatran",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hatran",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-hebrew": {
     "name": "Noto Sans Hebrew",
@@ -7611,7 +7674,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-hebrew",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-hebrew",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-imperial-aramaic": {
     "name": "Noto Sans Imperial Aramaic",
@@ -7620,7 +7683,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-imperial-aramaic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-imperial-aramaic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-indic-siyaq-numbers": {
     "name": "Noto Sans Indic Siyaq Numbers",
@@ -7629,7 +7692,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-indic-siyaq-numbers",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-indic-siyaq-numbers",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-inscriptional-pahlavi": {
     "name": "Noto Sans Inscriptional Pahlavi",
@@ -7638,7 +7701,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-inscriptional-pahlavi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-inscriptional-pahlavi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-inscriptional-parthian": {
     "name": "Noto Sans Inscriptional Parthian",
@@ -7647,7 +7710,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-inscriptional-parthian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-inscriptional-parthian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-jp": {
     "name": "Noto Sans JP",
@@ -7656,7 +7719,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-jp",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-jp",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-javanese": {
     "name": "Noto Sans Javanese",
@@ -7665,7 +7728,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-javanese",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-javanese",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-kr": {
     "name": "Noto Sans KR",
@@ -7674,7 +7737,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-kr",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kr",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-kaithi": {
     "name": "Noto Sans Kaithi",
@@ -7683,7 +7746,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-kaithi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kaithi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-kannada": {
     "name": "Noto Sans Kannada",
@@ -7692,7 +7755,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-kannada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kannada",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-kayah-li": {
     "name": "Noto Sans Kayah Li",
@@ -7701,7 +7764,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-kayah-li",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kayah-li",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-kharoshthi": {
     "name": "Noto Sans Kharoshthi",
@@ -7710,7 +7773,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-kharoshthi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-kharoshthi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-khmer": {
     "name": "Noto Sans Khmer",
@@ -7719,7 +7782,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-khmer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khmer",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-khojki": {
     "name": "Noto Sans Khojki",
@@ -7728,7 +7791,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-khojki",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khojki",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-khudawadi": {
     "name": "Noto Sans Khudawadi",
@@ -7737,7 +7800,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-khudawadi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-khudawadi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-lao": {
     "name": "Noto Sans Lao",
@@ -7746,7 +7809,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-lao",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lao",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-lepcha": {
     "name": "Noto Sans Lepcha",
@@ -7755,7 +7818,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-lepcha",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lepcha",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-limbu": {
     "name": "Noto Sans Limbu",
@@ -7764,7 +7827,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-limbu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-limbu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-linear-a": {
     "name": "Noto Sans Linear A",
@@ -7773,7 +7836,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-linear-a",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-linear-a",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-linear-b": {
     "name": "Noto Sans Linear B",
@@ -7782,7 +7845,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-linear-b",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-linear-b",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-lisu": {
     "name": "Noto Sans Lisu",
@@ -7791,7 +7854,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-lisu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lisu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-lycian": {
     "name": "Noto Sans Lycian",
@@ -7800,7 +7863,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-lycian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lycian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-lydian": {
     "name": "Noto Sans Lydian",
@@ -7809,7 +7872,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-lydian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-lydian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mahajani": {
     "name": "Noto Sans Mahajani",
@@ -7818,7 +7881,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mahajani",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mahajani",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-malayalam": {
     "name": "Noto Sans Malayalam",
@@ -7827,7 +7890,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-malayalam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-malayalam",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mandaic": {
     "name": "Noto Sans Mandaic",
@@ -7836,7 +7899,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mandaic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mandaic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-manichaean": {
     "name": "Noto Sans Manichaean",
@@ -7845,7 +7908,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-manichaean",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-manichaean",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-marchen": {
     "name": "Noto Sans Marchen",
@@ -7854,7 +7917,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-marchen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-marchen",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-masaram-gondi": {
     "name": "Noto Sans Masaram Gondi",
@@ -7863,7 +7926,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-masaram-gondi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-masaram-gondi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-math": {
     "name": "Noto Sans Math",
@@ -7872,7 +7935,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-math",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-math",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mayan-numerals": {
     "name": "Noto Sans Mayan Numerals",
@@ -7881,7 +7944,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mayan-numerals",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mayan-numerals",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-medefaidrin": {
     "name": "Noto Sans Medefaidrin",
@@ -7890,7 +7953,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-medefaidrin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-medefaidrin",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-meetei-mayek": {
     "name": "Noto Sans Meetei Mayek",
@@ -7899,7 +7962,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-meetei-mayek",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-meetei-mayek",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-meroitic": {
     "name": "Noto Sans Meroitic",
@@ -7908,7 +7971,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-meroitic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-meroitic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-miao": {
     "name": "Noto Sans Miao",
@@ -7917,7 +7980,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-miao",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-miao",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-modi": {
     "name": "Noto Sans Modi",
@@ -7926,7 +7989,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-modi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-modi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mongolian": {
     "name": "Noto Sans Mongolian",
@@ -7935,7 +7998,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mongolian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mongolian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mono": {
     "name": "Noto Sans Mono",
@@ -7944,7 +8007,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-mro": {
     "name": "Noto Sans Mro",
@@ -7953,7 +8016,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-mro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-mro",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-multani": {
     "name": "Noto Sans Multani",
@@ -7962,7 +8025,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-multani",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-multani",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-myanmar": {
     "name": "Noto Sans Myanmar",
@@ -7971,7 +8034,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-myanmar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-myanmar",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-n-ko": {
     "name": "Noto Sans N Ko",
@@ -7980,7 +8043,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-n-ko",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-n-ko",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-nabataean": {
     "name": "Noto Sans Nabataean",
@@ -7989,7 +8052,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-nabataean",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-nabataean",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-new-tai-lue": {
     "name": "Noto Sans New Tai Lue",
@@ -7998,7 +8061,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-new-tai-lue",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-new-tai-lue",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-newa": {
     "name": "Noto Sans Newa",
@@ -8007,7 +8070,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-newa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-newa",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-nushu": {
     "name": "Noto Sans Nushu",
@@ -8016,7 +8079,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-nushu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-nushu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-ogham": {
     "name": "Noto Sans Ogham",
@@ -8025,7 +8088,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-ogham",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ogham",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-ol-chiki": {
     "name": "Noto Sans Ol Chiki",
@@ -8034,7 +8097,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-ol-chiki",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ol-chiki",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-hungarian": {
     "name": "Noto Sans Old Hungarian",
@@ -8043,7 +8106,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-hungarian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-hungarian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-italic": {
     "name": "Noto Sans Old Italic",
@@ -8052,7 +8115,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-italic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-italic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-north-arabian": {
     "name": "Noto Sans Old North Arabian",
@@ -8061,7 +8124,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-north-arabian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-north-arabian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-permic": {
     "name": "Noto Sans Old Permic",
@@ -8070,7 +8133,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-permic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-permic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-persian": {
     "name": "Noto Sans Old Persian",
@@ -8079,7 +8142,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-persian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-persian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-sogdian": {
     "name": "Noto Sans Old Sogdian",
@@ -8088,7 +8151,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-sogdian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-sogdian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-south-arabian": {
     "name": "Noto Sans Old South Arabian",
@@ -8097,7 +8160,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-south-arabian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-south-arabian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-old-turkic": {
     "name": "Noto Sans Old Turkic",
@@ -8106,7 +8169,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-old-turkic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-old-turkic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-oriya": {
     "name": "Noto Sans Oriya",
@@ -8115,7 +8178,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-oriya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-oriya",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-osage": {
     "name": "Noto Sans Osage",
@@ -8124,7 +8187,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-osage",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-osage",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-osmanya": {
     "name": "Noto Sans Osmanya",
@@ -8133,7 +8196,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-osmanya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-osmanya",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-pahawh-hmong": {
     "name": "Noto Sans Pahawh Hmong",
@@ -8142,7 +8205,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-pahawh-hmong",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-pahawh-hmong",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-palmyrene": {
     "name": "Noto Sans Palmyrene",
@@ -8151,7 +8214,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-palmyrene",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-palmyrene",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-pau-cin-hau": {
     "name": "Noto Sans Pau Cin Hau",
@@ -8160,7 +8223,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-pau-cin-hau",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-pau-cin-hau",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-phags-pa": {
     "name": "Noto Sans Phags Pa",
@@ -8169,7 +8232,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-phags-pa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-phags-pa",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-phoenician": {
     "name": "Noto Sans Phoenician",
@@ -8178,7 +8241,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-phoenician",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-phoenician",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-psalter-pahlavi": {
     "name": "Noto Sans Psalter Pahlavi",
@@ -8187,7 +8250,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-psalter-pahlavi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-psalter-pahlavi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-rejang": {
     "name": "Noto Sans Rejang",
@@ -8196,7 +8259,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-rejang",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-rejang",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-runic": {
     "name": "Noto Sans Runic",
@@ -8205,7 +8268,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-runic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-runic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sc": {
     "name": "Noto Sans SC",
@@ -8214,7 +8277,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sc",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-samaritan": {
     "name": "Noto Sans Samaritan",
@@ -8223,7 +8286,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-samaritan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-samaritan",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-saurashtra": {
     "name": "Noto Sans Saurashtra",
@@ -8232,7 +8295,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-saurashtra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-saurashtra",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sharada": {
     "name": "Noto Sans Sharada",
@@ -8241,7 +8304,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sharada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sharada",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-shavian": {
     "name": "Noto Sans Shavian",
@@ -8250,7 +8313,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-shavian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-shavian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-siddham": {
     "name": "Noto Sans Siddham",
@@ -8259,7 +8322,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-siddham",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-siddham",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sinhala": {
     "name": "Noto Sans Sinhala",
@@ -8268,7 +8331,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sinhala",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sinhala",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sogdian": {
     "name": "Noto Sans Sogdian",
@@ -8277,7 +8340,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sogdian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sogdian",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sora-sompeng": {
     "name": "Noto Sans Sora Sompeng",
@@ -8286,7 +8349,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sora-sompeng",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sora-sompeng",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-soyombo": {
     "name": "Noto Sans Soyombo",
@@ -8295,7 +8358,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-soyombo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-soyombo",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-sundanese": {
     "name": "Noto Sans Sundanese",
@@ -8304,7 +8367,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-sundanese",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-sundanese",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-syloti-nagri": {
     "name": "Noto Sans Syloti Nagri",
@@ -8313,7 +8376,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-syloti-nagri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-syloti-nagri",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-symbols": {
     "name": "Noto Sans Symbols",
@@ -8322,7 +8385,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-symbols",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-symbols",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-symbols-2": {
     "name": "Noto Sans Symbols 2",
@@ -8331,7 +8394,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-symbols-2",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-symbols-2",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-syriac": {
     "name": "Noto Sans Syriac",
@@ -8340,7 +8403,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-syriac",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-syriac",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tc": {
     "name": "Noto Sans TC",
@@ -8349,7 +8412,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tc",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-sans-tagalog": {
     "name": "Noto Sans Tagalog",
@@ -8358,7 +8421,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tagalog",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tagalog",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tagbanwa": {
     "name": "Noto Sans Tagbanwa",
@@ -8367,7 +8430,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tagbanwa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tagbanwa",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tai-le": {
     "name": "Noto Sans Tai Le",
@@ -8376,7 +8439,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tai-le",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-le",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tai-tham": {
     "name": "Noto Sans Tai Tham",
@@ -8385,7 +8448,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tai-tham",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-tham",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tai-viet": {
     "name": "Noto Sans Tai Viet",
@@ -8394,7 +8457,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tai-viet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tai-viet",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-takri": {
     "name": "Noto Sans Takri",
@@ -8403,7 +8466,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-takri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-takri",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tamil": {
     "name": "Noto Sans Tamil",
@@ -8412,7 +8475,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tamil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tamil",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tamil-supplement": {
     "name": "Noto Sans Tamil Supplement",
@@ -8421,7 +8484,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tamil-supplement",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tamil-supplement",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-telugu": {
     "name": "Noto Sans Telugu",
@@ -8430,7 +8493,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-telugu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-telugu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-thaana": {
     "name": "Noto Sans Thaana",
@@ -8439,7 +8502,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-thaana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thaana",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-thai": {
     "name": "Noto Sans Thai",
@@ -8448,7 +8511,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-thai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thai",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-thai-looped": {
     "name": "Noto Sans Thai Looped",
@@ -8457,7 +8520,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-thai-looped",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-thai-looped",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tifinagh": {
     "name": "Noto Sans Tifinagh",
@@ -8466,7 +8529,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tifinagh",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tifinagh",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-tirhuta": {
     "name": "Noto Sans Tirhuta",
@@ -8475,7 +8538,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-tirhuta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-tirhuta",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-ugaritic": {
     "name": "Noto Sans Ugaritic",
@@ -8484,7 +8547,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-ugaritic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-ugaritic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-vai": {
     "name": "Noto Sans Vai",
@@ -8493,7 +8556,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-vai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-vai",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-wancho": {
     "name": "Noto Sans Wancho",
@@ -8502,7 +8565,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-wancho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-wancho",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-warang-citi": {
     "name": "Noto Sans Warang Citi",
@@ -8511,7 +8574,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-warang-citi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-warang-citi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-yi": {
     "name": "Noto Sans Yi",
@@ -8520,7 +8583,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-yi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-yi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-sans-zanabazar-square": {
     "name": "Noto Sans Zanabazar Square",
@@ -8529,7 +8592,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-sans-zanabazar-square",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-sans-zanabazar-square",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif": {
     "name": "Noto Serif",
@@ -8538,7 +8601,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-serif-ahom": {
     "name": "Noto Serif Ahom",
@@ -8547,7 +8610,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-ahom",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-ahom",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-armenian": {
     "name": "Noto Serif Armenian",
@@ -8556,7 +8619,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-armenian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-armenian",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-balinese": {
     "name": "Noto Serif Balinese",
@@ -8565,7 +8628,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-balinese",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-balinese",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-bengali": {
     "name": "Noto Serif Bengali",
@@ -8574,7 +8637,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-bengali",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-bengali",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-devanagari": {
     "name": "Noto Serif Devanagari",
@@ -8583,7 +8646,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-devanagari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-devanagari",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-display": {
     "name": "Noto Serif Display",
@@ -8592,7 +8655,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-display",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-dogra": {
     "name": "Noto Serif Dogra",
@@ -8601,7 +8664,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-dogra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-dogra",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-ethiopic": {
     "name": "Noto Serif Ethiopic",
@@ -8610,7 +8673,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-ethiopic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-ethiopic",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-georgian": {
     "name": "Noto Serif Georgian",
@@ -8619,7 +8682,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-georgian",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-georgian",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-grantha": {
     "name": "Noto Serif Grantha",
@@ -8628,7 +8691,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-grantha",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-grantha",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-gujarati": {
     "name": "Noto Serif Gujarati",
@@ -8637,7 +8700,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-gujarati",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-gujarati",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-gurmukhi": {
     "name": "Noto Serif Gurmukhi",
@@ -8646,7 +8709,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-gurmukhi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-gurmukhi",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-hebrew": {
     "name": "Noto Serif Hebrew",
@@ -8655,7 +8718,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-hebrew",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-hebrew",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-jp": {
     "name": "Noto Serif JP",
@@ -8664,7 +8727,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-jp",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-jp",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-serif-kr": {
     "name": "Noto Serif KR",
@@ -8673,7 +8736,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-kr",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-kr",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-serif-kannada": {
     "name": "Noto Serif Kannada",
@@ -8682,7 +8745,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-kannada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-kannada",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-khmer": {
     "name": "Noto Serif Khmer",
@@ -8691,7 +8754,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-khmer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-khmer",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-lao": {
     "name": "Noto Serif Lao",
@@ -8700,7 +8763,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-lao",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-lao",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-malayalam": {
     "name": "Noto Serif Malayalam",
@@ -8709,7 +8772,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-malayalam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-malayalam",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-myanmar": {
     "name": "Noto Serif Myanmar",
@@ -8718,7 +8781,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-myanmar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-myanmar",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-nyiakeng-puachue-hmong": {
     "name": "Noto Serif Nyiakeng Puachue Hmong",
@@ -8727,7 +8790,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-nyiakeng-puachue-hmong",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-nyiakeng-puachue-hmong",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-sc": {
     "name": "Noto Serif SC",
@@ -8736,7 +8799,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-serif-sinhala": {
     "name": "Noto Serif Sinhala",
@@ -8745,7 +8808,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-sinhala",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-sinhala",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-tc": {
     "name": "Noto Serif TC",
@@ -8754,7 +8817,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-tc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-noto-serif-tamil": {
     "name": "Noto Serif Tamil",
@@ -8763,7 +8826,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-tamil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tamil",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-tangut": {
     "name": "Noto Serif Tangut",
@@ -8772,7 +8835,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-tangut",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tangut",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-telugu": {
     "name": "Noto Serif Telugu",
@@ -8781,7 +8844,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-telugu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-telugu",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-thai": {
     "name": "Noto Serif Thai",
@@ -8790,7 +8853,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-thai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-thai",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-tibetan": {
     "name": "Noto Serif Tibetan",
@@ -8799,7 +8862,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-tibetan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-tibetan",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-serif-yezidi": {
     "name": "Noto Serif Yezidi",
@@ -8808,7 +8871,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-serif-yezidi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-serif-yezidi",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-noto-traditional-nushu": {
     "name": "Noto Traditional Nushu",
@@ -8817,7 +8880,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/noto-traditional-nushu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/noto-traditional-nushu",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-nova-cut": {
     "name": "Nova Cut",
@@ -8826,7 +8889,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-cut",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-cut",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-flat": {
     "name": "Nova Flat",
@@ -8835,7 +8898,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-flat",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-flat",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-mono": {
     "name": "Nova Mono",
@@ -8844,7 +8907,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-oval": {
     "name": "Nova Oval",
@@ -8853,7 +8916,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-oval",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-oval",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-round": {
     "name": "Nova Round",
@@ -8862,7 +8925,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-round",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-round",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-script": {
     "name": "Nova Script",
@@ -8871,7 +8934,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-script",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-slim": {
     "name": "Nova Slim",
@@ -8880,7 +8943,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-slim",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-slim",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nova-square": {
     "name": "Nova Square",
@@ -8889,7 +8952,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nova-square",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nova-square",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-numans": {
     "name": "Numans",
@@ -8898,7 +8961,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/numans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/numans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nunito": {
     "name": "Nunito",
@@ -8907,7 +8970,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nunito",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nunito",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-nunito-sans": {
     "name": "Nunito Sans",
@@ -8916,7 +8979,16 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/nunito-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/nunito-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-nuosu-sil": {
+    "name": "Nuosu SIL",
+    "kebabName": "nuosu-sil",
+    "packageName": "@compai/font-nuosu-sil",
+    "docs": "https://components.ai/docs/typefaces/nuosu-sil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/nuosu-sil",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-odibee-sans": {
     "name": "Odibee Sans",
@@ -8925,7 +8997,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/odibee-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/odibee-sans",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-odor-mean-chey": {
     "name": "Odor Mean Chey",
@@ -8934,7 +9006,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/odor-mean-chey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/odor-mean-chey",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-offside": {
     "name": "Offside",
@@ -8943,7 +9015,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/offside",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/offside",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oi": {
     "name": "Oi",
@@ -8952,7 +9024,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oi",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-old-standard-tt": {
     "name": "Old Standard TT",
@@ -8961,7 +9033,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/old-standard-tt",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/old-standard-tt",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oldenburg": {
     "name": "Oldenburg",
@@ -8970,7 +9042,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oldenburg",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oldenburg",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ole": {
     "name": "Ole",
@@ -8979,7 +9051,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ole",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ole",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-oleo-script": {
     "name": "Oleo Script",
@@ -8988,7 +9060,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oleo-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oleo-script",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oleo-script-swash-caps": {
     "name": "Oleo Script Swash Caps",
@@ -8997,7 +9069,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oleo-script-swash-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oleo-script-swash-caps",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oooh-baby": {
     "name": "Oooh Baby",
@@ -9006,7 +9078,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oooh-baby",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oooh-baby",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-open-sans": {
     "name": "Open Sans",
@@ -9015,7 +9087,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/open-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/open-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oranienbaum": {
     "name": "Oranienbaum",
@@ -9024,7 +9096,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oranienbaum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oranienbaum",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-orbitron": {
     "name": "Orbitron",
@@ -9033,7 +9105,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/orbitron",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/orbitron",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oregano": {
     "name": "Oregano",
@@ -9042,7 +9114,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oregano",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oregano",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-orelega-one": {
     "name": "Orelega One",
@@ -9051,7 +9123,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/orelega-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/orelega-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-orienta": {
     "name": "Orienta",
@@ -9060,7 +9132,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/orienta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/orienta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-original-surfer": {
     "name": "Original Surfer",
@@ -9069,7 +9141,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/original-surfer",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/original-surfer",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oswald": {
     "name": "Oswald",
@@ -9078,7 +9150,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oswald",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oswald",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-otomanopee-one": {
     "name": "Otomanopee One",
@@ -9087,7 +9159,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/otomanopee-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/otomanopee-one",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-outfit": {
     "name": "Outfit",
@@ -9096,7 +9168,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/outfit",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/outfit",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-over-the-rainbow": {
     "name": "Over the Rainbow",
@@ -9105,7 +9177,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/over-the-rainbow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/over-the-rainbow",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-overlock": {
     "name": "Overlock",
@@ -9114,7 +9186,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/overlock",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/overlock",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-overlock-sc": {
     "name": "Overlock SC",
@@ -9123,7 +9195,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/overlock-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/overlock-sc",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-overpass": {
     "name": "Overpass",
@@ -9132,7 +9204,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/overpass",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/overpass",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-overpass-mono": {
     "name": "Overpass Mono",
@@ -9141,7 +9213,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/overpass-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/overpass-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ovo": {
     "name": "Ovo",
@@ -9150,7 +9222,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ovo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ovo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oxanium": {
     "name": "Oxanium",
@@ -9159,7 +9231,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oxanium",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oxanium",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oxygen": {
     "name": "Oxygen",
@@ -9168,7 +9240,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oxygen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oxygen",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-oxygen-mono": {
     "name": "Oxygen Mono",
@@ -9177,7 +9249,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/oxygen-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/oxygen-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-mono": {
     "name": "PT Mono",
@@ -9186,7 +9258,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-sans": {
     "name": "PT Sans",
@@ -9195,7 +9267,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-sans-caption": {
     "name": "PT Sans Caption",
@@ -9204,7 +9276,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-sans-caption",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-sans-caption",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-sans-narrow": {
     "name": "PT Sans Narrow",
@@ -9213,7 +9285,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-sans-narrow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-sans-narrow",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-serif": {
     "name": "PT Serif",
@@ -9222,7 +9294,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-serif",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pt-serif-caption": {
     "name": "PT Serif Caption",
@@ -9231,7 +9303,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pt-serif-caption",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pt-serif-caption",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pacifico": {
     "name": "Pacifico",
@@ -9240,7 +9312,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pacifico",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pacifico",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-padauk": {
     "name": "Padauk",
@@ -9249,7 +9321,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/padauk",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/padauk",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-palanquin": {
     "name": "Palanquin",
@@ -9258,7 +9330,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/palanquin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/palanquin",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-palanquin-dark": {
     "name": "Palanquin Dark",
@@ -9267,7 +9339,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/palanquin-dark",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/palanquin-dark",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-palette-mosaic": {
     "name": "Palette Mosaic",
@@ -9276,7 +9348,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/palette-mosaic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/palette-mosaic",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-pangolin": {
     "name": "Pangolin",
@@ -9285,7 +9357,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pangolin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pangolin",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-paprika": {
     "name": "Paprika",
@@ -9294,7 +9366,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/paprika",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/paprika",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-parisienne": {
     "name": "Parisienne",
@@ -9303,7 +9375,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/parisienne",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/parisienne",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-passero-one": {
     "name": "Passero One",
@@ -9312,7 +9384,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/passero-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/passero-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-passion-one": {
     "name": "Passion One",
@@ -9321,7 +9393,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/passion-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/passion-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-passions-conflict": {
     "name": "Passions Conflict",
@@ -9330,7 +9402,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/passions-conflict",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/passions-conflict",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-pathway-gothic-one": {
     "name": "Pathway Gothic One",
@@ -9339,7 +9411,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pathway-gothic-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pathway-gothic-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-patrick-hand": {
     "name": "Patrick Hand",
@@ -9348,7 +9420,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/patrick-hand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/patrick-hand",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-patrick-hand-sc": {
     "name": "Patrick Hand SC",
@@ -9357,7 +9429,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/patrick-hand-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/patrick-hand-sc",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pattaya": {
     "name": "Pattaya",
@@ -9366,7 +9438,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pattaya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pattaya",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-patua-one": {
     "name": "Patua One",
@@ -9375,7 +9447,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/patua-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/patua-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pavanam": {
     "name": "Pavanam",
@@ -9384,7 +9456,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pavanam",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pavanam",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-paytone-one": {
     "name": "Paytone One",
@@ -9393,7 +9465,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/paytone-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/paytone-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-peddana": {
     "name": "Peddana",
@@ -9402,7 +9474,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/peddana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/peddana",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-peralta": {
     "name": "Peralta",
@@ -9411,7 +9483,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/peralta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/peralta",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-permanent-marker": {
     "name": "Permanent Marker",
@@ -9420,7 +9492,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/permanent-marker",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/permanent-marker",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-petemoss": {
     "name": "Petemoss",
@@ -9429,7 +9501,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/petemoss",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/petemoss",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-petit-formal-script": {
     "name": "Petit Formal Script",
@@ -9438,7 +9510,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/petit-formal-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/petit-formal-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-petrona": {
     "name": "Petrona",
@@ -9447,7 +9519,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/petrona",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/petrona",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-philosopher": {
     "name": "Philosopher",
@@ -9456,7 +9528,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/philosopher",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/philosopher",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-piazzolla": {
     "name": "Piazzolla",
@@ -9465,7 +9537,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/piazzolla",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/piazzolla",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-piedra": {
     "name": "Piedra",
@@ -9474,7 +9546,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/piedra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/piedra",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pinyon-script": {
     "name": "Pinyon Script",
@@ -9483,7 +9555,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pinyon-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pinyon-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pirata-one": {
     "name": "Pirata One",
@@ -9492,7 +9564,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pirata-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pirata-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-plaster": {
     "name": "Plaster",
@@ -9501,7 +9573,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/plaster",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/plaster",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-play": {
     "name": "Play",
@@ -9510,7 +9582,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/play",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/play",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-playball": {
     "name": "Playball",
@@ -9519,7 +9591,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/playball",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/playball",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-playfair-display": {
     "name": "Playfair Display",
@@ -9528,7 +9600,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/playfair-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/playfair-display",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-playfair-display-sc": {
     "name": "Playfair Display SC",
@@ -9537,7 +9609,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/playfair-display-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/playfair-display-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-plus-jakarta-sans": {
     "name": "Plus Jakarta Sans",
@@ -9546,7 +9618,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/plus-jakarta-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/plus-jakarta-sans",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-podkova": {
     "name": "Podkova",
@@ -9555,7 +9627,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/podkova",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/podkova",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-poiret-one": {
     "name": "Poiret One",
@@ -9564,7 +9636,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/poiret-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/poiret-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-poller-one": {
     "name": "Poller One",
@@ -9573,7 +9645,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/poller-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/poller-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-poly": {
     "name": "Poly",
@@ -9582,7 +9654,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/poly",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/poly",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pompiere": {
     "name": "Pompiere",
@@ -9591,7 +9663,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pompiere",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pompiere",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pontano-sans": {
     "name": "Pontano Sans",
@@ -9600,7 +9672,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pontano-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pontano-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-poor-story": {
     "name": "Poor Story",
@@ -9609,7 +9681,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/poor-story",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/poor-story",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-poppins": {
     "name": "Poppins",
@@ -9618,7 +9690,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/poppins",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/poppins",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-port-lligat-sans": {
     "name": "Port Lligat Sans",
@@ -9627,7 +9699,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/port-lligat-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/port-lligat-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-port-lligat-slab": {
     "name": "Port Lligat Slab",
@@ -9636,7 +9708,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/port-lligat-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/port-lligat-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-potta-one": {
     "name": "Potta One",
@@ -9645,7 +9717,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/potta-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/potta-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-pragati-narrow": {
     "name": "Pragati Narrow",
@@ -9654,7 +9726,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pragati-narrow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pragati-narrow",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-praise": {
     "name": "Praise",
@@ -9663,7 +9735,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/praise",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/praise",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-prata": {
     "name": "Prata",
@@ -9672,7 +9744,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/prata",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/prata",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-preahvihear": {
     "name": "Preahvihear",
@@ -9681,7 +9753,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/preahvihear",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/preahvihear",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-press-start-2-p": {
     "name": "Press Start 2P",
@@ -9690,7 +9762,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/press-start-2-p",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/press-start-2-p",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-pridi": {
     "name": "Pridi",
@@ -9699,7 +9771,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/pridi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/pridi",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-princess-sofia": {
     "name": "Princess Sofia",
@@ -9708,7 +9780,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/princess-sofia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/princess-sofia",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-prociono": {
     "name": "Prociono",
@@ -9717,7 +9789,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/prociono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/prociono",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-prompt": {
     "name": "Prompt",
@@ -9726,7 +9798,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/prompt",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/prompt",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-prosto-one": {
     "name": "Prosto One",
@@ -9735,7 +9807,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/prosto-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/prosto-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-proza-libre": {
     "name": "Proza Libre",
@@ -9744,7 +9816,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/proza-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/proza-libre",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-public-sans": {
     "name": "Public Sans",
@@ -9753,7 +9825,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/public-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/public-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-puppies-play": {
     "name": "Puppies Play",
@@ -9762,7 +9834,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/puppies-play",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/puppies-play",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-puritan": {
     "name": "Puritan",
@@ -9771,7 +9843,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/puritan",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/puritan",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-purple-purse": {
     "name": "Purple Purse",
@@ -9780,7 +9852,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/purple-purse",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/purple-purse",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-qahiri": {
     "name": "Qahiri",
@@ -9789,7 +9861,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/qahiri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/qahiri",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-quando": {
     "name": "Quando",
@@ -9798,7 +9870,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quando",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quando",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-quantico": {
     "name": "Quantico",
@@ -9807,7 +9879,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quantico",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quantico",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-quattrocento": {
     "name": "Quattrocento",
@@ -9816,7 +9888,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quattrocento",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quattrocento",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-quattrocento-sans": {
     "name": "Quattrocento Sans",
@@ -9825,7 +9897,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quattrocento-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quattrocento-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-questrial": {
     "name": "Questrial",
@@ -9834,7 +9906,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/questrial",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/questrial",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-quicksand": {
     "name": "Quicksand",
@@ -9843,7 +9915,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quicksand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quicksand",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-quintessential": {
     "name": "Quintessential",
@@ -9852,7 +9924,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/quintessential",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/quintessential",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-qwigley": {
     "name": "Qwigley",
@@ -9861,7 +9933,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/qwigley",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/qwigley",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-qwitcher-grypen": {
     "name": "Qwitcher Grypen",
@@ -9870,7 +9942,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/qwitcher-grypen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/qwitcher-grypen",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-racing-sans-one": {
     "name": "Racing Sans One",
@@ -9879,7 +9951,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/racing-sans-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/racing-sans-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-radio-canada": {
     "name": "Radio Canada",
@@ -9888,7 +9960,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/radio-canada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/radio-canada",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-radley": {
     "name": "Radley",
@@ -9897,7 +9969,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/radley",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/radley",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rajdhani": {
     "name": "Rajdhani",
@@ -9906,7 +9978,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rajdhani",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rajdhani",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rakkas": {
     "name": "Rakkas",
@@ -9915,7 +9987,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rakkas",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rakkas",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-raleway": {
     "name": "Raleway",
@@ -9924,7 +9996,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/raleway",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/raleway",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-raleway-dots": {
     "name": "Raleway Dots",
@@ -9933,7 +10005,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/raleway-dots",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/raleway-dots",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ramabhadra": {
     "name": "Ramabhadra",
@@ -9942,7 +10014,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ramabhadra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ramabhadra",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ramaraja": {
     "name": "Ramaraja",
@@ -9951,7 +10023,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ramaraja",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ramaraja",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rambla": {
     "name": "Rambla",
@@ -9960,7 +10032,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rambla",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rambla",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rammetto-one": {
     "name": "Rammetto One",
@@ -9969,7 +10041,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rammetto-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rammetto-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rampart-one": {
     "name": "Rampart One",
@@ -9978,7 +10050,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rampart-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rampart-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ranchers": {
     "name": "Ranchers",
@@ -9987,7 +10059,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ranchers",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ranchers",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rancho": {
     "name": "Rancho",
@@ -9996,7 +10068,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rancho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rancho",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ranga": {
     "name": "Ranga",
@@ -10005,7 +10077,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ranga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ranga",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rasa": {
     "name": "Rasa",
@@ -10014,7 +10086,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rasa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rasa",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rationale": {
     "name": "Rationale",
@@ -10023,7 +10095,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rationale",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rationale",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ravi-prakash": {
     "name": "Ravi Prakash",
@@ -10032,7 +10104,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ravi-prakash",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ravi-prakash",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-readex-pro": {
     "name": "Readex Pro",
@@ -10041,7 +10113,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/readex-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/readex-pro",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-recursive": {
     "name": "Recursive",
@@ -10050,7 +10122,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/recursive",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/recursive",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-red-hat-display": {
     "name": "Red Hat Display",
@@ -10059,7 +10131,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/red-hat-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/red-hat-display",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-red-hat-mono": {
     "name": "Red Hat Mono",
@@ -10068,7 +10140,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/red-hat-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/red-hat-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-red-hat-text": {
     "name": "Red Hat Text",
@@ -10077,7 +10149,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/red-hat-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/red-hat-text",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-red-rose": {
     "name": "Red Rose",
@@ -10086,7 +10158,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/red-rose",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/red-rose",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-redacted": {
     "name": "Redacted",
@@ -10095,7 +10167,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/redacted",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/redacted",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-redacted-script": {
     "name": "Redacted Script",
@@ -10104,7 +10176,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/redacted-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/redacted-script",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-redressed": {
     "name": "Redressed",
@@ -10113,7 +10185,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/redressed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/redressed",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-reem-kufi": {
     "name": "Reem Kufi",
@@ -10122,7 +10194,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/reem-kufi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/reem-kufi",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-reenie-beanie": {
     "name": "Reenie Beanie",
@@ -10131,7 +10203,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/reenie-beanie",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/reenie-beanie",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-reggae-one": {
     "name": "Reggae One",
@@ -10140,7 +10212,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/reggae-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/reggae-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-revalia": {
     "name": "Revalia",
@@ -10149,7 +10221,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/revalia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/revalia",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rhodium-libre": {
     "name": "Rhodium Libre",
@@ -10158,7 +10230,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rhodium-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rhodium-libre",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ribeye": {
     "name": "Ribeye",
@@ -10167,7 +10239,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ribeye",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ribeye",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ribeye-marrow": {
     "name": "Ribeye Marrow",
@@ -10176,7 +10248,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ribeye-marrow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ribeye-marrow",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-righteous": {
     "name": "Righteous",
@@ -10185,7 +10257,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/righteous",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/righteous",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-risque": {
     "name": "Risque",
@@ -10194,7 +10266,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/risque",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/risque",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-road-rage": {
     "name": "Road Rage",
@@ -10203,7 +10275,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/road-rage",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/road-rage",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-roboto": {
     "name": "Roboto",
@@ -10212,7 +10284,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-roboto-condensed": {
     "name": "Roboto Condensed",
@@ -10221,7 +10293,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-roboto-flex": {
     "name": "Roboto Flex",
@@ -10230,7 +10302,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto-flex",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-flex",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.2"
   },
   "@compai/font-roboto-mono": {
     "name": "Roboto Mono",
@@ -10239,7 +10311,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-roboto-serif": {
     "name": "Roboto Serif",
@@ -10248,7 +10320,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto-serif",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-serif",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-roboto-slab": {
     "name": "Roboto Slab",
@@ -10257,7 +10329,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/roboto-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/roboto-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rochester": {
     "name": "Rochester",
@@ -10266,7 +10338,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rochester",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rochester",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rock-3-d": {
     "name": "Rock 3D",
@@ -10275,7 +10347,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rock-3-d",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rock-3-d",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rock-salt": {
     "name": "Rock Salt",
@@ -10284,7 +10356,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rock-salt",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rock-salt",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rockn-roll-one": {
     "name": "RocknRoll One",
@@ -10293,7 +10365,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rockn-roll-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rockn-roll-one",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rokkitt": {
     "name": "Rokkitt",
@@ -10302,7 +10374,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rokkitt",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rokkitt",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-romanesco": {
     "name": "Romanesco",
@@ -10311,7 +10383,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/romanesco",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/romanesco",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ropa-sans": {
     "name": "Ropa Sans",
@@ -10320,7 +10392,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ropa-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ropa-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rosario": {
     "name": "Rosario",
@@ -10329,7 +10401,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rosario",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rosario",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rosarivo": {
     "name": "Rosarivo",
@@ -10338,7 +10410,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rosarivo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rosarivo",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rouge-script": {
     "name": "Rouge Script",
@@ -10347,7 +10419,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rouge-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rouge-script",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rowdies": {
     "name": "Rowdies",
@@ -10356,7 +10428,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rowdies",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rowdies",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rozha-one": {
     "name": "Rozha One",
@@ -10365,7 +10437,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rozha-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rozha-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rubik": {
     "name": "Rubik",
@@ -10374,7 +10446,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rubik-beastly": {
     "name": "Rubik Beastly",
@@ -10383,7 +10455,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-beastly",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-beastly",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-bubbles": {
     "name": "Rubik Bubbles",
@@ -10392,7 +10464,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-bubbles",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-bubbles",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-glitch": {
     "name": "Rubik Glitch",
@@ -10401,7 +10473,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-glitch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-glitch",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-microbe": {
     "name": "Rubik Microbe",
@@ -10410,7 +10482,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-microbe",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-microbe",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-mono-one": {
     "name": "Rubik Mono One",
@@ -10419,7 +10491,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-mono-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-mono-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rubik-moonrocks": {
     "name": "Rubik Moonrocks",
@@ -10428,7 +10500,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-moonrocks",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-moonrocks",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-puddles": {
     "name": "Rubik Puddles",
@@ -10437,7 +10509,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-puddles",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-puddles",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-rubik-wet-paint": {
     "name": "Rubik Wet Paint",
@@ -10446,7 +10518,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rubik-wet-paint",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rubik-wet-paint",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ruda": {
     "name": "Ruda",
@@ -10455,7 +10527,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ruda",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ruda",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rufina": {
     "name": "Rufina",
@@ -10464,7 +10536,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rufina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rufina",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ruge-boogie": {
     "name": "Ruge Boogie",
@@ -10473,7 +10545,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ruge-boogie",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ruge-boogie",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ruluko": {
     "name": "Ruluko",
@@ -10482,7 +10554,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ruluko",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ruluko",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rum-raisin": {
     "name": "Rum Raisin",
@@ -10491,7 +10563,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rum-raisin",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rum-raisin",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ruslan-display": {
     "name": "Ruslan Display",
@@ -10500,7 +10572,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ruslan-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ruslan-display",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-russo-one": {
     "name": "Russo One",
@@ -10509,7 +10581,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/russo-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/russo-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ruthie": {
     "name": "Ruthie",
@@ -10518,7 +10590,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ruthie",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ruthie",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-rye": {
     "name": "Rye",
@@ -10527,7 +10599,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/rye",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/rye",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stix-two-text": {
     "name": "STIX Two Text",
@@ -10536,7 +10608,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stix-two-text",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stix-two-text",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-sacramento": {
     "name": "Sacramento",
@@ -10545,7 +10617,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sacramento",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sacramento",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sahitya": {
     "name": "Sahitya",
@@ -10554,7 +10626,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sahitya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sahitya",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sail": {
     "name": "Sail",
@@ -10563,7 +10635,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sail",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sail",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-saira": {
     "name": "Saira",
@@ -10572,7 +10644,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/saira",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/saira",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-saira-condensed": {
     "name": "Saira Condensed",
@@ -10581,7 +10653,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/saira-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/saira-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-saira-extra-condensed": {
     "name": "Saira Extra Condensed",
@@ -10590,7 +10662,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/saira-extra-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/saira-extra-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-saira-semi-condensed": {
     "name": "Saira Semi Condensed",
@@ -10599,7 +10671,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/saira-semi-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/saira-semi-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-saira-stencil-one": {
     "name": "Saira Stencil One",
@@ -10608,7 +10680,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/saira-stencil-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/saira-stencil-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-salsa": {
     "name": "Salsa",
@@ -10617,7 +10689,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/salsa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/salsa",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sanchez": {
     "name": "Sanchez",
@@ -10626,7 +10698,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sanchez",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sanchez",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sancreek": {
     "name": "Sancreek",
@@ -10635,7 +10707,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sancreek",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sancreek",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sansita": {
     "name": "Sansita",
@@ -10644,7 +10716,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sansita",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sansita",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sansita-swashed": {
     "name": "Sansita Swashed",
@@ -10653,7 +10725,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sansita-swashed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sansita-swashed",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sarabun": {
     "name": "Sarabun",
@@ -10662,7 +10734,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sarabun",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sarabun",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sarala": {
     "name": "Sarala",
@@ -10671,7 +10743,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sarala",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sarala",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sarina": {
     "name": "Sarina",
@@ -10680,7 +10752,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sarina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sarina",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sarpanch": {
     "name": "Sarpanch",
@@ -10689,7 +10761,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sarpanch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sarpanch",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sassy-frass": {
     "name": "Sassy Frass",
@@ -10698,7 +10770,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sassy-frass",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sassy-frass",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-satisfy": {
     "name": "Satisfy",
@@ -10707,7 +10779,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/satisfy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/satisfy",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sawarabi-gothic": {
     "name": "Sawarabi Gothic",
@@ -10716,7 +10788,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sawarabi-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sawarabi-gothic",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sawarabi-mincho": {
     "name": "Sawarabi Mincho",
@@ -10725,7 +10797,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sawarabi-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sawarabi-mincho",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-scada": {
     "name": "Scada",
@@ -10734,7 +10806,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/scada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/scada",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-scheherazade-new": {
     "name": "Scheherazade New",
@@ -10743,7 +10815,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/scheherazade-new",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/scheherazade-new",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-schoolbell": {
     "name": "Schoolbell",
@@ -10752,7 +10824,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/schoolbell",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/schoolbell",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-scope-one": {
     "name": "Scope One",
@@ -10761,7 +10833,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/scope-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/scope-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-seaweed-script": {
     "name": "Seaweed Script",
@@ -10770,7 +10842,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/seaweed-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/seaweed-script",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-secular-one": {
     "name": "Secular One",
@@ -10779,7 +10851,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/secular-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/secular-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sedgwick-ave": {
     "name": "Sedgwick Ave",
@@ -10788,7 +10860,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sedgwick-ave",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sedgwick-ave",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sedgwick-ave-display": {
     "name": "Sedgwick Ave Display",
@@ -10797,7 +10869,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sedgwick-ave-display",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sedgwick-ave-display",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sen": {
     "name": "Sen",
@@ -10806,7 +10878,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sen",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-send-flowers": {
     "name": "Send Flowers",
@@ -10815,7 +10887,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/send-flowers",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/send-flowers",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-sevillana": {
     "name": "Sevillana",
@@ -10824,7 +10896,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sevillana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sevillana",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-seymour-one": {
     "name": "Seymour One",
@@ -10833,7 +10905,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/seymour-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/seymour-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-shadows-into-light": {
     "name": "Shadows Into Light",
@@ -10842,7 +10914,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shadows-into-light",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shadows-into-light",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-shadows-into-light-two": {
     "name": "Shadows Into Light Two",
@@ -10851,7 +10923,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shadows-into-light-two",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shadows-into-light-two",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-shalimar": {
     "name": "Shalimar",
@@ -10860,7 +10932,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shalimar",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shalimar",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shanti": {
     "name": "Shanti",
@@ -10869,7 +10941,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shanti",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shanti",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-share": {
     "name": "Share",
@@ -10878,7 +10950,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/share",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/share",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-share-tech": {
     "name": "Share Tech",
@@ -10887,7 +10959,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/share-tech",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/share-tech",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-share-tech-mono": {
     "name": "Share Tech Mono",
@@ -10896,7 +10968,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/share-tech-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/share-tech-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-shippori-antique": {
     "name": "Shippori Antique",
@@ -10905,7 +10977,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shippori-antique",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-antique",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shippori-antique-b-1": {
     "name": "Shippori Antique B1",
@@ -10914,7 +10986,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shippori-antique-b-1",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-antique-b-1",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shippori-mincho": {
     "name": "Shippori Mincho",
@@ -10923,7 +10995,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shippori-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-mincho",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shippori-mincho-b-1": {
     "name": "Shippori Mincho B1",
@@ -10932,7 +11004,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shippori-mincho-b-1",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shippori-mincho-b-1",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shizuru": {
     "name": "Shizuru",
@@ -10941,7 +11013,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shizuru",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shizuru",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-shojumaru": {
     "name": "Shojumaru",
@@ -10950,7 +11022,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shojumaru",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shojumaru",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-short-stack": {
     "name": "Short Stack",
@@ -10959,7 +11031,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/short-stack",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/short-stack",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-shrikhand": {
     "name": "Shrikhand",
@@ -10968,7 +11040,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/shrikhand",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/shrikhand",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-siemreap": {
     "name": "Siemreap",
@@ -10977,7 +11049,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/siemreap",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/siemreap",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sigmar-one": {
     "name": "Sigmar One",
@@ -10986,7 +11058,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sigmar-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sigmar-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-signika": {
     "name": "Signika",
@@ -10995,7 +11067,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/signika",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/signika",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-signika-negative": {
     "name": "Signika Negative",
@@ -11004,7 +11076,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/signika-negative",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/signika-negative",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-simonetta": {
     "name": "Simonetta",
@@ -11013,7 +11085,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/simonetta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/simonetta",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-single-day": {
     "name": "Single Day",
@@ -11022,7 +11094,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/single-day",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/single-day",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sintony": {
     "name": "Sintony",
@@ -11031,7 +11103,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sintony",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sintony",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sirin-stencil": {
     "name": "Sirin Stencil",
@@ -11040,7 +11112,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sirin-stencil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sirin-stencil",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-six-caps": {
     "name": "Six Caps",
@@ -11049,7 +11121,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/six-caps",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/six-caps",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-skranji": {
     "name": "Skranji",
@@ -11058,7 +11130,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/skranji",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/skranji",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-slabo-13-px": {
     "name": "Slabo 13px",
@@ -11067,7 +11139,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/slabo-13-px",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/slabo-13-px",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-slabo-27-px": {
     "name": "Slabo 27px",
@@ -11076,7 +11148,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/slabo-27-px",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/slabo-27-px",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-slackey": {
     "name": "Slackey",
@@ -11085,7 +11157,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/slackey",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/slackey",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-smokum": {
     "name": "Smokum",
@@ -11094,7 +11166,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/smokum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/smokum",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-smooch": {
     "name": "Smooch",
@@ -11103,7 +11175,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/smooch",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/smooch",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-smooch-sans": {
     "name": "Smooch Sans",
@@ -11112,7 +11184,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/smooch-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/smooch-sans",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-smythe": {
     "name": "Smythe",
@@ -11121,7 +11193,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/smythe",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/smythe",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sniglet": {
     "name": "Sniglet",
@@ -11130,7 +11202,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sniglet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sniglet",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-snippet": {
     "name": "Snippet",
@@ -11139,7 +11211,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/snippet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/snippet",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-snowburst-one": {
     "name": "Snowburst One",
@@ -11148,7 +11220,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/snowburst-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/snowburst-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sofadi-one": {
     "name": "Sofadi One",
@@ -11157,7 +11229,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sofadi-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sofadi-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sofia": {
     "name": "Sofia",
@@ -11166,7 +11238,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sofia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sofia",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-solway": {
     "name": "Solway",
@@ -11175,7 +11247,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/solway",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/solway",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-song-myung": {
     "name": "Song Myung",
@@ -11184,7 +11256,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/song-myung",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/song-myung",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sonsie-one": {
     "name": "Sonsie One",
@@ -11193,7 +11265,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sonsie-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sonsie-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sora": {
     "name": "Sora",
@@ -11202,7 +11274,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sora",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sora",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sorts-mill-goudy": {
     "name": "Sorts Mill Goudy",
@@ -11211,7 +11283,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sorts-mill-goudy",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sorts-mill-goudy",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-source-code-pro": {
     "name": "Source Code Pro",
@@ -11220,7 +11292,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/source-code-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-code-pro",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-source-sans-3": {
     "name": "Source Sans 3",
@@ -11229,7 +11301,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/source-sans-3",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-sans-3",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-source-sans-pro": {
     "name": "Source Sans Pro",
@@ -11238,7 +11310,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/source-sans-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-sans-pro",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-source-serif-4": {
     "name": "Source Serif 4",
@@ -11247,7 +11319,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/source-serif-4",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-serif-4",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-source-serif-pro": {
     "name": "Source Serif Pro",
@@ -11256,7 +11328,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/source-serif-pro",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/source-serif-pro",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-space-grotesk": {
     "name": "Space Grotesk",
@@ -11265,7 +11337,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/space-grotesk",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/space-grotesk",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-space-mono": {
     "name": "Space Mono",
@@ -11274,7 +11346,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/space-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/space-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-special-elite": {
     "name": "Special Elite",
@@ -11283,7 +11355,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/special-elite",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/special-elite",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spectral": {
     "name": "Spectral",
@@ -11292,7 +11364,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spectral",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spectral",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spectral-sc": {
     "name": "Spectral SC",
@@ -11301,7 +11373,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spectral-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spectral-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spicy-rice": {
     "name": "Spicy Rice",
@@ -11310,7 +11382,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spicy-rice",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spicy-rice",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spinnaker": {
     "name": "Spinnaker",
@@ -11319,7 +11391,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spinnaker",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spinnaker",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spirax": {
     "name": "Spirax",
@@ -11328,7 +11400,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spirax",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spirax",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-spline-sans": {
     "name": "Spline Sans",
@@ -11337,6 +11409,15 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/spline-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/spline-sans",
     "category": "sans-serif",
+    "version": "0.0.1"
+  },
+  "@compai/font-spline-sans-mono": {
+    "name": "Spline Sans Mono",
+    "kebabName": "spline-sans-mono",
+    "packageName": "@compai/font-spline-sans-mono",
+    "docs": "https://components.ai/docs/typefaces/spline-sans-mono",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/spline-sans-mono",
+    "category": "monospace",
     "version": "0.0.0"
   },
   "@compai/font-squada-one": {
@@ -11346,7 +11427,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/squada-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/squada-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-square-peg": {
     "name": "Square Peg",
@@ -11355,7 +11436,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/square-peg",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/square-peg",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-sree-krushnadevaraya": {
     "name": "Sree Krushnadevaraya",
@@ -11364,7 +11445,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sree-krushnadevaraya",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sree-krushnadevaraya",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sriracha": {
     "name": "Sriracha",
@@ -11373,7 +11454,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sriracha",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sriracha",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-srisakdi": {
     "name": "Srisakdi",
@@ -11382,7 +11463,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/srisakdi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/srisakdi",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-staatliches": {
     "name": "Staatliches",
@@ -11391,7 +11472,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/staatliches",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/staatliches",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stalemate": {
     "name": "Stalemate",
@@ -11400,7 +11481,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stalemate",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stalemate",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stalinist-one": {
     "name": "Stalinist One",
@@ -11409,7 +11490,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stalinist-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stalinist-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stardos-stencil": {
     "name": "Stardos Stencil",
@@ -11418,7 +11499,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stardos-stencil",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stardos-stencil",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stick": {
     "name": "Stick",
@@ -11427,7 +11508,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stick",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stick",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-stick-no-bills": {
     "name": "Stick No Bills",
@@ -11436,7 +11517,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stick-no-bills",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stick-no-bills",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-stint-ultra-condensed": {
     "name": "Stint Ultra Condensed",
@@ -11445,7 +11526,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stint-ultra-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stint-ultra-condensed",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stint-ultra-expanded": {
     "name": "Stint Ultra Expanded",
@@ -11454,7 +11535,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stint-ultra-expanded",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stint-ultra-expanded",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-stoke": {
     "name": "Stoke",
@@ -11463,7 +11544,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stoke",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stoke",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-strait": {
     "name": "Strait",
@@ -11472,7 +11553,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/strait",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/strait",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-style-script": {
     "name": "Style Script",
@@ -11481,7 +11562,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/style-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/style-script",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-stylish": {
     "name": "Stylish",
@@ -11490,7 +11571,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/stylish",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/stylish",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sue-ellen-francisco": {
     "name": "Sue Ellen Francisco",
@@ -11499,7 +11580,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sue-ellen-francisco",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sue-ellen-francisco",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-suez-one": {
     "name": "Suez One",
@@ -11508,7 +11589,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/suez-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/suez-one",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sulphur-point": {
     "name": "Sulphur Point",
@@ -11517,7 +11598,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sulphur-point",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sulphur-point",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sumana": {
     "name": "Sumana",
@@ -11526,7 +11607,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sumana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sumana",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sunflower": {
     "name": "Sunflower",
@@ -11535,7 +11616,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sunflower",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sunflower",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sunshiney": {
     "name": "Sunshiney",
@@ -11544,7 +11625,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sunshiney",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sunshiney",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-supermercado-one": {
     "name": "Supermercado One",
@@ -11553,7 +11634,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/supermercado-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/supermercado-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-sura": {
     "name": "Sura",
@@ -11562,7 +11643,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/sura",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/sura",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-suranna": {
     "name": "Suranna",
@@ -11571,7 +11652,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/suranna",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/suranna",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-suravaram": {
     "name": "Suravaram",
@@ -11580,7 +11661,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/suravaram",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/suravaram",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-suwannaphum": {
     "name": "Suwannaphum",
@@ -11589,7 +11670,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/suwannaphum",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/suwannaphum",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-swanky-and-moo-moo": {
     "name": "Swanky and Moo Moo",
@@ -11598,7 +11679,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/swanky-and-moo-moo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/swanky-and-moo-moo",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-syncopate": {
     "name": "Syncopate",
@@ -11607,7 +11688,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/syncopate",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/syncopate",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-syne": {
     "name": "Syne",
@@ -11616,7 +11697,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/syne",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/syne",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-syne-mono": {
     "name": "Syne Mono",
@@ -11625,7 +11706,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/syne-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/syne-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-syne-tactile": {
     "name": "Syne Tactile",
@@ -11634,6 +11715,15 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/syne-tactile",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/syne-tactile",
     "category": "display",
+    "version": "0.0.1"
+  },
+  "@compai/font-tai-heritage-pro": {
+    "name": "Tai Heritage Pro",
+    "kebabName": "tai-heritage-pro",
+    "packageName": "@compai/font-tai-heritage-pro",
+    "docs": "https://components.ai/docs/typefaces/tai-heritage-pro",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tai-heritage-pro",
+    "category": "serif",
     "version": "0.0.0"
   },
   "@compai/font-tajawal": {
@@ -11643,7 +11733,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tajawal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tajawal",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tangerine": {
     "name": "Tangerine",
@@ -11652,7 +11742,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tangerine",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tangerine",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tapestry": {
     "name": "Tapestry",
@@ -11661,7 +11751,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tapestry",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tapestry",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-taprom": {
     "name": "Taprom",
@@ -11670,7 +11760,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/taprom",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/taprom",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tauri": {
     "name": "Tauri",
@@ -11679,7 +11769,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tauri",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tauri",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-taviraj": {
     "name": "Taviraj",
@@ -11688,7 +11778,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/taviraj",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/taviraj",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-teko": {
     "name": "Teko",
@@ -11697,7 +11787,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/teko",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/teko",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-telex": {
     "name": "Telex",
@@ -11706,7 +11796,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/telex",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/telex",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tenali-ramakrishna": {
     "name": "Tenali Ramakrishna",
@@ -11715,7 +11805,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tenali-ramakrishna",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tenali-ramakrishna",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tenor-sans": {
     "name": "Tenor Sans",
@@ -11724,7 +11814,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tenor-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tenor-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-text-me-one": {
     "name": "Text Me One",
@@ -11733,7 +11823,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/text-me-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/text-me-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-texturina": {
     "name": "Texturina",
@@ -11742,7 +11832,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/texturina",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/texturina",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-thasadith": {
     "name": "Thasadith",
@@ -11751,7 +11841,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/thasadith",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/thasadith",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-the-girl-next-door": {
     "name": "The Girl Next Door",
@@ -11760,7 +11850,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/the-girl-next-door",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/the-girl-next-door",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-the-nautigal": {
     "name": "The Nautigal",
@@ -11769,7 +11859,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/the-nautigal",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/the-nautigal",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-tienne": {
     "name": "Tienne",
@@ -11778,7 +11868,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tienne",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tienne",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tillana": {
     "name": "Tillana",
@@ -11787,7 +11877,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tillana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tillana",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-timmana": {
     "name": "Timmana",
@@ -11796,7 +11886,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/timmana",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/timmana",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tinos": {
     "name": "Tinos",
@@ -11805,7 +11895,79 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tinos",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tinos",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
+  },
+  "@compai/font-tiro-bangla": {
+    "name": "Tiro Bangla",
+    "kebabName": "tiro-bangla",
+    "packageName": "@compai/font-tiro-bangla",
+    "docs": "https://components.ai/docs/typefaces/tiro-bangla",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-bangla",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-devanagari-hindi": {
+    "name": "Tiro Devanagari Hindi",
+    "kebabName": "tiro-devanagari-hindi",
+    "packageName": "@compai/font-tiro-devanagari-hindi",
+    "docs": "https://components.ai/docs/typefaces/tiro-devanagari-hindi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-devanagari-hindi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-devanagari-marathi": {
+    "name": "Tiro Devanagari Marathi",
+    "kebabName": "tiro-devanagari-marathi",
+    "packageName": "@compai/font-tiro-devanagari-marathi",
+    "docs": "https://components.ai/docs/typefaces/tiro-devanagari-marathi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-devanagari-marathi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-devanagari-sanskrit": {
+    "name": "Tiro Devanagari Sanskrit",
+    "kebabName": "tiro-devanagari-sanskrit",
+    "packageName": "@compai/font-tiro-devanagari-sanskrit",
+    "docs": "https://components.ai/docs/typefaces/tiro-devanagari-sanskrit",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-devanagari-sanskrit",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-gurmukhi": {
+    "name": "Tiro Gurmukhi",
+    "kebabName": "tiro-gurmukhi",
+    "packageName": "@compai/font-tiro-gurmukhi",
+    "docs": "https://components.ai/docs/typefaces/tiro-gurmukhi",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-gurmukhi",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-kannada": {
+    "name": "Tiro Kannada",
+    "kebabName": "tiro-kannada",
+    "packageName": "@compai/font-tiro-kannada",
+    "docs": "https://components.ai/docs/typefaces/tiro-kannada",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-kannada",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-tamil": {
+    "name": "Tiro Tamil",
+    "kebabName": "tiro-tamil",
+    "packageName": "@compai/font-tiro-tamil",
+    "docs": "https://components.ai/docs/typefaces/tiro-tamil",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-tamil",
+    "category": "serif",
+    "version": "0.0.0"
+  },
+  "@compai/font-tiro-telugu": {
+    "name": "Tiro Telugu",
+    "kebabName": "tiro-telugu",
+    "packageName": "@compai/font-tiro-telugu",
+    "docs": "https://components.ai/docs/typefaces/tiro-telugu",
+    "apiEndpoint": "https://components.ai/api/v1/typefaces/tiro-telugu",
+    "category": "serif",
+    "version": "0.0.0"
   },
   "@compai/font-titan-one": {
     "name": "Titan One",
@@ -11814,7 +11976,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/titan-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/titan-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-titillium-web": {
     "name": "Titillium Web",
@@ -11823,7 +11985,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/titillium-web",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/titillium-web",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tomorrow": {
     "name": "Tomorrow",
@@ -11832,7 +11994,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tomorrow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tomorrow",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tourney": {
     "name": "Tourney",
@@ -11841,7 +12003,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tourney",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tourney",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-trade-winds": {
     "name": "Trade Winds",
@@ -11850,7 +12012,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trade-winds",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trade-winds",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-train-one": {
     "name": "Train One",
@@ -11859,7 +12021,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/train-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/train-one",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-trirong": {
     "name": "Trirong",
@@ -11868,7 +12030,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trirong",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trirong",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-trispace": {
     "name": "Trispace",
@@ -11877,7 +12039,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trispace",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trispace",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-trocchi": {
     "name": "Trocchi",
@@ -11886,7 +12048,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trocchi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trocchi",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-trochut": {
     "name": "Trochut",
@@ -11895,7 +12057,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trochut",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trochut",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-truculenta": {
     "name": "Truculenta",
@@ -11904,7 +12066,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/truculenta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/truculenta",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-trykker": {
     "name": "Trykker",
@@ -11913,7 +12075,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/trykker",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/trykker",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-tulpen-one": {
     "name": "Tulpen One",
@@ -11922,7 +12084,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/tulpen-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/tulpen-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-turret-road": {
     "name": "Turret Road",
@@ -11931,7 +12093,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/turret-road",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/turret-road",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-twinkle-star": {
     "name": "Twinkle Star",
@@ -11940,7 +12102,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/twinkle-star",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/twinkle-star",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ubuntu": {
     "name": "Ubuntu",
@@ -11949,7 +12111,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ubuntu",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ubuntu",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ubuntu-condensed": {
     "name": "Ubuntu Condensed",
@@ -11958,7 +12120,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ubuntu-condensed",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ubuntu-condensed",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-ubuntu-mono": {
     "name": "Ubuntu Mono",
@@ -11967,7 +12129,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ubuntu-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ubuntu-mono",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-uchen": {
     "name": "Uchen",
@@ -11976,7 +12138,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/uchen",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/uchen",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-ultra": {
     "name": "Ultra",
@@ -11985,7 +12147,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/ultra",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/ultra",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-uncial-antiqua": {
     "name": "Uncial Antiqua",
@@ -11994,7 +12156,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/uncial-antiqua",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/uncial-antiqua",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-underdog": {
     "name": "Underdog",
@@ -12003,7 +12165,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/underdog",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/underdog",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unica-one": {
     "name": "Unica One",
@@ -12012,7 +12174,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unica-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unica-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unifraktur-cook": {
     "name": "UnifrakturCook",
@@ -12021,7 +12183,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unifraktur-cook",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unifraktur-cook",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unifraktur-maguntia": {
     "name": "UnifrakturMaguntia",
@@ -12030,7 +12192,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unifraktur-maguntia",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unifraktur-maguntia",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unkempt": {
     "name": "Unkempt",
@@ -12039,7 +12201,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unkempt",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unkempt",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unlock": {
     "name": "Unlock",
@@ -12048,7 +12210,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unlock",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unlock",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-unna": {
     "name": "Unna",
@@ -12057,7 +12219,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/unna",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/unna",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-updock": {
     "name": "Updock",
@@ -12066,7 +12228,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/updock",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/updock",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-urbanist": {
     "name": "Urbanist",
@@ -12075,7 +12237,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/urbanist",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/urbanist",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-vt-323": {
     "name": "VT323",
@@ -12084,7 +12246,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vt-323",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vt-323",
     "category": "monospace",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vampiro-one": {
     "name": "Vampiro One",
@@ -12093,7 +12255,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vampiro-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vampiro-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-varela": {
     "name": "Varela",
@@ -12102,7 +12264,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/varela",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/varela",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-varela-round": {
     "name": "Varela Round",
@@ -12111,7 +12273,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/varela-round",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/varela-round",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-varta": {
     "name": "Varta",
@@ -12120,7 +12282,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/varta",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/varta",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vast-shadow": {
     "name": "Vast Shadow",
@@ -12129,7 +12291,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vast-shadow",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vast-shadow",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vazirmatn": {
     "name": "Vazirmatn",
@@ -12138,7 +12300,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vazirmatn",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vazirmatn",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-vesper-libre": {
     "name": "Vesper Libre",
@@ -12147,7 +12309,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vesper-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vesper-libre",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-viaoda-libre": {
     "name": "Viaoda Libre",
@@ -12156,7 +12318,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/viaoda-libre",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/viaoda-libre",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vibes": {
     "name": "Vibes",
@@ -12165,7 +12327,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vibes",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vibes",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vibur": {
     "name": "Vibur",
@@ -12174,7 +12336,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vibur",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vibur",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vidaloka": {
     "name": "Vidaloka",
@@ -12183,7 +12345,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vidaloka",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vidaloka",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-viga": {
     "name": "Viga",
@@ -12192,7 +12354,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/viga",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/viga",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-voces": {
     "name": "Voces",
@@ -12201,7 +12363,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/voces",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/voces",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-volkhov": {
     "name": "Volkhov",
@@ -12210,7 +12372,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/volkhov",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/volkhov",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vollkorn": {
     "name": "Vollkorn",
@@ -12219,7 +12381,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vollkorn",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vollkorn",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vollkorn-sc": {
     "name": "Vollkorn SC",
@@ -12228,7 +12390,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vollkorn-sc",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vollkorn-sc",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-voltaire": {
     "name": "Voltaire",
@@ -12237,7 +12399,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/voltaire",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/voltaire",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-vujahday-script": {
     "name": "Vujahday Script",
@@ -12246,7 +12408,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/vujahday-script",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/vujahday-script",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-waiting-for-the-sunrise": {
     "name": "Waiting for the Sunrise",
@@ -12255,7 +12417,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/waiting-for-the-sunrise",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/waiting-for-the-sunrise",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-wallpoet": {
     "name": "Wallpoet",
@@ -12264,7 +12426,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/wallpoet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/wallpoet",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-walter-turncoat": {
     "name": "Walter Turncoat",
@@ -12273,7 +12435,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/walter-turncoat",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/walter-turncoat",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-warnes": {
     "name": "Warnes",
@@ -12282,7 +12444,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/warnes",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/warnes",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-water-brush": {
     "name": "Water Brush",
@@ -12291,7 +12453,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/water-brush",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/water-brush",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-waterfall": {
     "name": "Waterfall",
@@ -12300,7 +12462,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/waterfall",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/waterfall",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-wellfleet": {
     "name": "Wellfleet",
@@ -12309,7 +12471,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/wellfleet",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/wellfleet",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-wendy-one": {
     "name": "Wendy One",
@@ -12318,7 +12480,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/wendy-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/wendy-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-whisper": {
     "name": "Whisper",
@@ -12327,7 +12489,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/whisper",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/whisper",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-wind-song": {
     "name": "WindSong",
@@ -12336,7 +12498,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/wind-song",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/wind-song",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-wire-one": {
     "name": "Wire One",
@@ -12345,7 +12507,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/wire-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/wire-one",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-work-sans": {
     "name": "Work Sans",
@@ -12354,7 +12516,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/work-sans",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/work-sans",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-xanh-mono": {
     "name": "Xanh Mono",
@@ -12363,7 +12525,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/xanh-mono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/xanh-mono",
     "category": "monospace",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yaldevi": {
     "name": "Yaldevi",
@@ -12372,7 +12534,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yaldevi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yaldevi",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yanone-kaffeesatz": {
     "name": "Yanone Kaffeesatz",
@@ -12381,7 +12543,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yanone-kaffeesatz",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yanone-kaffeesatz",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yantramanav": {
     "name": "Yantramanav",
@@ -12390,7 +12552,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yantramanav",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yantramanav",
     "category": "sans-serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yatra-one": {
     "name": "Yatra One",
@@ -12399,7 +12561,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yatra-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yatra-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yellowtail": {
     "name": "Yellowtail",
@@ -12408,7 +12570,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yellowtail",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yellowtail",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yeon-sung": {
     "name": "Yeon Sung",
@@ -12417,7 +12579,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yeon-sung",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yeon-sung",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yeseva-one": {
     "name": "Yeseva One",
@@ -12426,7 +12588,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yeseva-one",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yeseva-one",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yesteryear": {
     "name": "Yesteryear",
@@ -12435,7 +12597,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yesteryear",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yesteryear",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yomogi": {
     "name": "Yomogi",
@@ -12444,7 +12606,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yomogi",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yomogi",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yrsa": {
     "name": "Yrsa",
@@ -12453,7 +12615,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yrsa",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yrsa",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-yuji-boku": {
     "name": "Yuji Boku",
@@ -12462,7 +12624,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yuji-boku",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-boku",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yuji-hentaigana-akari": {
     "name": "Yuji Hentaigana Akari",
@@ -12471,7 +12633,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yuji-hentaigana-akari",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-hentaigana-akari",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yuji-hentaigana-akebono": {
     "name": "Yuji Hentaigana Akebono",
@@ -12480,7 +12642,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yuji-hentaigana-akebono",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-hentaigana-akebono",
     "category": "handwriting",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yuji-mai": {
     "name": "Yuji Mai",
@@ -12489,7 +12651,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yuji-mai",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-mai",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yuji-syuku": {
     "name": "Yuji Syuku",
@@ -12498,7 +12660,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yuji-syuku",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yuji-syuku",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-yusei-magic": {
     "name": "Yusei Magic",
@@ -12507,7 +12669,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/yusei-magic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/yusei-magic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zcool-kuai-le": {
     "name": "ZCOOL KuaiLe",
@@ -12516,7 +12678,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zcool-kuai-le",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zcool-kuai-le",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zcool-qing-ke-huang-you": {
     "name": "ZCOOL QingKe HuangYou",
@@ -12525,7 +12687,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zcool-qing-ke-huang-you",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zcool-qing-ke-huang-you",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zcool-xiao-wei": {
     "name": "ZCOOL XiaoWei",
@@ -12534,7 +12696,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zcool-xiao-wei",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zcool-xiao-wei",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zen-antique": {
     "name": "Zen Antique",
@@ -12543,7 +12705,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-antique",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-antique",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-antique-soft": {
     "name": "Zen Antique Soft",
@@ -12552,7 +12714,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-antique-soft",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-antique-soft",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-dots": {
     "name": "Zen Dots",
@@ -12561,7 +12723,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-dots",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-dots",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-kaku-gothic-antique": {
     "name": "Zen Kaku Gothic Antique",
@@ -12570,7 +12732,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-kaku-gothic-antique",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kaku-gothic-antique",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-kaku-gothic-new": {
     "name": "Zen Kaku Gothic New",
@@ -12579,7 +12741,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-kaku-gothic-new",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kaku-gothic-new",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-kurenaido": {
     "name": "Zen Kurenaido",
@@ -12588,7 +12750,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-kurenaido",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-kurenaido",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-loop": {
     "name": "Zen Loop",
@@ -12597,7 +12759,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-loop",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-loop",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-maru-gothic": {
     "name": "Zen Maru Gothic",
@@ -12606,7 +12768,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-maru-gothic",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-maru-gothic",
     "category": "sans-serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-old-mincho": {
     "name": "Zen Old Mincho",
@@ -12615,7 +12777,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-old-mincho",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-old-mincho",
     "category": "serif",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zen-tokyo-zoo": {
     "name": "Zen Tokyo Zoo",
@@ -12624,7 +12786,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zen-tokyo-zoo",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zen-tokyo-zoo",
     "category": "display",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "@compai/font-zeyada": {
     "name": "Zeyada",
@@ -12633,7 +12795,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zeyada",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zeyada",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zhi-mang-xing": {
     "name": "Zhi Mang Xing",
@@ -12642,7 +12804,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zhi-mang-xing",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zhi-mang-xing",
     "category": "handwriting",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zilla-slab": {
     "name": "Zilla Slab",
@@ -12651,7 +12813,7 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zilla-slab",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zilla-slab",
     "category": "serif",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "@compai/font-zilla-slab-highlight": {
     "name": "Zilla Slab Highlight",
@@ -12660,6 +12822,6 @@ module.exports = {
     "docs": "https://components.ai/docs/typefaces/zilla-slab-highlight",
     "apiEndpoint": "https://components.ai/api/v1/typefaces/zilla-slab-highlight",
     "category": "display",
-    "version": "0.0.2"
+    "version": "0.0.3"
   }
 }

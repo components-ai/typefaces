@@ -1,9 +1,16 @@
 {
+  "italic": {
+    "300": "https://fonts.gstatic.com/l/font?kit=XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0rWLHup6Sg&skey=5848db3c633b43ca&v=v14#RadioCanada",
+    "400": "https://fonts.gstatic.com/l/font?kit=XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0uuLHup6Sg&skey=5848db3c633b43ca&v=v14#RadioCanada",
+    "500": "https://fonts.gstatic.com/l/font?kit=XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0tmLHup6Sg&skey=5848db3c633b43ca&v=v14#RadioCanada",
+    "600": "https://fonts.gstatic.com/l/font?kit=XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0jWMHup6Sg&skey=5848db3c633b43ca&v=v14#RadioCanada",
+    "700": "https://fonts.gstatic.com/l/font?kit=XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0gyMHup6Sg&skey=5848db3c633b43ca&v=v14#RadioCanada"
+  },
   "normal": {
-    "300": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkTPBLuE&skey=8070a3c9b55d48fc&v=v11#RadioCanada",
-    "400": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkTPBLuE&skey=8070a3c9b55d48fc&v=v11#RadioCanada",
-    "500": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kTPBLuE&skey=8070a3c9b55d48fc&v=v11#RadioCanada",
-    "600": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSljPBLuE&skey=8070a3c9b55d48fc&v=v11#RadioCanada",
-    "700": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrljPBLuE&skey=8070a3c9b55d48fc&v=v11#RadioCanada"
+    "300": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkTPBLuE&skey=8070a3c9b55d48fc&v=v14#RadioCanada",
+    "400": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkTPBLuE&skey=8070a3c9b55d48fc&v=v14#RadioCanada",
+    "500": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kTPBLuE&skey=8070a3c9b55d48fc&v=v14#RadioCanada",
+    "600": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSljPBLuE&skey=8070a3c9b55d48fc&v=v14#RadioCanada",
+    "700": "https://fonts.gstatic.com/l/font?kit=XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrljPBLuE&skey=8070a3c9b55d48fc&v=v14#RadioCanada"
   }
 }

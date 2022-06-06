@@ -1,18 +1,18 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf",
-    "300": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf",
-    "400": "https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xGIzc.ttf",
-    "500": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf",
-    "700": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf",
-    "900": "https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf"
+    "100": "https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf",
+    "300": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf",
+    "400": "https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzc.ttf",
+    "500": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf",
+    "700": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf",
+    "900": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxGIzc.ttf",
-    "300": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fChc9.ttf",
-    "400": "https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7GxP.ttf",
-    "500": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fChc9.ttf",
-    "700": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfChc9.ttf",
-    "900": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfChc9.ttf"
+    "100": "https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzc.ttf",
+    "300": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc9.ttf",
+    "400": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf",
+    "500": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc9.ttf",
+    "700": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf",
+    "900": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc9.ttf"
   }
 }

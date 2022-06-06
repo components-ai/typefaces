@@ -1,0 +1,10 @@
+{
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=IurD6Ytw-oSPaZ00r2bNe8VZjqFBwG4&skey=9c0d480b2f28b32b&v=v1#GentiumPlus",
+    "700": "https://fonts.gstatic.com/l/font?kit=IurA6Ytw-oSPaZ00r2bNe8VZjqn05Xw81oQ&skey=e6c1ecea52840428&v=v1#GentiumPlus"
+  },
+  "normal": {
+    "400": "https://fonts.gstatic.com/l/font?kit=Iurd6Ytw-oSPaZ00r2bNe8VZhZFK&skey=d7e2a52e49f4346c&v=v1#GentiumPlus",
+    "700": "https://fonts.gstatic.com/l/font?kit=IurC6Ytw-oSPaZ00r2bNe8VRMLRY6Uw3&skey=8d337179f6177a8c&v=v1#GentiumPlus"
+  }
+}

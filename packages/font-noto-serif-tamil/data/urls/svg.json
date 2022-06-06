@@ -1,24 +1,24 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5svbx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "200": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5s_bx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "300": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJwns_bx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "400": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5s_bx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "500": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJxLs_bx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "600": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyntPbx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "700": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyetPbx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "800": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5tPbx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil",
-    "900": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJzQtPbx&skey=f9a5d0e680f285fa&v=v17#NotoSerifTamil"
+    "100": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5svbx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "200": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5s_bx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "300": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJwns_bx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "400": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJx5s_bx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "500": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJxLs_bx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "600": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyntPbx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "700": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJyetPbx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "800": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJz5tPbx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil",
+    "900": "https://fonts.gstatic.com/l/font?kit=LYjldHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWrypghjeOa18G4fJzQtPbx&skey=f9a5d0e680f285fa&v=v20#NotoSerifTamil"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN6R8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "200": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNN-R8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "300": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecat6t-R8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "400": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-R8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "500": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatht-R8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "600": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatatiR8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "700": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatU9iR8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "800": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNNiR8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil",
-    "900": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatHdiR8g&skey=2785cd8d1ebbd945&v=v17#NotoSerifTamil"
+    "100": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN6R8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "200": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNN-R8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "300": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecat6t-R8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "400": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-R8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "500": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatht-R8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "600": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatatiR8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "700": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatU9iR8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "800": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatNNiR8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil",
+    "900": "https://fonts.gstatic.com/l/font?kit=LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecatHdiR8g&skey=2785cd8d1ebbd945&v=v20#NotoSerifTamil"
   }
 }

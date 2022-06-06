@@ -1,18 +1,18 @@
 {
   "italic": {
-    "100": "https://fonts.gstatic.com/l/font?kit=KFOiCnqEu92Fr1Mu51QrEz4dKA&skey=8f53aa2e7deadc4a&v=v29#Roboto",
-    "300": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TjASc0CsM&skey=8f644060176e1f7e&v=v29#Roboto",
-    "400": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1Mu51xGIzU&skey=c608c610063635f9&v=v29#Roboto",
-    "500": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51S7ACc0CsM&skey=c985e17098069ce0&v=v29#Roboto",
-    "700": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TzBic0CsM&skey=dd030d266f3beccc&v=v29#Roboto",
-    "900": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TLBCc0CsM&skey=b80be3241fe40325&v=v29#Roboto"
+    "100": "https://fonts.gstatic.com/l/font?kit=KFOiCnqEu92Fr1Mu51QrEz4dKA&skey=8f53aa2e7deadc4a&v=v30#Roboto",
+    "300": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TjASc0CsM&skey=8f644060176e1f7e&v=v30#Roboto",
+    "400": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1Mu51xGIzU&skey=c608c610063635f9&v=v30#Roboto",
+    "500": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51S7ACc0CsM&skey=c985e17098069ce0&v=v30#Roboto",
+    "700": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TzBic0CsM&skey=dd030d266f3beccc&v=v30#Roboto",
+    "900": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TLBCc0CsM&skey=b80be3241fe40325&v=v30#Roboto"
   },
   "normal": {
-    "100": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1MmgVxGIzU&skey=5473b731ec7fc9c1&v=v29#Roboto",
-    "300": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmSU5fChc_&skey=11ce8ad5f54705ca&v=v29#Roboto",
-    "400": "https://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu7GxN&skey=a0a0114a1dcab3ac&v=v29#Roboto",
-    "500": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fChc_&skey=ee881451c540fdec&v=v29#Roboto",
-    "700": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmWUlfChc_&skey=c06e7213f788649e&v=v29#Roboto",
-    "900": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmYUtfChc_&skey=934406f772f9777d&v=v29#Roboto"
+    "100": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1MmgVxGIzU&skey=5473b731ec7fc9c1&v=v30#Roboto",
+    "300": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmSU5fChc_&skey=11ce8ad5f54705ca&v=v30#Roboto",
+    "400": "https://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu7GxN&skey=a0a0114a1dcab3ac&v=v30#Roboto",
+    "500": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fChc_&skey=ee881451c540fdec&v=v30#Roboto",
+    "700": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmWUlfChc_&skey=c06e7213f788649e&v=v30#Roboto",
+    "900": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmYUtfChc_&skey=934406f772f9777d&v=v30#Roboto"
   }
 }

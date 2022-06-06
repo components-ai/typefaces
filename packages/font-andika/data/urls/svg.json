@@ -1,5 +1,10 @@
 {
+  "italic": {
+    "400": "https://fonts.gstatic.com/l/font?kit=mem9Ya6iyW-Lwqgwb4Yccr8&skey=9c183d374024f1ba&v=v22#Andika",
+    "700": "https://fonts.gstatic.com/l/font?kit=mem6Ya6iyW-Lwqgwb46pV60Xdco&skey=48bb92e220b2a88a&v=v22#Andika"
+  },
   "normal": {
-    "400": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwZLYX&skey=c52ba807e15599a0&v=v19#Andika"
+    "400": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwZLYX&skey=c52ba807e15599a0&v=v22#Andika",
+    "700": "https://fonts.gstatic.com/l/font?kit=mem8Ya6iyW-Lwqg40ZMFW50c&skey=52da1f29002933eb&v=v22#Andika"
   }
 }
