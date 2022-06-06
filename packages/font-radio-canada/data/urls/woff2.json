@@ -1,9 +1,16 @@
 {
+  "italic": {
+    "300": "https://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0rWLHuR6TQ.woff2",
+    "400": "https://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0uuLHuR6TQ.woff2",
+    "500": "https://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0tmLHuR6TQ.woff2",
+    "600": "https://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0jWMHuR6TQ.woff2",
+    "700": "https://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0gyMHuR6TQ.woff2"
+  },
   "normal": {
-    "300": "https://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkTPPLuY.woff2",
-    "400": "https://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkTPPLuY.woff2",
-    "500": "https://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kTPPLuY.woff2",
-    "600": "https://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSljPPLuY.woff2",
-    "700": "https://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrljPPLuY.woff2"
+    "300": "https://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkTPPLuY.woff2",
+    "400": "https://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkTPPLuY.woff2",
+    "500": "https://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kTPPLuY.woff2",
+    "600": "https://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSljPPLuY.woff2",
+    "700": "https://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrljPPLuY.woff2"
   }
 }

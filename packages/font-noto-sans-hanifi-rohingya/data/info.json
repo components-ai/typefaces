@@ -1,6 +1,6 @@
 {
   "category": "sans-serif",
-  "lastModified": "2022-05-10",
+  "lastModified": "2022-06-01",
   "subsets": [
     "hanifi-rohingya"
   ],
@@ -12,46 +12,46 @@
       "400": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6u.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6t&skey=d771cc3d35197445&v=v15#NotoSansHanifiRohingya",
-          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6v.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6s.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g7At8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6u.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6t&skey=d771cc3d35197445&v=v18#NotoSansHanifiRohingya",
+          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6v.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6s.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g7At8o.woff2"
         }
       },
       "500": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6u.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6t&skey=d771cc3d35197445&v=v15#NotoSansHanifiRohingya",
-          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6v.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6s.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4g7At8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6u.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6t&skey=d771cc3d35197445&v=v18#NotoSansHanifiRohingya",
+          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6v.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6s.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4g7At8o.woff2"
         }
       },
       "600": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6u.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6t&skey=d771cc3d35197445&v=v15#NotoSansHanifiRohingya",
-          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6v.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6s.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5Q7At8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6u.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6t&skey=d771cc3d35197445&v=v18#NotoSansHanifiRohingya",
+          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6v.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6s.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5Q7At8o.woff2"
         }
       },
       "700": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6u.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6t&skey=d771cc3d35197445&v=v15#NotoSansHanifiRohingya",
-          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6v.ttf",
-          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6s.woff",
-          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v15/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5Q7At8o.woff2"
+          "eot": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6u.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6t&skey=d771cc3d35197445&v=v18#NotoSansHanifiRohingya",
+          "ttf": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6v.ttf",
+          "woff": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6s.woff",
+          "woff2": "https://fonts.gstatic.com/s/notosanshanifirohingya/v18/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5Q7At8o.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "400": {

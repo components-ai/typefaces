@@ -1,22 +1,22 @@
 {
   "italic": {
-    "200": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlOxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "300": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqOdOxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "400": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqLlOxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "500": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqItOxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "600": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqGdJxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "700": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqF5JxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "800": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlJxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3",
-    "900": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqBBJxCcSnQ&skey=de11088d3defbe4c&v=v5#SourceSans3"
+    "200": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlOxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "300": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqOdOxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqLlOxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "500": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqItOxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "600": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqGdJxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqF5JxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "800": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlJxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3",
+    "900": "https://fonts.gstatic.com/l/font?kit=nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqBBJxCcSnQ&skey=de11088d3defbe4c&v=v8#SourceSans3"
   },
   "normal": {
-    "200": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw462EE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "300": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kzm62EE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "400": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky462EE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "500": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK62EE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "600": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7GEE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "700": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7GEE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "800": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw47GEE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3",
-    "900": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KwR7GEE9Cw&skey=1497ac707ba83cff&v=v5#SourceSans3"
+    "200": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw462EE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "300": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kzm62EE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "400": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky462EE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "500": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK62EE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "600": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7GEE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "700": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7GEE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "800": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw47GEE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3",
+    "900": "https://fonts.gstatic.com/l/font?kit=nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KwR7GEE9Cw&skey=1497ac707ba83cff&v=v8#SourceSans3"
   }
 }

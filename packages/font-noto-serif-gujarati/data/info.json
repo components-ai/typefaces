@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2022-05-10",
+  "lastModified": "2022-06-01",
   "subsets": [
     "gujarati"
   ],
@@ -12,96 +12,96 @@
       "100": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycbzyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycYzt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycbzyOVM.woff2"
         }
       },
       "200": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycLzyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycIzt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuaycLzyOVM.woff2"
         }
       },
       "300": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscLzyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscIzt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuZscLzyOVM.woff2"
         }
       },
       "400": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycIzt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzyOVM.woff2"
         }
       },
       "500": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcLzyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcIzt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYAcLzyOVM.woff2"
         }
       },
       "600": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd7zyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd4zt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Hubsd7zyOVM.woff2"
         }
       },
       "700": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd7zyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd4zt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HubVd7zyOVM.woff2"
         }
       },
       "800": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd7zyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd4zt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huayd7zyOVM.woff2"
         }
       },
       "900": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zv.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zs&skey=17f32839bcc48b9f&v=v16#NotoSerifGujarati",
-          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zu.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zt.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v16/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd7zyOVM.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zv.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zs&skey=17f32839bcc48b9f&v=v19#NotoSerifGujarati",
+          "ttf": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zu.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd4zt.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoserifgujarati/v19/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2Huabd7zyOVM.woff2"
         }
       }
     }
   },
-  "version": "v16",
+  "version": "v19",
   "typefaces": {
     "normal": {
       "100": {

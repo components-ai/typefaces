@@ -1,6 +1,6 @@
 {
   "category": "serif",
-  "lastModified": "2022-05-10",
+  "lastModified": "2022-06-01",
   "subsets": [
     "telugu"
   ],
@@ -12,96 +12,96 @@
       "100": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGwug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TGAooee.woff2"
         }
       },
       "200": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCwug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTCAooee.woff2"
         }
       },
       "300": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCwug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DqzCAooee.woff2"
         }
       },
       "400": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCwug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCAooee.woff2"
         }
       },
       "500": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCwug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DxzCAooee.woff2"
         }
       },
       "600": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzeAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzewug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DKzeAooee.woff2"
         }
       },
       "700": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjeAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjewug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DEjeAooee.woff2"
         }
       },
       "800": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTeAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTewug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DdTeAooee.woff2"
         }
       },
       "900": {
         "local": [],
         "url": {
-          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuA.eot",
-          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuw&skey=f4cc67bb82333bbc&v=v15#NotoSerifTelugu",
-          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuQ.ttf",
-          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewug.woff",
-          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v15/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDeAooee.woff2"
+          "eot": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuA.eot",
+          "svg": "https://fonts.gstatic.com/l/font?kit=tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuw&skey=f4cc67bb82333bbc&v=v18#NotoSerifTelugu",
+          "ttf": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewuQ.ttf",
+          "woff": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDewug.woff",
+          "woff2": "https://fonts.gstatic.com/s/notoseriftelugu/v18/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9DXDeAooee.woff2"
         }
       }
     }
   },
-  "version": "v15",
+  "version": "v18",
   "typefaces": {
     "normal": {
       "100": {
