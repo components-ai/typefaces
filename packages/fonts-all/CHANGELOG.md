@@ -1,5 +1,12 @@
 # @compai/fonts-all
 
+## 0.0.9
+
+### Patch Changes
+
+- 8c7ea6e0: Updates and adds new fonts
+- Add latest fonts
+
 ## 0.0.8
 
 ### Patch Changes

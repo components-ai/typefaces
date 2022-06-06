@@ -1,5 +1,11 @@
 # @compai/font-arsenal
 
+## 0.0.4
+
+### Patch Changes
+
+- 8c7ea6e0: Updates and adds new fonts
+
 ## 0.0.3
 
 ### Patch Changes
